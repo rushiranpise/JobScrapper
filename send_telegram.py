@@ -60,11 +60,11 @@ def main():
         
         total_jobs = len(new_jobs)
         messages = []
-        current_message = f"📢 **New Jobs Found!** ({total_jobs} total)\n\n"
+        current_message = f"📢 **{total_jobs} New Jobs Found!** \n\n"
         max_length = 4000
         
         for i, (company, jobs) in enumerate(grouped.items()):
-            company_header = f"🏢 *{company}* ({len(jobs)})\n"
+            company_header = f"🏢 *{company}* ({len(jobs)} jobs)\n"
             if len(current_message + company_header) > max_length:
                 messages.append(current_message)
                 current_message = f"📢 **New Jobs Found!** (continued)\n\n" + company_header

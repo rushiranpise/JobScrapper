@@ -30,8 +30,8 @@ def log_error(company, message):
 # Link to the file -- please add more companies to this as you find them
 # https://drive.google.com/file/d/1oPIqvsKTcXw7zS2gtlrSsFl3bmjbxg17/view?usp=sharing
 
-file_id = '1oPIqvsKTcXw7zS2gtlrSsFl3bmjbxg17'
-url = f'https://drive.google.com/uc?export=download&id={file_id}'
+# file_id = '1oPIqvsKTcXw7zS2gtlrSsFl3bmjbxg17'
+# url = f'https://drive.google.com/uc?export=download&id={file_id}'
 
 companies_df = pd.read_csv('companies.csv')
 
