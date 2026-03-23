@@ -20,7 +20,6 @@ def split_messages(text, max_len=4000):
         if len(text) <= max_len:
             chunks.append(text)
             break
-        # Try to split at a newline within the limit
         split_pos = text.rfind('\n', 0, max_len)
         if split_pos == -1:
             split_pos = max_len
@@ -50,7 +49,8 @@ def main():
             errors = error_text.split('\n')
     
     token = os.environ['TELEGRAM_BOT_TOKEN']
-    chat_id = os.environ['TELEGRAM_CHAT_ID']
+    jobs_chat_id = os.environ['TELEGRAM_CHAT_ID']          # Channel for job posts
+    errors_chat_id = os.environ.get('TELEGRAM_ERROR_CHAT_ID')  # Optional: separate chat for errors
     
     # Send new jobs message if any
     if new_jobs:
@@ -58,15 +58,16 @@ def main():
         for job in new_jobs:
             grouped[job['company']].append(job)
         
+        total_jobs = len(new_jobs)
         messages = []
-        current_message = "📢 **New Jobs Found!**\n\n"
+        current_message = f"📢 **New Jobs Found!** ({total_jobs} total)\n\n"
         max_length = 4000
         
         for i, (company, jobs) in enumerate(grouped.items()):
             company_header = f"🏢 *{company}* ({len(jobs)})\n"
             if len(current_message + company_header) > max_length:
                 messages.append(current_message)
-                current_message = "📢 **New Jobs Found!** (continued)\n\n" + company_header
+                current_message = f"📢 **New Jobs Found!** (continued)\n\n" + company_header
             else:
                 current_message += company_header
             
@@ -77,7 +78,7 @@ def main():
                 candidate = job_line + location_line + link_line
                 if len(current_message + candidate) > max_length:
                     messages.append(current_message)
-                    current_message = "📢 **New Jobs Found!** (continued)\n\n" + company_header + candidate
+                    current_message = f"📢 **New Jobs Found!** (continued)\n\n" + company_header + candidate
                 else:
                     current_message += candidate
             
@@ -88,18 +89,22 @@ def main():
             messages.append(current_message)
         
         for msg in messages:
-            send_message(chat_id, token, msg)
+            send_message(jobs_chat_id, token, msg)
     
-    # Send errors message if any
-    if errors:
+    # Send errors message if any, to a separate chat
+    if errors and errors_chat_id:
         error_header = "⚠️ Scraping Errors ⚠️\n\n"
         error_text = error_header
         for err in errors:
             error_text += f"{err}\n"
-        # Split into multiple plain text messages
         chunks = split_messages(error_text)
         for chunk in chunks:
-            send_message(chat_id, token, chunk, parse_mode=None)  # plain text
+            send_message(errors_chat_id, token, chunk, parse_mode=None)  # plain text
+    elif errors:
+        # Fallback: send to the same chat (but we want separate, so we log to console)
+        print("Errors found but no separate error chat ID set.")
+        for err in errors:
+            print(err)
     
     print("Messages sent.")
 
