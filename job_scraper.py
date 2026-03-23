@@ -24,7 +24,7 @@ NO_KEYWORDS = ['manager', 'staff', 'senior', 'director', "embedded", 'c++', 'mac
 # Link to the file -- please add more companies to this as you find them
 # https://drive.google.com/file/d/1oPIqvsKTcXw7zS2gtlrSsFl3bmjbxg17/view?usp=sharing
 
-file_id = '1oPIqvsKTcXw7zS2gtlrSsFl3bmjbxg17' 
+file_id = '1oPIqvsKTcXw7zS2gtlrSsFl3bmjbxg17'
 url = f'https://drive.google.com/uc?export=download&id={file_id}'
 
 companies_df = pd.read_csv(url)
@@ -56,7 +56,7 @@ def is_us_location(location):
         'missouri', 'montana', 'nebraska', 'nevada', 'new hampshire', 'new jersey', 'new mexico',
         'new york', 'north carolina', 'north dakota', 'ohio', 'oklahoma', 'oregon', 'pennsylvania',
         'rhode island', 'south carolina', 'south dakota', 'tennessee', 'texas', 'utah', 'vermont',
-        'virginia', 'washington', 'west virginia', 'wisconsin', 'wyoming'
+        'virginia', 'west virginia', 'wisconsin', 'wyoming'
     ]
 
     # State abbreviations
@@ -370,25 +370,6 @@ def scrape_workable(url, company):
 
 
 def scrape_workday(url, company):
-    # print(f"Scraping Workday for {company} (limited support)")
-    # try:
-    #     # Try to extract embedded job JSON data
-    #     r = requests.get(url)
-    #     soup = BeautifulSoup(r.text, 'html.parser')
-    #     script = soup.find('script', type='application/ld+json')
-    #     if script:
-    #         data = json.loads(script.string)
-    #         if isinstance(data, dict) and 'title' in data:
-    #             if any(k.lower() in data['title'].lower() for k in KEYWORDS):
-    #                 results.append({
-    #                     'company': company,
-    #                     'title': data['title'],
-    #                     'location': data.get('jobLocation', {}).get('address', {}).get('addressLocality', 'N/A'),
-    #                     'link': url
-    #                 })
-    # except Exception as e:
-    #     print(f"[ERROR] Workday scraping failed for {company}: {e}")
-
     # print(f"Scraping Workday for {company}")
     try:
         # Match pattern: https://{sub}.wdX.myworkdayjobs.com/.../{site_id}
@@ -574,3 +555,9 @@ if not output_df.empty:
         output_df.to_csv(old_results_path, index=False)
 
     print(f"📦 Appended {len(output_df)} jobs to 'output_old.csv'")
+
+# --- Print new jobs for Telegram notification ---
+if not output_df.empty:
+    print("NEW_JOBS_START")
+    print(output_df.to_json(orient='records'))
+    print("NEW_JOBS_END")
