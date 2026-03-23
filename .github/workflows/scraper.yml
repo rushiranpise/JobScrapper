@@ -1,13 +1,13 @@
 name: Scrape Jobs
 
 on:
+  push:
   schedule:
-    # Run every day at 9:00 UTC
     - cron: '0 9 * * *'
-  workflow_dispatch:        # Allows manual trigger
+  workflow_dispatch:
 
 permissions:
-  contents: write          # Needed to commit the updated CSV
+  contents: write
 
 jobs:
   scrape:
@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0    # Get full history for commit
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -27,7 +27,8 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run job scraper
-        run: python job_scraper.py
+        id: scraper
+        run: python job_scraper.py 2>&1 | tee scraper_output.txt
 
       - name: Commit and push changes
         run: |
@@ -36,42 +37,9 @@ jobs:
           git add output_old.csv
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update job archive [skip ci]" && git push)
 
-      - name: Install requests for Telegram
-        run: pip install requests
-
       - name: Send Telegram notification
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          python -c "
-import sys, json, os, requests
-
-data = sys.stdin.read()
-start = data.find('NEW_JOBS_START')
-end = data.find('NEW_JOBS_END')
-if start != -1 and end != -1:
-    json_str = data[start+len('NEW_JOBS_START'):end].strip()
-    if json_str:
-        new_jobs = json.loads(json_str)
-        if new_jobs:
-            token = os.environ['TELEGRAM_BOT_TOKEN']
-            chat_id = os.environ['TELEGRAM_CHAT_ID']
-            message = '📢 New jobs found:\n\n'
-            for job in new_jobs:
-                message += f\"*{job['company']}*: {job['title']}\n\"
-                message += f\"  {job['location']}\n\"
-                message += f\"  [Link]({job['link']})\n\n\"
-            # Telegram API
-            url = f\"https://api.telegram.org/bot{token}/sendMessage\"
-            params = {'chat_id': chat_id, 'text': message, 'parse_mode': 'Markdown'}
-            response = requests.post(url, data=params)
-            response.raise_for_status()
-            print('Telegram message sent.')
-        else:
-            print('No new jobs.')
-    else:
-        print('No new jobs.')
-else:
-    print('No new jobs output found.')
-"
+          python send_telegram.py < scraper_output.txt
