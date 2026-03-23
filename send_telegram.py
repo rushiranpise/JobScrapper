@@ -4,11 +4,29 @@ import os
 import requests
 from collections import defaultdict
 
-def send_message(chat_id, token, text):
+def send_message(chat_id, token, text, parse_mode='Markdown'):
+    """Send a Telegram message, optionally with Markdown."""
     url = f"https://api.telegram.org/bot{token}/sendMessage"
-    params = {'chat_id': chat_id, 'text': text, 'parse_mode': 'Markdown'}
+    params = {'chat_id': chat_id, 'text': text}
+    if parse_mode:
+        params['parse_mode'] = parse_mode
     response = requests.post(url, data=params)
     response.raise_for_status()
+
+def split_messages(text, max_len=4000):
+    """Split text into chunks not exceeding max_len, trying to break at newlines."""
+    chunks = []
+    while text:
+        if len(text) <= max_len:
+            chunks.append(text)
+            break
+        # Try to split at a newline within the limit
+        split_pos = text.rfind('\n', 0, max_len)
+        if split_pos == -1:
+            split_pos = max_len
+        chunks.append(text[:split_pos])
+        text = text[split_pos:]
+    return chunks
 
 def main():
     data = sys.stdin.read()
@@ -74,17 +92,14 @@ def main():
     
     # Send errors message if any
     if errors:
-        error_msg = "⚠️ **Scraping Errors** ⚠️\n\n"
+        error_header = "⚠️ Scraping Errors ⚠️\n\n"
+        error_text = error_header
         for err in errors:
-            # Errors are already formatted as "[ERROR] company: message"
-            # Bold the company name and indent the message
-            if ': ' in err:
-                parts = err.split(': ', 1)
-                company_part = parts[0].replace('[ERROR]', '').strip()
-                error_msg += f"**{company_part}**\n  {parts[1]}\n\n"
-            else:
-                error_msg += f"{err}\n\n"
-        send_message(chat_id, token, error_msg)
+            error_text += f"{err}\n"
+        # Split into multiple plain text messages
+        chunks = split_messages(error_text)
+        for chunk in chunks:
+            send_message(chat_id, token, chunk, parse_mode=None)  # plain text
     
     print("Messages sent.")
 

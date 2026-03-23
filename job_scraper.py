@@ -33,7 +33,8 @@ def log_error(company, message):
 file_id = '1oPIqvsKTcXw7zS2gtlrSsFl3bmjbxg17'
 url = f'https://drive.google.com/uc?export=download&id={file_id}'
 
-companies_df = pd.read_csv(url)
+companies_df = pd.read_csv('companies.csv')
+
 results = []
 
 
