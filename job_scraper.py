@@ -19,6 +19,12 @@ KEYWORDS = ['backend', 'back-end', 'back end', 'software', 'full-stack', 'fullst
 NO_KEYWORDS = ['manager', 'staff', 'senior', 'director', "embedded", 'c++', 'machine', 'principal', 'lead',
                'recruit', 'vice president', 'talent']
 
+# --- Error logging ---
+error_messages = []
+
+def log_error(company, message):
+    error_messages.append(f"[ERROR] {company}: {message}")
+
 # --- Load input file ---
 # companies_df = pd.read_csv('companies.csv')
 # Link to the file -- please add more companies to this as you find them
@@ -56,7 +62,7 @@ def is_us_location(location):
         'missouri', 'montana', 'nebraska', 'nevada', 'new hampshire', 'new jersey', 'new mexico',
         'new york', 'north carolina', 'north dakota', 'ohio', 'oklahoma', 'oregon', 'pennsylvania',
         'rhode island', 'south carolina', 'south dakota', 'tennessee', 'texas', 'utah', 'vermont',
-        'virginia', 'west virginia', 'wisconsin', 'wyoming'
+        'virginia', 'washington', 'west virginia', 'wisconsin', 'wyoming'
     ]
 
     # State abbreviations
@@ -81,14 +87,14 @@ def scrape_greenhouse_json(url, company):
         # Extract org name from URL
         match = re.search(r'greenhouse.io/([^/]+)', url)
         if not match:
-            print(f"[ERROR] Could not extract Greenhouse company name for {company}")
+            log_error(company, "Could not extract Greenhouse company name")
             return
 
         org = match.group(1)
         api_url = f"https://boards-api.greenhouse.io/v1/boards/{org}/jobs"
         r = requests.get(api_url)
         if r.status_code != 200:
-            print(f"[ERROR] Greenhouse API failed for {company}: {r.status_code}")
+            log_error(company, f"Greenhouse API failed: {r.status_code}")
             return
         jobs = r.json().get('jobs', [])
         for job in jobs:
@@ -103,7 +109,7 @@ def scrape_greenhouse_json(url, company):
                      'updatedOn': updatedOn})
                 old_links.add(link)
     except Exception as e:
-        print(f"[ERROR] Greenhouse error for {company}: {e}")
+        log_error(company, f"Greenhouse error: {e}")
 
 
 def scrape_lever_json(url, company):
@@ -112,7 +118,7 @@ def scrape_lever_json(url, company):
         # Extract org name from URL
         match = re.search(r'lever.co/([^/]+)', url)
         if not match:
-            print(f"[ERROR] Could not extract Lever company name for {company}")
+            log_error(company, "Could not extract Lever company name")
             return
 
         org = match.group(1)
@@ -122,7 +128,7 @@ def scrape_lever_json(url, company):
             api_url = f"https://api.lever.co/v0/postings/{org}?mode=json"
         r = requests.get(api_url)
         if r.status_code != 200:
-            print(f"[ERROR] Lever API failed for {company}: {api_url} - {r.status_code}")
+            log_error(company, f"Lever API failed: {api_url} - {r.status_code}")
             return
         jobs = r.json()
         for job in jobs:
@@ -145,7 +151,7 @@ def scrape_lever_json(url, company):
                      'updatedOn': updatedOn})
                 old_links.add(link)
     except Exception as e:
-        print(f"[ERROR] Lever error for {company}: {e}")
+        log_error(company, f"Lever error: {e}")
 
 
 def scrape_ashby(url, company):
@@ -155,13 +161,13 @@ def scrape_ashby(url, company):
         r = requests.get(url)
         match = re.search(r'careers\.([\w\-]+)\.com', url)
         if not match:
-            print(f"[ERROR] Invalid Ashby URL: {url}")
+            log_error(company, f"Invalid Ashby URL: {url}")
             return
         domain = match.group(1)
         api_url = f"https://careers.{domain}.com/api/jobs"
         r = requests.get(api_url)
         if r.status_code != 200:
-            print(f"[ERROR] Ashby API failed for {company}: {r.status_code}")
+            log_error(company, f"Ashby API failed: {r.status_code}")
             return
         for job in r.json().get('jobs', []):
             title = job.get('title', '')
@@ -171,7 +177,7 @@ def scrape_ashby(url, company):
                 results.append({'company': company, 'title': title, 'location': location, 'link': link})
                 old_links.add(link)
     except Exception as e:
-        print(f"[ERROR] Ashby scraping failed for {company}: {e}")
+        log_error(company, f"Ashby scraping failed: {e}")
 
 
 def scrape_ashbyhq_hosted(url, company):
@@ -179,14 +185,14 @@ def scrape_ashbyhq_hosted(url, company):
     try:
         match = re.search(r'ashbyhq\.com/([\w\-]+)', url)
         if not match:
-            print(f"[ERROR] Invalid AshbyHQ URL: {url}")
+            log_error(company, f"Invalid AshbyHQ URL: {url}")
             return
         org = match.group(1)
 
         api_url = f"https://api.ashbyhq.com/posting-api/job-board/{org}"
         response = requests.get(api_url)
         if response.status_code != 200:
-            print(f"[ERROR] Ashby API failed for {company} - HTTP {response.status_code}: {response.text}")
+            log_error(company, f"Ashby API failed - HTTP {response.status_code}: {response.text}")
             return
 
         data = response.json()
@@ -210,7 +216,7 @@ def scrape_ashbyhq_hosted(url, company):
                 })
                 old_links.add(link)
     except Exception as e:
-        print(f"[ERROR] Ashby REST API scraping failed for {company}: {e}")
+        log_error(company, f"Ashby REST API scraping failed: {e}")
 
 
 def scrape_breezy(url, company):
@@ -218,13 +224,13 @@ def scrape_breezy(url, company):
     try:
         match = re.search(r'https?://([\w\-]+)\.breezy\.hr', url)
         if not match:
-            print(f"[ERROR] Invalid Breezy URL for {company}: {url}")
+            log_error(company, f"Invalid Breezy URL: {url}")
             return
         org = match.group(1)
         api_url = f"https://{org}.breezy.hr/json"
         r = requests.get(api_url)
         if r.status_code != 200:
-            print(f"[ERROR] Breezy API failed for {company}: {r.status_code}")
+            log_error(company, f"Breezy API failed: {r.status_code}")
             return
         for job in r.json():
             title = job.get('name')
@@ -236,7 +242,7 @@ def scrape_breezy(url, company):
                     {'company': company, 'title': title, 'location': location, 'link': link, 'postedOn': postedOn})
                 old_links.add(link)
     except Exception as e:
-        print(f"[ERROR] Breezy: {e}")
+        log_error(company, f"Breezy: {e}")
 
 
 def scrape_smartrecruiters(url, company):
@@ -247,7 +253,7 @@ def scrape_smartrecruiters(url, company):
         api_url = f"https://api.smartrecruiters.com/v1/companies/{company}/postings"
         r = requests.get(api_url)
         if r.status_code != 200:
-            print(f"[ERROR] SmartRecruiters API failed for {company}: {r.status_code}")
+            log_error(company, f"SmartRecruiters API failed: {r.status_code}")
             return
         for job in r.json().get('content', []):
             title = job.get('name')
@@ -259,7 +265,7 @@ def scrape_smartrecruiters(url, company):
                     {'company': company, 'title': title, 'location': location, 'link': link, 'postedOn': postedOn})
                 old_links.add(link)
     except Exception as e:
-        print(f"[ERROR] SmartRecruiters: {e}")
+        log_error(company, f"SmartRecruiters: {e}")
 
 
 def scrape_recruiterbox(url, company):
@@ -268,7 +274,7 @@ def scrape_recruiterbox(url, company):
     try:
         r = requests.get(url)
         if r.status_code != 200:
-            print(f"[ERROR] Recruiterbox API failed for {company}: {r.status_code}")
+            log_error(company, f"Recruiterbox API failed: {r.status_code}")
             return
         soup = BeautifulSoup(r.text, 'html.parser')
         for job in soup.select('li a[href]'):
@@ -280,7 +286,7 @@ def scrape_recruiterbox(url, company):
                 results.append({'company': company, 'title': title, 'location': 'N/A', 'link': link})
                 old_links.add(link)
     except Exception as e:
-        print(f"[ERROR] Recruiterbox: {e}")
+        log_error(company, f"Recruiterbox: {e}")
 
 
 def scrape_workable(url, company):
@@ -288,7 +294,7 @@ def scrape_workable(url, company):
     try:
         match = re.search(r'workable\.com/([^/]+)/?', url)
         if not match:
-            print(f"[ERROR] Invalid Workable URL for {company}: {url}")
+            log_error(company, f"Invalid Workable URL: {url}")
             return
         org = match.group(1)
 
@@ -339,7 +345,7 @@ def scrape_workable(url, company):
         v1_url = f"https://apply.workable.com/api/v1/accounts/{org}/jobs"
         r = requests.get(v1_url, headers=headers)
         if r.status_code != 200:
-            print(f"[ERROR] Workable API failed for {company} (v3 & v1): {r.status_code}")
+            log_error(company, f"Workable API failed (v3 & v1): {r.status_code}")
             return
 
         jobs = r.json()
@@ -366,7 +372,7 @@ def scrape_workable(url, company):
                 old_links.add(link)
 
     except Exception as e:
-        print(f"[ERROR] Workable scraping failed for {company}: {e}")
+        log_error(company, f"Workable scraping failed: {e}")
 
 
 def scrape_workday(url, company):
@@ -375,7 +381,7 @@ def scrape_workday(url, company):
         # Match pattern: https://{sub}.wdX.myworkdayjobs.com/.../{site_id}
         match = re.search(r'https://([\w\-]+)\.(wd\d+)\.myworkdayjobs\.com/(?:[\w\-]+/)?([\w\-]+)', url)
         if not match:
-            print(f"[ERROR] Invalid Workday URL for {company}")
+            log_error(company, f"Invalid Workday URL")
             return
 
         subdomain, wd_instance, site_id = match.group(1), match.group(2), match.group(3)
@@ -400,7 +406,7 @@ def scrape_workday(url, company):
 
             response = requests.post(api_url, json=payload, headers=headers)
             if response.status_code != 200:
-                print(f"[ERROR] {company} HTTP {response.status_code}: {response.text}")
+                log_error(company, f"Workday API failed: HTTP {response.status_code} - {response.text}")
                 return
 
             data = response.json()
@@ -426,7 +432,7 @@ def scrape_workday(url, company):
                     old_links.add(link)
 
     except Exception as e:
-        print(f"[ERROR] Workday scraping failed for {company}: {e}")
+        log_error(company, f"Workday scraping failed: {e}")
 
 
 # def scrape_jobvite(url, company):
@@ -474,7 +480,7 @@ def scrape_generic(url, company):
                 results.append({'company': company, 'title': title, 'location': 'N/A', 'link': link})
                 old_links.add(link)
     except Exception as e:
-        print(f"[ERROR] Generic scraping failed for {company}: {e}")
+        log_error(company, f"Generic scraping failed: {e}")
 
 
 def scrape_company(row):
@@ -489,9 +495,9 @@ def scrape_company(row):
                 time.sleep(random.uniform(2.5, 4.0))  # 2.5–4 sec delay
             scraper(url, company)
         except Exception as e:
-            print(f"[ERROR] Exception in scraping {company} ({platform}): {e}")
+            log_error(company, f"Exception in scraping {platform}: {e}")
     else:
-        print(f"[WARN] Unsupported platform '{platform}' for {company}")
+        log_error(company, f"Unsupported platform '{platform}'")
 
 
 # Dispatcher
@@ -519,20 +525,6 @@ if old_results_path.exists():
 # print(old_links)
 MAX_WORKERS = 10
 
-# --- Dispatcher based on domain ---
-# for _, row in companies_df.iterrows():
-#     company = row['company']
-#     url = row['careers_url']
-#     platform = row['platform'].lower()
-#     scraper = dispatch_map.get(platform)
-#     if scraper:
-#         try:
-#             scraper(url, company)
-#         except Exception as e:
-#             print(f"[ERROR] Exception in scraping {company}: {e}")
-#     else:
-#         print(f"[WARN] Unsupported platform '{platform}' for {company}")
-
 with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
     futures = [executor.submit(scrape_company, row) for _, row in companies_df.iterrows()]
     for future in as_completed(futures):
@@ -540,7 +532,6 @@ with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
 
 
 # --- Save results ---
-# print(results)
 output_df = pd.DataFrame(results)
 output_df.to_csv('output.csv', index=False)
 print(f"\n✅ Scraped {len(output_df)} new jobs. Output saved to 'output.csv'.")
@@ -561,3 +552,10 @@ if not output_df.empty:
     print("NEW_JOBS_START")
     print(output_df.to_json(orient='records'))
     print("NEW_JOBS_END")
+
+# --- Print errors for Telegram notification ---
+if error_messages:
+    print("ERRORS_START")
+    for err in error_messages:
+        print(err)
+    print("ERRORS_END")
