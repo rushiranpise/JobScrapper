@@ -5,8 +5,24 @@ import time
 import requests
 from collections import defaultdict
 
-def send_message(chat_id, token, text, parse_mode='Markdown', retries=10):
-    """Send a Telegram message with fallback to plain text."""
+# --- Load all available bot tokens ---
+tokens = [os.environ.get('TELEGRAM_BOT_TOKEN')]
+if os.environ.get('TELEGRAM_BOT_TOKEN2'):
+    tokens.append(os.environ['TELEGRAM_BOT_TOKEN2'])
+if os.environ.get('TELEGRAM_BOT_TOKEN3'):
+    tokens.append(os.environ['TELEGRAM_BOT_TOKEN3'])
+
+# Simple round‑robin counter
+token_counter = 0
+
+def send_message(chat_id, text, parse_mode='Markdown', retries=10):
+    """Send a Telegram message using the next token in round‑robin order."""
+    global token_counter
+
+    # Choose the next token
+    token = tokens[token_counter % len(tokens)]
+    token_counter += 1
+
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     params = {'chat_id': chat_id, 'text': text}
     if parse_mode:
@@ -18,18 +34,19 @@ def send_message(chat_id, token, text, parse_mode='Markdown', retries=10):
             return
         elif response.status_code == 429:
             retry_after = response.json().get('parameters', {}).get('retry_after', 5)
-            print(f"429 Too Many Requests – waiting {retry_after} seconds...")
+            print(f"429 Too Many Requests for token {token[:5]}... – waiting {retry_after} seconds...")
             time.sleep(retry_after + 1)
         else:
-            print(f"Failed to send message (attempt {attempt+1}): {response.status_code}")
+            print(f"Failed to send message (attempt {attempt+1}, token {token[:5]}...): {response.status_code}")
             print(f"Response: {response.text}")
             if parse_mode:
+                # Try again without Markdown
                 print("Retrying without Markdown...")
-                params['parse_mode'] = None  # fallback to plain text
+                params['parse_mode'] = None
                 parse_mode = None
             else:
                 response.raise_for_status()
-    response.raise_for_status()
+    response.raise_for_status()  # if all retries fail, raise the last error
 
 def split_messages(text, max_len=4000):
     """Split text into chunks not exceeding max_len, trying to break at newlines."""
@@ -66,7 +83,6 @@ def main():
         if error_text:
             errors = error_text.split('\n')
     
-    token = os.environ['TELEGRAM_BOT_TOKEN']
     jobs_chat_id = os.environ['TELEGRAM_CHAT_ID']
     errors_chat_id = os.environ.get('TELEGRAM_ERROR_CHAT_ID')
     
@@ -107,8 +123,8 @@ def main():
             messages.append(current_message)
         
         for msg in messages:
-            send_message(jobs_chat_id, token, msg)
-            time.sleep(5)  # avoid rate limits
+            send_message(jobs_chat_id, msg)
+            time.sleep(5)  # avoid hitting rate limits
     
     # Send errors message if any, to a separate chat
     if errors and errors_chat_id:
@@ -118,7 +134,7 @@ def main():
             error_text += f"{err}\n"
         chunks = split_messages(error_text)
         for chunk in chunks:
-            send_message(errors_chat_id, token, chunk, parse_mode=None)
+            send_message(errors_chat_id, chunk, parse_mode=None)
             time.sleep(5)
     elif errors:
         print("Errors found but no separate error chat ID set.")

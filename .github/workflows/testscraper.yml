@@ -42,6 +42,8 @@ jobs:
       - name: Send Telegram notification
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_BOT_TOKEN2: ${{ secrets.TELEGRAM_BOT_TOKEN2 }}
+          TELEGRAM_BOT_TOKEN3: ${{ secrets.TELEGRAM_BOT_TOKEN3 }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_ERROR_CHAT_ID }}
           TELEGRAM_ERROR_CHAT_ID: ${{ secrets.TELEGRAM_ERROR_CHAT_ID }}
         run: |
