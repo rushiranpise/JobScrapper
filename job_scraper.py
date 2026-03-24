@@ -14,10 +14,10 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 # --- CONFIG ---
 KEYWORDS = ['backend', 'back-end', 'back end', 'software', 'full-stack', 'fullstack', 'full stack', 'java', 'front-end',
             'front end', 'frontend', 'developer', 'infrastructure', 'ui', 'devops', 'programmer', 'spring',
-            'api', 'cloud', 'co-op', 'user interface', 'application' , 'junior' , 'ai' , 'artificial Intelligence' , 'intern' , 'internship' , 'grad' , 'graduate' , 'sde']
+            'api', 'cloud', 'co-op', 'user interface', 'application' , 'junior' , 'ai' , 'genai' , 'ml' , 'dl' , 'artificial Intelligence' , 'intern' , 'internship' , 'grad' , 'graduate' , 'sde']
 
-NO_KEYWORDS = ['manager', 'staff', 'senior', 'director', "embedded", 'c++', 'machine', 'principal', 'lead',
-               'recruit', 'vice president', 'talent']
+NO_KEYWORDS = ['manager', 'staff', 'senior', 'director', "embedded", 'c++', 'principal', 'lead',
+               'recruit', 'vice president', 'talent' , 'bank' , 'banker' , 'marketing' , 'retail' , 'relationship' , 'bussiness' , 'mechanical' , 'civil' , 'construction' , 'supply' , 'ux' , 'ui' , 'finance']
 
 # --- Error logging ---
 error_messages = []
