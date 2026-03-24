@@ -3,7 +3,7 @@ name: Scrape Jobs
 on:
   push:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 concurrency:
