@@ -613,7 +613,7 @@ dispatch_map = {
     # 'jobvite': scrape_jobvite
 }
 
-old_results_path = Path('output_old.csv')
+old_results_path = Path('testoutput_old.csv')
 old_links = set()
 
 if old_results_path.exists():
@@ -631,8 +631,8 @@ with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
 
 # --- Save results ---
 output_df = pd.DataFrame(results)
-output_df.to_csv('output.csv', index=False)
-print(f"\n✅ Scraped {len(output_df)} new jobs. Output saved to 'output.csv'.")
+output_df.to_csv('testoutput.csv', index=False)
+print(f"\n✅ Scraped {len(output_df)} new jobs. Output saved to 'testoutput.csv'.")
 
 # --- Append to old archive ---
 if not output_df.empty:
@@ -643,7 +643,7 @@ if not output_df.empty:
     else:
         output_df.to_csv(old_results_path, index=False)
 
-    print(f"📦 Appended {len(output_df)} jobs to 'output_old.csv'")
+    print(f"📦 Appended {len(output_df)} jobs to 'testoutput_old.csv'")
 
 # --- Print new jobs for Telegram notification ---
 if not output_df.empty:
