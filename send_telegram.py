@@ -5,7 +5,7 @@ import time
 import requests
 from collections import defaultdict
 
-def send_message(chat_id, token, text, parse_mode='Markdown', retries=3):
+def send_message(chat_id, token, text, parse_mode='Markdown', retries=10):
     """Send a Telegram message with fallback to plain text."""
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     params = {'chat_id': chat_id, 'text': text}
@@ -101,14 +101,14 @@ def main():
                     current_message += candidate
             
             if i != len(grouped) - 1:
-                current_message += "─" * 20 + "\n\n"
+                current_message += "✨🆕 🆕 🆕 ✨\n\n"
         
         if current_message:
             messages.append(current_message)
         
         for msg in messages:
             send_message(jobs_chat_id, token, msg)
-            time.sleep(2)  # avoid rate limits
+            time.sleep(5)  # avoid rate limits
     
     # Send errors message if any, to a separate chat
     if errors and errors_chat_id:
@@ -119,7 +119,7 @@ def main():
         chunks = split_messages(error_text)
         for chunk in chunks:
             send_message(errors_chat_id, token, chunk, parse_mode=None)
-            time.sleep(2)
+            time.sleep(5)
     elif errors:
         print("Errors found but no separate error chat ID set.")
         for err in errors:
