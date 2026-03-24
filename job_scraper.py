@@ -14,7 +14,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 # --- CONFIG ---
 KEYWORDS = ['backend', 'back-end', 'back end', 'software', 'full-stack', 'fullstack', 'full stack', 'java', 'front-end',
             'front end', 'frontend', 'developer', 'infrastructure', 'ui', 'devops', 'programmer', 'spring',
-            'api', 'cloud', 'co-op', 'user interface', 'application']
+            'api', 'cloud', 'co-op', 'user interface', 'application' , 'junior' , 'ai' , 'artificial Intelligence']
 
 NO_KEYWORDS = ['manager', 'staff', 'senior', 'director', "embedded", 'c++', 'machine', 'principal', 'lead',
                'recruit', 'vice president', 'talent']
