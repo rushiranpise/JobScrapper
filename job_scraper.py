@@ -16,7 +16,7 @@ KEYWORDS = ['backend', 'back-end', 'back end', 'software', 'full-stack', 'fullst
             'front end', 'frontend', 'developer', 'infrastructure', 'ui', 'devops', 'programmer', 'spring',
             'api', 'cloud', 'co-op', 'user interface', 'application' , 'junior' , 'ai' , 'genai' , 'ml' , 'dl' , 'artificial Intelligence' , 'intern' , 'internship' , 'grad' , 'graduate' , 'sde' , 'data' ]
 NO_KEYWORDS = ['manager', 'staff', 'senior', 'director', "embedded", 'c++', 'principal', 'lead', 'groundwater' , 'political' , 'copywriter' , 'accounting' , 'sales' , 'design' , 'airspaces' , 'aerodynamic' , 'air' ,
-                'recruit' , 'sale' ,'vice president', 'talent' , 'bank' , 'banker' , 'marketing' , 'retail' , 'relationship' , 'bussiness' , 'mechanical' , 'civil' , 'construction' , 'supply' , 'ux' , 'ui' , 'finance']
+                'recruit' , 'maintenance' , 'animation' , 'social' , 'senior' , 'media' , 'strategist' , 'client' , 'strategy', 'sr', 'sr.' , 'head' , 'estate' ,'account' ,'accountant', 'customer', 'feild', 'audit' , 'claims' , 'auditor' , 'commercial', 'client' , 'sale' ,'vice president', 'talent' , 'bank' , 'banker' , 'marketing' , 'retail' , 'relationship' , 'bussiness' , 'mechanical' , 'civil' , 'construction' , 'supply' , 'ux' , 'ui' , 'finance']
 
 # --- Error logging ---
 error_messages = []
