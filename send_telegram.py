@@ -1,17 +1,29 @@
 import sys
 import json
 import os
+import time
 import requests
 from collections import defaultdict
 
-def send_message(chat_id, token, text, parse_mode='Markdown'):
-    """Send a Telegram message, optionally with Markdown."""
+def send_message(chat_id, token, text, parse_mode='Markdown', retries=3):
+    """Send a Telegram message with retry on 429."""
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     params = {'chat_id': chat_id, 'text': text}
     if parse_mode:
         params['parse_mode'] = parse_mode
-    response = requests.post(url, data=params)
-    response.raise_for_status()
+
+    for attempt in range(retries):
+        response = requests.post(url, data=params)
+        if response.status_code == 200:
+            return
+        elif response.status_code == 429:
+            # Too Many Requests: wait for the required time
+            retry_after = response.json().get('parameters', {}).get('retry_after', 5)
+            print(f"429 Too Many Requests – waiting {retry_after} seconds...")
+            time.sleep(retry_after + 1)
+        else:
+            response.raise_for_status()
+    response.raise_for_status()  # if all retries fail, raise the last error
 
 def split_messages(text, max_len=4000):
     """Split text into chunks not exceeding max_len, trying to break at newlines."""
@@ -49,8 +61,8 @@ def main():
             errors = error_text.split('\n')
     
     token = os.environ['TELEGRAM_BOT_TOKEN']
-    jobs_chat_id = os.environ['TELEGRAM_CHAT_ID']          # Channel for job posts
-    errors_chat_id = os.environ.get('TELEGRAM_ERROR_CHAT_ID')  # Optional: separate chat for errors
+    jobs_chat_id = os.environ['TELEGRAM_CHAT_ID']
+    errors_chat_id = os.environ.get('TELEGRAM_ERROR_CHAT_ID')
     
     # Send new jobs message if any
     if new_jobs:
@@ -60,11 +72,11 @@ def main():
         
         total_jobs = len(new_jobs)
         messages = []
-        current_message = f"📢 **{total_jobs} New Jobs Found!** \n\n"
+        current_message = f"📢 **New Jobs Found!** ({total_jobs} total)\n\n"
         max_length = 4000
         
         for i, (company, jobs) in enumerate(grouped.items()):
-            company_header = f"🏢 *{company}* ({len(jobs)} jobs)\n"
+            company_header = f"🏢 *{company}* ({len(jobs)})\n"
             if len(current_message + company_header) > max_length:
                 messages.append(current_message)
                 current_message = f"📢 **New Jobs Found!** (continued)\n\n" + company_header
@@ -88,8 +100,9 @@ def main():
         if current_message:
             messages.append(current_message)
         
-        for msg in messages:
+        for idx, msg in enumerate(messages):
             send_message(jobs_chat_id, token, msg)
+            time.sleep(2)  # wait 2 seconds between messages
     
     # Send errors message if any, to a separate chat
     if errors and errors_chat_id:
@@ -98,10 +111,10 @@ def main():
         for err in errors:
             error_text += f"{err}\n"
         chunks = split_messages(error_text)
-        for chunk in chunks:
-            send_message(errors_chat_id, token, chunk, parse_mode=None)  # plain text
+        for idx, chunk in enumerate(chunks):
+            send_message(errors_chat_id, token, chunk, parse_mode=None)
+            time.sleep(2)  # wait 2 seconds between messages
     elif errors:
-        # Fallback: send to the same chat (but we want separate, so we log to console)
         print("Errors found but no separate error chat ID set.")
         for err in errors:
             print(err)
