@@ -120,6 +120,18 @@ NO_KEYWORDS = [
 error_messages = []
 
 def log_error(company, message):
+    # If it looks like HTML, take only the first line
+    if message.strip().startswith('<'):
+        # Extract first line (up to newline)
+        first_line = message.split('\n')[0]
+        # Optionally limit length further
+        if len(first_line) > 200:
+            first_line = first_line[:200] + '...'
+        message = f"{first_line} [HTML truncated]"
+    else:
+        # Truncate long non‑HTML messages
+        if len(message) > 500:
+            message = message[:500] + '...'
     error_messages.append(f"[ERROR] {company}: {message}")
 
 # --- Load input file ---
