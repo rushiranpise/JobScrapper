@@ -578,14 +578,28 @@ def scrape_workday(url, company):
 
 
 def scrape_generic(url, company):
-    # print(f"Scraping generic site for {company}")
     try:
         r = requests.get(url)
         soup = BeautifulSoup(r.text, 'html.parser')
         for a in soup.find_all('a', href=True):
             title = a.text.strip()
             link = urljoin(url, a['href'])
-            if keyword_match(title) and link not in old_links:
+            
+            # Skip empty titles or links
+            if not title or not link:
+                continue
+            
+            # Skip mailto, javascript, and other non-HTTP links
+            if link.startswith('mailto:') or link.startswith('javascript:'):
+                continue
+            
+            # Skip common non-job link texts
+            skip_texts = ['email', 'sign in', 'contact', 'privacy', 'terms', '©', 'facebook', 'twitter', 'linkedin', 'instagram', 'youtube']
+            if title.lower() in skip_texts:
+                continue
+            
+            # Apply keyword match and US location filter (location is 'N/A' for generic)
+            if keyword_match(title) and link not in old_links and is_us_location('N/A'):
                 results.append({'company': company, 'title': title, 'location': 'N/A', 'link': link})
                 old_links.add(link)
     except Exception as e:
