@@ -126,7 +126,7 @@ def log_error(company, message):
         # If the first line is still too long, trim it
         if len(first_line) > 200:
             first_line = first_line[:200] + '...'
-        message = f"{first_line} [HTML truncated]"
+        message = f"{first_line}"
     else:
         # Truncate long non‑HTML messages
         if len(message) > 500:
