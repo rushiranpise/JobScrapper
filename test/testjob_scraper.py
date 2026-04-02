@@ -145,6 +145,51 @@ companies_df = pd.read_csv('test.csv')
 
 results = []
 
+# --- Daily markdown helpers ---
+def get_daily_filename():
+    """Return filename like '2-April-Jobs-List.md' for today."""
+    now = datetime.now()
+    day = now.day
+    month = now.strftime("%B")   # full month name, e.g., "April"
+    return f"{day}-{month}-Jobs-List.md"
+
+def update_daily_markdown(new_jobs):
+    """Append today's markdown file with a new batch of jobs and update README.md."""
+    if not new_jobs:
+        return
+
+    daily_file = get_daily_filename()
+    file_exists = Path(daily_file).exists()
+
+    # Build the batch content with timestamp
+    batch_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    batch_header = f"## Batch at {batch_time}\n\n"
+
+    # Group jobs by company
+    grouped = {}
+    for job in new_jobs:
+        grouped.setdefault(job['company'], []).append(job)
+
+    batch_body = ""
+    for company, jobs in grouped.items():
+        batch_body += f"### {company} ({len(jobs)} jobs)\n\n"
+        for job in jobs:
+            batch_body += f"- **{job['title']}**  \n"
+            batch_body += f"  - Location: {job['location']}  \n"
+            batch_body += f"  - [Apply]({job['link']})  \n"
+            batch_body += f"  - Posted: {job.get('postedOn', 'N/A')}\n\n"
+        batch_body += "---\n\n"
+
+    # Append to daily file (create with header if needed)
+    with open(daily_file, 'a', encoding='utf-8') as f:
+        if not file_exists:
+            f.write(f"# Job Listings for {datetime.now().strftime('%B %d, %Y')}\n\n")
+        f.write(batch_header)
+        f.write(batch_body)
+
+    # Overwrite README.md with the full content of today's daily file
+    with open(daily_file, 'r', encoding='utf-8') as src, open('README.md', 'w', encoding='utf-8') as dst:
+        dst.write(src.read())
 
 def keyword_match(title):
     title_lower = title.lower()
@@ -653,6 +698,8 @@ with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
     for future in as_completed(futures):
         pass
 
+# --- Update daily markdown and README ---
+update_daily_markdown(results)
 
 # --- Save results ---
 output_df = pd.DataFrame(results)

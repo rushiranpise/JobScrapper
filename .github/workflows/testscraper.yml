@@ -30,14 +30,14 @@ jobs:
 
       - name: Run job scraper
         id: scraper
-        run: python testjob_scraper.py 2>&1 | tee scraper_output.txt
+        run: cd test && python testjob_scraper.py 2>&1 | tee scraper_output.txt
 
-      # - name: Commit and push changes
-      #   run: |
-      #     git config user.name "github-actions[bot]"
-      #     git config user.email "github-actions[bot]@users.noreply.github.com"
-      #     git add testoutput_old.csv
-      #     git diff --quiet && git diff --staged --quiet || (git commit -m "Test Update job archive [skip ci]" && git push)
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add *.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update job archive and daily markdown [skip ci]" && git push)
 
       - name: Send Telegram notification
         env:
