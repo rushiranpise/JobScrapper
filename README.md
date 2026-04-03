@@ -4,10 +4,103 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-03 19:52:02](#batch-2026-04-03-19-52-02)
 - [Batch at 2026-04-03 19:06:04](#batch-2026-04-03-19-06-04)
 - [Batch at 2026-04-03 17:46:35](#batch-2026-04-03-17-46-35)
 - [Batch at 2026-04-03 16:54:56](#batch-2026-04-03-16-54-56)
-- [Batch at 2026-04-03 15:48:58](#batch-2026-04-03-15-48-58)
+
+<h3 id='batch-2026-04-03-19-52-02'>🕐 Batch at 2026-04-03 19:52:02</h3>
+
+📊 **Total jobs in this batch: 9**
+
+**Per company:**
+- ally: 1 job
+- BAH: 2 jobs
+- General Motors LLC: 1 job
+- NMI: 1 job
+- NVIDIA: 1 job
+- spacex: 1 job
+- Stripe: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ally</b></td>
+      <td>N/A</td>
+      <td>Email</td>
+      <td><a href='mailto:?subject=Treasury%20Analyst%20I%20-%20Careers&body=https%3A%2F%2Fally.avature.net%2Fcareers%2FJobDetail%2FTreasury-Analyst-I%2F16355'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer_R0231660'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Annapolis Junction, MD</td>
+      <td>Systems Administrator Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0237148'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>Software Engineer, Autonomy Behavior Validation</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomy-Behavior-Validation_JR-202603134'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NMI</b></td>
+      <td>Remote, US</td>
+      <td>Product Data Analyst</td>
+      <td><a href='https://job-boards.greenhouse.io/nmi/jobs/5175297008'>Apply</a></td>
+      <td>Apr 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Architecture Energy Modeling Engineer - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2014899'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Material Handler</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8493828002?gh_jid=8493828002'>Apply</a></td>
+      <td>Apr 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>Remote in the US</td>
+      <td>Software Engineer, Machine Learning Infrastructure</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=7746033'>Apply</a></td>
+      <td>Mar 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Hula Building Bentonville AR Home Office</td>
+      <td>Associate Merchant (HO) - Fishing Bait</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Hula-Building-Bentonville-AR-Home-Office/Associate-Merchant--HO----Fishing-Bait_R-2438345'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-03-19-06-04'>🕐 Batch at 2026-04-03 19:06:04</h3>
 
@@ -112,7 +205,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-03-17-46-35'>🕐 Batch at 2026-04-03 17:46:35</h3>
 
 📊 **Total jobs in this batch: 10**
@@ -212,8 +304,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-03-16-54-56'>🕐 Batch at 2026-04-03 16:54:56</h3>
+---<h3 id='batch-2026-04-03-16-54-56'>🕐 Batch at 2026-04-03 16:54:56</h3>
 
 📊 **Total jobs in this batch: 7**
 
