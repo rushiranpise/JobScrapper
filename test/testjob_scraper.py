@@ -152,7 +152,7 @@ def get_daily_filename():
     day = now.day
     month = now.strftime("%B")   # full month name, e.g., "April"
     return f"{day}-{month}-Jobs-List.md"
-    
+
 def update_daily_markdown(new_jobs):
     """Append today's markdown file with a new batch of jobs and update README.md.
     Newest batches are added at the top (reverse chronological order).
@@ -178,9 +178,9 @@ def update_daily_markdown(new_jobs):
         batch_body += f"### 🏢 {company} ({len(jobs)} jobs)\n\n"
         for job in jobs:
             title = job['title']
-            batch_body += f"• **{title}**\n"
-            batch_body += f"  📍 Location: {job['location']}\n"
-            batch_body += f"  🔗 [Apply here]({job['link']})\n"
+            batch_body += f"• **{title}**  \n"
+            batch_body += f"  📍 Location: {job['location']}  \n"
+            batch_body += f"  🔗 [Apply here]({job['link']})  \n"
             batch_body += f"  📅 Posted: {job.get('postedOn', 'N/A')}\n\n"
         batch_body += "✨ 🆕 ✨\n\n"
 
