@@ -4,10 +4,108 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-03 14:57:33](#batch-2026-04-03-14-57-33)
 - [Batch at 2026-04-03 13:20:30](#batch-2026-04-03-13-20-30)
 - [Batch at 2026-04-03 09:08:16](#batch-2026-04-03-09-08-16)
 - [Batch at 2026-04-03 07:23:54](#batch-2026-04-03-07-23-54)
-- [Batch at 2026-04-03 05:15:59](#batch-2026-04-03-05-15-59)
+
+<h3 id='batch-2026-04-03-14-57-33'>🕐 Batch at 2026-04-03 14:57:33</h3>
+
+📊 **Total jobs in this batch: 10**
+
+**Per company:**
+- Motorola Solutions, Inc: 1 job
+- BAH: 4 jobs
+- nVent: 1 job
+- spacex: 2 jobs
+- The Walt Disney Company: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Schaumburg, IL</td>
+      <td>Training Lab Assistant</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Training-Lab-Assistant_R63215'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Full-Stack Developer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Full-Stack-Developer--Mid_R0237092-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Full Stack Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Full-Stack-Software-Engineer_R0237100'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Engineer_R0236980'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>AI Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/AI-Software-Engineer_R0237022'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Dayton, MN, US</td>
+      <td>Logistics Material Handler</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Dayton-MN-US/Logistics-Material-Handler_R21288'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>New Graduate Engineer, Software</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002'>Apply</a></td>
+      <td>Apr 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>McGregor, TX</td>
+      <td>Paint & Coatings Technician</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8492996002?gh_jid=8492996002'>Apply</a></td>
+      <td>Apr 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Lake Buena Vista, FL, USA</td>
+      <td>Walt Disney World Government Relations Intern, Fall 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Government-Relations-Intern--Fall-2026_10142085-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>2026 Summer Intern: Walmart Merchandising</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME-2026-Summer-Intern--Walmart-Merchandising_R-2169409-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-03-13-20-30'>🕐 Batch at 2026-04-03 13:20:30</h3>
 
@@ -62,7 +160,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-03-09-08-16'>🕐 Batch at 2026-04-03 09:08:16</h3>
 
 📊 **Total jobs in this batch: 5**
@@ -119,8 +216,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-03-07-23-54'>🕐 Batch at 2026-04-03 07:23:54</h3>
+---<h3 id='batch-2026-04-03-07-23-54'>🕐 Batch at 2026-04-03 07:23:54</h3>
 
 📊 **Total jobs in this batch: 9**
 
