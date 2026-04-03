@@ -217,7 +217,7 @@ def update_daily_markdown(new_jobs):
     today_str = datetime.now().strftime('%B %d, %Y')
     with open(daily_file, 'w', encoding='utf-8') as f:
         f.write(f"# 📢 Job Listings for {today_str}\n\n")
-        f.write("> New software engineering jobs discovered hourly. Latest batches appear first.\n\n")
+        f.write("> New engineering jobs discovered hourly. Latest batches appear first.\n\n")
         f.write(toc)
         for _, batch_html in all_batches:
             f.write(batch_html)
