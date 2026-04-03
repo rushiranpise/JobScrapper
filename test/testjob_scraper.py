@@ -152,10 +152,10 @@ def get_daily_filename():
     day = now.day
     month = now.strftime("%B")   # full month name, e.g., "April"
     return f"{day}-{month}-Jobs-List.md"
-    
+
 def update_daily_markdown(new_jobs):
-    """Update daily markdown file with an HTML table of new jobs.
-    Newest batches are added at the top. Also updates README.md.
+    """Update daily markdown file with HTML tables and a clickable Table of Contents.
+    Newest batches appear at the top.
     """
     if not new_jobs:
         return
@@ -163,22 +163,11 @@ def update_daily_markdown(new_jobs):
     daily_file = get_daily_filename()
     file_exists = Path(daily_file).exists()
 
-    # Batch timestamp
+    # --- Prepare new batch ---
     batch_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-
-    # Build HTML table for this batch
-    batch_header = f"<h3>🕐 Batch at {batch_time}</h3>\n"
-    batch_header += "<table>\n"
-    batch_header += "  <thead>\n"
-    batch_header += "    <tr>\n"
-    batch_header += "      <th>🏢 Company</th>\n"
-    batch_header += "      <th>📍 Location</th>\n"
-    batch_header += "      <th>💼 Role</th>\n"
-    batch_header += "      <th>🔗 Link</th>\n"
-    batch_header += "      <th>📅 Posted</th>\n"
-    batch_header += "    </tr>\n"
-    batch_header += "  </thead>\n"
-    batch_header += "  <tbody>\n"
+    anchor_id = f"batch-{batch_time.replace(' ', '-').replace(':', '-')}"
+    batch_header = f"<h3 id='{anchor_id}'>🕐 Batch at {batch_time}</h3>\n"
+    batch_header += "<table>\n  <thead>\n    <tr>\n      <th>🏢 Company</th>\n      <th>📍 Location</th>\n      <th>💼 Role</th>\n      <th>🔗 Link</th>\n      <th>📅 Posted</th>\n    </tr>\n  </thead>\n  <tbody>\n"
 
     batch_rows = ""
     for job in new_jobs:
@@ -191,40 +180,49 @@ def update_daily_markdown(new_jobs):
         batch_rows += "    </tr>\n"
 
     batch_footer = "  </tbody>\n</table>\n\n---\n\n"
-    new_batch = batch_header + batch_rows + batch_footer
+    new_batch_html = batch_header + batch_rows + batch_footer
 
-    # Read existing content if file exists
-    existing_content = ""
+    # --- Extract existing batches (if file exists) ---
+    existing_batches = []  # list of (timestamp, full_html)
     if file_exists:
         with open(daily_file, 'r', encoding='utf-8') as f:
-            existing_content = f.read()
+            content = f.read()
+        # Pattern to match each batch: <h3 id='batch-...'>...</h3> ... until the next <h3 id='batch-...'> or end of file
+        pattern = r"(<h3 id='batch-[^']+'>.*?</h3>.*?)(?=\n<h3 id='batch-|$)"
+        matches = re.findall(pattern, content, re.DOTALL)
+        for match in matches:
+            # Extract timestamp from the <h3> tag
+            ts_match = re.search(r"Batch at ([\d\-: ]+)</h3>", match)
+            if ts_match:
+                timestamp = ts_match.group(1)
+                existing_batches.append((timestamp, match))
+        # Ensure we preserve order as they appear (oldest first? We'll reverse later to put newest on top)
+        # existing_batches currently in file order (newest first because we prepend each time)
+        # But to be safe, we'll sort by timestamp descending after adding the new one.
 
-    # Write new content: header (if new) + new batch + existing content (without its header)
+    # --- Combine batches (newest first) ---
+    all_batches = [(batch_time, new_batch_html)] + existing_batches
+    # If you want to keep chronological order (newest on top), just keep as is.
+    # But existing_batches might be in descending order already; we'll ensure descending:
+    all_batches.sort(key=lambda x: x[0], reverse=True)
+
+    # --- Generate Table of Contents ---
+    toc_lines = ["## 📑 Batch Index\n"]
+    for ts, html in all_batches:
+        anchor = f"batch-{ts.replace(' ', '-').replace(':', '-')}"
+        toc_lines.append(f"- [Batch at {ts}](#{anchor})")
+    toc = "\n".join(toc_lines) + "\n\n"
+
+    # --- Write the full file ---
+    today_str = datetime.now().strftime('%B %d, %Y')
     with open(daily_file, 'w', encoding='utf-8') as f:
-        if not file_exists:
-            # First run: write full header and the first batch
-            today_str = datetime.now().strftime('%B %d, %Y')
-            f.write(f"# 📢 Job Listings for {today_str}\n\n")
-            f.write("> New software engineering jobs discovered hourly. Latest batches appear first.\n\n")
-            f.write(new_batch)
-        else:
-            # Find where the first batch starts (skip title and optional intro)
-            lines = existing_content.splitlines(keepends=True)
-            header_end = 0
-            for i, line in enumerate(lines):
-                if '<h3>🕐 Batch' in line:
-                    header_end = i
-                    break
-            # If no batch marker found, just prepend
-            if header_end == 0:
-                header_end = len(lines)
-            header_part = ''.join(lines[:header_end])
-            rest_part = ''.join(lines[header_end:])
-            f.write(header_part)
-            f.write(new_batch)
-            f.write(rest_part)
+        f.write(f"# 📢 Job Listings for {today_str}\n\n")
+        f.write("> New software engineering jobs discovered hourly. Latest batches appear first.\n\n")
+        f.write(toc)
+        for _, batch_html in all_batches:
+            f.write(batch_html)
 
-    # Update README.md with full daily content
+    # --- Update README.md ---
     with open(daily_file, 'r', encoding='utf-8') as src, open('README.md', 'w', encoding='utf-8') as dst:
         dst.write(src.read())
 
