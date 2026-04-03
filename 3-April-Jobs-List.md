@@ -4,10 +4,64 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-03 13:20:30](#batch-2026-04-03-13-20-30)
 - [Batch at 2026-04-03 09:08:16](#batch-2026-04-03-09-08-16)
 - [Batch at 2026-04-03 07:23:54](#batch-2026-04-03-07-23-54)
 - [Batch at 2026-04-03 05:15:59](#batch-2026-04-03-05-15-59)
-- [Batch at 2026-04-03 02:50:09](#batch-2026-04-03-02-50-09)
+
+<h3 id='batch-2026-04-03-13-20-30'>🕐 Batch at 2026-04-03 13:20:30</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- Merck & Co.: 1 job
+- Otis: 1 job
+- Walmart: 1 job
+- Zoom: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Merck & Co.</b></td>
+      <td>FRA - Ile-de-France - Paris (Cour Michelet)</td>
+      <td>Alternance Chargé(e) de communication interne  H/F</td>
+      <td><a href='https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/FRA---Ile-de-France---Paris-Cour-Michelet/Alternance-Charg-e--de-communication-interne--H-F_R392042-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Otis</b></td>
+      <td>OT223: GL - PLAINVIEW, NY 65 Fairchild Avenue, PLAINVIEW, NY, 11803 USA</td>
+      <td>Field Operations Trainee</td>
+      <td><a href='https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT223-GL---PLAINVIEW-NY-65-Fairchild-Avenue-PLAINVIEW-NY-11803-USA/Field-Operations-Trainee_20150689'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office Building 11</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-11/Software-Engineer-III_R-2322993-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoom</b></td>
+      <td>Seattle (WA)</td>
+      <td>AI Engineer - Agent</td>
+      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Seattle-WA/AI-Engineer---Agent_R18923-1'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-03-09-08-16'>🕐 Batch at 2026-04-03 09:08:16</h3>
 
@@ -66,7 +120,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-03-07-23-54'>🕐 Batch at 2026-04-03 07:23:54</h3>
 
 📊 **Total jobs in this batch: 9**
@@ -152,8 +205,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-03-05-15-59'>🕐 Batch at 2026-04-03 05:15:59</h3>
+---<h3 id='batch-2026-04-03-05-15-59'>🕐 Batch at 2026-04-03 05:15:59</h3>
 <table>
   <thead>
     <tr>
