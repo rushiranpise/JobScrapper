@@ -4,10 +4,88 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-03 16:54:56](#batch-2026-04-03-16-54-56)
 - [Batch at 2026-04-03 15:48:58](#batch-2026-04-03-15-48-58)
 - [Batch at 2026-04-03 14:57:33](#batch-2026-04-03-14-57-33)
 - [Batch at 2026-04-03 13:20:30](#batch-2026-04-03-13-20-30)
-- [Batch at 2026-04-03 09:08:16](#batch-2026-04-03-09-08-16)
+
+<h3 id='batch-2026-04-03-16-54-56'>🕐 Batch at 2026-04-03 16:54:56</h3>
+
+📊 **Total jobs in this batch: 7**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- BAH: 1 job
+- Comcast : 1 job
+- genpt: 1 job
+- MOOG: 1 job
+- Walmart: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Mobile, Alabama, United States</td>
+      <td>Junior Aerospace Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5075683007'>Apply</a></td>
+      <td>Apr 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0237110-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1800 Arch St</td>
+      <td>Comcast FIRST Robotics Intern</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-FIRST-Robotics-Intern_R434112'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Software Developer Intern</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000010973'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Test Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Test-Engineering_R-26-16130'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Espanola, NM</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Espanola-NM/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2466571-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Reliability Data Analyst</td>
+      <td><a href='https://jobs.lever.co/zoox/c46a94c6-d1a5-4961-b0ed-560e8a450cc4'>Apply</a></td>
+      <td>2026-01-28 23:32:40</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-03-15-48-58'>🕐 Batch at 2026-04-03 15:48:58</h3>
 
@@ -84,7 +162,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-03-14-57-33'>🕐 Batch at 2026-04-03 14:57:33</h3>
 
 📊 **Total jobs in this batch: 10**
@@ -181,8 +258,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-03-13-20-30'>🕐 Batch at 2026-04-03 13:20:30</h3>
+---<h3 id='batch-2026-04-03-13-20-30'>🕐 Batch at 2026-04-03 13:20:30</h3>
 
 📊 **Total jobs in this batch: 4**
 
