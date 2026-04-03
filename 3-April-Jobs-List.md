@@ -4,10 +4,56 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-03 22:45:48](#batch-2026-04-03-22-45-48)
 - [Batch at 2026-04-03 21:46:50](#batch-2026-04-03-21-46-50)
 - [Batch at 2026-04-03 20:49:43](#batch-2026-04-03-20-49-43)
 - [Batch at 2026-04-03 19:52:02](#batch-2026-04-03-19-52-02)
-- [Batch at 2026-04-03 19:06:04](#batch-2026-04-03-19-06-04)
+
+<h3 id='batch-2026-04-03-22-45-48'>🕐 Batch at 2026-04-03 22:45:48</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Allstate: 1 job
+- Applied Materials: 1 job
+- IXL Learning: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>US - Remote</td>
+      <td>Data Scientist – Agentic AI (Enterprise Risk Management & AI Governance)</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Data-Scientist---Agentic-AI--Enterprise-Risk-Management---AI-Governance-_R27680'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Summer Intern</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Summer-Intern_R2616222'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>IXL Learning</b></td>
+      <td>Raleigh, NC</td>
+      <td>Software Engineer, New Grad</td>
+      <td><a href='https://www.ixl.com/company/jobs?gh_jid=8486920002'>Apply</a></td>
+      <td>Apr 03, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-03-21-46-50'>🕐 Batch at 2026-04-03 21:46:50</h3>
 
@@ -46,7 +92,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-03-20-49-43'>🕐 Batch at 2026-04-03 20:49:43</h3>
 
 📊 **Total jobs in this batch: 12**
@@ -158,8 +203,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-03-19-52-02'>🕐 Batch at 2026-04-03 19:52:02</h3>
+---<h3 id='batch-2026-04-03-19-52-02'>🕐 Batch at 2026-04-03 19:52:02</h3>
 
 📊 **Total jobs in this batch: 9**
 
