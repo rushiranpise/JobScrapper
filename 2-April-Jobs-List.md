@@ -1,10 +1,361 @@
 # 📢 Job Listings for April 02, 2026
 
-> New engineering jobs discovered hourly. Latest batches appear first.
+> New software engineering jobs discovered hourly. Latest batches appear first.
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-02 23:34:29](#batch-2026-04-02-23-34-29)
 - [Batch at 2026-04-02 23:19:57](#batch-2026-04-02-23-19-57)
+
+<h3 id='batch-2026-04-02-23-34-29'>🕐 Batch at 2026-04-02 23:34:29</h3>
+
+📊 **Total jobs in this batch: 46**
+
+**Per company:**
+- Concentrix: 15 jobs
+- General Motors LLC: 21 jobs
+- GE Healthcare: 1 job
+- Shipt : 1 job
+- Simons Foundation: 5 jobs
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>Omaha, NE 68122</td>
+      <td>Java Full stack Developer</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/Omaha-NE-68122/Java-Full-stack-Developer_R1719836'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>MAR Meknès - Résidence Dar Dmana   Rue Angle Sabou et Badr Al Koubra Hamria</td>
+      <td>Risk & Compliance Officer (H/F) - Meknès - Français - Anglais - Expérimenté</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/MAR-Mekns---Rsidence-Dar-Dmana---Rue-Angle-Sabou-et-Badr-Al-Koubra-Hamria/Risk---Compliance-Officer--H-F----Mekns---Franais---Anglais---Expriment_R1719300'>Apply</a></td>
+      <td>Posted Yesterday</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>DEU Work-at-Home Dusseldorf</td>
+      <td>Cloud Solution Architect - AI solutions & Copilot Chat (F/M/D)</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/DEU-Work-at-Home-Dusseldorf/Cloud-Solution-Architect---AI-solutions--F-M-D-_R1717451-1'>Apply</a></td>
+      <td>Posted 7 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>IND Bangalore - 1st Floor Block G4 Aspen Building, Embassy Manyata Business Park</td>
+      <td>AI Quality Engineer: Global Analytic</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/IND-Bangalore---1st-Floor-Block-G4-Aspen-Building-Embassy-Manyata-Business-Park/AI-Quality-Engineer--Global-Analytic_R1694075'>Apply</a></td>
+      <td>Posted 21 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>ESP Barcelona - C/ de la Selva de Mar, 129</td>
+      <td>Payroll Intern - Mercado Español</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/ESP-Barcelona---C-de-la-Selva-de-Mar-129/Payroll-Intern---Mercado-Espaol_R1711432'>Apply</a></td>
+      <td>Posted 23 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>MAR Rabat - Av Ibn Sina, 25 rue Oued Al Makhazine</td>
+      <td>Superviseur télévente (F/H) expérimenté en assurances - Rabat - Français</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/MAR-Rabat---Av-Ibn-Sina-25-rue-Oued-Al-Makhazine/Superviseur-tlvente--F-H--expriment-en-assurances---Rabat---Franais_R1642801'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>MAR Marrakech - 70, Quartier Industriel Sidi Ghanem</td>
+      <td>Responsable d'activité - Marrakech - Français - Anglais - Expérimenté</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/MAR-Marrakech---70-Quartier-Industriel-Sidi-Ghanem/Responsable-d-activit---Marrakech---Franais---Anglais---Expriment_R1567605'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>MAR Marrakech - 70, Quartier Industriel Sidi Ghanem</td>
+      <td>Chef de projet (F/H) - Marrakech - Français - Anglais - Confirmé</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/MAR-Marrakech---70-Quartier-Industriel-Sidi-Ghanem/Chef-de-projet--F-H----Marrakech---Franais---Anglais---Confirm_R1652389'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>MAR Marrakech - 70, Quartier Industriel Sidi Ghanem</td>
+      <td>Responsable Formation Site (F/H) - Français - Anglais – Marrakech</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/MAR-Marrakech---70-Quartier-Industriel-Sidi-Ghanem/Responsable-Formation-Site--F-H----Franais---Anglais---Marrakech_R1692498'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>MAR Marrakech - 70, Quartier Industriel Sidi Ghanem</td>
+      <td>Chargé de recrutement (F/H) - Marrakech - Français - Anglais - Confirmé</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/MAR-Marrakech---70-Quartier-Industriel-Sidi-Ghanem/Charg-de-recrutement--F-H----Marrakech---Franais---Anglais---Confirm_R1596465'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Full Stack Developer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/PROGRAMMER-FULL-STACK_JR-202603193'>Apply</a></td>
+      <td>Posted 3 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>MAR Meknès - Résidence Dar Dmana   Rue Angle Sabou et Badr Al Koubra Hamria</td>
+      <td>Parrainage - Télévente - du 15/01 au 14/04- Meknès - Français</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/MAR-Mekns---Rsidence-Dar-Dmana---Rue-Angle-Sabou-et-Badr-Al-Koubra-Hamria/Parrainage---Tlvente---du-15-01-au-14-04--Mekns---Franais_R1697743'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>MAR Fès - 112, Avenue des FAR    Champs de course, Ville Nouvelle</td>
+      <td>Parrainage - Télévente - du 14/01 au 31/12 - Fès - Français</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/MAR-Fs---112-Avenue-des-FAR----Champs-de-course-Ville-Nouvelle/Parrainage---Tlvente---du-14-01-au-31-12---Fs---Franais_R1697066-1'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>PRT Lisbon Portugal Arts Business Center FL2 and FL3</td>
+      <td>Software Developer – API System Integration with CCW</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/PRT-Lisbon-Portugal-Arts-Business-Center-FL2-and-FL3/Software-Developer---API-System-Integration-with-CCW_R1692068'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Software Developer – Manufacturing Engineering</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Developer---Manufacturing-Engineering_JR-202606726-1'>Apply</a></td>
+      <td>Posted 6 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>MAR Marrakech - 70, Quartier Industriel Sidi Ghanem</td>
+      <td>Chef de projet (F/H) - Marrakech - Français - Anglais - Confirmé</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/MAR-Marrakech---70-Quartier-Industriel-Sidi-Ghanem/Chef-de-projet--F-H----Marrakech---Franais---Anglais---Confirm_R1584443'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Researcher, Paint and Polymer Technology</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Researcher--Paint-and-Polymer-Technology_JR-202606080'>Apply</a></td>
+      <td>Posted 7 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>MAR Marrakech - 70, Quartier Industriel Sidi Ghanem</td>
+      <td>Trainer (F/H) - Marrakech - Français - Anglais - Expérimenté</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/MAR-Marrakech---70-Quartier-Industriel-Sidi-Ghanem/Trainer--F-H----Marrakech---Franais---Anglais---Expriment_R1681857'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Calibration Technical Specialist - Low Voltage Infrastructure</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Calibration-Technical-Specialist---Low-Voltage-Infrastructure_JR-202606315'>Apply</a></td>
+      <td>Posted 8 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>GE Healthcare</b></td>
+      <td>AUS09-01-Perth-Unit 31, 118 Royal St</td>
+      <td>Ultrasound Applications Specialist WA - Radiology</td>
+      <td><a href='https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/AUS09-01-Perth-Unit-31-118-Royal-St/Ultrasound-Applications-Specialist-WA---Radiology_R4034894-1'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Software Engineer - Propulsion Thermal Management</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer---Propulsion-Thermal-Management_JR-202606882'>Apply</a></td>
+      <td>Posted 10 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Mountain View, California, United States of America</td>
+      <td>Software Developer-Test Engineering (Non AI)</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Developer-Test-Engineering_JR-202516026'>Apply</a></td>
+      <td>Posted 13 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Software Engineer  - Power Electronics</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer----Power-Electronics_JR-202600062'>Apply</a></td>
+      <td>Posted 13 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Software Quality Assurance Engineer - Battery</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Quality-Assurance-Engineer---Battery_JR-202600034'>Apply</a></td>
+      <td>Posted 13 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Software Controls Engineer - Vehicle Dynamics</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Controls-Engineer---Vehicle-Dynamics_JR-202604712'>Apply</a></td>
+      <td>Posted 15 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Bedford, Indiana, United States of America</td>
+      <td>Training and Development Coordinator</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Bedford-Indiana-United-States-of-America/Training-and-Development-Coordinator_JR-202605271'>Apply</a></td>
+      <td>Posted 16 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Lansing, Michigan, United States of America</td>
+      <td>2026 Kettering Co-Op: Manufacturing Controls Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Lansing-Michigan-United-States-of-America/XMLNAME-2026-Controls-EE-Co-Op---LDT_JR-202512371'>Apply</a></td>
+      <td>Posted 16 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Engineering Group - Software Engineering</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Engineering-Group---Software-Engineering_JR-202604367'>Apply</a></td>
+      <td>Posted 29 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>Software Engineer AV HIL Platform and Services (University Grad)</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577'>Apply</a></td>
+      <td>Posted 30 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Wyoming, Michigan, United States of America</td>
+      <td>Stationary Engineer Journeyperson - Grand Rapids</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Wyoming-Michigan-United-States-of-America/Stationary-Engineer-Journeyperson---Grand-Rapids_JR-202524004'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Controls Developer Software Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Controls-Developer-Software-Engineer_JR-202602321'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>Software Engineer, AV HIL Platform and Services</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-HIL-Platform-and-Services_JR-202602819-2'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>Software Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer_JR-202523791'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Mountain View, California, United States of America</td>
+      <td>2026 Summer Intern - Robotics Engineer (Master's or PhD)</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Robotics-Engineer--Master-s-or-PhD-_JR-202603782'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Automated Driving Performance HIL Infrastructure Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Automated-Driving-Performance-HIL-Infrastructure-Engineer_JR-202600380'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>ML Infrastructure Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Infrastructure-Engineer_JR-202601303'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Mountain View, California, United States of America</td>
+      <td>Machine Learning Engineer - AI Research (PhD) - Early Career</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Machine-Learning-Engineer---AI-Research_JR-202519114'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>Shipt </b></td>
+      <td>US Remote</td>
+      <td>Data Scientist, Search Science (Ads)</td>
+      <td><a href='https://shipt.wd1.myworkdayjobs.com/en-US/Shipt_External/job/US-Remote/Data-Scientist--Search-Science--Ads-_R4096-1'>Apply</a></td>
+      <td>Posted 9 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>Simons Foundation</b></td>
+      <td>160 Fifth Avenue, New York, NY</td>
+      <td>Editorial Intern, Quanta Books</td>
+      <td><a href='https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/160-Fifth-Avenue-New-York-NY/Editorial-Intern--Quanta-Books_R0001998'>Apply</a></td>
+      <td>Posted 24 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>Simons Foundation</b></td>
+      <td>160 Fifth Avenue, New York, NY</td>
+      <td>People & Culture Intern (Autism in the Workplace Program)</td>
+      <td><a href='https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/160-Fifth-Avenue-New-York-NY/People---Culture-Intern--Autism-in-the-Workplace-Program-_R0002016'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>Simons Foundation</b></td>
+      <td>160 Fifth Avenue, New York, NY</td>
+      <td>SFARI Administrative Intern (Autism in the Workplace Program)</td>
+      <td><a href='https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/160-Fifth-Avenue-New-York-NY/SFARI-Administrative-Intern--Autism-in-the-Workplace-Program-_R0002015'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>Simons Foundation</b></td>
+      <td>915 Broadway, New York, NY</td>
+      <td>Distribution Intern, Sandbox Films</td>
+      <td><a href='https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/915-Broadway-New-York-NY/Distribution-Intern--Sandbox-Films_R0002014'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>Simons Foundation</b></td>
+      <td>915 Broadway, New York, NY</td>
+      <td>Art Intern, Quanta Magazine</td>
+      <td><a href='https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/915-Broadway-New-York-NY/Art-Intern--Quanta-Magazine_R0002010'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Lucedale, MS</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Lucedale-MS/Pharmacy-Grad-Intern--Hrly-_R-2463161'>Apply</a></td>
+      <td>Posted Yesterday</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Monticello, IN</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Monticello-IN/Pharmacy-Pre-Grad-Intern---WM_R-2464950'>Apply</a></td>
+      <td>Posted Yesterday</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Brownsburg, IN</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Brownsburg-IN/Pharmacy-Pre-Grad-Intern---WM_R-2464956'>Apply</a></td>
+      <td>Posted Yesterday</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-02-23-19-57'>🕐 Batch at 2026-04-02 23:19:57</h3>
 <table>
@@ -19006,4 +19357,3 @@
 </table>
 
 ---
-
