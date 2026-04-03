@@ -4,10 +4,111 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-03 17:46:35](#batch-2026-04-03-17-46-35)
 - [Batch at 2026-04-03 16:54:56](#batch-2026-04-03-16-54-56)
 - [Batch at 2026-04-03 15:48:58](#batch-2026-04-03-15-48-58)
 - [Batch at 2026-04-03 14:57:33](#batch-2026-04-03-14-57-33)
-- [Batch at 2026-04-03 13:20:30](#batch-2026-04-03-13-20-30)
+
+<h3 id='batch-2026-04-03-17-46-35'>🕐 Batch at 2026-04-03 17:46:35</h3>
+
+📊 **Total jobs in this batch: 10**
+
+**Per company:**
+- BAH: 1 job
+- Comcast : 1 job
+- Datamaxis: 1 job
+- Intel Corporation: 1 job
+- LaunchDarkly : 1 job
+- MOOG: 1 job
+- NVIDIA: 1 job
+- STANDARD & POOR'S FINANCIAL SERVICE: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Data-Engineer_R0237099'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1800 Arch St</td>
+      <td>Comcast FIRST Robotics Intern</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-FIRST-Robotics-Intern_R434117'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Datamaxis</b></td>
+      <td>Springfield, IL</td>
+      <td>Medicaid Subject Matter Expert/Data Specialist</td>
+      <td><a href='https://datamaxis.breezy.hr/p/e584966b5447-medicaid-subject-matter-expert-data-specialist'>Apply</a></td>
+      <td>Apr 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Manufacturing and Process Development Intern (US Intern 2026)</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Manufacturing-and-Process-Development-Intern--US-Intern-2026-_JR0280343'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>LaunchDarkly </b></td>
+      <td>Remote - US</td>
+      <td>Full Stack Engineer - Observability</td>
+      <td><a href='https://job-boards.greenhouse.io/launchdarkly/jobs/7689440003'>Apply</a></td>
+      <td>Apr 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, HR Employee Resource Group</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--HR-Employee-Resource-Group_R-26-16901'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Test Infrastructure Development Engineer</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Test-Infrastructure-Development-Engineer_JR2015663'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>STANDARD & POOR'S FINANCIAL SERVICE</b></td>
+      <td>New York, NY</td>
+      <td>Ratings Analytical Intern - Americas</td>
+      <td><a href='https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Ratings-Analytical-Intern---Americas_322658-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MN THIEF RIVER FALLS 03761 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)-$25,000 Sign On Bonus (2026 Grad Sign on Program)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MN-THIEF-RIVER-FALLS-03761-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2452526'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Lebanon, OR</td>
+      <td>(USA) Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Lebanon-OR/XMLNAME--USA--Pharmacy-Grad-Intern--Hrly-_R-2467611-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-03-16-54-56'>🕐 Batch at 2026-04-03 16:54:56</h3>
 
@@ -86,7 +187,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-03-15-48-58'>🕐 Batch at 2026-04-03 15:48:58</h3>
 
 📊 **Total jobs in this batch: 7**
@@ -161,8 +261,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-03-14-57-33'>🕐 Batch at 2026-04-03 14:57:33</h3>
+---<h3 id='batch-2026-04-03-14-57-33'>🕐 Batch at 2026-04-03 14:57:33</h3>
 
 📊 **Total jobs in this batch: 10**
 
