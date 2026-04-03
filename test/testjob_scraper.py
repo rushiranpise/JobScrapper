@@ -152,42 +152,74 @@ def get_daily_filename():
     day = now.day
     month = now.strftime("%B")   # full month name, e.g., "April"
     return f"{day}-{month}-Jobs-List.md"
-
+    
 def update_daily_markdown(new_jobs):
-    """Append today's markdown file with a new batch of jobs and update README.md."""
+    """Append today's markdown file with a new batch of jobs and update README.md.
+    Newest batches are added at the top (reverse chronological order).
+    """
     if not new_jobs:
         return
 
     daily_file = get_daily_filename()
     file_exists = Path(daily_file).exists()
 
-    # Build the batch content with timestamp
+    # Batch timestamp
     batch_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-    batch_header = f"## Batch at {batch_time}\n\n"
 
-    # Group jobs by company
+    # Group by company
     grouped = {}
     for job in new_jobs:
         grouped.setdefault(job['company'], []).append(job)
 
+    # Build new batch content
+    batch_header = f"## 🕐 Batch at {batch_time}\n\n"
     batch_body = ""
     for company, jobs in grouped.items():
-        batch_body += f"### {company} ({len(jobs)} jobs)\n\n"
+        batch_body += f"### 🏢 {company} ({len(jobs)} jobs)\n\n"
         for job in jobs:
-            batch_body += f"- **{job['title']}**  \n"
-            batch_body += f"  - Location: {job['location']}  \n"
-            batch_body += f"  - [Apply]({job['link']})  \n"
-            batch_body += f"  - Posted: {job.get('postedOn', 'N/A')}\n\n"
-        batch_body += "---\n\n"
+            title = job['title']
+            batch_body += f"• **{title}**\n"
+            batch_body += f"  📍 Location: {job['location']}\n"
+            batch_body += f"  🔗 [Apply here]({job['link']})\n"
+            batch_body += f"  📅 Posted: {job.get('postedOn', 'N/A')}\n\n"
+        batch_body += "✨ 🆕 ✨\n\n"
 
-    # Append to daily file (create with header if needed)
-    with open(daily_file, 'a', encoding='utf-8') as f:
+    new_batch = batch_header + batch_body
+
+    # Read existing content if file exists
+    existing_content = ""
+    if file_exists:
+        with open(daily_file, 'r', encoding='utf-8') as f:
+            existing_content = f.read()
+
+    # Write new content: header (if new file) + new batch + existing content (without its header)
+    with open(daily_file, 'w', encoding='utf-8') as f:
         if not file_exists:
-            f.write(f"# Job Listings for {datetime.now().strftime('%B %d, %Y')}\n\n")
-        f.write(batch_header)
-        f.write(batch_body)
+            # Write file header for the first time
+            today_str = datetime.now().strftime('%B %d, %Y')
+            f.write(f"# 📢 Job Listings for {today_str}\n\n")
+            f.write("> New software engineering jobs discovered hourly. Latest batches appear first.\n\n")
+            f.write(new_batch)
+        else:
+            # Find where the first batch starts (skip the header lines)
+            lines = existing_content.splitlines(keepends=True)
+            header_end = 0
+            # Skip the title line and the quote line, plus blank lines
+            for i, line in enumerate(lines):
+                if line.startswith('## 🕐 Batch'):
+                    header_end = i
+                    break
+            # If no batch marker found, just prepend
+            if header_end == 0:
+                header_end = len(lines)
+            # Keep header lines (first part)
+            header_part = ''.join(lines[:header_end])
+            rest_part = ''.join(lines[header_end:])
+            f.write(header_part)
+            f.write(new_batch)
+            f.write(rest_part)
 
-    # Overwrite README.md with the full content of today's daily file
+    # Update README.md with full daily content
     with open(daily_file, 'r', encoding='utf-8') as src, open('README.md', 'w', encoding='utf-8') as dst:
         dst.write(src.read())
 
