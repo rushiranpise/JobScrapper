@@ -4,10 +4,68 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-03 09:08:16](#batch-2026-04-03-09-08-16)
 - [Batch at 2026-04-03 07:23:54](#batch-2026-04-03-07-23-54)
 - [Batch at 2026-04-03 05:15:59](#batch-2026-04-03-05-15-59)
 - [Batch at 2026-04-03 02:50:09](#batch-2026-04-03-02-50-09)
-- [Batch at 2026-04-03 01:09:48](#batch-2026-04-03-01-09-48)
+
+<h3 id='batch-2026-04-03-09-08-16'>🕐 Batch at 2026-04-03 09:08:16</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- Walmart: 5 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN TN CHENNAI Home Office Capita Land</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/Software-Engineer-III_R-2455582'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN TN CHENNAI Home Office Capita Land</td>
+      <td>SOFTWARE ENGINEER III - Android</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/SOFTWARE-ENGINEER-III---Android_R-2455203'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN TN CHENNAI Home Office Capita Land</td>
+      <td>SOFTWARE ENGINEER III - Android</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/SOFTWARE-ENGINEER-III---Android_R-2455201'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN TN CHENNAI Home Office Capita Land</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/Software-Engineer-III_R-2455511'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN TN CHENNAI Home Office Capita Land</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/Software-Engineer-III_R-2455635'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-03-07-23-54'>🕐 Batch at 2026-04-03 07:23:54</h3>
 
@@ -95,7 +153,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-03-05-15-59'>🕐 Batch at 2026-04-03 05:15:59</h3>
 <table>
   <thead>
@@ -118,8 +175,7 @@
   </tbody>
 </table>
 
----
-<h3 id='batch-2026-04-03-02-50-09'>🕐 Batch at 2026-04-03 02:50:09</h3>
+---<h3 id='batch-2026-04-03-02-50-09'>🕐 Batch at 2026-04-03 02:50:09</h3>
 <table>
   <thead>
     <tr>
