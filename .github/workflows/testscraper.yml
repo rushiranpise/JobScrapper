@@ -14,6 +14,8 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    env:
+      TZ: America/Phoenix
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
