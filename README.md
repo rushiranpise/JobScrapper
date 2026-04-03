@@ -4,10 +4,123 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-03 20:49:43](#batch-2026-04-03-20-49-43)
 - [Batch at 2026-04-03 19:52:02](#batch-2026-04-03-19-52-02)
 - [Batch at 2026-04-03 19:06:04](#batch-2026-04-03-19-06-04)
 - [Batch at 2026-04-03 17:46:35](#batch-2026-04-03-17-46-35)
-- [Batch at 2026-04-03 16:54:56](#batch-2026-04-03-16-54-56)
+
+<h3 id='batch-2026-04-03-20-49-43'>🕐 Batch at 2026-04-03 20:49:43</h3>
+
+📊 **Total jobs in this batch: 12**
+
+**Per company:**
+- Airbnb: 1 job
+- Anduril Industries: 1 job
+- BAH: 6 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- Micron: 1 job
+- Walmart: 1 job
+- Zoom: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Airbnb</b></td>
+      <td>Remote, USA</td>
+      <td>Software Engineer, Payments</td>
+      <td><a href='https://careers.airbnb.com/positions/7779006?gh_jid=7779006'>Apply</a></td>
+      <td>Apr 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Generative AI Integration Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/4792948007?gh_jid=4792948007'>Apply</a></td>
+      <td>Apr 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Data-Analyst_R0237162'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dayton, OH</td>
+      <td>Cloud Application Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Cloud-Application-Architect_R0237146'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>MLOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/MLOps-Engineer_R0237159'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0231665'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Langley AFB, VA</td>
+      <td>Full-Stack Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/Full-Stack-Software-Engineer_R0234884'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Annapolis Junction, MD</td>
+      <td>Systems Administrator Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0237149'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA CA - San Diego Bldg A&B</td>
+      <td>Inside Data Analyst</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-Bldg-AB/Inside-Data-Analyst_R-542692'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Intern - Product Test Development Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern--Product-Test-Development-Engineer_JR83701'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TN MILLINGTON 00094 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TN-MILLINGTON-00094-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2465921'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoom</b></td>
+      <td>San Jose (CA)</td>
+      <td>Software Engineer</td>
+      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/Software-Engineer_R18807'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-03-19-52-02'>🕐 Batch at 2026-04-03 19:52:02</h3>
 
@@ -101,7 +214,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-03-19-06-04'>🕐 Batch at 2026-04-03 19:06:04</h3>
 
 📊 **Total jobs in this batch: 11**
@@ -204,8 +316,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-03-17-46-35'>🕐 Batch at 2026-04-03 17:46:35</h3>
+---<h3 id='batch-2026-04-03-17-46-35'>🕐 Batch at 2026-04-03 17:46:35</h3>
 
 📊 **Total jobs in this batch: 10**
 
