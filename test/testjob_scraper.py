@@ -153,6 +153,22 @@ def get_daily_filename():
     month = now.strftime("%B")   # full month name, e.g., "April"
     return f"{day}-{month}-Jobs-List.md"
 
+def format_date(date_str):
+    if not date_str or date_str == 'N/A':
+        return 'N/A'
+    # Keep relative strings like "Posted Today" as they are
+    if 'Today' in date_str or 'Yesterday' in date_str:
+        return date_str
+    try:
+        # Handle ISO 8601: remove timezone offset for parsing
+        clean_date = date_str.split('T')[0]  # "2026-04-02"
+        dt = datetime.strptime(clean_date, '%Y-%m-%d')
+        # Format as "Apr 2, 2026" or use "%B %d" for "April 2"
+        return dt.strftime('%B %d')   # e.g., "Apr 2, 2026"
+        # To get "April 2" (without year): dt.strftime('%B %d')
+    except:
+        return date_str
+
 def update_daily_markdown(new_jobs):
     """Update daily markdown file with HTML tables and a clickable Table of Contents.
     Newest batches appear at the top.
@@ -176,7 +192,7 @@ def update_daily_markdown(new_jobs):
         batch_rows += f"      <td>{job['location']}</td>\n"
         batch_rows += f"      <td>{job['title']}</td>\n"
         batch_rows += f"      <td><a href='{job['link']}'>Apply</a></td>\n"
-        batch_rows += f"      <td>{job.get('postedOn', 'N/A')}</td>\n"
+        batch_rows += f"      <td>{format_date(job.get('postedOn', 'N/A'))}</td>\n"
         batch_rows += "    </tr>\n"
 
     batch_footer = "  </tbody>\n</table>\n\n---\n\n"
