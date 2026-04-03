@@ -145,6 +145,86 @@ companies_df = pd.read_csv('companies.csv')
 
 results = []
 
+# --- Daily markdown helpers ---
+def get_daily_filename():
+    """Return filename like '2-April-Jobs-List.md' for today."""
+    now = datetime.now()
+    day = now.day
+    month = now.strftime("%B")   # full month name, e.g., "April"
+    return f"{day}-{month}-Jobs-List.md"
+
+def update_daily_markdown(new_jobs):
+    """Update daily markdown file with HTML tables and a clickable Table of Contents.
+    Newest batches appear at the top.
+    """
+    if not new_jobs:
+        return
+
+    daily_file = get_daily_filename()
+    file_exists = Path(daily_file).exists()
+
+    # --- Prepare new batch ---
+    batch_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    anchor_id = f"batch-{batch_time.replace(' ', '-').replace(':', '-')}"
+    batch_header = f"<h3 id='{anchor_id}'>🕐 Batch at {batch_time}</h3>\n"
+    batch_header += "<table>\n  <thead>\n    <tr>\n      <th>🏢 Company</th>\n      <th>📍 Location</th>\n      <th>💼 Role</th>\n      <th>🔗 Link</th>\n      <th>📅 Posted</th>\n    </tr>\n  </thead>\n  <tbody>\n"
+
+    batch_rows = ""
+    for job in new_jobs:
+        batch_rows += "    <tr>\n"
+        batch_rows += f"      <td><b>{job['company']}</b></td>\n"
+        batch_rows += f"      <td>{job['location']}</td>\n"
+        batch_rows += f"      <td>{job['title']}</td>\n"
+        batch_rows += f"      <td><a href='{job['link']}'>Apply</a></td>\n"
+        batch_rows += f"      <td>{job.get('postedOn', 'N/A')}</td>\n"
+        batch_rows += "    </tr>\n"
+
+    batch_footer = "  </tbody>\n</table>\n\n---\n\n"
+    new_batch_html = batch_header + batch_rows + batch_footer
+
+    # --- Extract existing batches (if file exists) ---
+    existing_batches = []  # list of (timestamp, full_html)
+    if file_exists:
+        with open(daily_file, 'r', encoding='utf-8') as f:
+            content = f.read()
+        # Pattern to match each batch: <h3 id='batch-...'>...</h3> ... until the next <h3 id='batch-...'> or end of file
+        pattern = r"(<h3 id='batch-[^']+'>.*?</h3>.*?)(?=\n<h3 id='batch-|$)"
+        matches = re.findall(pattern, content, re.DOTALL)
+        for match in matches:
+            # Extract timestamp from the <h3> tag
+            ts_match = re.search(r"Batch at ([\d\-: ]+)</h3>", match)
+            if ts_match:
+                timestamp = ts_match.group(1)
+                existing_batches.append((timestamp, match))
+        # Ensure we preserve order as they appear (oldest first? We'll reverse later to put newest on top)
+        # existing_batches currently in file order (newest first because we prepend each time)
+        # But to be safe, we'll sort by timestamp descending after adding the new one.
+
+    # --- Combine batches (newest first) ---
+    all_batches = [(batch_time, new_batch_html)] + existing_batches
+    # If you want to keep chronological order (newest on top), just keep as is.
+    # But existing_batches might be in descending order already; we'll ensure descending:
+    all_batches.sort(key=lambda x: x[0], reverse=True)
+
+    # --- Generate Table of Contents ---
+    toc_lines = ["## 📑 Batch Index\n"]
+    for ts, html in all_batches:
+        anchor = f"batch-{ts.replace(' ', '-').replace(':', '-')}"
+        toc_lines.append(f"- [Batch at {ts}](#{anchor})")
+    toc = "\n".join(toc_lines) + "\n\n"
+
+    # --- Write the full file ---
+    today_str = datetime.now().strftime('%B %d, %Y')
+    with open(daily_file, 'w', encoding='utf-8') as f:
+        f.write(f"# 📢 Job Listings for {today_str}\n\n")
+        f.write("> New software engineering jobs discovered hourly. Latest batches appear first.\n\n")
+        f.write(toc)
+        for _, batch_html in all_batches:
+            f.write(batch_html)
+
+    # --- Update README.md ---
+    with open(daily_file, 'r', encoding='utf-8') as src, open('README.md', 'w', encoding='utf-8') as dst:
+        dst.write(src.read())
 
 def keyword_match(title):
     title_lower = title.lower()
@@ -639,6 +719,8 @@ with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
     for future in as_completed(futures):
         pass
 
+# --- Update daily markdown and README ---
+update_daily_markdown(results)
 
 # --- Save results ---
 output_df = pd.DataFrame(results)
