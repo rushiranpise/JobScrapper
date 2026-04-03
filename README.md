@@ -4,10 +4,86 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-03 15:48:58](#batch-2026-04-03-15-48-58)
 - [Batch at 2026-04-03 14:57:33](#batch-2026-04-03-14-57-33)
 - [Batch at 2026-04-03 13:20:30](#batch-2026-04-03-13-20-30)
 - [Batch at 2026-04-03 09:08:16](#batch-2026-04-03-09-08-16)
-- [Batch at 2026-04-03 07:23:54](#batch-2026-04-03-07-23-54)
+
+<h3 id='batch-2026-04-03-15-48-58'>🕐 Batch at 2026-04-03 15:48:58</h3>
+
+📊 **Total jobs in this batch: 7**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- BAH: 3 jobs
+- netflix: 1 job
+- Sony AI America Inc: 1 job
+- VSP: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Westminster, Colorado</td>
+      <td>Product Safety Process & Regulatory Readiness Coordinator (AI & Cyber)</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5099092007'>Apply</a></td>
+      <td>Apr 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Cloud Engineer, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cloud-Engineer--Junior_R0237114'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Corporate AI and Machine Learning Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Corporate-AI-and-Machine-Learning-Engineer_R0237111'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Full Stack Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Full-Stack-Developer_R0232574'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>netflix</b></td>
+      <td>USA - Remote</td>
+      <td>Software Engineer (L5) - Experimentation Platform</td>
+      <td><a href='https://netflix.wd1.myworkdayjobs.com/en-US/Netflix/job/USA---Remote/Software-Engineer--L5----Experimentation-Platform_JR39712-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Sony AI America Inc</b></td>
+      <td>Remote - Florida</td>
+      <td>Intern, Global Threat Emulation</td>
+      <td><a href='https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Florida/Global-Threat-Emulation-Intern_JR-118841'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>VSP</b></td>
+      <td>Lewisville, TX</td>
+      <td>Internship , Data Analytics</td>
+      <td><a href='https://vsp.wd1.myworkdayjobs.com/en-US/vspvisioncareers/job/Lewisville-TX/Internship---Data-Analytics_R-9180'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-03-14-57-33'>🕐 Batch at 2026-04-03 14:57:33</h3>
 
@@ -106,7 +182,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-03-13-20-30'>🕐 Batch at 2026-04-03 13:20:30</h3>
 
 📊 **Total jobs in this batch: 4**
@@ -159,8 +234,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-03-09-08-16'>🕐 Batch at 2026-04-03 09:08:16</h3>
+---<h3 id='batch-2026-04-03-09-08-16'>🕐 Batch at 2026-04-03 09:08:16</h3>
 
 📊 **Total jobs in this batch: 5**
 
