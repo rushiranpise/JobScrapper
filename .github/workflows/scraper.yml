@@ -1,12 +1,10 @@
 name: Scrape Jobs
 
 on:
-  schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+  push:
 
 concurrency:
-  group: scrape-jobs
+  group: test-scrape-jobs
   cancel-in-progress: false   # Queue new runs until the current one completes
 
 permissions:
@@ -37,7 +35,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output_old.csv *.md
+          git add *.csv *.md
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update job archive and daily markdown [skip ci]" && git push)
 
       # - name: Send Telegram notification
