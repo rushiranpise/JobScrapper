@@ -4,7 +4,32 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-03 02:50:09](#batch-2026-04-03-02-50-09)
 - [Batch at 2026-04-03 01:09:48](#batch-2026-04-03-01-09-48)
+
+<h3 id='batch-2026-04-03-02-50-09'>🕐 Batch at 2026-04-03 02:50:09</h3>
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX Analista de Capital Humano en experiencia y atención al colaborador</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Analista-de-Capital-Humano-en-experiencia-y-atencin-al-colaborador_26951713'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 <h3 id='batch-2026-04-03-01-09-48'>🕐 Batch at 2026-04-03 01:09:48</h3>
 <table>
@@ -50,4 +75,3 @@
 </table>
 
 ---
-
