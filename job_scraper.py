@@ -153,25 +153,9 @@ def get_daily_filename():
     month = now.strftime("%B")   # full month name, e.g., "April"
     return f"{day}-{month}-Jobs-List.md"
 
-def format_date(date_str):
-    if not date_str or date_str == 'N/A':
-        return 'N/A'
-    # Keep relative strings like "Posted Today" as they are
-    if 'Today' in date_str or 'Yesterday' in date_str:
-        return date_str
-    try:
-        # Handle ISO 8601: remove timezone offset for parsing
-        clean_date = date_str.split('T')[0]  # "2026-04-02"
-        dt = datetime.strptime(clean_date, '%Y-%m-%d')
-        # Format as "Apr 2, 2026" or use "%B %d" for "April 2"
-        return dt.strftime('%b %d, %Y')   # e.g., "Apr 2, 2026"
-        # To get "April 2" (without year): dt.strftime('%B %d')
-    except:
-        return date_str
-
 def update_daily_markdown(new_jobs):
-    """Update daily markdown file with HTML tables and a clickable Table of Contents.
-    Newest batches appear at the top.
+    """Append new jobs (as HTML table) to daily markdown, newest batch first, with TOC.
+    Adds summary: total jobs in batch, then per-company counts.
     """
     if not new_jobs:
         return
@@ -179,68 +163,104 @@ def update_daily_markdown(new_jobs):
     daily_file = get_daily_filename()
     file_exists = Path(daily_file).exists()
 
-    # --- Prepare new batch ---
+    # Prepare new batch
     batch_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     anchor_id = f"batch-{batch_time.replace(' ', '-').replace(':', '-')}"
     batch_header = f"<h3 id='{anchor_id}'>🕐 Batch at {batch_time}</h3>\n"
-    batch_header += "<table>\n  <thead>\n    <tr>\n      <th>🏢 Company</th>\n      <th>📍 Location</th>\n      <th>💼 Role</th>\n      <th>🔗 Link</th>\n      <th>📅 Posted</th>\n    </tr>\n  </thead>\n  <tbody>\n"
 
+    # --- Summary: total jobs in this batch ---
+    total_jobs = len(new_jobs)
+    batch_header += f"\n📊 **Total jobs in this batch: {total_jobs}**\n\n"
+
+    # --- Group by company for per-company counts ---
+    company_counts = {}
+    for job in new_jobs:
+        company = job['company']
+        company_counts[company] = company_counts.get(company, 0) + 1
+
+    batch_header += "**Per company:**\n"
+    for company, count in company_counts.items():
+        batch_header += f"- {company}: {count} job{'s' if count != 1 else ''}\n"
+    batch_header += "\n"
+
+    # --- HTML table header ---
+    batch_header += """<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+"""
+
+    # --- Table rows (each job) ---
     batch_rows = ""
     for job in new_jobs:
-        batch_rows += "    <tr>\n"
-        batch_rows += f"      <td><b>{job['company']}</b></td>\n"
-        batch_rows += f"      <td>{job['location']}</td>\n"
-        batch_rows += f"      <td>{job['title']}</td>\n"
-        batch_rows += f"      <td><a href='{job['link']}'>Apply</a></td>\n"
-        batch_rows += f"      <td>{format_date(job.get('postedOn', 'N/A'))}</td>\n"
-        batch_rows += "    </tr>\n"
+        posted_display = format_date(job.get('postedOn', 'N/A'))
+        batch_rows += f"""    <tr>
+      <td><b>{job['company']}</b></td>
+      <td>{job['location']}</td>
+      <td>{job['title']}</td>
+      <td><a href='{job['link']}'>Apply</a></td>
+      <td>{posted_display}</td>
+    </tr>
+"""
 
-    batch_footer = "  </tbody>\n</table>\n\n---\n\n"
+    batch_footer = "  </tbody>\n<table>\n\n---\n\n"
     new_batch_html = batch_header + batch_rows + batch_footer
 
     # --- Extract existing batches (if file exists) ---
-    existing_batches = []  # list of (timestamp, full_html)
+    existing_batches = []  # (timestamp, html)
     if file_exists:
         with open(daily_file, 'r', encoding='utf-8') as f:
             content = f.read()
-        # Pattern to match each batch: <h3 id='batch-...'>...</h3> ... until the next <h3 id='batch-...'> or end of file
         pattern = r"(<h3 id='batch-[^']+'>.*?</h3>.*?)(?=\n<h3 id='batch-|$)"
         matches = re.findall(pattern, content, re.DOTALL)
         for match in matches:
-            # Extract timestamp from the <h3> tag
             ts_match = re.search(r"Batch at ([\d\-: ]+)</h3>", match)
             if ts_match:
-                timestamp = ts_match.group(1)
-                existing_batches.append((timestamp, match))
-        # Ensure we preserve order as they appear (oldest first? We'll reverse later to put newest on top)
-        # existing_batches currently in file order (newest first because we prepend each time)
-        # But to be safe, we'll sort by timestamp descending after adding the new one.
+                existing_batches.append((ts_match.group(1), match))
 
-    # --- Combine batches (newest first) ---
+    # Combine batches (newest first)
     all_batches = [(batch_time, new_batch_html)] + existing_batches
-    # If you want to keep chronological order (newest on top), just keep as is.
-    # But existing_batches might be in descending order already; we'll ensure descending:
     all_batches.sort(key=lambda x: x[0], reverse=True)
 
-    # --- Generate Table of Contents ---
+    # Build Table of Contents
     toc_lines = ["## 📑 Batch Index\n"]
-    for ts, html in all_batches:
+    for ts, _ in all_batches:
         anchor = f"batch-{ts.replace(' ', '-').replace(':', '-')}"
         toc_lines.append(f"- [Batch at {ts}](#{anchor})")
     toc = "\n".join(toc_lines) + "\n\n"
 
-    # --- Write the full file ---
+    # Write full file
     today_str = datetime.now().strftime('%B %d, %Y')
     with open(daily_file, 'w', encoding='utf-8') as f:
         f.write(f"# 📢 Job Listings for {today_str}\n\n")
-        f.write("> New engineering jobs discovered hourly. Latest batches appear first.\n\n")
+        f.write("> New software engineering jobs discovered hourly. Latest batches appear first.\n\n")
         f.write(toc)
         for _, batch_html in all_batches:
             f.write(batch_html)
 
-    # --- Update README.md ---
+    # Update README.md
     with open(daily_file, 'r', encoding='utf-8') as src, open('README.md', 'w', encoding='utf-8') as dst:
         dst.write(src.read())
+
+def format_date(date_str):
+    """Convert ISO timestamp to human-readable 'Apr 2, 2026' or keep 'Posted Today'."""
+    if not date_str or date_str == 'N/A':
+        return 'N/A'
+    if 'Today' in date_str or 'Yesterday' in date_str:
+        return date_str
+    try:
+        clean_date = date_str.split('T')[0]
+        dt = datetime.strptime(clean_date, '%Y-%m-%d')
+        return dt.strftime('%b %d, %Y')   # e.g., "Apr 2, 2026"
+    except:
+        return date_str
 
 def keyword_match(title):
     title_lower = title.lower()
