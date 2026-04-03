@@ -40,12 +40,12 @@ jobs:
           git add output_old.csv *.md
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update job archive and daily markdown [skip ci]" && git push)
 
-      # - name: Send Telegram notification
-      #   env:
-      #     TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-      #     TELEGRAM_BOT_TOKEN2: ${{ secrets.TELEGRAM_BOT_TOKEN2 }}
-      #     TELEGRAM_BOT_TOKEN3: ${{ secrets.TELEGRAM_BOT_TOKEN3 }}
-      #     TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-      #     TELEGRAM_ERROR_CHAT_ID: ${{ secrets.TELEGRAM_ERROR_CHAT_ID }}
-      #   run: |
-      #     python send_telegram.py < scraper_output.txt
+      - name: Send Telegram notification
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_BOT_TOKEN2: ${{ secrets.TELEGRAM_BOT_TOKEN2 }}
+          TELEGRAM_BOT_TOKEN3: ${{ secrets.TELEGRAM_BOT_TOKEN3 }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_ERROR_CHAT_ID: ${{ secrets.TELEGRAM_ERROR_CHAT_ID }}
+        run: |
+          python send_telegram.py < scraper_output.txt
