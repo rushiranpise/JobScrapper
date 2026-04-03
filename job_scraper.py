@@ -1,6 +1,6 @@
 import time
 import random
-
+import csv
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
@@ -708,8 +708,13 @@ old_results_path = Path('output_old.csv')
 old_links = set()
 
 if old_results_path.exists():
-    old_df = pd.read_csv(old_results_path)
-    old_links = set(old_df['link'].dropna().unique())
+    try:
+        old_df = pd.read_csv(old_results_path, quoting=csv.QUOTE_ALL)
+        old_links = set(old_df['link'].dropna().unique())
+    except pd.errors.ParserError as e:
+        print(f"Warning: Could not parse old CSV: {e}. Falling back to on_bad_lines='skip'")
+        old_df = pd.read_csv(old_results_path, on_bad_lines='skip', quoting=csv.QUOTE_ALL)
+        old_links = set(old_df['link'].dropna().unique())
 
 # print(old_links)
 MAX_WORKERS = 10
@@ -732,9 +737,10 @@ if not output_df.empty:
     if old_results_path.exists():
         expected_cols = ['company', 'title', 'location', 'link', 'postedOn', 'updatedOn']
         output_df = output_df.reindex(columns=expected_cols)
-        output_df.to_csv(old_results_path, mode='a', index=False, header=False)
+        output_df.to_csv(old_results_path, mode='a', index=False, header=False,
+                         quoting=csv.QUOTE_ALL)
     else:
-        output_df.to_csv(old_results_path, index=False)
+        output_df.to_csv(old_results_path, index=False, quoting=csv.QUOTE_ALL)
 
     print(f"📦 Appended {len(output_df)} jobs to 'output_old.csv'")
 
