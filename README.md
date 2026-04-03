@@ -4,10 +4,48 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-03 23:46:30](#batch-2026-04-03-23-46-30)
 - [Batch at 2026-04-03 22:45:48](#batch-2026-04-03-22-45-48)
 - [Batch at 2026-04-03 21:46:50](#batch-2026-04-03-21-46-50)
 - [Batch at 2026-04-03 20:49:43](#batch-2026-04-03-20-49-43)
-- [Batch at 2026-04-03 19:52:02](#batch-2026-04-03-19-52-02)
+
+<h3 id='batch-2026-04-03-23-46-30'>🕐 Batch at 2026-04-03 23:46:30</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- Chime: 1 job
+- Typeface: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Chime</b></td>
+      <td>Remote, USA</td>
+      <td>Complaints Specialist</td>
+      <td><a href='https://boards.greenhouse.io/chime/jobs/8478395002?gh_jid=8478395002'>Apply</a></td>
+      <td>Apr 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Typeface</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Solutions Architect Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/typeface/jobs/5099650007'>Apply</a></td>
+      <td>Apr 03, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-03-22-45-48'>🕐 Batch at 2026-04-03 22:45:48</h3>
 
@@ -54,7 +92,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-03-21-46-50'>🕐 Batch at 2026-04-03 21:46:50</h3>
 
 📊 **Total jobs in this batch: 2**
@@ -91,8 +128,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-03-20-49-43'>🕐 Batch at 2026-04-03 20:49:43</h3>
+---<h3 id='batch-2026-04-03-20-49-43'>🕐 Batch at 2026-04-03 20:49:43</h3>
 
 📊 **Total jobs in this batch: 12**
 
