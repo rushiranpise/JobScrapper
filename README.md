@@ -4,10 +4,114 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-03 19:06:04](#batch-2026-04-03-19-06-04)
 - [Batch at 2026-04-03 17:46:35](#batch-2026-04-03-17-46-35)
 - [Batch at 2026-04-03 16:54:56](#batch-2026-04-03-16-54-56)
 - [Batch at 2026-04-03 15:48:58](#batch-2026-04-03-15-48-58)
-- [Batch at 2026-04-03 14:57:33](#batch-2026-04-03-14-57-33)
+
+<h3 id='batch-2026-04-03-19-06-04'>🕐 Batch at 2026-04-03 19:06:04</h3>
+
+📊 **Total jobs in this batch: 11**
+
+**Per company:**
+- Motorola Solutions, Inc: 1 job
+- BAH: 6 jobs
+- Comcast : 1 job
+- Voya: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Plantation, FL</td>
+      <td>Software Engineering</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Software-Engineering_R62065'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>Cyber Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Cyber-Intern_R0237150'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>Cyber Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Cyber-Intern_R0237140'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dayton, OH</td>
+      <td>DevOps Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/DevOps-Engineer--Mid_R0237138'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Agentic AI Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Agentic-AI-Software-Engineer_R0228202'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Agentic AI Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Agentic-AI-Software-Engineer_R0228205'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0237137'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1800 Arch St</td>
+      <td>Comcast FIRST Robotics Intern</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-FIRST-Robotics-Intern_R434096'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Voya</b></td>
+      <td>Minneapolis, MN</td>
+      <td>Mail/Imaging Clerk</td>
+      <td><a href='https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Minneapolis-MN/Mail-Imaging-Clerk_JR0031847'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Software-Engineer-II_R-2463879'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Redbird AR BENTONVILLE Home Office</td>
+      <td>Software Engineer II - Edge Cloud Database</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Redbird-AR-BENTONVILLE-Home-Office/Software-Engineer-II---Edge-Cloud-Database_R-2450041'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-03-17-46-35'>🕐 Batch at 2026-04-03 17:46:35</h3>
 
@@ -109,7 +213,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-03-16-54-56'>🕐 Batch at 2026-04-03 16:54:56</h3>
 
 📊 **Total jobs in this batch: 7**
@@ -186,8 +289,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-03-15-48-58'>🕐 Batch at 2026-04-03 15:48:58</h3>
+---<h3 id='batch-2026-04-03-15-48-58'>🕐 Batch at 2026-04-03 15:48:58</h3>
 
 📊 **Total jobs in this batch: 7**
 
