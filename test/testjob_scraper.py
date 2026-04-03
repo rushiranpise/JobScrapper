@@ -154,8 +154,8 @@ def get_daily_filename():
     return f"{day}-{month}-Jobs-List.md"
     
 def update_daily_markdown(new_jobs):
-    """Append today's markdown file with a new batch of jobs and update README.md.
-    Newest batches are added at the top (reverse chronological order).
+    """Update daily markdown file with an HTML table of new jobs.
+    Newest batches are added at the top. Also updates README.md.
     """
     if not new_jobs:
         return
@@ -166,25 +166,32 @@ def update_daily_markdown(new_jobs):
     # Batch timestamp
     batch_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
-    # Group by company
-    grouped = {}
+    # Build HTML table for this batch
+    batch_header = f"<h3>🕐 Batch at {batch_time}</h3>\n"
+    batch_header += "<table>\n"
+    batch_header += "  <thead>\n"
+    batch_header += "    <tr>\n"
+    batch_header += "      <th>🏢 Company</th>\n"
+    batch_header += "      <th>📍 Location</th>\n"
+    batch_header += "      <th>💼 Role</th>\n"
+    batch_header += "      <th>🔗 Link</th>\n"
+    batch_header += "      <th>📅 Posted</th>\n"
+    batch_header += "    </tr>\n"
+    batch_header += "  </thead>\n"
+    batch_header += "  <tbody>\n"
+
+    batch_rows = ""
     for job in new_jobs:
-        grouped.setdefault(job['company'], []).append(job)
+        batch_rows += "    <tr>\n"
+        batch_rows += f"      <td><b>{job['company']}</b></td>\n"
+        batch_rows += f"      <td>{job['location']}</td>\n"
+        batch_rows += f"      <td>{job['title']}</td>\n"
+        batch_rows += f"      <td><a href='{job['link']}'>Apply</a></td>\n"
+        batch_rows += f"      <td>{job.get('postedOn', 'N/A')}</td>\n"
+        batch_rows += "    </tr>\n"
 
-    # Build new batch content
-    batch_header = f"## 🕐 Batch at {batch_time}\n\n"
-    batch_body = ""
-    for company, jobs in grouped.items():
-        batch_body += f"### 🏢 {company} ({len(jobs)} jobs)\n\n"
-        for job in jobs:
-            title = job['title']
-            batch_body += f"• **{title}**\n"
-            batch_body += f"  📍 Location: {job['location']}\n"
-            batch_body += f"  🔗 [Apply here]({job['link']})\n"
-            batch_body += f"  📅 Posted: {job.get('postedOn', 'N/A')}\n\n"
-        batch_body += "✨ 🆕 ✨\n\n"
-
-    new_batch = batch_header + batch_body
+    batch_footer = "  </tbody>\n</table>\n\n---\n\n"
+    new_batch = batch_header + batch_rows + batch_footer
 
     # Read existing content if file exists
     existing_content = ""
@@ -192,27 +199,25 @@ def update_daily_markdown(new_jobs):
         with open(daily_file, 'r', encoding='utf-8') as f:
             existing_content = f.read()
 
-    # Write new content: header (if new file) + new batch + existing content (without its header)
+    # Write new content: header (if new) + new batch + existing content (without its header)
     with open(daily_file, 'w', encoding='utf-8') as f:
         if not file_exists:
-            # Write file header for the first time
+            # First run: write full header and the first batch
             today_str = datetime.now().strftime('%B %d, %Y')
             f.write(f"# 📢 Job Listings for {today_str}\n\n")
             f.write("> New software engineering jobs discovered hourly. Latest batches appear first.\n\n")
             f.write(new_batch)
         else:
-            # Find where the first batch starts (skip the header lines)
+            # Find where the first batch starts (skip title and optional intro)
             lines = existing_content.splitlines(keepends=True)
             header_end = 0
-            # Skip the title line and the quote line, plus blank lines
             for i, line in enumerate(lines):
-                if line.startswith('## 🕐 Batch'):
+                if '<h3>🕐 Batch' in line:
                     header_end = i
                     break
             # If no batch marker found, just prepend
             if header_end == 0:
                 header_end = len(lines)
-            # Keep header lines (first part)
             header_part = ''.join(lines[:header_end])
             rest_part = ''.join(lines[header_end:])
             f.write(header_part)
