@@ -4,8 +4,39 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-04 14:44:36](#batch-2026-04-04-14-44-36)
 - [Batch at 2026-04-04 08:55:40](#batch-2026-04-04-08-55-40)
 - [Batch at 2026-04-04 02:40:56](#batch-2026-04-04-02-40-56)
+
+<h3 id='batch-2026-04-04-14-44-36'>🕐 Batch at 2026-04-04 14:44:36</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Motorola Solutions, Inc: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Allen, TX (TX139)</td>
+      <td>Software Engineering Intern - Summer 2026</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Allen-TX-TX139/Software-Engineering-Intern---Summer-2026_R63617'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-04-08-55-40'>🕐 Batch at 2026-04-04 08:55:40</h3>
 
@@ -51,7 +82,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-04-02-40-56'>🕐 Batch at 2026-04-04 02:40:56</h3>
 
 📊 **Total jobs in this batch: 1**
