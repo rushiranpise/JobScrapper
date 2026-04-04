@@ -4,10 +4,40 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-04 17:42:54](#batch-2026-04-04-17-42-54)
 - [Batch at 2026-04-04 15:44:47](#batch-2026-04-04-15-44-47)
 - [Batch at 2026-04-04 14:44:36](#batch-2026-04-04-14-44-36)
 - [Batch at 2026-04-04 08:55:40](#batch-2026-04-04-08-55-40)
-- [Batch at 2026-04-04 02:40:56](#batch-2026-04-04-02-40-56)
+
+<h3 id='batch-2026-04-04-17-42-54'>🕐 Batch at 2026-04-04 17:42:54</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- ally: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ally</b></td>
+      <td>N/A</td>
+      <td>Email</td>
+      <td><a href='mailto:?subject=Senior%20Director%20-%20Sales%2C%20Onboarding%20and%20Engagement%20-%20Careers&body=https%3A%2F%2Fally.avature.net%2Fcareers%2FJobDetail%2FSenior-Director-Sales-Onboarding-and-Engagement%2F16303'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-04-15-44-47'>🕐 Batch at 2026-04-04 15:44:47</h3>
 
@@ -38,7 +68,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-04-14-44-36'>🕐 Batch at 2026-04-04 14:44:36</h3>
 
 📊 **Total jobs in this batch: 1**
@@ -67,8 +96,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-04-08-55-40'>🕐 Batch at 2026-04-04 08:55:40</h3>
+---<h3 id='batch-2026-04-04-08-55-40'>🕐 Batch at 2026-04-04 08:55:40</h3>
 
 📊 **Total jobs in this batch: 3**
 
