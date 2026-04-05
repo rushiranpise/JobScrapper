@@ -4,7 +4,38 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-05 11:59:05](#batch-2026-04-05-11-59-05)
 - [Batch at 2026-04-05 08:57:13](#batch-2026-04-05-08-57-13)
+
+<h3 id='batch-2026-04-05-11-59-05'>🕐 Batch at 2026-04-05 11:59:05</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- MOOG: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Torrance, CA</td>
+      <td>Intern, Product Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Intern--Product-Engineering_R-25-13763'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-05-08-57-13'>🕐 Batch at 2026-04-05 08:57:13</h3>
 
@@ -35,4 +66,3 @@
 <table>
 
 ---
-
