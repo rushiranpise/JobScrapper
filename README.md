@@ -4,8 +4,39 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-05 13:45:41](#batch-2026-04-05-13-45-41)
 - [Batch at 2026-04-05 11:59:05](#batch-2026-04-05-11-59-05)
 - [Batch at 2026-04-05 08:57:13](#batch-2026-04-05-08-57-13)
+
+<h3 id='batch-2026-04-05-13-45-41'>🕐 Batch at 2026-04-05 13:45:41</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- BAH: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Full Stack Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Full-Stack-Developer_R0231419'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-05-11-59-05'>🕐 Batch at 2026-04-05 11:59:05</h3>
 
@@ -36,7 +67,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-05-08-57-13'>🕐 Batch at 2026-04-05 08:57:13</h3>
 
 📊 **Total jobs in this batch: 1**
