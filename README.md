@@ -4,10 +4,159 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-06 10:03:38](#batch-2026-04-06-10-03-38)
 - [Batch at 2026-04-06 09:02:40](#batch-2026-04-06-09-02-40)
 - [Batch at 2026-04-06 08:02:24](#batch-2026-04-06-08-02-24)
 - [Batch at 2026-04-06 06:28:07](#batch-2026-04-06-06-28-07)
-- [Batch at 2026-04-06 04:09:54](#batch-2026-04-06-04-09-54)
+
+<h3 id='batch-2026-04-06-10-03-38'>🕐 Batch at 2026-04-06 10:03:38</h3>
+
+📊 **Total jobs in this batch: 17**
+
+**Per company:**
+- Applied Materials: 3 jobs
+- DoorDash : 1 job
+- Dematic Corp. (ILD-US): 1 job
+- SharkNinja: 2 jobs
+- spacex: 3 jobs
+- State Street: 4 jobs
+- The Walt Disney Company: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Kalispell,MT</td>
+      <td>2026 Summer Manufacturing Engineer Intern- Bachelor's (Kalispell, MT)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/KalispellMT/XMLNAME-2026-Summer-Manufacturing-Engineer-Intern--Bachelor-s--Kalispell--MT-_R2616685'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Kalispell,MT</td>
+      <td>2026 Summer Industrial Engineering Intern- Bachelor's (Kalispell, MT)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/KalispellMT/XMLNAME-2026-Summer-Industrial-Engineering-Intern--Bachelor-s--Kalispell--MT-_R2616683'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Gloucester,MA</td>
+      <td>Material Coordinator/Handler II</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/Material-Coordinator-Handler-II_R2616426'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer, Infrastructure - Autonomy & Robotics</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/6367350'>Apply</a></td>
+      <td>Nov 01, 2024</td>
+    </tr>
+    <tr>
+      <td><b>Dematic Corp. (ILD-US)</b></td>
+      <td>Fort Worth, TX, United States</td>
+      <td>Material Handler - 2nd Shift</td>
+      <td><a href='https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Fort-Worth-TX-United-States/Material-Handler---2nd-Shift_JR-0086712-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SharkNinja</b></td>
+      <td>Needham, MA, United States</td>
+      <td>Fall 2026: Analytics & BI Intern, D2C (September to December)</td>
+      <td><a href='https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670554006'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SharkNinja</b></td>
+      <td>Needham, MA, United States</td>
+      <td>Fall 2026: Employer Brand Intern (September to December)</td>
+      <td><a href='https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670548006'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>Application Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8494240002?gh_jid=8494240002'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Application Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8494238002?gh_jid=8494238002'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Full Stack Software Engineer (Application Software)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8495131002?gh_jid=8495131002'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Berwyn, Pennsylvania</td>
+      <td>State Street - Global Delivery - Alpha Operations Summer Internship 2026</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Berwyn-Pennsylvania/State-Street---Global-Delivery---Alpha-Operations-Summer-Internship-2026_R-781935'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Boston, Massachusetts</td>
+      <td>State Steet - Securities Valuation Summer Internship 2026</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/State-Steet---Securities-Valuation-Summer-Internship-2026_R-787579'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Boston, Massachusetts</td>
+      <td>State Street - Custody and Complex - Proxy Team - Summer Internship 2026</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/State-Street---Custody-and-Complex---Proxy-Team---Summer-Internship-2026_R-787577'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Boston, Massachusetts</td>
+      <td>State Street - Alpha Data Services Intern – Product Analyst - Summer Internship 2026</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/State-Street---Alpha-Data-Services-Intern---Product-Analyst---Summer-Internship-2026_R-787576'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Kissimmee, FL, USA</td>
+      <td>Disney Live Entertainment Business Solutions Project Analyst Intern, Summer/Fall 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Kissimmee-FL-USA/Disney-Live-Entertainment-Business-Solutions-Project-Analyst-Intern--Summer-Fall-2026_10147298'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) CO COLORADO SPRINGS 01434 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CO-COLORADO-SPRINGS-01434-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2469265-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office CUMULUS</td>
+      <td>Systems and Infrastructure Engineer II</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-CUMULUS/Systems-and-Infrastructure-Engineer-II_R-2447811-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-06-09-02-40'>🕐 Batch at 2026-04-06 09:02:40</h3>
 
@@ -62,7 +211,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-06-08-02-24'>🕐 Batch at 2026-04-06 08:02:24</h3>
 
 📊 **Total jobs in this batch: 12**
@@ -174,8 +322,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-06-06-28-07'>🕐 Batch at 2026-04-06 06:28:07</h3>
+---<h3 id='batch-2026-04-06-06-28-07'>🕐 Batch at 2026-04-06 06:28:07</h3>
 
 📊 **Total jobs in this batch: 6**
 
