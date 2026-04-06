@@ -4,10 +4,142 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-06 12:16:16](#batch-2026-04-06-12-16-16)
 - [Batch at 2026-04-06 11:00:18](#batch-2026-04-06-11-00-18)
 - [Batch at 2026-04-06 10:03:38](#batch-2026-04-06-10-03-38)
 - [Batch at 2026-04-06 09:02:40](#batch-2026-04-06-09-02-40)
-- [Batch at 2026-04-06 08:02:24](#batch-2026-04-06-08-02-24)
+
+<h3 id='batch-2026-04-06-12-16-16'>🕐 Batch at 2026-04-06 12:16:16</h3>
+
+📊 **Total jobs in this batch: 14**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Motorola Solutions, Inc: 1 job
+- BAH: 2 jobs
+- IXL Learning: 2 jobs
+- KLA: 1 job
+- Micron: 1 job
+- nVent: 1 job
+- OpenEye: 1 job
+- Scale AI: 1 job
+- The Toro: 1 job
+- Wyetech LLC: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Robotics Software Integration Engineer, Mission Autonomy </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5100344007?gh_jid=5100344007'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Schaumburg, IL</td>
+      <td>Training Lab Assistant</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Training-Lab-Assistant_R63625'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Reston, VA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Reston-VA/DevOps-Engineer_R0237213'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Cloud Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cloud-Engineer_R0236310'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>IXL Learning</b></td>
+      <td>Raleigh, NC</td>
+      <td>Software Engineer, Intern</td>
+      <td><a href='https://www.ixl.com/company/jobs?gh_jid=8486934002'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>IXL Learning</b></td>
+      <td>San Mateo, CA</td>
+      <td>Software Engineer, Intern</td>
+      <td><a href='https://www.ixl.com/company/jobs?gh_jid=8486939002'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Ann Arbor, MI</td>
+      <td>Global Corporate Procurement Intern</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Global-Corporate-Procurement-Intern_2635239-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Syracuse, NY - Downtown Office</td>
+      <td>Intern - EHS Environmental Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Syracuse-NY---Downtown-Office/Intern---EHS-Environmental-Engineer_JR96988'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Blaine, MN, US</td>
+      <td>Material Handler - 2nd Shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Blaine-MN-US/Material-Handler---2nd-Shift_R21300'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenEye</b></td>
+      <td>Tysons, Virginia</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://job-boards.greenhouse.io/alarmcom/jobs/8384631002'>Apply</a></td>
+      <td>Feb 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Scale AI</b></td>
+      <td>San Francisco, CA; Seattle, WA; New York, NY</td>
+      <td>ICLR 2026 - Job Application</td>
+      <td><a href='https://job-boards.greenhouse.io/scaleai/jobs/4678031005'>Apply</a></td>
+      <td>Apr 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>West Salem, OH</td>
+      <td>Painter, 1st shift - American Augers</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/West-Salem-OH/Painter--1st-shift---American-Augers_JR15832'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>San Angelo, TX</td>
+      <td>Analysis & Reporting (A&R) Training Developers 1</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/387a024f-d022-4624-84b5-96476f72fcb2'>Apply</a></td>
+      <td>2026-04-06 18:36:42</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Ontario, OR</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Ontario-OR/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2468266'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-06-11-00-18'>🕐 Batch at 2026-04-06 11:00:18</h3>
 
@@ -160,7 +292,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-06-10-03-38'>🕐 Batch at 2026-04-06 10:03:38</h3>
 
 📊 **Total jobs in this batch: 17**
@@ -308,8 +439,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-06-09-02-40'>🕐 Batch at 2026-04-06 09:02:40</h3>
+---<h3 id='batch-2026-04-06-09-02-40'>🕐 Batch at 2026-04-06 09:02:40</h3>
 
 📊 **Total jobs in this batch: 4**
 
