@@ -4,10 +4,162 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-06 11:00:18](#batch-2026-04-06-11-00-18)
 - [Batch at 2026-04-06 10:03:38](#batch-2026-04-06-10-03-38)
 - [Batch at 2026-04-06 09:02:40](#batch-2026-04-06-09-02-40)
 - [Batch at 2026-04-06 08:02:24](#batch-2026-04-06-08-02-24)
-- [Batch at 2026-04-06 06:28:07](#batch-2026-04-06-06-28-07)
+
+<h3 id='batch-2026-04-06-11-00-18'>🕐 Batch at 2026-04-06 11:00:18</h3>
+
+📊 **Total jobs in this batch: 17**
+
+**Per company:**
+- Appian : 2 jobs
+- BAH: 2 jobs
+- DoorDash : 2 jobs
+- Enova: 1 job
+- Micron: 1 job
+- Natera : 1 job
+- NVIDIA: 1 job
+- Snowflake: 1 job
+- spacex: 1 job
+- The Toro: 1 job
+- Walmart: 4 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Appian </b></td>
+      <td>McLean, Virginia</td>
+      <td>Associate Solution Engineer (2026 Graduate)</td>
+      <td><a href='https://job-boards.greenhouse.io/appian/jobs/7599766'>Apply</a></td>
+      <td>Feb 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Appian </b></td>
+      <td>McLean, Virginia</td>
+      <td>Software Engineering Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/appian/jobs/7201613'>Apply</a></td>
+      <td>Aug 29, 2025</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>AWS DevOps Cloud Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/AWS-DevOps-Cloud-Engineer_R0237195'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Software and Systems Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-and-Systems-Engineer_R0237199'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York, NY</td>
+      <td>Machine Learning Intern (Masters) - Summer 2026</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/7295800'>Apply</a></td>
+      <td>Oct 13, 2025</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York, NY</td>
+      <td>Machine Learning Intern (PhD) - Summer 2026</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/7264631'>Apply</a></td>
+      <td>Oct 13, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Enova</b></td>
+      <td>Chicago, IL</td>
+      <td>CashNetUSA Application Support Representative (Remote)</td>
+      <td><a href='https://job-boards.greenhouse.io/enova/jobs/7782303'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>New College Grad - Product Development Failure Analysis Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---Product-Development-Failure-Analysis-Engineer_JR97284'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>Austin, TX</td>
+      <td>Clinical Data Review Asst</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/5848584004'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>System Software Engineer, GeForce Software</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--GeForce-Software_JR2015749-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-NY-New York</td>
+      <td>Data Platform Architect - Applied Field Engineering</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/3907c5a7-f725-4a53-a547-a33f65c5d65d'>Apply</a></td>
+      <td>Mar 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>Full Stack Software Engineer (Application Software)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8495180002?gh_jid=8495180002'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Beatrice, NE</td>
+      <td>Material Handler, 2nd Shift - Exmark</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Beatrice-NE/Material-Handler--2nd-Shift---Exmark_JR15825'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MT GREAT FALLS 02455 WM SUPERCENTER</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MT-GREAT-FALLS-02455-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2467890'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TN MEMPHIS 05196 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TN-MEMPHIS-05196-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2468898'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) VA NEWPORT NEWS 04623 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-VA-NEWPORT-NEWS-04623-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2467923'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Sunnyvale, CA</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-III_R-2394432-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-06-10-03-38'>🕐 Batch at 2026-04-06 10:03:38</h3>
 
@@ -157,7 +309,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-06-09-02-40'>🕐 Batch at 2026-04-06 09:02:40</h3>
 
 📊 **Total jobs in this batch: 4**
@@ -210,8 +361,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-06-08-02-24'>🕐 Batch at 2026-04-06 08:02:24</h3>
+---<h3 id='batch-2026-04-06-08-02-24'>🕐 Batch at 2026-04-06 08:02:24</h3>
 
 📊 **Total jobs in this batch: 12**
 
