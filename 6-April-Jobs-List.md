@@ -4,9 +4,78 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-06 06:28:07](#batch-2026-04-06-06-28-07)
 - [Batch at 2026-04-06 04:09:54](#batch-2026-04-06-04-09-54)
 - [Batch at 2026-04-06 02:21:22](#batch-2026-04-06-02-21-22)
 - [Batch at 2026-04-06 00:58:39](#batch-2026-04-06-00-58-39)
+
+<h3 id='batch-2026-04-06-06-28-07'>🕐 Batch at 2026-04-06 06:28:07</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- BorgWarner: 1 job
+- Genesys: 1 job
+- The Walt Disney Company: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Arden - North Carolina - USA</td>
+      <td>Quality Co-Op</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/Quality-Co-Op_R2026-1211'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Genesys</b></td>
+      <td>Durham, NC, USA</td>
+      <td>Direct Response Representative Intern</td>
+      <td><a href='https://genesys.wd1.myworkdayjobs.com/en-US/Genesys/job/Durham-NC-USA/Direct-Response-Representative-Intern_JR110624-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Anaheim, CA, USA</td>
+      <td>Revenue Planning & Analytics Intern, Summer/Fall 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Revenue-Planning---Analytics-Intern--Summer-Fall-2026_10147814'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Franklin, NC</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Franklin-NC/Pharmacy-Grad-Intern--Hrly-_R-2467362-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Hudson, NH</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Hudson-NH/Front-End-Coach_R-2468841-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office Building 10</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/Software-Engineer-III_R-2444094'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-06-04-09-54'>🕐 Batch at 2026-04-06 04:09:54</h3>
 
@@ -37,7 +106,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-06-02-21-22'>🕐 Batch at 2026-04-06 02:21:22</h3>
 
 📊 **Total jobs in this batch: 1**
@@ -66,8 +134,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-06-00-58-39'>🕐 Batch at 2026-04-06 00:58:39</h3>
+---<h3 id='batch-2026-04-06-00-58-39'>🕐 Batch at 2026-04-06 00:58:39</h3>
 
 📊 **Total jobs in this batch: 5**
 
