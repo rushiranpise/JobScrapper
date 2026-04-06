@@ -4,10 +4,133 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-06 14:49:35](#batch-2026-04-06-14-49-35)
 - [Batch at 2026-04-06 13:50:16](#batch-2026-04-06-13-50-16)
 - [Batch at 2026-04-06 12:16:16](#batch-2026-04-06-12-16-16)
 - [Batch at 2026-04-06 11:00:18](#batch-2026-04-06-11-00-18)
-- [Batch at 2026-04-06 10:03:38](#batch-2026-04-06-10-03-38)
+
+<h3 id='batch-2026-04-06-14-49-35'>🕐 Batch at 2026-04-06 14:49:35</h3>
+
+📊 **Total jobs in this batch: 13**
+
+**Per company:**
+- Samsung Electronics America, Inc: 1 job
+- Chime: 1 job
+- Citi: 1 job
+- nVent: 1 job
+- Ramp: 1 job
+- Saronic: 1 job
+- State Street: 2 jobs
+- The Walt Disney Company: 1 job
+- Wyetech LLC: 3 jobs
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>645 Clyde Avenue, Mountain View, CA, USA</td>
+      <td>Engineer III, Machine Learning Software</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Engineer-III--Machine-Learning-Software_R116167'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Chime</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Software Engineer, Credit Risk Platform</td>
+      <td><a href='https://boards.greenhouse.io/chime/jobs/8219793002?gh_jid=8219793002'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex Trainer Capital Humano y Cultura</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Trainer-Capital-Humano-y-Cultura_26950954-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Chattanooga, TN, US</td>
+      <td>Oversized Load - Material Handler</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Chattanooga-TN-US/Oversized-Load---Material-Handler_R21310'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Ramp</b></td>
+      <td>New York, NY (HQ)</td>
+      <td>Software Engineer, Ramp Travel</td>
+      <td><a href='https://jobs.ashbyhq.com/ramp/4bb1ccd6-cf0d-48a8-90f6-05d61617d0d4'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Saronic</b></td>
+      <td>Austin, Texas</td>
+      <td>Full Stack Software Engineer, Program Systems</td>
+      <td><a href='https://jobs.lever.co/saronic/bf1f2887-add0-44d5-9bff-c50fb81f050b'>Apply</a></td>
+      <td>2026-04-06 21:23:29</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Burlington Massachusetts</td>
+      <td>Software Engineer Intern -6 Month intern- July- Dec</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Software-Engineer-Intern--6-Month-intern--July--Dec_R-787596'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Burlington Massachusetts</td>
+      <td>Project Management Intern -CRD-6 month intern- July- DEC</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Project-Management-Intern--CRD-6-month-intern--July--DEC_R-787592'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Junior Animator</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/San-Francisco-CA-USA/Junior-Animator_10147664-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Cloud Software Engineer 1</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/d3e8b52f-0cbf-434e-b064-f3e997d2ffbe'>Apply</a></td>
+      <td>2026-04-06 21:25:14</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 1</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/3d5d4d2a-b423-4c9b-be45-6ca1e32e45de'>Apply</a></td>
+      <td>2026-04-06 20:52:09</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Hanover, Maryland</td>
+      <td>Software Engineer 1</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/acbc21f7-0b39-45ad-9e29-a9f2e8a07aaa'>Apply</a></td>
+      <td>2026-04-06 21:28:05</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Redbird AR BENTONVILLE Home Office</td>
+      <td>Software Engineer III – Fullstack</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Redbird-AR-BENTONVILLE-Home-Office/Software-Engineer-III---Fullstack_R-2389328'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-06-13-50-16'>🕐 Batch at 2026-04-06 13:50:16</h3>
 
@@ -184,7 +307,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-06-12-16-16'>🕐 Batch at 2026-04-06 12:16:16</h3>
 
 📊 **Total jobs in this batch: 14**
@@ -315,8 +437,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-06-11-00-18'>🕐 Batch at 2026-04-06 11:00:18</h3>
+---<h3 id='batch-2026-04-06-11-00-18'>🕐 Batch at 2026-04-06 11:00:18</h3>
 
 📊 **Total jobs in this batch: 17**
 
