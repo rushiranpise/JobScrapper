@@ -4,10 +4,140 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-06 15:49:41](#batch-2026-04-06-15-49-41)
 - [Batch at 2026-04-06 14:49:35](#batch-2026-04-06-14-49-35)
 - [Batch at 2026-04-06 13:50:16](#batch-2026-04-06-13-50-16)
 - [Batch at 2026-04-06 12:16:16](#batch-2026-04-06-12-16-16)
-- [Batch at 2026-04-06 11:00:18](#batch-2026-04-06-11-00-18)
+
+<h3 id='batch-2026-04-06-15-49-41'>🕐 Batch at 2026-04-06 15:49:41</h3>
+
+📊 **Total jobs in this batch: 14**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- athenahealth : 1 job
+- Applied Materials: 2 jobs
+- BAH: 1 job
+- GE Healthcare: 1 job
+- GOAT : 1 job
+- KLA: 1 job
+- The Walt Disney Company: 2 jobs
+- Twilio: 1 job
+- Verkada : 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Kinston, NC, United States </td>
+      <td>Data Architect</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5100611007'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>athenahealth </b></td>
+      <td>Austin TX</td>
+      <td>Software Engineer, PEX</td>
+      <td><a href='https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Austin-TX/Software-Engineer--PEX_R14544'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>eBeam Metrology Application Development Engineer III</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/eBeam-Metrology-Application-Development-Engineer-III_R2616523'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Investor Relations Summer Internship (Bachelors - Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Investor-Relations-Summer-Internship--Bachelors---Santa-Clara--CA-_R2616590-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Albuquerque, NM</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/Data-Engineer_R0237241'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>GE Healthcare</b></td>
+      <td>WA07-01-Bellevue-1100-112th Avenue NE</td>
+      <td>AI Scientist</td>
+      <td><a href='https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/WA07-01-Bellevue-1100-112th-Avenue-NE/AI-Scientist_R4039209-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>GOAT </b></td>
+      <td>Los Angeles, California, United States</td>
+      <td>Junior Authentication Training Specialist - Content</td>
+      <td><a href='https://job-boards.greenhouse.io/goatgroup/jobs/4681133005'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Ann Arbor, MI</td>
+      <td>DevOps Engineer – Infrastructure as Code (IaC)</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/DevOps-Engineer---Infrastructure-as-Code--IaC-_2635349'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Marne la Vallee Cedex 4, France</td>
+      <td>Alternance - Assistant(e) de stratégie audience et data (F/H/NB)</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Marne-la-Vallee-Cedex-4-France/Alternance---Assistant-e--de-stratgie-audience-et-data--F-H-NB-_10147238'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Marne la Vallee Cedex 4, France</td>
+      <td>Alternance – Assistant(e) reporting analyste – Big data (F/H/NB)</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Marne-la-Vallee-Cedex-4-France/Alternance---Assistant-e--reporting-analyste---Big-data--F-H-NB-_10146428'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Twilio</b></td>
+      <td>Remote - US</td>
+      <td>Software Engineer (L3)</td>
+      <td><a href='https://job-boards.greenhouse.io/twilio/jobs/7301401'>Apply</a></td>
+      <td>Oct 07, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Verkada </b></td>
+      <td>San Mateo, CA United States</td>
+      <td>Backend Software Engineering Intern - Fall 2026</td>
+      <td><a href='https://job-boards.greenhouse.io/verkada/jobs/5099422007'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Verkada </b></td>
+      <td>San Mateo, CA United States</td>
+      <td>Frontend Software Engineering Intern - Fall 2026</td>
+      <td><a href='https://job-boards.greenhouse.io/verkada/jobs/5099529007'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Verkada </b></td>
+      <td>San Mateo, CA United States</td>
+      <td>iOS Engineering Intern, Native Streaming - Fall 2026</td>
+      <td><a href='https://job-boards.greenhouse.io/verkada/jobs/5100623007'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-06-14-49-35'>🕐 Batch at 2026-04-06 14:49:35</h3>
 
@@ -131,7 +261,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-06-13-50-16'>🕐 Batch at 2026-04-06 13:50:16</h3>
 
 📊 **Total jobs in this batch: 20**
@@ -306,8 +435,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-06-12-16-16'>🕐 Batch at 2026-04-06 12:16:16</h3>
+---<h3 id='batch-2026-04-06-12-16-16'>🕐 Batch at 2026-04-06 12:16:16</h3>
 
 📊 **Total jobs in this batch: 14**
 
