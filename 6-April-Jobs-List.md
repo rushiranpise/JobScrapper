@@ -4,10 +4,186 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-06 13:50:16](#batch-2026-04-06-13-50-16)
 - [Batch at 2026-04-06 12:16:16](#batch-2026-04-06-12-16-16)
 - [Batch at 2026-04-06 11:00:18](#batch-2026-04-06-11-00-18)
 - [Batch at 2026-04-06 10:03:38](#batch-2026-04-06-10-03-38)
-- [Batch at 2026-04-06 09:02:40](#batch-2026-04-06-09-02-40)
+
+<h3 id='batch-2026-04-06-13-50-16'>🕐 Batch at 2026-04-06 13:50:16</h3>
+
+📊 **Total jobs in this batch: 20**
+
+**Per company:**
+- Abnormal Security: 1 job
+- ally: 1 job
+- Motorola Solutions, Inc: 1 job
+- Applied Materials: 2 jobs
+- BAH: 4 jobs
+- Children's Hospital Medical Center: 1 job
+- Citi: 1 job
+- Intel Corporation: 2 jobs
+- KLA: 1 job
+- Lyft: 1 job
+- MOOG: 2 jobs
+- NVIDIA: 1 job
+- SharkNinja: 1 job
+- Zscaler: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Abnormal Security</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer 2 - Insider Risk</td>
+      <td><a href='https://abnormal.ai/careers/jobs/7636366003?gh_jid=7636366003'>Apply</a></td>
+      <td>Feb 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ally</b></td>
+      <td>N/A</td>
+      <td>Email</td>
+      <td><a href='mailto:?subject=Manager%20-%20Sales%20Alliance%20-%20Careers&body=https%3A%2F%2Fally.avature.net%2Fcareers%2FJobDetail%2FManager-Sales-Alliance%2F16296'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Pennsylvania, US Offsite, More...</td>
+      <td>Technical Trainer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Pennsylvania-US-Offsite/Technical-Trainer_R63626'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Data Scientist - Agentic AI / ML</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist---Agentic-AI---ML_R2616812'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>2026 Summer Algorithm Developer- Bachelor's (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Algorithm-Developer--Bachelor-s--Santa-Clara--CA-_R2616805'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0232643'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>API Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/API-Developer_R0232600'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Backend Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Backend-Developer_R0232598'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Logistics Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Logistics-Data-Analyst_R0237064'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Children's Hospital Medical Center</b></td>
+      <td>Burnet Campus</td>
+      <td>Data Science Analyst - Heart Institute</td>
+      <td><a href='https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Burnet-Campus/Data-Science-Analyst---Heart-Institute_JR217091'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>New York New York United States</td>
+      <td>Product Developer, Prime Product Development</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Product-Developer--Prime-Product-Development_26940015-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>F25 MET Student Technician - Metals - ICE - Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/F25-MET-Student-Technician---Metals---ICE---Intern_JR0282590-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Automation Software Development Integration Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Automation-Software-Development-Integration-Engineer_JR0282056'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Ann Arbor, MI</td>
+      <td>Digital Transformation & AI Intern</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Digital-Transformation---AI-Intern_2635323-3'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Lyft</b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer, Server</td>
+      <td><a href='https://app.careerpuck.com/job-board/lyft/job/8492315002?gh_jid=8492315002'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Software Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Software-Engineering_R-26-17014'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Systems Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Systems-Engineering_R-26-17012'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>RTL Power Optimization – New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SharkNinja</b></td>
+      <td>Needham, MA, United States</td>
+      <td>Fall 2026: Consumer Insights Intern (September to December)</td>
+      <td><a href='https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670561006'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zscaler</b></td>
+      <td>USA - Update Location</td>
+      <td>Specialist Solution Architect - ZT Cloud</td>
+      <td><a href='https://job-boards.greenhouse.io/zscaler/jobs/5097567007'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-06-12-16-16'>🕐 Batch at 2026-04-06 12:16:16</h3>
 
@@ -140,7 +316,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-06-11-00-18'>🕐 Batch at 2026-04-06 11:00:18</h3>
 
 📊 **Total jobs in this batch: 17**
@@ -291,8 +466,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-06-10-03-38'>🕐 Batch at 2026-04-06 10:03:38</h3>
+---<h3 id='batch-2026-04-06-10-03-38'>🕐 Batch at 2026-04-06 10:03:38</h3>
 
 📊 **Total jobs in this batch: 17**
 
