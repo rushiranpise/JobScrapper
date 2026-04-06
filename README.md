@@ -4,10 +4,64 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-06 09:02:40](#batch-2026-04-06-09-02-40)
 - [Batch at 2026-04-06 08:02:24](#batch-2026-04-06-08-02-24)
 - [Batch at 2026-04-06 06:28:07](#batch-2026-04-06-06-28-07)
 - [Batch at 2026-04-06 04:09:54](#batch-2026-04-06-04-09-54)
-- [Batch at 2026-04-06 02:21:22](#batch-2026-04-06-02-21-22)
+
+<h3 id='batch-2026-04-06-09-02-40'>🕐 Batch at 2026-04-06 09:02:40</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- BAH: 1 job
+- MOOG: 1 job
+- spacex: 1 job
+- ZoomInfo: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>Software Engineer - Full Stack</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Software-Engineer---Full-Stack_R0237182'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Systems Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Systems-Engineering_R-26-16992'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Cape Canaveral, FL</td>
+      <td>Data & Control Systems Engineer (Starship Launch Pad)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8231335002?gh_jid=8231335002'>Apply</a></td>
+      <td>Oct 28, 2025</td>
+    </tr>
+    <tr>
+      <td><b>ZoomInfo</b></td>
+      <td>Bethesda, Maryland, United States; Waltham, Massachusetts, United States</td>
+      <td>Software Engineer Intern</td>
+      <td><a href='https://www.zoominfo.com/careers?gh_jid=8373259002'>Apply</a></td>
+      <td>Feb 25, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-06-08-02-24'>🕐 Batch at 2026-04-06 08:02:24</h3>
 
@@ -121,7 +175,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-06-06-28-07'>🕐 Batch at 2026-04-06 06:28:07</h3>
 
 📊 **Total jobs in this batch: 6**
@@ -188,8 +241,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-06-04-09-54'>🕐 Batch at 2026-04-06 04:09:54</h3>
+---<h3 id='batch-2026-04-06-04-09-54'>🕐 Batch at 2026-04-06 04:09:54</h3>
 
 📊 **Total jobs in this batch: 1**
 
