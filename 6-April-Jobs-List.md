@@ -4,10 +4,56 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-06 16:47:58](#batch-2026-04-06-16-47-58)
 - [Batch at 2026-04-06 15:49:41](#batch-2026-04-06-15-49-41)
 - [Batch at 2026-04-06 14:49:35](#batch-2026-04-06-14-49-35)
 - [Batch at 2026-04-06 13:50:16](#batch-2026-04-06-13-50-16)
-- [Batch at 2026-04-06 12:16:16](#batch-2026-04-06-12-16-16)
+
+<h3 id='batch-2026-04-06-16-47-58'>🕐 Batch at 2026-04-06 16:47:58</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- State Street: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA UT - Salt Lake City BAS</td>
+      <td>Quality Engineering Intern</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Salt-Lake-City-BAS/Quality-Engineering-Intern_R-542524'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Burlington Massachusetts</td>
+      <td>Product Enablement and Documentation Intern -6 months- CRD - July- Dec</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Product-Enablement-and-Documentation-Intern--6-months--CRD---July--Dec_R-787603-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Monroe, WA</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Monroe-WA/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2466431-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-06-15-49-41'>🕐 Batch at 2026-04-06 15:49:41</h3>
 
@@ -138,7 +184,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-06-14-49-35'>🕐 Batch at 2026-04-06 14:49:35</h3>
 
 📊 **Total jobs in this batch: 13**
@@ -260,8 +305,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-06-13-50-16'>🕐 Batch at 2026-04-06 13:50:16</h3>
+---<h3 id='batch-2026-04-06-13-50-16'>🕐 Batch at 2026-04-06 13:50:16</h3>
 
 📊 **Total jobs in this batch: 20**
 
