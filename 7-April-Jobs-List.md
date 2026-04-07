@@ -4,10 +4,87 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-07 16:48:53](#batch-2026-04-07-16-48-53)
 - [Batch at 2026-04-07 15:50:06](#batch-2026-04-07-15-50-06)
 - [Batch at 2026-04-07 14:54:59](#batch-2026-04-07-14-54-59)
 - [Batch at 2026-04-07 14:01:52](#batch-2026-04-07-14-01-52)
-- [Batch at 2026-04-07 12:19:27](#batch-2026-04-07-12-19-27)
+
+<h3 id='batch-2026-04-07-16-48-53'>🕐 Batch at 2026-04-07 16:48:53</h3>
+
+📊 **Total jobs in this batch: 7**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- Esri: 1 job
+- Intel Corporation: 1 job
+- Morgan Stanley: 1 job
+- spacex: 2 jobs
+- WEX: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Wichita, Kansas</td>
+      <td>AI Solutions Architect  (aviation)</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5100636007'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer in Test (SDET) II - Survey123</td>
+      <td><a href='https://www.esri.com/careers/5099160007?gh_jid=5099160007'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, California, Santa Clara</td>
+      <td>Process Integration and Yield Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Process-Integration-and-Yield-Intern_JR0282666'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>New York, New York, United States of America</td>
+      <td>Data Analytics - Business Solutions Group - Associate</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Data-Analytics---Business-Solutions-Group---Associate_JR032325'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>HVAC Programmer</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8497590002?gh_jid=8497590002'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>New Graduate Engineer, Propulsion (Starship)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8497447002?gh_jid=8497447002'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>WEX</b></td>
+      <td>US - Remote</td>
+      <td>Software Development Engineer 2 - Front-End</td>
+      <td><a href='https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Development-Engineer-2---Front-End_R20458'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-07-15-50-06'>🕐 Batch at 2026-04-07 15:50:06</h3>
 
@@ -78,7 +155,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-07-14-54-59'>🕐 Batch at 2026-04-07 14:54:59</h3>
 
 📊 **Total jobs in this batch: 7**
@@ -154,8 +230,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-07-14-01-52'>🕐 Batch at 2026-04-07 14:01:52</h3>
+---<h3 id='batch-2026-04-07-14-01-52'>🕐 Batch at 2026-04-07 14:01:52</h3>
 
 📊 **Total jobs in this batch: 25**
 
