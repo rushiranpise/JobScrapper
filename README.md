@@ -4,10 +4,64 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-06 22:21:08](#batch-2026-04-06-22-21-08)
 - [Batch at 2026-04-06 19:53:10](#batch-2026-04-06-19-53-10)
 - [Batch at 2026-04-06 16:47:58](#batch-2026-04-06-16-47-58)
 - [Batch at 2026-04-06 15:49:41](#batch-2026-04-06-15-49-41)
-- [Batch at 2026-04-06 14:49:35](#batch-2026-04-06-14-49-35)
+
+<h3 id='batch-2026-04-06-22-21-08'>🕐 Batch at 2026-04-06 22:21:08</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- Applied Materials: 1 job
+- Citi: 1 job
+- gumgum: 1 job
+- Merck & Co.: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>2026 Summer Process Engineer Intern - PhD (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Process-Engineer-Intern---PhD--Santa-Clara--CA-_R2519239'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Irving Texas United States</td>
+      <td>Applications Support Analyst - Irving</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Applications-Support-Analyst---Irving_26948498'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>gumgum</b></td>
+      <td>Santa Monica, California, United States</td>
+      <td>Software Engineer II, Ad Exchange</td>
+      <td><a href='https://job-boards.greenhouse.io/gumgum/jobs/7691614003'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Merck & Co.</b></td>
+      <td>USA - New Jersey - Rahway</td>
+      <td>Assoc. Dir , Infrastructure Engineering</td>
+      <td><a href='https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/Assoc-Dir---Infrastructure-Engineering_R390489'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-06-19-53-10'>🕐 Batch at 2026-04-06 19:53:10</h3>
 
@@ -78,7 +132,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-06-16-47-58'>🕐 Batch at 2026-04-06 16:47:58</h3>
 
 📊 **Total jobs in this batch: 3**
@@ -123,8 +176,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-06-15-49-41'>🕐 Batch at 2026-04-06 15:49:41</h3>
+---<h3 id='batch-2026-04-06-15-49-41'>🕐 Batch at 2026-04-06 15:49:41</h3>
 
 📊 **Total jobs in this batch: 14**
 
