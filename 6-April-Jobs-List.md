@@ -4,10 +4,80 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-06 19:53:10](#batch-2026-04-06-19-53-10)
 - [Batch at 2026-04-06 16:47:58](#batch-2026-04-06-16-47-58)
 - [Batch at 2026-04-06 15:49:41](#batch-2026-04-06-15-49-41)
 - [Batch at 2026-04-06 14:49:35](#batch-2026-04-06-14-49-35)
-- [Batch at 2026-04-06 13:50:16](#batch-2026-04-06-13-50-16)
+
+<h3 id='batch-2026-04-06-19-53-10'>🕐 Batch at 2026-04-06 19:53:10</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- Applied Materials: 1 job
+- Chime: 1 job
+- Intel Corporation: 1 job
+- KLA: 1 job
+- spacex: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Data Scientist - Agentic AI / ML</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist---Agentic-AI---ML_R2615980'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Chime</b></td>
+      <td>Chicago, IL, USA; San Francisco, CA, USA</td>
+      <td>Data Analyst, Financial Crimes & Identity</td>
+      <td><a href='https://boards.greenhouse.io/chime/jobs/8485895002?gh_jid=8485895002'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Module Engineering Graduate Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-Graduate-Intern_JR0280872'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Product Sustainability Intern</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Product-Sustainability-Intern_2635509'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer (Platform Team)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8495882002?gh_jid=8495882002'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2450953'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-06-16-47-58'>🕐 Batch at 2026-04-06 16:47:58</h3>
 
@@ -54,7 +124,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-06-15-49-41'>🕐 Batch at 2026-04-06 15:49:41</h3>
 
 📊 **Total jobs in this batch: 14**
@@ -183,8 +252,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-06-14-49-35'>🕐 Batch at 2026-04-06 14:49:35</h3>
+---<h3 id='batch-2026-04-06-14-49-35'>🕐 Batch at 2026-04-06 14:49:35</h3>
 
 📊 **Total jobs in this batch: 13**
 
