@@ -4,10 +4,80 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-07 15:50:06](#batch-2026-04-07-15-50-06)
 - [Batch at 2026-04-07 14:54:59](#batch-2026-04-07-14-54-59)
 - [Batch at 2026-04-07 14:01:52](#batch-2026-04-07-14-01-52)
 - [Batch at 2026-04-07 12:19:27](#batch-2026-04-07-12-19-27)
-- [Batch at 2026-04-07 10:13:50](#batch-2026-04-07-10-13-50)
+
+<h3 id='batch-2026-04-07-15-50-06'>🕐 Batch at 2026-04-07 15:50:06</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- ally: 1 job
+- BAH: 1 job
+- Broadcom : 1 job
+- The Walt Disney Company: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Mobile, AL</td>
+      <td>AI Enterprise Architect</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5101702007'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ally</b></td>
+      <td>N/A</td>
+      <td>Email</td>
+      <td><a href='mailto:?subject=Associate%20Analyst%20-%20Bank%20Fraud%20-%20Detection%20-%20Careers&body=https%3A%2F%2Fally.avature.net%2Fcareers%2FJobDetail%2FAssociate-Analyst-Bank-Fraud-Detection%2F16337'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>FedRAMP Cloud Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/FedRAMP-Cloud-Engineer_R0233195'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-CA - Promontory B</td>
+      <td>R&D Software Engineer VMKernel</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/R-D-Software-Engineer-VMKernel_R025627'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Junior Generalist</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/San-Francisco-CA-USA/Junior-Generalist_10147977'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Gallup, NM</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Gallup-NM/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2470457-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-07-14-54-59'>🕐 Batch at 2026-04-07 14:54:59</h3>
 
@@ -85,7 +155,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-07-14-01-52'>🕐 Batch at 2026-04-07 14:01:52</h3>
 
 📊 **Total jobs in this batch: 25**
@@ -294,8 +363,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-07-12-19-27'>🕐 Batch at 2026-04-07 12:19:27</h3>
+---<h3 id='batch-2026-04-07-12-19-27'>🕐 Batch at 2026-04-07 12:19:27</h3>
 
 📊 **Total jobs in this batch: 17**
 
