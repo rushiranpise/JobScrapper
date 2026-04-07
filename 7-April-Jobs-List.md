@@ -4,10 +4,235 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-07 10:13:50](#batch-2026-04-07-10-13-50)
 - [Batch at 2026-04-07 08:22:47](#batch-2026-04-07-08-22-47)
 - [Batch at 2026-04-07 06:35:04](#batch-2026-04-07-06-35-04)
 - [Batch at 2026-04-07 04:09:16](#batch-2026-04-07-04-09-16)
-- [Batch at 2026-04-07 00:31:55](#batch-2026-04-07-00-31-55)
+
+<h3 id='batch-2026-04-07-10-13-50'>🕐 Batch at 2026-04-07 10:13:50</h3>
+
+📊 **Total jobs in this batch: 27**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Applied Intuition: 1 job
+- Art of Problem Solving: 1 job
+- BAH: 4 jobs
+- Citi: 1 job
+- General Motors LLC: 1 job
+- MOOG: 1 job
+- Natera : 2 jobs
+- NVIDIAExternalCareerSite: 1 job
+- Redfin: 1 job
+- Sentry : 1 job
+- The Walt Disney Company: 1 job
+- Virtru : 1 job
+- Walmart: 10 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Reston, Virginia, United States</td>
+      <td>Software Engineer Intern</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5071345007?gh_jid=5071345007'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Intuition</b></td>
+      <td>Sunnyvale, California, United States</td>
+      <td>Software Engineer - Mission Control</td>
+      <td><a href='https://boards.greenhouse.io/appliedintuition/jobs/4681692005?gh_jid=4681692005'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Art of Problem Solving</b></td>
+      <td>San Francisco, California, United States</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://artofproblemsolving.com/careers/job/7609218003?gh_jid=7609218003'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Walton Beach, FL</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Walton-Beach-FL/Data-Engineer_R0237281'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Ashburn, VA</td>
+      <td>AI Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/AI-Architect_R0237282'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Norfolk, VA</td>
+      <td>AI and ML Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/AI-and-ML-Engineer_R0237255'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>F-35 Software Systems Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/F-35-Software-Systems-Engineer_R0237248'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Tampa Florida United States</td>
+      <td>Frontend React Developer - TAMPA</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Frontend-React-Developer---TAMPA_26950614'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Software Engineer – SIL Simulation & Testing</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer---SIL-Simulation---Testing_JR-202607633'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>CMM Programmer - 2nd Shift</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/CMM-Programmer---2nd-Shift_R-26-17021'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Associate Sustainability Analyst</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/5850317004'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Software Support Engineer III</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/5838456004'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIAExternalCareerSite</b></td>
+      <td>US, CA, Remote</td>
+      <td>Solutions Architect, Physical AI and Robotics</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Solutions-Architect--Physical-AI-and-Robotics_JR2015688'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Redfin</b></td>
+      <td>WA - Seattle</td>
+      <td>Software Developer II - RIGHT</td>
+      <td><a href='https://redfin.wd1.myworkdayjobs.com/en-US/redfin_careers/job/WA---Seattle/Software-Developer-II---RIGHT_60269'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Sentry </b></td>
+      <td>Stevens Point, WI</td>
+      <td>Software Developer (Hybrid Work Model)</td>
+      <td><a href='https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Software-Developer--Hybrid-Work-Model-_JR-141752'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Glendale, CA, USA</td>
+      <td>Global Public Relations Intern, Fall 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Global-Public-Relations-Intern--Fall-2026_10142222'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Virtru </b></td>
+      <td>Washington, DC - Remote</td>
+      <td>Technical Trainer</td>
+      <td><a href='https://job-boards.greenhouse.io/virtru/jobs/4682176005'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>(IND) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/XMLNAME--IND--Software-Engineer-III_R-2456592-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>SOFTWARE ENGINEER III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/SOFTWARE-ENGINEER-III_R-2421086-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>(IND) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/XMLNAME--IND--Software-Engineer-III_R-2421422-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Software-Engineer-III_R-2413131'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) OH HAMILTON 02441 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OH-HAMILTON-02441-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2466778-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) OH MEDINA 01894 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OH-MEDINA-01894-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2469229'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) FL HIALEAH 01590 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-FL-HIALEAH-01590-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2470076-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Gainesville, TX</td>
+      <td>Front End Coach Store 185, Gainesville, Tx</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Gainesville-TX/Front-End-Coach-Store-185--Gainesville--Tx_R-2469492-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) SD YANKTON 01483 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-SD-YANKTON-01483-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2470124'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Valdosta, GA</td>
+      <td>(USA) Material Handler, Manufacturing, Weekend Night</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Valdosta-GA/XMLNAME--USA--Material-Handler--Manufacturing--Weekend-Night_R-2470374'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-07-08-22-47'>🕐 Batch at 2026-04-07 08:22:47</h3>
 
@@ -177,7 +402,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-07-06-35-04'>🕐 Batch at 2026-04-07 06:35:04</h3>
 
 📊 **Total jobs in this batch: 6**
@@ -245,8 +469,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-07-04-09-16'>🕐 Batch at 2026-04-07 04:09:16</h3>
+---<h3 id='batch-2026-04-07-04-09-16'>🕐 Batch at 2026-04-07 04:09:16</h3>
 
 📊 **Total jobs in this batch: 1**
 
