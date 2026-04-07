@@ -4,10 +4,162 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-07 12:19:27](#batch-2026-04-07-12-19-27)
 - [Batch at 2026-04-07 10:13:50](#batch-2026-04-07-10-13-50)
 - [Batch at 2026-04-07 08:22:47](#batch-2026-04-07-08-22-47)
 - [Batch at 2026-04-07 06:35:04](#batch-2026-04-07-06-35-04)
-- [Batch at 2026-04-07 04:09:16](#batch-2026-04-07-04-09-16)
+
+<h3 id='batch-2026-04-07-12-19-27'>🕐 Batch at 2026-04-07 12:19:27</h3>
+
+📊 **Total jobs in this batch: 17**
+
+**Per company:**
+- Airbnb: 1 job
+- ally: 2 jobs
+- Applied Materials: 1 job
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- careers: 1 job
+- Comcast : 1 job
+- genpt: 1 job
+- Pure storage: 1 job
+- Redfin: 1 job
+- Walmart: 6 jobs
+- Zscaler: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Airbnb</b></td>
+      <td>Remote, USA </td>
+      <td>Software Engineer Guest & Host (Listing) </td>
+      <td><a href='https://careers.airbnb.com/positions/7783175?gh_jid=7783175'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ally</b></td>
+      <td>N/A</td>
+      <td>Email</td>
+      <td><a href='mailto:?subject=Associate%20Analyst%20-%20Retail%20Portfolio%20Management%20-%20Careers&body=https%3A%2F%2Fally.avature.net%2Fcareers%2FJobDetail%2FAssociate-Analyst-Retail-Portfolio-Management%2F16312'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>ally</b></td>
+      <td>N/A</td>
+      <td>Email</td>
+      <td><a href='mailto:?subject=Principal%20Data%20Science%20-%20Debit%20%2F%20Credit%20Card%20Fraud%20Analytics%20-%20Careers&body=https%3A%2F%2Fally.avature.net%2Fcareers%2FJobDetail%2FPrincipal-Data-Science-Debit-Credit-Card-Fraud-Analytics%2F16325'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>AI Algorithm - Intern</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/AI-Algorithm---Intern_R2614626'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA NJ - Franklin Lakes</td>
+      <td>Sustaining Project Engineer, Operations</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Sustaining-Project-Engineer--Operations_R-542052-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>careers</b></td>
+      <td>Indianapolis, IN USA</td>
+      <td>Electrical Engineer Intern</td>
+      <td><a href='https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Indianapolis-IN-USA/Electrical-Engineer-Intern_260004508-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1800 Arch St</td>
+      <td>Comcast FIRST Robotics Intern</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-FIRST-Robotics-Intern_R434891'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Software-Engineer-III_R26_0000002120'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pure storage</b></td>
+      <td>Raleigh, North Carolina</td>
+      <td>Deginated Services Engineer,  FlashBlade (Shift: Friday through Sunday, 7:00 PM to 8:00 AM Mountain Time)</td>
+      <td><a href='https://job-boards.greenhouse.io/purestorage/jobs/7757991'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Redfin</b></td>
+      <td>WA - Seattle</td>
+      <td>Software Developer I - RIGHT</td>
+      <td><a href='https://redfin.wd1.myworkdayjobs.com/en-US/redfin_careers/job/WA---Seattle/Software-Developer-I---RIGHT_60270'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Connellsville, PA</td>
+      <td>(USA) Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Connellsville-PA/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM_R-2467508'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Moon Pie Building AR Bentonville Home Office</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Moon-Pie-Building-AR-Bentonville-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2463176'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>SOFTWARE ENGINEER III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/SOFTWARE-ENGINEER-III_R-2421090-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Software-Engineer-II_R-2413458'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>(IND) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/XMLNAME--IND--Software-Engineer-III_R-2421863-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Quincy, IL</td>
+      <td>Pre Grad Intern - Sam's Club Pharmacy</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Quincy-IL/Pre-Grad-Intern---Sam-s-Club-Pharmacy_R-2470558'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zscaler</b></td>
+      <td>Remote - USA</td>
+      <td>Insider Risk Analyst - SkillBridge Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/zscaler/jobs/5100618007'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-07-10-13-50'>🕐 Batch at 2026-04-07 10:13:50</h3>
 
@@ -233,7 +385,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-07-08-22-47'>🕐 Batch at 2026-04-07 08:22:47</h3>
 
 📊 **Total jobs in this batch: 19**
@@ -401,8 +552,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-07-06-35-04'>🕐 Batch at 2026-04-07 06:35:04</h3>
+---<h3 id='batch-2026-04-07-06-35-04'>🕐 Batch at 2026-04-07 06:35:04</h3>
 
 📊 **Total jobs in this batch: 6**
 
