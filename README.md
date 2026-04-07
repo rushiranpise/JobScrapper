@@ -4,10 +4,220 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-07 14:01:52](#batch-2026-04-07-14-01-52)
 - [Batch at 2026-04-07 12:19:27](#batch-2026-04-07-12-19-27)
 - [Batch at 2026-04-07 10:13:50](#batch-2026-04-07-10-13-50)
 - [Batch at 2026-04-07 08:22:47](#batch-2026-04-07-08-22-47)
-- [Batch at 2026-04-07 06:35:04](#batch-2026-04-07-06-35-04)
+
+<h3 id='batch-2026-04-07-14-01-52'>🕐 Batch at 2026-04-07 14:01:52</h3>
+
+📊 **Total jobs in this batch: 25**
+
+**Per company:**
+- Abnormal Security: 1 job
+- Altruist: 1 job
+- ally: 3 jobs
+- Anduril Industries: 1 job
+- Applied Materials: 1 job
+- Aurora: 1 job
+- Citi: 2 jobs
+- Comcast : 1 job
+- searchLFN: 1 job
+- SoFi: 2 jobs
+- The Walt Disney Company: 3 jobs
+- Walmart: 7 jobs
+- Zipline: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Abnormal Security</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer 2 - Dev Accelerator</td>
+      <td><a href='https://abnormal.ai/careers/jobs/7691518003?gh_jid=7691518003'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Altruist</b></td>
+      <td>Los Angeles, CA</td>
+      <td>Junior IT Support Engineer</td>
+      <td><a href='https://altruist.com/join-altruist/5857174004?gh_jid=5857174004'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ally</b></td>
+      <td>N/A</td>
+      <td>Email</td>
+      <td><a href='mailto:?subject=Rep%20Processing%20-%20Careers&body=https%3A%2F%2Fally.avature.net%2Fcareers%2FJobDetail%2FRep-Processing%2F16283'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>ally</b></td>
+      <td>N/A</td>
+      <td>Email</td>
+      <td><a href='mailto:?subject=Senior%20Analyst%20-%20Adv%20Business%20Analytics%20-%20Careers&body=https%3A%2F%2Fally.avature.net%2Fcareers%2FJobDetail%2FSenior-Analyst-Adv-Business-Analytics%2F16295'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>ally</b></td>
+      <td>N/A</td>
+      <td>Email</td>
+      <td><a href='mailto:?subject=Account%20Executive%2C%20F%26I%20Dealer%20Products%20%26%20Services%20-%20Greater%20Washington%20D.C.%20Sales%20Market%20-%20Careers&body=https%3A%2F%2Fally.avature.net%2Fcareers%2FJobDetail%2FAccount-Executive-F-I-Dealer-Products-Services-Greater-Washington-D-C-Sales-Market%2F16305'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>AI Sorcerer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5101597007?gh_jid=5101597007'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>AI/ML for Chemistry/Materials Intern</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/AI-ML-for-Chemistry-Materials-Intern_R2616699'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Aurora</b></td>
+      <td>Mountain View, California</td>
+      <td>Software Engineer II, Map Fusion</td>
+      <td><a href='https://aurora.tech/jobs/8463953002?gh_jid=8463953002'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex Analista KYC de AML</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-KYC-de-AML_26948811'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>San Jose California United States</td>
+      <td>Part Time Teller (20 Hours),  San Jose Main Branch</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/San-Jose-California-United-States/Part-Time-Teller--20-Hours----San-Jose-Main-Branch_26952570-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1800 Arch St</td>
+      <td>Comcast FIRST Robotics Intern</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-FIRST-Robotics-Intern_R434108'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>searchLFN</b></td>
+      <td>Ramsey, MN</td>
+      <td>Materials Handler III - 2nd Shift Fab</td>
+      <td><a href='https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Ramsey-MN/Materials-Handler-III---2nd-Shift-Fab_JR-024679'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SoFi</b></td>
+      <td>WA - Seattle ; WA - Remote</td>
+      <td>Software Engineer</td>
+      <td><a href='https://sofi.com/careers/job/7692731003?gh_jid=7692731003'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SoFi</b></td>
+      <td>WA - Seattle</td>
+      <td>Software Engineer</td>
+      <td><a href='https://sofi.com/careers/job/7692745003?gh_jid=7692745003'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Seattle, WA, USA</td>
+      <td>Machine Learning Engineer Intern, Seattle, Summer 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Machine-Learning-Engineer-Intern--Seattle--Summer-2026_10143620-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>Antipiracy Operations Intern, Summer 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Antipiracy-Operations-Intern--Summer-2026_10147809-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Kissimmee, FL, USA</td>
+      <td>Disney Live Entertainment Tech Intern, Fall 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Kissimmee-FL-USA/Disney-Live-Entertainment-Tech-Intern--Fall-2026_10147951'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) IA CEDAR FALLS 00753 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IA-CEDAR-FALLS-00753-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2470122-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Atmore, AL</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Atmore-AL/Front-End-Coach_R-2470602'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Sam's Home Office AR Bentonville Home Office</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Sams-Home-Office-AR-Bentonville-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2420952'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) VIZIO SERVICES DALLAS TX DALLAS Home Office</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-VIZIO-SERVICES-DALLAS-TX-DALLAS-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2442133'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) OR CORNELIUS 04221 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OR-CORNELIUS-04221-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2470311-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Othello, WA</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Othello-WA/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2470861'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Digital Experiences Intern (New Grad - Summer 2026)</td>
+      <td><a href='https://www.flyzipline.com/careers/open-roles?gh_jid=7692662003'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Software-Engineer-II_R-2470484'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-07-12-19-27'>🕐 Batch at 2026-04-07 12:19:27</h3>
 
@@ -160,7 +370,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-07-10-13-50'>🕐 Batch at 2026-04-07 10:13:50</h3>
 
 📊 **Total jobs in this batch: 27**
@@ -384,8 +593,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-07-08-22-47'>🕐 Batch at 2026-04-07 08:22:47</h3>
+---<h3 id='batch-2026-04-07-08-22-47'>🕐 Batch at 2026-04-07 08:22:47</h3>
 
 📊 **Total jobs in this batch: 19**
 
