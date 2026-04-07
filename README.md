@@ -4,10 +4,87 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-07 14:54:59](#batch-2026-04-07-14-54-59)
 - [Batch at 2026-04-07 14:01:52](#batch-2026-04-07-14-01-52)
 - [Batch at 2026-04-07 12:19:27](#batch-2026-04-07-12-19-27)
 - [Batch at 2026-04-07 10:13:50](#batch-2026-04-07-10-13-50)
-- [Batch at 2026-04-07 08:22:47](#batch-2026-04-07-08-22-47)
+
+<h3 id='batch-2026-04-07-14-54-59'>🕐 Batch at 2026-04-07 14:54:59</h3>
+
+📊 **Total jobs in this batch: 7**
+
+**Per company:**
+- BAH: 1 job
+- Ciena: 1 job
+- GOAT : 1 job
+- Intel Corporation: 2 jobs
+- The Walt Disney Company: 1 job
+- Xylem Services USA LLC: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Belvoir, VA</td>
+      <td>Intelligence Trainer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Intelligence-Trainer_R0236990'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Ciena</b></td>
+      <td>Remote-US</td>
+      <td>Process Improvement and Program Management Intern</td>
+      <td><a href='https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Remote-US/Process-Improvement-and-Program-Management-Intern_R030595'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>GOAT </b></td>
+      <td>Easton, Pennsylvania, United States</td>
+      <td>Junior Authentication Specialist</td>
+      <td><a href='https://job-boards.greenhouse.io/goatgroup/jobs/4682418005'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Network Hardware Test and Automation Undergraduate Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Network-Hardware-Test-and-Automation-Undergraduate-Intern_JR0282403'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Process Integration and Yield Engineering Graduate Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-Graduate-Intern_JR0281460'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Marne la Vallee Cedex 4, France</td>
+      <td>Alternance – Data Analyst (F/H/NB)</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Marne-la-Vallee-Cedex-4-France/Alternance---Data-Analyst--F-H-NB-_10147975'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Xylem Services USA LLC</b></td>
+      <td>Charlotte, North Carolina</td>
+      <td>Business Operations & Data Analyst Intern</td>
+      <td><a href='https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Charlotte-North-Carolina/Business-Operations---Data-Analyst-Intern_R47255-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-07-14-01-52'>🕐 Batch at 2026-04-07 14:01:52</h3>
 
@@ -218,7 +295,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-07-12-19-27'>🕐 Batch at 2026-04-07 12:19:27</h3>
 
 📊 **Total jobs in this batch: 17**
@@ -369,8 +445,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-07-10-13-50'>🕐 Batch at 2026-04-07 10:13:50</h3>
+---<h3 id='batch-2026-04-07-10-13-50'>🕐 Batch at 2026-04-07 10:13:50</h3>
 
 📊 **Total jobs in this batch: 27**
 
