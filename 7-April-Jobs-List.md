@@ -4,7 +4,38 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-07 04:09:16](#batch-2026-04-07-04-09-16)
 - [Batch at 2026-04-07 00:31:55](#batch-2026-04-07-00-31-55)
+
+<h3 id='batch-2026-04-07-04-09-16'>🕐 Batch at 2026-04-07 04:09:16</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Allstate: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - NC (Remote)</td>
+      <td>Cloud Provisioning Engineer</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---NC-Remote/Cloud-Provisioning-Engineer_R27181-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-07-00-31-55'>🕐 Batch at 2026-04-07 00:31:55</h3>
 
@@ -51,4 +82,3 @@
 <table>
 
 ---
-
