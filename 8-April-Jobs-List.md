@@ -4,10 +4,133 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-08 08:23:48](#batch-2026-04-08-08-23-48)
 - [Batch at 2026-04-08 06:36:28](#batch-2026-04-08-06-36-28)
 - [Batch at 2026-04-08 04:09:52](#batch-2026-04-08-04-09-52)
 - [Batch at 2026-04-08 02:15:20](#batch-2026-04-08-02-15-20)
-- [Batch at 2026-04-08 00:35:09](#batch-2026-04-08-00-35-09)
+
+<h3 id='batch-2026-04-08-08-23-48'>🕐 Batch at 2026-04-08 08:23:48</h3>
+
+📊 **Total jobs in this batch: 13**
+
+**Per company:**
+- BAH: 2 jobs
+- Comcast : 1 job
+- Core Weave: 1 job
+- Dematic Corp. (ILD-US): 1 job
+- General Motors LLC: 1 job
+- Intel Corporation: 1 job
+- Okta: 1 job
+- Otis: 2 jobs
+- State Street: 2 jobs
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lexington Park, MD</td>
+      <td>Python Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/Python-Developer_R0237331'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Human Capital Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Human-Capital-Data-Analyst_R0237320'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1800 Arch St</td>
+      <td>Comcast FIRST Robotics Intern</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-FIRST-Robotics-Intern_R433814'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA</td>
+      <td>Productivity Platforms Developer</td>
+      <td><a href='https://coreweave.com/careers/job?4670169006&board=coreweave&gh_jid=4670169006'>Apply</a></td>
+      <td>Apr 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Dematic Corp. (ILD-US)</b></td>
+      <td>Grand Rapids, MI, United States</td>
+      <td>Software Engineer Intern - Software Execution</td>
+      <td><a href='https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Grand-Rapids-MI-United-States/Software-Engineer-Intern---Software-Execution_JR-0079895-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Software Engineer - Virtualization & SIL Integration</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer---Virtualization---SIL-Integration_JR-202606594-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, California, Folsom</td>
+      <td>Datapath Algorithm Intern (2026 US Intern)</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Datapath-Algorithm-Intern--2026-US-Intern-_JR0280569'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Okta</b></td>
+      <td>Bellevue, Washington</td>
+      <td>Digital Success Intern (Summer 2026)</td>
+      <td><a href='https://www.okta.com/company/careers/opportunity/7791786?gh_jid=7791786'>Apply</a></td>
+      <td>Apr 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Otis</b></td>
+      <td>19 Schooner Park, Crossways Business Park, DA2 6NW,Dartford, Kent</td>
+      <td>Prodctn/Maint, Field Svc</td>
+      <td><a href='https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/19-Schooner-Park-Crossways-Business-Park-DA2-6NWDartford-Kent/Prodctn-Maint--Field-Svc_20156099'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Otis</b></td>
+      <td>OT407: TAO - MIAMI, FL 9786 Premier Parkway, Miramar, FL, 33025 USA</td>
+      <td>Field Project Management Trainee</td>
+      <td><a href='https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT407-TAO---MIAMI-FL-9786-Premier-Parkway-Miramar-FL-33025-USA/Field-Project-Management-Trainee_20140479'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Boston, Massachusetts</td>
+      <td>Alpha TIER Transaction Management-Business Analysis, 6 Months Full-time Internship (Jul- Dec 2026)</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Alpha-TIER-Transaction-Management-Business-Analysis--6-Months-Full-time-Internship--Jul--Dec-2026-_R-787807'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Quincy, Massachusetts</td>
+      <td>State Street Custody and Complex Operations - Project Analyst Summer Internship</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/State-Street-Custody-and-Complex-Operations---Project-Analyst-Summer-Internship_R-787806'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Software-Engineer-III_R-2413146-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-08-06-36-28'>🕐 Batch at 2026-04-08 06:36:28</h3>
 
@@ -169,7 +292,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-08-04-09-52'>🕐 Batch at 2026-04-08 04:09:52</h3>
 
 📊 **Total jobs in this batch: 1**
@@ -198,8 +320,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-08-02-15-20'>🕐 Batch at 2026-04-08 02:15:20</h3>
+---<h3 id='batch-2026-04-08-02-15-20'>🕐 Batch at 2026-04-08 02:15:20</h3>
 
 📊 **Total jobs in this batch: 1**
 
