@@ -4,10 +4,48 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-07 19:53:23](#batch-2026-04-07-19-53-23)
 - [Batch at 2026-04-07 16:48:53](#batch-2026-04-07-16-48-53)
 - [Batch at 2026-04-07 15:50:06](#batch-2026-04-07-15-50-06)
 - [Batch at 2026-04-07 14:54:59](#batch-2026-04-07-14-54-59)
-- [Batch at 2026-04-07 14:01:52](#batch-2026-04-07-14-01-52)
+
+<h3 id='batch-2026-04-07-19-53-23'>🕐 Batch at 2026-04-07 19:53:23</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- Micron: 1 job
+- Morgan Stanley: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Manassas, VA -  Fab 6</td>
+      <td>New College Grad - Semiconductor Product Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/New-College-Grad---Semiconductor-Product-Engineer_JR94516'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>Purchase, New York, United States of America</td>
+      <td>Capital Markets / Private Markets Attorney</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/Capital-Markets---Private-Markets-Attorney_PT-JR033773'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-07-16-48-53'>🕐 Batch at 2026-04-07 16:48:53</h3>
 
@@ -85,7 +123,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-07-15-50-06'>🕐 Batch at 2026-04-07 15:50:06</h3>
 
 📊 **Total jobs in this batch: 6**
@@ -154,8 +191,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-07-14-54-59'>🕐 Batch at 2026-04-07 14:54:59</h3>
+---<h3 id='batch-2026-04-07-14-54-59'>🕐 Batch at 2026-04-07 14:54:59</h3>
 
 📊 **Total jobs in this batch: 7**
 
