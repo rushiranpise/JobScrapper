@@ -4,10 +4,56 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-08 15:51:38](#batch-2026-04-08-15-51-38)
 - [Batch at 2026-04-08 14:53:13](#batch-2026-04-08-14-53-13)
 - [Batch at 2026-04-08 13:59:45](#batch-2026-04-08-13-59-45)
 - [Batch at 2026-04-08 12:31:49](#batch-2026-04-08-12-31-49)
-- [Batch at 2026-04-08 10:18:08](#batch-2026-04-08-10-18-08)
+
+<h3 id='batch-2026-04-08-15-51-38'>🕐 Batch at 2026-04-08 15:51:38</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Airbnb: 1 job
+- NVIDIAExternalCareerSite: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Airbnb</b></td>
+      <td>Remote - US</td>
+      <td>Software Engineer, Infrastructure</td>
+      <td><a href='https://careers.airbnb.com/positions/6602436?gh_jid=6602436'>Apply</a></td>
+      <td>Feb 04, 2025</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIAExternalCareerSite</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Systems Software Engineer, Workstation Performance - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Workstation-Performance---New-College-Grad-2026_JR2015952'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>East Peoria, IL</td>
+      <td>(USA) Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/East-Peoria-IL/XMLNAME--USA--Pharmacy-Grad-Intern--Hrly-_R-2472476-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-08-14-53-13'>🕐 Batch at 2026-04-08 14:53:13</h3>
 
@@ -76,7 +122,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-08-13-59-45'>🕐 Batch at 2026-04-08 13:59:45</h3>
 
 📊 **Total jobs in this batch: 18**
@@ -234,8 +279,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-08-12-31-49'>🕐 Batch at 2026-04-08 12:31:49</h3>
+---<h3 id='batch-2026-04-08-12-31-49'>🕐 Batch at 2026-04-08 12:31:49</h3>
 
 📊 **Total jobs in this batch: 23**
 
