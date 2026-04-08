@@ -4,10 +4,156 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-08 10:18:08](#batch-2026-04-08-10-18-08)
 - [Batch at 2026-04-08 08:23:48](#batch-2026-04-08-08-23-48)
 - [Batch at 2026-04-08 06:36:28](#batch-2026-04-08-06-36-28)
 - [Batch at 2026-04-08 04:09:52](#batch-2026-04-08-04-09-52)
-- [Batch at 2026-04-08 02:15:20](#batch-2026-04-08-02-15-20)
+
+<h3 id='batch-2026-04-08-10-18-08'>🕐 Batch at 2026-04-08 10:18:08</h3>
+
+📊 **Total jobs in this batch: 16**
+
+**Per company:**
+- Affirm : 2 jobs
+- ALTEN Technology USA: 1 job
+- ally: 2 jobs
+- Anduril Industries: 1 job
+- Motorola Solutions, Inc: 1 job
+- BAH: 1 job
+- Micron: 2 jobs
+- MOOG: 1 job
+- The Toro: 1 job
+- Travellers: 1 job
+- Twitch: 1 job
+- Verkada : 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>Software Engineer II, Backend (Purchasing Power Experience)</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/7673126003'>Apply</a></td>
+      <td>Apr 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>Software Engineer II, Frontend (Purchasing Integrations)</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/7687973003'>Apply</a></td>
+      <td>Apr 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Conklin, NY</td>
+      <td>Supplier Quality & Product Assurance Liaison</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5057472007'>Apply</a></td>
+      <td>Feb 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ally</b></td>
+      <td>N/A</td>
+      <td>Email</td>
+      <td><a href='mailto:?subject=Manager%20-%20Agentic%20AI%20-%20Application%20Operations%20-%20Careers&body=https%3A%2F%2Fally.avature.net%2Fcareers%2FJobDetail%2FManager-Agentic-AI-Application-Operations%2F16258'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>ally</b></td>
+      <td>N/A</td>
+      <td>Email</td>
+      <td><a href='mailto:?subject=Supply%20Chain%20Transformation%20Manager%20-%20Careers&body=https%3A%2F%2Fally.avature.net%2Fcareers%2FJobDetail%2FSupply-Chain-Transformation-Manager%2F16334'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Irvine, California, United States</td>
+      <td>Software Engineer, Robotics</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5102381007?gh_jid=5102381007'>Apply</a></td>
+      <td>Apr 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Chicago, IL, More...</td>
+      <td>Product Management Analyst – Command Center Voice Software</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Product-Management-Analyst---Command-Center-Voice-Software_R62631'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>Cyber Range Infrastructure Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Cyber-Range-Infrastructure-Engineer_R0237359'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Yield Enhancement Electrical Failure Analysis Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Yield-Enhancement-Electrical-Failure-Analysis-Engineer_JR97576'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Facilities Capital Planning Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Facilities-Capital-Planning-Engineer_JR97561'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Torrance, CA</td>
+      <td>Intern, Software Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Intern--Software-Engineering_R-26-16997'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Ankeny, IA</td>
+      <td>Material Handler - The Toro Company</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Ankeny-IA/Material-Handler---The-Toro-Company_JR15895'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Travellers</b></td>
+      <td>CT - Hartford</td>
+      <td>Software Engineer II - SDLC, GenAI</td>
+      <td><a href='https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Software-Engineer-II---SDLC--GenAI_R-50086'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Twitch</b></td>
+      <td>San Francisco, CA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/twitch/jobs/8334413002'>Apply</a></td>
+      <td>Jan 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Verkada </b></td>
+      <td>San Mateo, CA United States</td>
+      <td>Full Stack Engineer, Go-to-Market Systems</td>
+      <td><a href='https://job-boards.greenhouse.io/verkada/jobs/5101667007'>Apply</a></td>
+      <td>Apr 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Verkada </b></td>
+      <td>San Mateo, CA United States</td>
+      <td>Full Stack Engineer, Go-to-Market Systems</td>
+      <td><a href='https://job-boards.greenhouse.io/verkada/jobs/5101666007'>Apply</a></td>
+      <td>Apr 08, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-08-08-23-48'>🕐 Batch at 2026-04-08 08:23:48</h3>
 
@@ -131,7 +277,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-08-06-36-28'>🕐 Batch at 2026-04-08 06:36:28</h3>
 
 📊 **Total jobs in this batch: 19**
@@ -291,8 +436,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-08-04-09-52'>🕐 Batch at 2026-04-08 04:09:52</h3>
+---<h3 id='batch-2026-04-08-04-09-52'>🕐 Batch at 2026-04-08 04:09:52</h3>
 
 📊 **Total jobs in this batch: 1**
 
