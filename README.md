@@ -4,10 +4,55 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-07 22:22:40](#batch-2026-04-07-22-22-40)
 - [Batch at 2026-04-07 19:53:23](#batch-2026-04-07-19-53-23)
 - [Batch at 2026-04-07 16:48:53](#batch-2026-04-07-16-48-53)
 - [Batch at 2026-04-07 15:50:06](#batch-2026-04-07-15-50-06)
-- [Batch at 2026-04-07 14:54:59](#batch-2026-04-07-14-54-59)
+
+<h3 id='batch-2026-04-07-22-22-40'>🕐 Batch at 2026-04-07 22:22:40</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Wildlife Technician</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Wildlife-Technician_JR58430'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PW II</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PW-II/Software-Engineer-III_R-2459297-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Software-Engineer-III_R-2420301-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-07-19-53-23'>🕐 Batch at 2026-04-07 19:53:23</h3>
 
@@ -46,7 +91,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-07-16-48-53'>🕐 Batch at 2026-04-07 16:48:53</h3>
 
 📊 **Total jobs in this batch: 7**
@@ -122,8 +166,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-07-15-50-06'>🕐 Batch at 2026-04-07 15:50:06</h3>
+---<h3 id='batch-2026-04-07-15-50-06'>🕐 Batch at 2026-04-07 15:50:06</h3>
 
 📊 **Total jobs in this batch: 6**
 
