@@ -4,10 +4,56 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-08 16:50:04](#batch-2026-04-08-16-50-04)
 - [Batch at 2026-04-08 15:51:38](#batch-2026-04-08-15-51-38)
 - [Batch at 2026-04-08 14:53:13](#batch-2026-04-08-14-53-13)
 - [Batch at 2026-04-08 13:59:45](#batch-2026-04-08-13-59-45)
-- [Batch at 2026-04-08 12:31:49](#batch-2026-04-08-12-31-49)
+
+<h3 id='batch-2026-04-08-16-50-04'>🕐 Batch at 2026-04-08 16:50:04</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Broadcom : 1 job
+- Citi: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-IL Lisle Warrenville Road</td>
+      <td>Mainframe Software Development Engineer</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-IL-Lisle-Warrenville-Road/Mainframe-Software-Development-Engineer_R025616'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Tampa Florida United States</td>
+      <td>Data Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Data-Analyst_26936975'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) GA WINDER 00520 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-GA-WINDER-00520-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2472097'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-08-15-51-38'>🕐 Batch at 2026-04-08 15:51:38</h3>
 
@@ -54,7 +100,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-08-14-53-13'>🕐 Batch at 2026-04-08 14:53:13</h3>
 
 📊 **Total jobs in this batch: 6**
@@ -121,8 +166,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-08-13-59-45'>🕐 Batch at 2026-04-08 13:59:45</h3>
+---<h3 id='batch-2026-04-08-13-59-45'>🕐 Batch at 2026-04-08 13:59:45</h3>
 
 📊 **Total jobs in this batch: 18**
 
