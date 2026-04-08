@@ -4,10 +4,169 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-08 13:59:45](#batch-2026-04-08-13-59-45)
 - [Batch at 2026-04-08 12:31:49](#batch-2026-04-08-12-31-49)
 - [Batch at 2026-04-08 10:18:08](#batch-2026-04-08-10-18-08)
 - [Batch at 2026-04-08 08:23:48](#batch-2026-04-08-08-23-48)
-- [Batch at 2026-04-08 06:36:28](#batch-2026-04-08-06-36-28)
+
+<h3 id='batch-2026-04-08-13-59-45'>🕐 Batch at 2026-04-08 13:59:45</h3>
+
+📊 **Total jobs in this batch: 18**
+
+**Per company:**
+- ally: 1 job
+- Motorola Solutions, Inc: 1 job
+- BAH: 5 jobs
+- Core Weave: 1 job
+- General Motors LLC: 1 job
+- KLA: 1 job
+- Morgan Stanley: 1 job
+- Snowflake: 1 job
+- The Walt Disney Company: 2 jobs
+- Walmart: 3 jobs
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ally</b></td>
+      <td>N/A</td>
+      <td>Email</td>
+      <td><a href='mailto:?subject=Specialist%2C%20Marketing%20Program%20Management%20Office%20-%20Careers&body=https%3A%2F%2Fally.avature.net%2Fcareers%2FJobDetail%2FDetroit-MI-Specialist-Marketing-Program-Management-Office%2F16338'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Plantation, FL</td>
+      <td>Software Test Technician</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Software-Test-Technician_R58630'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Engineer_R0237409'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Defense Critical Infrastructure Intelligence Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Defense-Critical-Infrastructure-Intelligence-Analyst_R0237399'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Full Stack Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Full-Stack-Developer_R0237410'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Front End Developer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Front-End-Developer--Mid_R0237408'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Ashburn, VA</td>
+      <td>Databricks Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/Databricks-Data-Engineer_R0237405'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Sunnyvale, CA / Bellevue, WA</td>
+      <td>Software Engineer - Data Infrastructure Services</td>
+      <td><a href='https://coreweave.com/careers/job?4671477006&board=coreweave&gh_jid=4671477006'>Apply</a></td>
+      <td>Apr 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Roanoke, Texas, United States of America</td>
+      <td>Dealer Liaison</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Roanoke-Texas-United-States-of-America/Dealer-Liaison_JR-202607748'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Advanced Technology Applications Engineering Intern</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Marketing-Applications-Development-Intern_2532181-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>New York, New York, United States of America</td>
+      <td>AI/ML Model Development Analyst  (Open)</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/AI-ML-Model-Development-Analyst---Open-_PT-JR034170'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Campaign Program Specialist</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/cf8f9538-e0fa-4c0e-be19-d2e7b218f6a0'>Apply</a></td>
+      <td>Apr 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Lake Buena Vista, FL, USA</td>
+      <td>Labor Relations Intern - Orlando, Fall 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Relations-Intern---Orlando--Fall-2026_10147297'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Anaheim, CA, USA</td>
+      <td>Labor Relations Intern - Anaheim, Fall 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Labor-Relations-Intern---Anaheim--Fall-2026_10148095'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Dickson City, PA</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Dickson-City-PA/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2472320'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Dickson City, PA</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Dickson-City-PA/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2472335'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX TYLER 01044 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-TYLER-01044-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2471066-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer - Perception / Fleet Mapping</td>
+      <td><a href='https://jobs.lever.co/zoox/fae180f4-ca88-40e7-9332-ca89a48c95a3'>Apply</a></td>
+      <td>2026-04-08 19:35:34</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-08-12-31-49'>🕐 Batch at 2026-04-08 12:31:49</h3>
 
@@ -200,7 +359,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-08-10-18-08'>🕐 Batch at 2026-04-08 10:18:08</h3>
 
 📊 **Total jobs in this batch: 16**
@@ -345,8 +503,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-08-08-23-48'>🕐 Batch at 2026-04-08 08:23:48</h3>
+---<h3 id='batch-2026-04-08-08-23-48'>🕐 Batch at 2026-04-08 08:23:48</h3>
 
 📊 **Total jobs in this batch: 13**
 
