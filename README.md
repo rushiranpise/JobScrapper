@@ -4,10 +4,78 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-08 14:53:13](#batch-2026-04-08-14-53-13)
 - [Batch at 2026-04-08 13:59:45](#batch-2026-04-08-13-59-45)
 - [Batch at 2026-04-08 12:31:49](#batch-2026-04-08-12-31-49)
 - [Batch at 2026-04-08 10:18:08](#batch-2026-04-08-10-18-08)
-- [Batch at 2026-04-08 08:23:48](#batch-2026-04-08-08-23-48)
+
+<h3 id='batch-2026-04-08-14-53-13'>🕐 Batch at 2026-04-08 14:53:13</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- BAH: 2 jobs
+- LaunchDarkly : 1 job
+- Veeva Systems: 2 jobs
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Scientist_R0237416-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Atlanta, GA</td>
+      <td>Full Stack Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Full-Stack-Developer_R0237420-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>LaunchDarkly </b></td>
+      <td>Remote - US</td>
+      <td>Full Stack Engineer, Guarded Releases</td>
+      <td><a href='https://job-boards.greenhouse.io/launchdarkly/jobs/7694211003'>Apply</a></td>
+      <td>Apr 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Veeva Systems</b></td>
+      <td>Massachusetts - Boston</td>
+      <td>Data Scientist - Business Consulting</td>
+      <td><a href='https://jobs.lever.co/veeva/3a3dc8f0-e507-4a44-9e30-59b566ae927a'>Apply</a></td>
+      <td>2026-04-06 15:24:45</td>
+    </tr>
+    <tr>
+      <td><b>Veeva Systems</b></td>
+      <td>Massachusetts - Boston</td>
+      <td>Data Scientist - Business Consulting</td>
+      <td><a href='https://jobs.lever.co/veeva/5978d8fb-0a10-4445-91c4-2f25a83be7e8'>Apply</a></td>
+      <td>2026-04-06 15:26:14</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Respect Building CA SUNNYVALE Home Office</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III_R-2459971'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-08-13-59-45'>🕐 Batch at 2026-04-08 13:59:45</h3>
 
@@ -167,7 +235,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-08-12-31-49'>🕐 Batch at 2026-04-08 12:31:49</h3>
 
 📊 **Total jobs in this batch: 23**
@@ -358,8 +425,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-08-10-18-08'>🕐 Batch at 2026-04-08 10:18:08</h3>
+---<h3 id='batch-2026-04-08-10-18-08'>🕐 Batch at 2026-04-08 10:18:08</h3>
 
 📊 **Total jobs in this batch: 16**
 
