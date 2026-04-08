@@ -4,10 +4,202 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-08 12:31:49](#batch-2026-04-08-12-31-49)
 - [Batch at 2026-04-08 10:18:08](#batch-2026-04-08-10-18-08)
 - [Batch at 2026-04-08 08:23:48](#batch-2026-04-08-08-23-48)
 - [Batch at 2026-04-08 06:36:28](#batch-2026-04-08-06-36-28)
-- [Batch at 2026-04-08 04:09:52](#batch-2026-04-08-04-09-52)
+
+<h3 id='batch-2026-04-08-12-31-49'>🕐 Batch at 2026-04-08 12:31:49</h3>
+
+📊 **Total jobs in this batch: 23**
+
+**Per company:**
+- Anduril Industries: 4 jobs
+- CrowdStrike, Inc: 1 job
+- Applied Materials: 1 job
+- BAH: 4 jobs
+- Ciena: 1 job
+- Dematic Corp. (ILD-US): 1 job
+- General Motors LLC: 3 jobs
+- Intel Corporation: 2 jobs
+- Walmart: 6 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Washington, District of Columbia, United States</td>
+      <td>Software Engineer, DevOps, Discovery</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5102685007?gh_jid=5102685007'>Apply</a></td>
+      <td>Apr 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Seattle, Washington, United States</td>
+      <td>Software Engineer, DevOps, Discovery</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5102689007?gh_jid=5102689007'>Apply</a></td>
+      <td>Apr 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Seattle, Washington, United States</td>
+      <td>Software Engineer, Modeling and Simulation, Discovery</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5102681007?gh_jid=5102681007'>Apply</a></td>
+      <td>Apr 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Washington, District of Columbia, United States</td>
+      <td>Software Engineer, Modeling and Simulation, Discovery</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5102677007?gh_jid=5102677007'>Apply</a></td>
+      <td>Apr 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Austin, TX</td>
+      <td>DevOps Engineer, Falcon NG-SIEM, FrontTier Expansions (Hybrid, Austin)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Austin-TX/DevOps-Engineer--Falcon-NG-SIEM--FrontTier-Expansions--Hybrid--Austin-_R28278'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer_R2615801'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>MacDill AFB, FL</td>
+      <td>Cloud Operations Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/MacDill-AFB-FL/Cloud-Operations-Engineer_R0237401'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Data-Analyst_R0237278'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Aviation Data Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Aviation-Data-Architect_R0232748'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Cloud Web Application Administrator</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Cloud-Web-Application-Administrator_R0237339'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Ciena</b></td>
+      <td>Remote-US</td>
+      <td>Business and Data Analyst Intern (Summer 2026)</td>
+      <td><a href='https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Remote-US/Business-and-Data-Analyst-Intern--Summer-2026-_R030594'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Dematic Corp. (ILD-US)</b></td>
+      <td>Grand Rapids, MI, United States</td>
+      <td>Management Trainee (f/m/d) - Business Solution</td>
+      <td><a href='https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Grand-Rapids-MI-United-States/Management-Trainee--f-m-d----Business-Solution_JR-0089123'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Dock Operations & Clay Handling Supervisor - Strategic A 2nd Shift</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Dock-Operations---Clay-Handling-Supervisor---Strategic-A-2nd-Shift_JR-202607489-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Business Intelligence Data Analyst - GPSC</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Business-Intelligence-Data-Analyst---GPSC_JR-202607319'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Software Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer_JR-202606083'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Software Engineer Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Engineer-Intern_JR0281270'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Software Engineering Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering-Intern_JR0281271-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Sam's Home Office AR Bentonville Home Office</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Sams-Home-Office-AR-Bentonville-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2420946'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) LA HOUMA 00542 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-LA-HOUMA-00542-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2471905-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) VA MECHANICSVILLE 01525 WM SUPERCENTER</td>
+      <td>(USA) Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-VA-MECHANICSVILLE-01525-WM-SUPERCENTER/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM_R-2471556'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) VA MECHANICSVILLE 01525 WM SUPERCENTER</td>
+      <td>(USA) Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-VA-MECHANICSVILLE-01525-WM-SUPERCENTER/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM_R-2471558'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>(USA) Data Scientist III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Data-Scientist-III_R-2380498'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Lebanon, OR</td>
+      <td>(USA) Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Lebanon-OR/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM_R-2472066-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-08-10-18-08'>🕐 Batch at 2026-04-08 10:18:08</h3>
 
@@ -154,7 +346,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-08-08-23-48'>🕐 Batch at 2026-04-08 08:23:48</h3>
 
 📊 **Total jobs in this batch: 13**
@@ -276,8 +467,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-08-06-36-28'>🕐 Batch at 2026-04-08 06:36:28</h3>
+---<h3 id='batch-2026-04-08-06-36-28'>🕐 Batch at 2026-04-08 06:36:28</h3>
 
 📊 **Total jobs in this batch: 19**
 
