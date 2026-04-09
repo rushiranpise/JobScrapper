@@ -4,10 +4,124 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-09 14:59:20](#batch-2026-04-09-14-59-20)
 - [Batch at 2026-04-09 14:04:59](#batch-2026-04-09-14-04-59)
 - [Batch at 2026-04-09 12:22:59](#batch-2026-04-09-12-22-59)
 - [Batch at 2026-04-09 10:20:50](#batch-2026-04-09-10-20-50)
-- [Batch at 2026-04-09 08:34:50](#batch-2026-04-09-08-34-50)
+
+<h3 id='batch-2026-04-09-14-59-20'>🕐 Batch at 2026-04-09 14:59:20</h3>
+
+📊 **Total jobs in this batch: 12**
+
+**Per company:**
+- AppLovin : 2 jobs
+- Archer 56: 1 job
+- Atlas Sand: 1 job
+- Belvedere Trading: 1 job
+- Comcast : 1 job
+- Salesforce: 1 job
+- Workday: 1 job
+- Walmart: 4 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>AppLovin </b></td>
+      <td>Palo Alto, CA</td>
+      <td>AI Systems Architect</td>
+      <td><a href='https://boards.greenhouse.io/applovin/jobs/4671973006?gh_jid=4671973006'>Apply</a></td>
+      <td>Apr 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>AppLovin </b></td>
+      <td>Palo Alto, CA</td>
+      <td>AI Systems Engineer</td>
+      <td><a href='https://boards.greenhouse.io/applovin/jobs/4671962006?gh_jid=4671962006'>Apply</a></td>
+      <td>Apr 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Archer 56</b></td>
+      <td>San Jose, California, United States</td>
+      <td>Software Engineer Intern - Flight Controls Software</td>
+      <td><a href='https://job-boards.greenhouse.io/archer56/jobs/7570845003'>Apply</a></td>
+      <td>Dec 24, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Atlas Sand</b></td>
+      <td>Austin TX</td>
+      <td>IT Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/atlassand/jobs/8418790002'>Apply</a></td>
+      <td>Feb 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Belvedere Trading</b></td>
+      <td>Boulder, Colorado</td>
+      <td>L2 Java Engineer/Software Engineer</td>
+      <td><a href='https://jobs.lever.co/belvederetrading/2a3b1355-fb33-4fed-830b-0978a1bba17e'>Apply</a></td>
+      <td>2026-04-09 21:01:52</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1701 John F Kennedy Blvd</td>
+      <td>Analyst 3, Data Analytics & Business Intelligence</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Analyst-3--Data-Analytics---Business-Intelligence_R434042-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - Palo Alto</td>
+      <td>Summer 2026 Intern - AI Research</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2026-Intern---AI-Research_JR313214-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA.VA.Reston</td>
+      <td>Software Development Engineer - US Federal</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer---US-Federal--Evergreen-_JR-0105759'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) J STREET OFFICE SPACE AR BENTONVILLE Home Office</td>
+      <td>Software Engineer III - Health & Wellness</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-J-STREET-OFFICE-SPACE-AR-BENTONVILLE-Home-Office/Software-Engineer-III---Health---Wellness_R-2445785'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX SAN ANTONIO 05245 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-SAN-ANTONIO-05245-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2472996'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Respect Building CA SUNNYVALE Home Office</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III_R-2459977'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) OH COLUMBUS 03812 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OH-COLUMBUS-03812-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2473241-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-09-14-04-59'>🕐 Batch at 2026-04-09 14:04:59</h3>
 
@@ -138,7 +252,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-09-12-22-59'>🕐 Batch at 2026-04-09 12:22:59</h3>
 
 📊 **Total jobs in this batch: 17**
@@ -289,8 +402,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-09-10-20-50'>🕐 Batch at 2026-04-09 10:20:50</h3>
+---<h3 id='batch-2026-04-09-10-20-50'>🕐 Batch at 2026-04-09 10:20:50</h3>
 
 📊 **Total jobs in this batch: 20**
 
