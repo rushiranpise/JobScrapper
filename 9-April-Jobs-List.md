@@ -4,10 +4,72 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-09 15:54:44](#batch-2026-04-09-15-54-44)
 - [Batch at 2026-04-09 14:59:20](#batch-2026-04-09-14-59-20)
 - [Batch at 2026-04-09 14:04:59](#batch-2026-04-09-14-04-59)
 - [Batch at 2026-04-09 12:22:59](#batch-2026-04-09-12-22-59)
-- [Batch at 2026-04-09 10:20:50](#batch-2026-04-09-10-20-50)
+
+<h3 id='batch-2026-04-09-15-54-44'>🕐 Batch at 2026-04-09 15:54:44</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- NVIDIA: 1 job
+- The Toro: 1 job
+- Workday: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA NE - Columbus (West)</td>
+      <td>Controls Tech Intern</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-West/Controls-Tech-Intern_R-543114'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Technical Product Management Intern, Enterprise Products - Fall 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Management-Intern--Enterprise-Products---Fall-2026_JR2015879-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Perry, OK</td>
+      <td>Material Handler - Ditch Witch (All Shifts)</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Perry-OK/Material-Handler---Ditch-Witch--All-Shifts-_JR15916'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA.VA.Reston</td>
+      <td>Software Development Engineer (US Federal)</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0105089'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Sunnyvale, CA</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-III_R-2440951'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-09-14-59-20'>🕐 Batch at 2026-04-09 14:59:20</h3>
 
@@ -122,7 +184,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-09-14-04-59'>🕐 Batch at 2026-04-09 14:04:59</h3>
 
 📊 **Total jobs in this batch: 14**
@@ -251,8 +312,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-09-12-22-59'>🕐 Batch at 2026-04-09 12:22:59</h3>
+---<h3 id='batch-2026-04-09-12-22-59'>🕐 Batch at 2026-04-09 12:22:59</h3>
 
 📊 **Total jobs in this batch: 17**
 
