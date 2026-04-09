@@ -4,10 +4,72 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-08 19:48:16](#batch-2026-04-08-19-48-16)
 - [Batch at 2026-04-08 16:50:04](#batch-2026-04-08-16-50-04)
 - [Batch at 2026-04-08 15:51:38](#batch-2026-04-08-15-51-38)
 - [Batch at 2026-04-08 14:53:13](#batch-2026-04-08-14-53-13)
-- [Batch at 2026-04-08 13:59:45](#batch-2026-04-08-13-59-45)
+
+<h3 id='batch-2026-04-08-19-48-16'>🕐 Batch at 2026-04-08 19:48:16</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- Chime: 1 job
+- SRK Supplylogix LLC: 1 job
+- The Walt Disney Company: 1 job
+- Walmart: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Chime</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Software Engineer, Credit Line</td>
+      <td><a href='https://boards.greenhouse.io/chime/jobs/8219795002?gh_jid=8219795002'>Apply</a></td>
+      <td>Apr 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, OH, Columbus</td>
+      <td>Software Engineer</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-OH-Columbus/Software-Engineer_JR0143217'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>FX Creative and Cultural Diversity Intern, Summer/Fall 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/FX-Creative-and-Cultural-Diversity-Intern--Summer-Fall-2026_10142018'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Excellence Building CA SUNNYVALE Home Office</td>
+      <td>Software Engineer III - Mobile</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III---Mobile_R-2466766-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer - Tools & Automation</td>
+      <td><a href='https://jobs.lever.co/zoox/d7e7968c-60cc-49da-be2d-240251ebbc7a'>Apply</a></td>
+      <td>2026-04-08 23:36:25</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-08-16-50-04'>🕐 Batch at 2026-04-08 16:50:04</h3>
 
@@ -54,7 +116,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-08-15-51-38'>🕐 Batch at 2026-04-08 15:51:38</h3>
 
 📊 **Total jobs in this batch: 3**
@@ -99,8 +160,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-08-14-53-13'>🕐 Batch at 2026-04-08 14:53:13</h3>
+---<h3 id='batch-2026-04-08-14-53-13'>🕐 Batch at 2026-04-08 14:53:13</h3>
 
 📊 **Total jobs in this batch: 6**
 
