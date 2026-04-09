@@ -4,10 +4,148 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-09 08:34:50](#batch-2026-04-09-08-34-50)
 - [Batch at 2026-04-09 06:59:01](#batch-2026-04-09-06-59-01)
 - [Batch at 2026-04-09 04:11:44](#batch-2026-04-09-04-11-44)
 - [Batch at 2026-04-09 02:21:20](#batch-2026-04-09-02-21-20)
-- [Batch at 2026-04-09 00:51:09](#batch-2026-04-09-00-51-09)
+
+<h3 id='batch-2026-04-09-08-34-50'>🕐 Batch at 2026-04-09 08:34:50</h3>
+
+📊 **Total jobs in this batch: 15**
+
+**Per company:**
+- ally: 1 job
+- Autodesk: 1 job
+- BAH: 2 jobs
+- Comcast : 1 job
+- General Motors LLC: 1 job
+- KLA: 1 job
+- MOOG: 1 job
+- OpenAI: 2 jobs
+- Sony AI America Inc: 1 job
+- Walmart: 3 jobs
+- Zscaler: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ally</b></td>
+      <td>N/A</td>
+      <td>Email</td>
+      <td><a href='mailto:?subject=Senior%20Analyst%20-%20Sales%20Support%20-%20Careers&body=https%3A%2F%2Fally.avature.net%2Fcareers%2FJobDetail%2FSenior-Analyst-Sales-Support%2F16307'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>Autodesk</b></td>
+      <td>AMER - United States - California - San Francisco - One Market</td>
+      <td>Full Stack Software Developer</td>
+      <td><a href='https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/AMER---United-States---California---San-Francisco---One-Market/Full-Stack-Software-Developer_26WD96405'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Cloud DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cloud-DevOps-Engineer_R0237437'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>DevOps Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/DevOps-Engineer--Mid_R0231556'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1800 Arch St</td>
+      <td>Comcast FIRST Robotics Intern</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-FIRST-Robotics-Intern_R434113'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Connected Vehicle Researcher – Vehicle Data Analytics</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Connected-Vehicle-Researcher---Vehicle-Data-Analytics_JR-202522575'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Ann Arbor, MI</td>
+      <td>AI/ML Engineer - Systems</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/AI-ML-Engineer---Systems_2635516-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Advanced Manufacturing</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Advanced-Manufacturing_R-25-14242'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenAI</b></td>
+      <td>New York City</td>
+      <td>AI Success Engineer - NYC</td>
+      <td><a href='https://jobs.ashbyhq.com/openai/d4548828-191b-4cbf-9fd4-058d16416e49'>Apply</a></td>
+      <td>Apr 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>OpenAI</b></td>
+      <td>Remote - US</td>
+      <td>AI Success Engineer - US Remote</td>
+      <td><a href='https://jobs.ashbyhq.com/openai/ea339283-7650-4b50-9d24-08d143af260a'>Apply</a></td>
+      <td>Apr 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Sony AI America Inc</b></td>
+      <td>New York</td>
+      <td>Tax Intern</td>
+      <td><a href='https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/New-York/Tax-Intern_JR-119042'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Fairbury, NE</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Fairbury-NE/XMLNAME--USA--Front-End-Coach_R-2472933'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 03074 WM SUPERCENTER</td>
+      <td>(CAN) Associé saisonnier</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-03074-WM-SUPERCENTER/XMLNAME--CAN--Associ-saisonnier_R-2472928'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX LINDALE 03764 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-LINDALE-03764-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2472306'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zscaler</b></td>
+      <td>San Jose, California, USA</td>
+      <td>AI/MI Intern, Agenic Cloud</td>
+      <td><a href='https://job-boards.greenhouse.io/zscaler/jobs/5100446007'>Apply</a></td>
+      <td>Apr 09, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-09-06-59-01'>🕐 Batch at 2026-04-09 06:59:01</h3>
 
@@ -101,7 +239,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-09-04-11-44'>🕐 Batch at 2026-04-09 04:11:44</h3>
 
 📊 **Total jobs in this batch: 4**
@@ -154,8 +291,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-09-02-21-20'>🕐 Batch at 2026-04-09 02:21:20</h3>
+---<h3 id='batch-2026-04-09-02-21-20'>🕐 Batch at 2026-04-09 02:21:20</h3>
 
 📊 **Total jobs in this batch: 2**
 
