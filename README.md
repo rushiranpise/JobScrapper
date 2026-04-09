@@ -4,10 +4,56 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-09 16:51:23](#batch-2026-04-09-16-51-23)
 - [Batch at 2026-04-09 15:54:44](#batch-2026-04-09-15-54-44)
 - [Batch at 2026-04-09 14:59:20](#batch-2026-04-09-14-59-20)
 - [Batch at 2026-04-09 14:04:59](#batch-2026-04-09-14-04-59)
-- [Batch at 2026-04-09 12:22:59](#batch-2026-04-09-12-22-59)
+
+<h3 id='batch-2026-04-09-16-51-23'>🕐 Batch at 2026-04-09 16:51:23</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- flir: 1 job
+- Samsun Gresearchamericainternship: 1 job
+- The Walt Disney Company: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Mountain View, CA</td>
+      <td>Business Data Analyst - Report Automation Focus (Intern)</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Mountain-View-CA/Business-Data-Analyst---Report-Automation-Focus--Intern-_REQ33990'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Samsun Gresearchamericainternship</b></td>
+      <td>665 Clyde Avenue, Mountain View,  CA, USA</td>
+      <td>2026 Intern, Software Engineer (Summer)</td>
+      <td><a href='https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8391853002'>Apply</a></td>
+      <td>Jan 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Glendale, CA, USA</td>
+      <td>ABC News Newsgathering Intern, Summer/Fall 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/ABC-News-Newsgathering-Intern--Summer-Fall-2026_10146304'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-09-15-54-44'>🕐 Batch at 2026-04-09 15:54:44</h3>
 
@@ -70,7 +116,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-09-14-59-20'>🕐 Batch at 2026-04-09 14:59:20</h3>
 
 📊 **Total jobs in this batch: 12**
@@ -183,8 +228,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-09-14-04-59'>🕐 Batch at 2026-04-09 14:04:59</h3>
+---<h3 id='batch-2026-04-09-14-04-59'>🕐 Batch at 2026-04-09 14:04:59</h3>
 
 📊 **Total jobs in this batch: 14**
 
