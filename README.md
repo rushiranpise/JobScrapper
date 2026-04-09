@@ -4,10 +4,162 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-09 12:22:59](#batch-2026-04-09-12-22-59)
 - [Batch at 2026-04-09 10:20:50](#batch-2026-04-09-10-20-50)
 - [Batch at 2026-04-09 08:34:50](#batch-2026-04-09-08-34-50)
 - [Batch at 2026-04-09 06:59:01](#batch-2026-04-09-06-59-01)
-- [Batch at 2026-04-09 04:11:44](#batch-2026-04-09-04-11-44)
+
+<h3 id='batch-2026-04-09-12-22-59'>🕐 Batch at 2026-04-09 12:22:59</h3>
+
+📊 **Total jobs in this batch: 17**
+
+**Per company:**
+- Abnormal Security: 1 job
+- BAH: 4 jobs
+- Children's Hospital Medical Center: 1 job
+- Enova: 1 job
+- GE Healthcare: 1 job
+- Lendbuzz: 1 job
+- Reddit: 1 job
+- Snowflake: 1 job
+- SRK Supplylogix LLC: 1 job
+- The Toro: 1 job
+- Walmart: 4 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Abnormal Security</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer II - Abnormal Data Platform</td>
+      <td><a href='https://abnormal.ai/careers/jobs/7694258003?gh_jid=7694258003'>Apply</a></td>
+      <td>Apr 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>University, Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/University--Data-Scientist_R0237467'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Meade, MD</td>
+      <td>Software Test Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Software-Test-Engineer_R0237035'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>SailPoint Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/SailPoint-Engineer_R0237460'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>SailPoint Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/SailPoint-Engineer_R0237459-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Children's Hospital Medical Center</b></td>
+      <td>Burnet Campus</td>
+      <td>PCA, Main OR</td>
+      <td><a href='https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Burnet-Campus/PCA--Main-OR_JR216246'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Enova</b></td>
+      <td>Chicago, IL</td>
+      <td>Capital Markets Associate (Hybrid)</td>
+      <td><a href='https://job-boards.greenhouse.io/enova/jobs/7800600'>Apply</a></td>
+      <td>Apr 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>GE Healthcare</b></td>
+      <td>Florence SC USA</td>
+      <td>Engineering Co-op/Intern - Fall 2026</td>
+      <td><a href='https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Florence-SC-USA/Engineering-Co-op-Intern---Fall-2026_R4039168'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Lendbuzz</b></td>
+      <td>Boston, MA</td>
+      <td>Software Engineer (Frontend-Focused Full Stack)</td>
+      <td><a href='https://jobs.lever.co/lendbuzz/c2a7d5bf-7f0f-4c9a-a983-5c40342ee303'>Apply</a></td>
+      <td>2026-04-09 17:23:24</td>
+    </tr>
+    <tr>
+      <td><b>Reddit</b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/reddit/jobs/7792819'>Apply</a></td>
+      <td>Apr 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-NY-New York</td>
+      <td>Data Platform Architect - Applied Field Engineering</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/047114d7-36da-4053-90d4-72cbae3012a9'>Apply</a></td>
+      <td>Apr 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, TX, Grapevine</td>
+      <td>Material Handler Specialist</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Grapevine/Material-Handler-Specialist_JR0144084'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>El Paso, TX</td>
+      <td>Material Handler I - The Toro Company</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/El-Paso-TX/Material-Handler-I---The-Toro-Company_JR15784'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Plainview, TX</td>
+      <td>Truck Driver OTR - Regional - Plainview, TX</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Plainview-TX/Truck-Driver-OTR---Regional---Plainview--TX_R-2473403'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Service Building CA SUNNYVALE Home Office</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-II_R-2428304'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) VIZIO SERVICES NEW YORK NY New York Home Office</td>
+      <td>(USA) Data Scientist III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-VIZIO-SERVICES-NEW-YORK-NY-New-York-Home-Office/XMLNAME--USA--Data-Scientist-III_R-2452788'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Niles, MI</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Niles-MI/XMLNAME--USA--Front-End-Coach_R-2473151-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-09-10-20-50'>🕐 Batch at 2026-04-09 10:20:50</h3>
 
@@ -185,7 +337,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-09-08-34-50'>🕐 Batch at 2026-04-09 08:34:50</h3>
 
 📊 **Total jobs in this batch: 15**
@@ -322,8 +473,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-09-06-59-01'>🕐 Batch at 2026-04-09 06:59:01</h3>
+---<h3 id='batch-2026-04-09-06-59-01'>🕐 Batch at 2026-04-09 06:59:01</h3>
 
 📊 **Total jobs in this batch: 9**
 
