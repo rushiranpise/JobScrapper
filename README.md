@@ -4,10 +4,187 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-09 10:20:50](#batch-2026-04-09-10-20-50)
 - [Batch at 2026-04-09 08:34:50](#batch-2026-04-09-08-34-50)
 - [Batch at 2026-04-09 06:59:01](#batch-2026-04-09-06-59-01)
 - [Batch at 2026-04-09 04:11:44](#batch-2026-04-09-04-11-44)
-- [Batch at 2026-04-09 02:21:20](#batch-2026-04-09-02-21-20)
+
+<h3 id='batch-2026-04-09-10-20-50'>🕐 Batch at 2026-04-09 10:20:50</h3>
+
+📊 **Total jobs in this batch: 20**
+
+**Per company:**
+- Affirm : 1 job
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- Applied Materials: 1 job
+- athenahealth : 1 job
+- BAH: 3 jobs
+- Cohesity: 1 job
+- Comcast : 1 job
+- Concentrix: 1 job
+- Enova: 1 job
+- Genesys: 1 job
+- Intel Corporation: 1 job
+- Lendbuzz: 1 job
+- Toast: 1 job
+- Walmart: 4 jobs
+- Xylem Services USA LLC: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>Software Engineer I, Full-Stack (Home and Search Experience)</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/7685236003'>Apply</a></td>
+      <td>Apr 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Data Engineer II</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Data-Engineer-II_JR58516'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>CV/ML/DL Algorithm Developer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/CV-ML-DL-Algorithm-Developer_R2616891'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>athenahealth </b></td>
+      <td>Boston MA</td>
+      <td>Associate Software Engineer - DevOps, Internal Developer Platforms</td>
+      <td><a href='https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Senior-Software-Engineer---Internal-Developer-Platforms_R14677'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Azure Cloud Infrastructure Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Azure-Cloud-Infrastructure-Architect_R0237443'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Cloud Infrastructure Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Cloud-Infrastructure-Architect_R0237418'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>AI DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/AI-DevOps-Engineer_R0237447'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Cohesity</b></td>
+      <td>Santa Clara, CA - USA (Office)</td>
+      <td>AI Software Engineer - New College Graduate</td>
+      <td><a href='https://cohesity.wd5.myworkdayjobs.com/en-US/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/AI-Software-Engineer---New-College-Graduate_R03123'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1800 Arch St</td>
+      <td>Comcast FIRST Robotics Intern</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-FIRST-Robotics-Intern_R434101'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>Omaha, NE 68122</td>
+      <td>Infrastructure Analyst (FCC/RF Licensing and RF Path)</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/Omaha-NE-68122/Infrastructure-Analyst--FCC-RF-Licensing-and-RF-Path-_R1721188-5'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Enova</b></td>
+      <td>Chicago, IL</td>
+      <td>Data Scientist - Portfolio Consumer (Hybrid)</td>
+      <td><a href='https://job-boards.greenhouse.io/enova/jobs/7799633'>Apply</a></td>
+      <td>Apr 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Genesys</b></td>
+      <td>California, USA</td>
+      <td>Demand Generation Analytics Intern</td>
+      <td><a href='https://genesys.wd1.myworkdayjobs.com/en-US/Genesys/job/California-USA/Demand-Generation-Analytics-Intern_JR110695'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>STTD Test Engineer Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/STTD-Test-Engineer-Intern_JR0282093'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Lendbuzz</b></td>
+      <td>Boston, MA</td>
+      <td>Full-Stack Software Engineer</td>
+      <td><a href='https://jobs.lever.co/lendbuzz/93c0a50a-f9a6-40a1-a97f-b39d8f1b6656'>Apply</a></td>
+      <td>2026-03-03 10:01:38</td>
+    </tr>
+    <tr>
+      <td><b>Toast</b></td>
+      <td>US (remote)</td>
+      <td>Software Engineer II (Backend), Payments</td>
+      <td><a href='https://careers.toasttab.com/jobs?gh_jid=7765938'>Apply</a></td>
+      <td>Apr 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) ISD Office - DGTC AR BENTONVILLE Home Office</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Software-Engineer-III_R-2425292'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Dallas, TX</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Dallas-TX/Software-Engineer-III_R-2460755'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Dallas, TX</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Dallas-TX/Software-Engineer-III_R-2460760'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 03074 WM SUPERCENTER</td>
+      <td>(CAN) Associé saisonnier</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-03074-WM-SUPERCENTER/XMLNAME--CAN--Associ-saisonnier_R-2473033'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Xylem Services USA LLC</b></td>
+      <td>Texarkana, Arkansas</td>
+      <td>Paint Line Operator</td>
+      <td><a href='https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Texarkana-Arkansas/Paint-Line-Operator_R47710'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-09-08-34-50'>🕐 Batch at 2026-04-09 08:34:50</h3>
 
@@ -146,7 +323,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-09-06-59-01'>🕐 Batch at 2026-04-09 06:59:01</h3>
 
 📊 **Total jobs in this batch: 9**
@@ -238,8 +414,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-09-04-11-44'>🕐 Batch at 2026-04-09 04:11:44</h3>
+---<h3 id='batch-2026-04-09-04-11-44'>🕐 Batch at 2026-04-09 04:11:44</h3>
 
 📊 **Total jobs in this batch: 4**
 
