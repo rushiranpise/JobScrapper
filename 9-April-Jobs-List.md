@@ -4,10 +4,140 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-09 14:04:59](#batch-2026-04-09-14-04-59)
 - [Batch at 2026-04-09 12:22:59](#batch-2026-04-09-12-22-59)
 - [Batch at 2026-04-09 10:20:50](#batch-2026-04-09-10-20-50)
 - [Batch at 2026-04-09 08:34:50](#batch-2026-04-09-08-34-50)
-- [Batch at 2026-04-09 06:59:01](#batch-2026-04-09-06-59-01)
+
+<h3 id='batch-2026-04-09-14-04-59'>🕐 Batch at 2026-04-09 14:04:59</h3>
+
+📊 **Total jobs in this batch: 14**
+
+**Per company:**
+- ally: 1 job
+- athenahealth : 1 job
+- BAH: 3 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- homedepot: 1 job
+- spacex: 1 job
+- The Walt Disney Company: 1 job
+- visa: 1 job
+- Walmart: 1 job
+- Wyetech LLC: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ally</b></td>
+      <td>N/A</td>
+      <td>Email</td>
+      <td><a href='mailto:?subject=Associate%20Underwriter%20-%20Consumer%20-%20Careers&body=https%3A%2F%2Fally.avature.net%2Fcareers%2FJobDetail%2FAssociate-Underwriter-Consumer%2F16236'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>athenahealth </b></td>
+      <td>Boston MA</td>
+      <td>2026 Summer Software Engineering Intern</td>
+      <td><a href='https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/XMLNAME-2026-Summer-Software-Engineering-Intern_R13769'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>Cyber Content Development Trainer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Cyber-Content-Development-Trainer_R0237491'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Cloud Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cloud-Engineer_R0233576'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Cloud Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cloud-Engineer_R0237483'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA UT - Sandy</td>
+      <td>Manufacturing Engineer Intern</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Manufacturing-Engineer-Intern_R-542923'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>MINNESOTA - VIRTUAL - MN01</td>
+      <td>HDISAM - HDIS AIS (AREA INSTALLATION SPECIALIST</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/MINNESOTA---VIRTUAL---MN01/HDISAM---HDIS-AIS--AREA-INSTALLATION-SPECIALIST_Req175764-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>Failure Analysis Engineer, Microelectronics (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8498761002?gh_jid=8498761002'>Apply</a></td>
+      <td>Apr 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>Antipiracy Technical Operations Intern, Summer 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Antipiracy-Technical-Operations-Intern--Summer-2026_10147808'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>visa</b></td>
+      <td>Austin</td>
+      <td>Software Engineer</td>
+      <td><a href='https://www.smartrecruiters.com/visa/744000119687582'>Apply</a></td>
+      <td>Apr 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Renton, WA</td>
+      <td>Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Renton-WA/Coach-Ops-Mgr-Trainee_R-2473528'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Linthicum Heights, Maryland</td>
+      <td>Application Engineer 4 (DevOps)</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/9713150e-b8be-4dc1-ab8d-aa7199e12b27'>Apply</a></td>
+      <td>2026-04-09 20:01:27</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Linthicum Heights, Maryland</td>
+      <td>Application Engineer 4 (Kovr.AI)</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/1007bdda-1a5b-42e1-9f81-d85a58a66597'>Apply</a></td>
+      <td>2026-04-09 20:06:24</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Laurel, Maryland</td>
+      <td>Software Tool Engineer 2</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/ca64f167-7459-43da-911b-718397cb5886'>Apply</a></td>
+      <td>2026-03-25 18:56:22</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-09-12-22-59'>🕐 Batch at 2026-04-09 12:22:59</h3>
 
@@ -160,7 +290,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-09-10-20-50'>🕐 Batch at 2026-04-09 10:20:50</h3>
 
 📊 **Total jobs in this batch: 20**
@@ -336,8 +465,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-09-08-34-50'>🕐 Batch at 2026-04-09 08:34:50</h3>
+---<h3 id='batch-2026-04-09-08-34-50'>🕐 Batch at 2026-04-09 08:34:50</h3>
 
 📊 **Total jobs in this batch: 15**
 
