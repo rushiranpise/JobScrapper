@@ -4,10 +4,55 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-09 22:37:10](#batch-2026-04-09-22-37-10)
 - [Batch at 2026-04-09 20:00:16](#batch-2026-04-09-20-00-16)
 - [Batch at 2026-04-09 16:51:23](#batch-2026-04-09-16-51-23)
 - [Batch at 2026-04-09 15:54:44](#batch-2026-04-09-15-54-44)
-- [Batch at 2026-04-09 14:59:20](#batch-2026-04-09-14-59-20)
+
+<h3 id='batch-2026-04-09-22-37-10'>🕐 Batch at 2026-04-09 22:37:10</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Anduril Industries: 2 jobs
+- spacex: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Mission Software Engineer, Systems</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5104521007?gh_jid=5104521007'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Systems Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5104522007?gh_jid=5104522007'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, Test Engineering and Operations</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8501218002?gh_jid=8501218002'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-09-20-00-16'>🕐 Batch at 2026-04-09 20:00:16</h3>
 
@@ -76,7 +121,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-09-16-51-23'>🕐 Batch at 2026-04-09 16:51:23</h3>
 
 📊 **Total jobs in this batch: 3**
@@ -121,8 +165,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-09-15-54-44'>🕐 Batch at 2026-04-09 15:54:44</h3>
+---<h3 id='batch-2026-04-09-15-54-44'>🕐 Batch at 2026-04-09 15:54:44</h3>
 
 📊 **Total jobs in this batch: 5**
 
