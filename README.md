@@ -4,10 +4,174 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-10 09:06:41](#batch-2026-04-10-09-06-41)
 - [Batch at 2026-04-10 08:02:27](#batch-2026-04-10-08-02-27)
 - [Batch at 2026-04-10 05:05:45](#batch-2026-04-10-05-05-45)
 - [Batch at 2026-04-10 02:24:02](#batch-2026-04-10-02-24-02)
-- [Batch at 2026-04-10 00:56:55](#batch-2026-04-10-00-56-55)
+
+<h3 id='batch-2026-04-10-09-06-41'>🕐 Batch at 2026-04-10 09:06:41</h3>
+
+📊 **Total jobs in this batch: 19**
+
+**Per company:**
+- Applied Materials: 1 job
+- BAH: 2 jobs
+- Esri: 9 jobs
+- MOOG: 1 job
+- netflix: 1 job
+- nVent: 1 job
+- spacex: 1 job
+- visa: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Material Coordinator/Handler III - (O3)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Coordinator-Handler-III----O3-_R2616080'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Cloud Infrastructure Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Cloud-Infrastructure-Engineer_R0237531'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Cloud Infrastructure Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Cloud-Infrastructure-Engineer_R0237530'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>St. Louis, MO - Globe</td>
+      <td>Software Development Engineer II- Back End</td>
+      <td><a href='https://www.esri.com/careers/5103706007?gh_jid=5103706007'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer II- Back End</td>
+      <td><a href='https://www.esri.com/careers/5104806007?gh_jid=5104806007'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Vienna, Virginia, United States</td>
+      <td>Software Development Engineer II- Back End</td>
+      <td><a href='https://www.esri.com/careers/5104805007?gh_jid=5104805007'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer II- CI/CD & Platform Automation Engineer (DevOps)</td>
+      <td><a href='https://www.esri.com/careers/5104828007?gh_jid=5104828007'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>St. Louis, MO - Globe</td>
+      <td>Software Development Engineer II- CI/CD & Platform Automation Engineer (DevOps)</td>
+      <td><a href='https://www.esri.com/careers/5104812007?gh_jid=5104812007'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Vienna, Virginia, United States</td>
+      <td>Software Development Engineer II- CI/CD & Platform Automation Engineer (DevOps)</td>
+      <td><a href='https://www.esri.com/careers/5104822007?gh_jid=5104822007'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer II- Front End</td>
+      <td><a href='https://www.esri.com/careers/5104847007?gh_jid=5104847007'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>St. Louis, MO - Globe</td>
+      <td>Software Development Engineer II- Front End</td>
+      <td><a href='https://www.esri.com/careers/5104844007?gh_jid=5104844007'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Vienna, Virginia, United States</td>
+      <td>Software Development Engineer II- Front End</td>
+      <td><a href='https://www.esri.com/careers/5104845007?gh_jid=5104845007'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Blacksburg, VA</td>
+      <td>Intern, Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Blacksburg-VA/Intern--Engineering_R-26-16987'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>netflix</b></td>
+      <td>USA - Remote</td>
+      <td>Data Scientist 5- Evolving Core Metrics</td>
+      <td><a href='https://netflix.wd1.myworkdayjobs.com/en-US/Netflix/job/USA---Remote/Data-Scientist-5--Evolving-Core-Metrics_JR39995'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Anoka, MN, US</td>
+      <td>Material Handler (Receiving) - WKND Shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Material-Handler--Receiving----WKND-Shift_R21379'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Engineer (Starshield)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8501199002?gh_jid=8501199002'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>visa</b></td>
+      <td>Austin</td>
+      <td>Product Analyst - Generative AI Platform</td>
+      <td><a href='https://www.smartrecruiters.com/visa/744000120009376'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) J STREET OFFICE SPACE AR BENTONVILLE Home Office</td>
+      <td>Software Engineer III - .NET/C#</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-J-STREET-OFFICE-SPACE-AR-BENTONVILLE-Home-Office/Software-Engineer-III---NET-C-_R-2451617'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) J STREET OFFICE SPACE AR BENTONVILLE Home Office</td>
+      <td>Software Engineer III - .NET/C#</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-J-STREET-OFFICE-SPACE-AR-BENTONVILLE-Home-Office/Software-Engineer-III---NET-C-_R-2451627'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-10-08-02-27'>🕐 Batch at 2026-04-10 08:02:27</h3>
 
@@ -108,7 +272,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-10-05-05-45'>🕐 Batch at 2026-04-10 05:05:45</h3>
 
 📊 **Total jobs in this batch: 6**
@@ -173,8 +336,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-10-02-24-02'>🕐 Batch at 2026-04-10 02:24:02</h3>
+---<h3 id='batch-2026-04-10-02-24-02'>🕐 Batch at 2026-04-10 02:24:02</h3>
 
 📊 **Total jobs in this batch: 3**
 
