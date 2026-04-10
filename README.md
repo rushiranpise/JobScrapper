@@ -4,10 +4,102 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-10 11:05:04](#batch-2026-04-10-11-05-04)
 - [Batch at 2026-04-10 10:07:00](#batch-2026-04-10-10-07-00)
 - [Batch at 2026-04-10 09:06:41](#batch-2026-04-10-09-06-41)
 - [Batch at 2026-04-10 08:02:27](#batch-2026-04-10-08-02-27)
-- [Batch at 2026-04-10 05:05:45](#batch-2026-04-10-05-05-45)
+
+<h3 id='batch-2026-04-10-11-05-04'>🕐 Batch at 2026-04-10 11:05:04</h3>
+
+📊 **Total jobs in this batch: 9**
+
+**Per company:**
+- Applied Materials: 1 job
+- BAH: 3 jobs
+- CMU: 1 job
+- Micron: 1 job
+- MOOG: 1 job
+- Twitch: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Facilities Engineer, New College Grad- Bachelor's/Master's (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Facilities-Engineer--New-College-Grad--Bachelor-s-Master-s--Santa-Clara--CA-_R2615345'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Analytics Platform Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Analytics-Platform-Engineer_R0237532'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Montgomery, AL</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Montgomery-AL/Software-Engineer_R0233170'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Cloud Modernization SME</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cloud-Modernization-SME_R0237557'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>LTI Summer Intern - School of Computer Science - LTI</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/LTI-Summer-Intern---School-of-Computer-Science---LTI_2024360'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Intern - NAND Storage Strategic Roadmap Planning</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---NAND-Storage-Strategic-Roadmap-Planning----Client-SSD-TPM_JR82726'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, IT Computer Science - Data Analytics</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Twitch</b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer II, Safety</td>
+      <td><a href='https://job-boards.greenhouse.io/twitch/jobs/8499608002'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Smithfield, NC</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Smithfield-NC/Pharmacy-Grad-Intern--Hrly-_R-2473715'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-10-10-07-00'>🕐 Batch at 2026-04-10 10:07:00</h3>
 
@@ -102,7 +194,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-10-09-06-41'>🕐 Batch at 2026-04-10 09:06:41</h3>
 
 📊 **Total jobs in this batch: 19**
@@ -265,8 +356,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-10-08-02-27'>🕐 Batch at 2026-04-10 08:02:27</h3>
+---<h3 id='batch-2026-04-10-08-02-27'>🕐 Batch at 2026-04-10 08:02:27</h3>
 
 📊 **Total jobs in this batch: 10**
 
