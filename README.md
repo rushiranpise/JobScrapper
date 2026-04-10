@@ -4,10 +4,48 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-10 16:47:30](#batch-2026-04-10-16-47-30)
 - [Batch at 2026-04-10 15:49:39](#batch-2026-04-10-15-49-39)
 - [Batch at 2026-04-10 14:50:49](#batch-2026-04-10-14-50-49)
 - [Batch at 2026-04-10 13:51:28](#batch-2026-04-10-13-51-28)
-- [Batch at 2026-04-10 12:10:30](#batch-2026-04-10-12-10-30)
+
+<h3 id='batch-2026-04-10-16-47-30'>🕐 Batch at 2026-04-10 16:47:30</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- Applied Materials: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>2026 Summer Process Engineering Intern - PhD (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Process-Engineering-Intern---PhD--Santa-Clara--CA-_R2612291'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Service Building CA SUNNYVALE Home Office</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III_R-2466362'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-10-15-49-39'>🕐 Batch at 2026-04-10 15:49:39</h3>
 
@@ -97,7 +135,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-10-14-50-49'>🕐 Batch at 2026-04-10 14:50:49</h3>
 
 📊 **Total jobs in this batch: 7**
@@ -173,8 +210,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-10-13-51-28'>🕐 Batch at 2026-04-10 13:51:28</h3>
+---<h3 id='batch-2026-04-10-13-51-28'>🕐 Batch at 2026-04-10 13:51:28</h3>
 
 📊 **Total jobs in this batch: 7**
 
