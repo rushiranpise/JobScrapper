@@ -4,10 +4,78 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-09 20:00:16](#batch-2026-04-09-20-00-16)
 - [Batch at 2026-04-09 16:51:23](#batch-2026-04-09-16-51-23)
 - [Batch at 2026-04-09 15:54:44](#batch-2026-04-09-15-54-44)
 - [Batch at 2026-04-09 14:59:20](#batch-2026-04-09-14-59-20)
-- [Batch at 2026-04-09 14:04:59](#batch-2026-04-09-14-04-59)
+
+<h3 id='batch-2026-04-09-20-00-16'>🕐 Batch at 2026-04-09 20:00:16</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- Applied Materials: 1 job
+- Roblox: 1 job
+- Vast: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>AIx Field Service Engineer II (E2)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/AIx-Field-Service-Engineer-II--E2-_R2520114'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>Chicago, Illinois, United States</td>
+      <td>Data Center Engineer</td>
+      <td><a href='https://careers.roblox.com/jobs/7559232?gh_jid=7559232'>Apply</a></td>
+      <td>Jan 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Vast</b></td>
+      <td>Long Beach, California, United States</td>
+      <td>Compensation Intern</td>
+      <td><a href='https://boards.greenhouse.io/vast/jobs/4671537006?gh_jid=4671537006'>Apply</a></td>
+      <td>Apr 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NV LAS VEGAS 05070 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NV-LAS-VEGAS-05070-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2472647'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>New Albany, IN</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/New-Albany-IN/Pharmacy-Pre-Grad-Intern---WM_R-2473042'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) IN WARSAW 01304 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IN-WARSAW-01304-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2473065'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-09-16-51-23'>🕐 Batch at 2026-04-09 16:51:23</h3>
 
@@ -54,7 +122,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-09-15-54-44'>🕐 Batch at 2026-04-09 15:54:44</h3>
 
 📊 **Total jobs in this batch: 5**
@@ -115,8 +182,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-09-14-59-20'>🕐 Batch at 2026-04-09 14:59:20</h3>
+---<h3 id='batch-2026-04-09-14-59-20'>🕐 Batch at 2026-04-09 14:59:20</h3>
 
 📊 **Total jobs in this batch: 12**
 
