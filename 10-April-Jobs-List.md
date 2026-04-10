@@ -4,10 +4,104 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-10 10:07:00](#batch-2026-04-10-10-07-00)
 - [Batch at 2026-04-10 09:06:41](#batch-2026-04-10-09-06-41)
 - [Batch at 2026-04-10 08:02:27](#batch-2026-04-10-08-02-27)
 - [Batch at 2026-04-10 05:05:45](#batch-2026-04-10-05-05-45)
-- [Batch at 2026-04-10 02:24:02](#batch-2026-04-10-02-24-02)
+
+<h3 id='batch-2026-04-10-10-07-00'>🕐 Batch at 2026-04-10 10:07:00</h3>
+
+📊 **Total jobs in this batch: 9**
+
+**Per company:**
+- Anduril Industries: 1 job
+- BAH: 1 job
+- Enova: 1 job
+- MOOG: 1 job
+- Natera : 1 job
+- NVIDIA: 1 job
+- SoFi: 1 job
+- visa: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Atlanta, Georgia, United States</td>
+      <td>Site Reliability Engineer - Tactical Reconnaissance & Strike</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5104871007?gh_jid=5104871007'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Bethesda, MD</td>
+      <td>Health Care Quality Data Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Health-Care-Quality-Data-Specialist_R0237527-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Enova</b></td>
+      <td>Chicago, IL</td>
+      <td>NetCredit Application Support Representative (Remote)</td>
+      <td><a href='https://job-boards.greenhouse.io/enova/jobs/7807966'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Product Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Product-Engineering_R-25-13654'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Medical Science Liaison, Women's Health</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/5789274004'>Apply</a></td>
+      <td>Feb 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Research Scientist, Generative AI for Physical AI - PhD New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SoFi</b></td>
+      <td>NY- New York </td>
+      <td>Capital Markets Associate</td>
+      <td><a href='https://sofi.com/careers/job/7695791003?gh_jid=7695791003'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>visa</b></td>
+      <td>Austin</td>
+      <td>Software Engineer</td>
+      <td><a href='https://www.smartrecruiters.com/visa/744000120015357'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office Building 11</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-11/Software-Engineer-III_R-2409428-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-10-09-06-41'>🕐 Batch at 2026-04-10 09:06:41</h3>
 
@@ -172,7 +266,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-10-08-02-27'>🕐 Batch at 2026-04-10 08:02:27</h3>
 
 📊 **Total jobs in this batch: 10**
@@ -271,8 +364,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-10-05-05-45'>🕐 Batch at 2026-04-10 05:05:45</h3>
+---<h3 id='batch-2026-04-10-05-05-45'>🕐 Batch at 2026-04-10 05:05:45</h3>
 
 📊 **Total jobs in this batch: 6**
 
