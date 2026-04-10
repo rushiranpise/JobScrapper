@@ -4,10 +4,99 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-10 15:49:39](#batch-2026-04-10-15-49-39)
 - [Batch at 2026-04-10 14:50:49](#batch-2026-04-10-14-50-49)
 - [Batch at 2026-04-10 13:51:28](#batch-2026-04-10-13-51-28)
 - [Batch at 2026-04-10 12:10:30](#batch-2026-04-10-12-10-30)
-- [Batch at 2026-04-10 11:05:04](#batch-2026-04-10-11-05-04)
+
+<h3 id='batch-2026-04-10-15-49-39'>🕐 Batch at 2026-04-10 15:49:39</h3>
+
+📊 **Total jobs in this batch: 9**
+
+**Per company:**
+- Pure storage: 1 job
+- Saronic: 1 job
+- SoFi: 1 job
+- Walmart: 6 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Pure storage</b></td>
+      <td>Santa Clara, California</td>
+      <td>Software Engineer, Hyperscale Line of Business</td>
+      <td><a href='https://job-boards.greenhouse.io/purestorage/jobs/7608922'>Apply</a></td>
+      <td>Feb 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Saronic</b></td>
+      <td>Austin, Texas</td>
+      <td>Information Architect (Mission Training)</td>
+      <td><a href='https://jobs.lever.co/saronic/ec255bfe-f22a-42b5-9856-6f227ce99a90'>Apply</a></td>
+      <td>2026-04-10 22:02:26</td>
+    </tr>
+    <tr>
+      <td><b>SoFi</b></td>
+      <td>WA - Seattle</td>
+      <td>Frontend Engineer, Money</td>
+      <td><a href='https://sofi.com/careers/job/7687952003?gh_jid=7687952003'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bloomington, IL</td>
+      <td>(USA) Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bloomington-IL/XMLNAME--USA--Pharmacy-Grad-Intern--Hrly-_R-2475029-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) VA FRONT ROYAL 05105 WM SUPERCENTER</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-VA-FRONT-ROYAL-05105-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2425113-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Macomb, IL</td>
+      <td>(USA) Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Macomb-IL/XMLNAME--USA--Pharmacy-Grad-Intern--Hrly-_R-2474994-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Pekin, IL</td>
+      <td>(USA) Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Pekin-IL/XMLNAME--USA--Pharmacy-Grad-Intern--Hrly-_R-2474998'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) IL PEORIA 01323 WAL-MART</td>
+      <td>(USA) Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IL-PEORIA-01323-WAL-MART/XMLNAME--USA--Pharmacy-Grad-Intern--Hrly-_R-2475023-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Canton, IL</td>
+      <td>(USA) Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Canton-IL/XMLNAME--USA--Pharmacy-Grad-Intern--Hrly-_R-2475002-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-10-14-50-49'>🕐 Batch at 2026-04-10 14:50:49</h3>
 
@@ -85,7 +174,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-10-13-51-28'>🕐 Batch at 2026-04-10 13:51:28</h3>
 
 📊 **Total jobs in this batch: 7**
@@ -161,8 +249,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-10-12-10-30'>🕐 Batch at 2026-04-10 12:10:30</h3>
+---<h3 id='batch-2026-04-10-12-10-30'>🕐 Batch at 2026-04-10 12:10:30</h3>
 
 📊 **Total jobs in this batch: 16**
 
