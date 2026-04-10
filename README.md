@@ -4,10 +4,152 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-10 12:10:30](#batch-2026-04-10-12-10-30)
 - [Batch at 2026-04-10 11:05:04](#batch-2026-04-10-11-05-04)
 - [Batch at 2026-04-10 10:07:00](#batch-2026-04-10-10-07-00)
 - [Batch at 2026-04-10 09:06:41](#batch-2026-04-10-09-06-41)
-- [Batch at 2026-04-10 08:02:27](#batch-2026-04-10-08-02-27)
+
+<h3 id='batch-2026-04-10-12-10-30'>🕐 Batch at 2026-04-10 12:10:30</h3>
+
+📊 **Total jobs in this batch: 16**
+
+**Per company:**
+- ally: 1 job
+- Applied Materials: 1 job
+- BAH: 4 jobs
+- Dematic Corp. (ILD-US): 1 job
+- MongoDB: 1 job
+- Roblox: 1 job
+- Walmart: 6 jobs
+- Zoom: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ally</b></td>
+      <td>N/A</td>
+      <td>Email</td>
+      <td><a href='mailto:?subject=Account%20Executive%2C%20Auto%20Finance%20-%20Greater%20Kansas%20City%20Sales%20Market%20-%20Careers&body=https%3A%2F%2Fally.avature.net%2Fcareers%2FJobDetail%2FAccount-Executive-Auto-Finance-Greater-Kansas-City-Sales-Market%2F16376'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Internship Opportunity: Computational Materials Science</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Internship-Opportunity--Computational-Materials-Science_R2616823'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Cloud Infrastructure Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Cloud-Infrastructure-Engineer_R0237544'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>University, Full Stack Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Full-Stack-Developer_R0237571'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Analytics Platform Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Analytics-Platform-Engineer_R0237533'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>AI and ML Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/AI-and-ML-Engineer_R0237570'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Dematic Corp. (ILD-US)</b></td>
+      <td>Atlanta, GA, United States</td>
+      <td>Procurement Intern</td>
+      <td><a href='https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Atlanta-GA-United-States/Procurement-Intern_JR-0088786-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MongoDB</b></td>
+      <td>New York City</td>
+      <td>Software Engineer 3</td>
+      <td><a href='https://www.mongodb.com/careers/job/?gh_jid=7779598'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>San Mateo, CA, United States</td>
+      <td>Software Engineer, Creator Translation</td>
+      <td><a href='https://careers.roblox.com/jobs/7786397?gh_jid=7786397'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) J STREET OFFICE SPACE AR BENTONVILLE Home Office</td>
+      <td>Software Engineer III - .NET/C#</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-J-STREET-OFFICE-SPACE-AR-BENTONVILLE-Home-Office/Software-Engineer-III_R-2400192'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Ozark, MO</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Ozark-MO/Pharmacy-Grad-Intern--Hrly-_R-2471919'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Respect Building CA SUNNYVALE Home Office</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III_R-2379011'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Saint-Eustache, QC</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Saint-Eustache-QC/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2474630'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Valdosta, GA</td>
+      <td>(USA) Material Handler, Manufacturing, Mon - Fri 2:30p-11:00p</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Valdosta-GA/XMLNAME--USA--Material-Handler--Manufacturing--Mon---Fri-2-30p-11-00p_R-2434382-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) AL TALLASSEE 01057 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-AL-TALLASSEE-01057-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2474022'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoom</b></td>
+      <td>Remote  (US)</td>
+      <td>Software Engineer</td>
+      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--US/Software-Engineer_R18968-1'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-10-11-05-04'>🕐 Batch at 2026-04-10 11:05:04</h3>
 
@@ -100,7 +242,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-10-10-07-00'>🕐 Batch at 2026-04-10 10:07:00</h3>
 
 📊 **Total jobs in this batch: 9**
@@ -193,8 +334,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-10-09-06-41'>🕐 Batch at 2026-04-10 09:06:41</h3>
+---<h3 id='batch-2026-04-10-09-06-41'>🕐 Batch at 2026-04-10 09:06:41</h3>
 
 📊 **Total jobs in this batch: 19**
 
