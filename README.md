@@ -4,8 +4,75 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-10 05:05:45](#batch-2026-04-10-05-05-45)
 - [Batch at 2026-04-10 02:24:02](#batch-2026-04-10-02-24-02)
 - [Batch at 2026-04-10 00:56:55](#batch-2026-04-10-00-56-55)
+
+<h3 id='batch-2026-04-10-05-05-45'>🕐 Batch at 2026-04-10 05:05:45</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- Workday: 3 jobs
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA, NY, New York City</td>
+      <td>Summer Sanian Intern</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-NY-New-York-City/Summer-Sanian-Intern_JR-0105950'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN TN CHENNAI Home Office Capita Land</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/Software-Engineer-III_R-2420981'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Software-Engineer-III_R-2420307-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PW II</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PW-II/Software-Engineer-III_R-2431003-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA, NY, New York City</td>
+      <td>Summer Sanian Intern</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-NY-New-York-City/Summer-Sanian-Intern_JR-0106048'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA, NY, New York City</td>
+      <td>Summer Sanian Intern</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-NY-New-York-City/Summer-Sanian-Intern_JR-0106040'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-10-02-24-02'>🕐 Batch at 2026-04-10 02:24:02</h3>
 
@@ -51,7 +118,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-10-00-56-55'>🕐 Batch at 2026-04-10 00:56:55</h3>
 
 📊 **Total jobs in this batch: 5**
