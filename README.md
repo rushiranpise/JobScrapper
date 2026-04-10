@@ -4,10 +4,87 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-10 14:50:49](#batch-2026-04-10-14-50-49)
 - [Batch at 2026-04-10 13:51:28](#batch-2026-04-10-13-51-28)
 - [Batch at 2026-04-10 12:10:30](#batch-2026-04-10-12-10-30)
 - [Batch at 2026-04-10 11:05:04](#batch-2026-04-10-11-05-04)
-- [Batch at 2026-04-10 10:07:00](#batch-2026-04-10-10-07-00)
+
+<h3 id='batch-2026-04-10-14-50-49'>🕐 Batch at 2026-04-10 14:50:49</h3>
+
+📊 **Total jobs in this batch: 7**
+
+**Per company:**
+- Citi: 1 job
+- Saronic: 2 jobs
+- State Street: 1 job
+- STANDARD & POOR'S FINANCIAL SERVICE: 1 job
+- The Toro: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>New Castle Delaware United States</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-Castle-Delaware-United-States/DevOps-Engineer---Officer_26953115'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Saronic</b></td>
+      <td>San Diego, CA</td>
+      <td>Training Site Coordinator</td>
+      <td><a href='https://jobs.lever.co/saronic/baf709c2-c5c4-434d-a75c-2c5f3a9873c5'>Apply</a></td>
+      <td>2026-04-10 21:43:21</td>
+    </tr>
+    <tr>
+      <td><b>Saronic</b></td>
+      <td>San Diego, CA</td>
+      <td>Training Site Technician</td>
+      <td><a href='https://jobs.lever.co/saronic/e7c5d76e-19f5-4639-a62f-3855fbe606a2'>Apply</a></td>
+      <td>2026-04-10 21:34:11</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Boston, Massachusetts</td>
+      <td>Data Management Analyst  - Officer</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Data-Management-Analyst----Officer_R-788127'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>STANDARD & POOR'S FINANCIAL SERVICE</b></td>
+      <td>New York, NY</td>
+      <td>Software Engineer - Mobility</td>
+      <td><a href='https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Software-Engineer---Mobility_327893-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Perry, OK</td>
+      <td>Painter - Ditch Witch</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Perry-OK/Painter---Ditch-Witch_JR15926'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Software-Engineer-II_R-2465632'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-10-13-51-28'>🕐 Batch at 2026-04-10 13:51:28</h3>
 
@@ -85,7 +162,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-10-12-10-30'>🕐 Batch at 2026-04-10 12:10:30</h3>
 
 📊 **Total jobs in this batch: 16**
@@ -226,8 +302,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-10-11-05-04'>🕐 Batch at 2026-04-10 11:05:04</h3>
+---<h3 id='batch-2026-04-10-11-05-04'>🕐 Batch at 2026-04-10 11:05:04</h3>
 
 📊 **Total jobs in this batch: 9**
 
