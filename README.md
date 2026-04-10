@@ -4,7 +4,53 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-10 02:24:02](#batch-2026-04-10-02-24-02)
 - [Batch at 2026-04-10 00:56:55](#batch-2026-04-10-00-56-55)
+
+<h3 id='batch-2026-04-10-02-24-02'>🕐 Batch at 2026-04-10 02:24:02</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- PlayStation Global: 2 jobs
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, Madison, WI</td>
+      <td>PHP Developer / Software Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5890930004'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, Madison, WI</td>
+      <td>Software Engineer (Java)</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5890922004'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>DATA SCIENTIST III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/DATA-SCIENTIST-III_R-2430381-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-10-00-56-55'>🕐 Batch at 2026-04-10 00:56:55</h3>
 
@@ -65,4 +111,3 @@
 <table>
 
 ---
-
