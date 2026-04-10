@@ -4,10 +4,87 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-10 13:51:28](#batch-2026-04-10-13-51-28)
 - [Batch at 2026-04-10 12:10:30](#batch-2026-04-10-12-10-30)
 - [Batch at 2026-04-10 11:05:04](#batch-2026-04-10-11-05-04)
 - [Batch at 2026-04-10 10:07:00](#batch-2026-04-10-10-07-00)
-- [Batch at 2026-04-10 09:06:41](#batch-2026-04-10-09-06-41)
+
+<h3 id='batch-2026-04-10-13-51-28'>🕐 Batch at 2026-04-10 13:51:28</h3>
+
+📊 **Total jobs in this batch: 7**
+
+**Per company:**
+- ASMLEXT1: 1 job
+- BAH: 1 job
+- Dematic Corp. (ILD-US): 2 jobs
+- Exiger: 1 job
+- Intel Corporation: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Wilton Factory Optics Fabrication Technician - CWW Back End Days</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Wilton-Factory-Optics-Fabrication-Technician---CWW-Back-End-Days_J-00338546'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Hunter Liggett, CA</td>
+      <td>Simulator Trainer and Integrator</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Hunter-Liggett-CA/Simulator-Trainer-and-Integrator_R0237579'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Dematic Corp. (ILD-US)</b></td>
+      <td>Salt Lake City, UT, United States</td>
+      <td>Inventory Management Intern</td>
+      <td><a href='https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Salt-Lake-City-UT-United-States/Inventory-Management-Intern_JR-0090038'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Dematic Corp. (ILD-US)</b></td>
+      <td>Grand Rapids, MI, United States</td>
+      <td>Procurement Intern</td>
+      <td><a href='https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Grand-Rapids-MI-United-States/Procurement-Intern_JR-0088787-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Exiger</b></td>
+      <td>Huntsville, Alabama, United States; McLean, Virginia, United States</td>
+      <td>Full Stack Engineer (Cleared)</td>
+      <td><a href='https://www.exiger.com/careers/5850476004?gh_jid=5850476004'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, California, Santa Clara</td>
+      <td>Infrastructure and DevOps Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Infrastructure-and-DevOps-Engineer_JR0282572'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Anniston, AL</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Anniston-AL/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2468440'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-10-12-10-30'>🕐 Batch at 2026-04-10 12:10:30</h3>
 
@@ -150,7 +227,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-10-11-05-04'>🕐 Batch at 2026-04-10 11:05:04</h3>
 
 📊 **Total jobs in this batch: 9**
@@ -241,8 +317,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-10-10-07-00'>🕐 Batch at 2026-04-10 10:07:00</h3>
+---<h3 id='batch-2026-04-10-10-07-00'>🕐 Batch at 2026-04-10 10:07:00</h3>
 
 📊 **Total jobs in this batch: 9**
 
