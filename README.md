@@ -4,10 +4,40 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-11 16:47:30](#batch-2026-04-11-16-47-30)
 - [Batch at 2026-04-11 12:00:31](#batch-2026-04-11-12-00-31)
 - [Batch at 2026-04-11 10:42:35](#batch-2026-04-11-10-42-35)
 - [Batch at 2026-04-11 07:46:32](#batch-2026-04-11-07-46-32)
-- [Batch at 2026-04-11 01:02:08](#batch-2026-04-11-01-02-08)
+
+<h3 id='batch-2026-04-11-16-47-30'>🕐 Batch at 2026-04-11 16:47:30</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Lightricks: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Lightricks</b></td>
+      <td>Jerusalem</td>
+      <td>Creative AI Student Role</td>
+      <td><a href='https://careers.lightricks.com/position?gh_jid=8460282002&gh_jid=8460282002'>Apply</a></td>
+      <td>Apr 11, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-11-12-00-31'>🕐 Batch at 2026-04-11 12:00:31</h3>
 
@@ -38,7 +68,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-11-10-42-35'>🕐 Batch at 2026-04-11 10:42:35</h3>
 
 📊 **Total jobs in this batch: 1**
@@ -67,8 +96,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-11-07-46-32'>🕐 Batch at 2026-04-11 07:46:32</h3>
+---<h3 id='batch-2026-04-11-07-46-32'>🕐 Batch at 2026-04-11 07:46:32</h3>
 
 📊 **Total jobs in this batch: 2**
 
