@@ -4,8 +4,39 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-11 10:42:35](#batch-2026-04-11-10-42-35)
 - [Batch at 2026-04-11 07:46:32](#batch-2026-04-11-07-46-32)
 - [Batch at 2026-04-11 01:02:08](#batch-2026-04-11-01-02-08)
+
+<h3 id='batch-2026-04-11-10-42-35'>🕐 Batch at 2026-04-11 10:42:35</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Truveta: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Truveta</b></td>
+      <td>Seattle, WA</td>
+      <td>Partner Data Analyst</td>
+      <td><a href='https://job-boards.greenhouse.io/truveta/jobs/5841941004'>Apply</a></td>
+      <td>Apr 11, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-11-07-46-32'>🕐 Batch at 2026-04-11 07:46:32</h3>
 
@@ -43,7 +74,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-11-01-02-08'>🕐 Batch at 2026-04-11 01:02:08</h3>
 
 📊 **Total jobs in this batch: 1**
