@@ -4,10 +4,40 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-10 22:07:08](#batch-2026-04-10-22-07-08)
 - [Batch at 2026-04-10 19:43:38](#batch-2026-04-10-19-43-38)
 - [Batch at 2026-04-10 16:47:30](#batch-2026-04-10-16-47-30)
 - [Batch at 2026-04-10 15:49:39](#batch-2026-04-10-15-49-39)
-- [Batch at 2026-04-10 14:50:49](#batch-2026-04-10-14-50-49)
+
+<h3 id='batch-2026-04-10-22-07-08'>🕐 Batch at 2026-04-10 22:07:08</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Warner Bros: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Warner Bros</b></td>
+      <td>GA Atlanta 1050 Techwood Drive NW</td>
+      <td>NCAA Digital Editorial Post Grad</td>
+      <td><a href='https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/GA-Atlanta-1050-Techwood-Drive-NW/NCAA-Digital-Post-Grad---Editorial_R000104532-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-10-19-43-38'>🕐 Batch at 2026-04-10 19:43:38</h3>
 
@@ -70,7 +100,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-10-16-47-30'>🕐 Batch at 2026-04-10 16:47:30</h3>
 
 📊 **Total jobs in this batch: 2**
@@ -107,8 +136,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-10-15-49-39'>🕐 Batch at 2026-04-10 15:49:39</h3>
+---<h3 id='batch-2026-04-10-15-49-39'>🕐 Batch at 2026-04-10 15:49:39</h3>
 
 📊 **Total jobs in this batch: 9**
 
