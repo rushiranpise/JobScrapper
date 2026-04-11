@@ -4,10 +4,72 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-10 19:43:38](#batch-2026-04-10-19-43-38)
 - [Batch at 2026-04-10 16:47:30](#batch-2026-04-10-16-47-30)
 - [Batch at 2026-04-10 15:49:39](#batch-2026-04-10-15-49-39)
 - [Batch at 2026-04-10 14:50:49](#batch-2026-04-10-14-50-49)
-- [Batch at 2026-04-10 13:51:28](#batch-2026-04-10-13-51-28)
+
+<h3 id='batch-2026-04-10-19-43-38'>🕐 Batch at 2026-04-10 19:43:38</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- Applied Materials: 1 job
+- netflix: 1 job
+- NVIDIA: 1 job
+- Walmart: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software Engineer II - (E2)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer-II----E2-_R2617379'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>netflix</b></td>
+      <td>North Carolina - Remote</td>
+      <td>Distributed Systems Engineer 5 – Cloud Gateway</td>
+      <td><a href='https://netflix.wd1.myworkdayjobs.com/en-US/Netflix/job/North-Carolina---Remote/Distributed-Systems-Engineer--L5----Cloud-Gateway_JR36748'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Quality Assurance Software Developer in Test Engineer</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quality-Assurance-Software-Developer-in-Test-Engineer_JR2011328'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) J STREET OFFICE SPACE AR BENTONVILLE Home Office</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-J-STREET-OFFICE-SPACE-AR-BENTONVILLE-Home-Office/Software-Engineer-III_R-2447128'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>AI Inference Engineer - Model Optimization & Deployment</td>
+      <td><a href='https://jobs.lever.co/zoox/c88c8b02-71b6-492c-a666-584458ac8c6e'>Apply</a></td>
+      <td>2026-04-11 00:04:50</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-10-16-47-30'>🕐 Batch at 2026-04-10 16:47:30</h3>
 
@@ -46,7 +108,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-10-15-49-39'>🕐 Batch at 2026-04-10 15:49:39</h3>
 
 📊 **Total jobs in this batch: 9**
@@ -134,8 +195,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-10-14-50-49'>🕐 Batch at 2026-04-10 14:50:49</h3>
+---<h3 id='batch-2026-04-10-14-50-49'>🕐 Batch at 2026-04-10 14:50:49</h3>
 
 📊 **Total jobs in this batch: 7**
 
