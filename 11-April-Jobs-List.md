@@ -4,10 +4,76 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-11 22:34:34](#batch-2026-04-11-22-34-34)
 - [Batch at 2026-04-11 16:47:30](#batch-2026-04-11-16-47-30)
 - [Batch at 2026-04-11 12:00:31](#batch-2026-04-11-12-00-31)
 - [Batch at 2026-04-11 10:42:35](#batch-2026-04-11-10-42-35)
-- [Batch at 2026-04-11 07:46:32](#batch-2026-04-11-07-46-32)
+
+<h3 id='batch-2026-04-11-22-34-34'>🕐 Batch at 2026-04-11 22:34:34</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- Sigma : 3 jobs
+- Warner Bros: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Sigma </b></td>
+      <td>New York City, NY</td>
+      <td>Software Engineer - Compiler </td>
+      <td><a href='https://job-boards.greenhouse.io/sigmacomputing/jobs/7697621003'>Apply</a></td>
+      <td>Apr 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Sigma </b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer - Compiler </td>
+      <td><a href='https://job-boards.greenhouse.io/sigmacomputing/jobs/7697620003'>Apply</a></td>
+      <td>Apr 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Sigma </b></td>
+      <td>San francisco, CA</td>
+      <td>Software Engineer - SDET</td>
+      <td><a href='https://job-boards.greenhouse.io/sigmacomputing/jobs/7697622003'>Apply</a></td>
+      <td>Apr 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Warner Bros</b></td>
+      <td>GA Atlanta 1050 Techwood Drive NW</td>
+      <td>NCAA Digital Business Ops Post Grad</td>
+      <td><a href='https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/GA-Atlanta-1050-Techwood-Drive-NW/NCAA-Digital-Business-Ops-Post-Grad_R000104530-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Warner Bros</b></td>
+      <td>GA Atlanta 1050 Techwood Drive NW</td>
+      <td>NCAA Digital Product Management Post Grad</td>
+      <td><a href='https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/GA-Atlanta-1050-Techwood-Drive-NW/NCAA-Digital-Post-Grad---Product-Management_R000104539-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Warner Bros</b></td>
+      <td>GA Atlanta 1050 Techwood Drive NW</td>
+      <td>NCAA Digital Project Management Post Grad</td>
+      <td><a href='https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/GA-Atlanta-1050-Techwood-Drive-NW/NCAA-Digital-Project-Management-Post-Grad_R000104538-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-11-16-47-30'>🕐 Batch at 2026-04-11 16:47:30</h3>
 
@@ -38,7 +104,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-11-12-00-31'>🕐 Batch at 2026-04-11 12:00:31</h3>
 
 📊 **Total jobs in this batch: 1**
@@ -67,8 +132,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-11-10-42-35'>🕐 Batch at 2026-04-11 10:42:35</h3>
+---<h3 id='batch-2026-04-11-10-42-35'>🕐 Batch at 2026-04-11 10:42:35</h3>
 
 📊 **Total jobs in this batch: 1**
 
