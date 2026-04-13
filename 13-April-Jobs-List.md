@@ -4,10 +4,94 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-13 15:05:43](#batch-2026-04-13-15-05-43)
 - [Batch at 2026-04-13 14:08:11](#batch-2026-04-13-14-08-11)
 - [Batch at 2026-04-13 12:28:00](#batch-2026-04-13-12-28-00)
 - [Batch at 2026-04-13 10:16:58](#batch-2026-04-13-10-16-58)
-- [Batch at 2026-04-13 08:27:48](#batch-2026-04-13-08-27-48)
+
+<h3 id='batch-2026-04-13-15-05-43'>🕐 Batch at 2026-04-13 15:05:43</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- Airbnb: 1 job
+- Anduril Industries: 2 jobs
+- BAH: 1 job
+- Intel Corporation: 2 jobs
+- Morgan Stanley: 1 job
+- STANDARD & POOR'S FINANCIAL SERVICE: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Airbnb</b></td>
+      <td>Remote, USA </td>
+      <td>Software Engineer, Guest & Host</td>
+      <td><a href='https://careers.airbnb.com/positions/7812843?gh_jid=7812843'>Apply</a></td>
+      <td>Apr 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Atlanta, Georgia, United States</td>
+      <td>Flight Sciences Engineer - Tactical, Reconnaissance and Strike Division</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5090339007?gh_jid=5090339007'>Apply</a></td>
+      <td>Mar 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Flight Sciences Engineer - Tactical, Reconnaissance and Strike Division</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5090334007?gh_jid=5090334007'>Apply</a></td>
+      <td>Mar 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Aurora, CO</td>
+      <td>Systems Infrastructure Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Systems-Infrastructure-Engineer_R0237672'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Foundry Automation ML Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Foundry-Automation-ML-Engineer_JR0282890-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, California, Folsom</td>
+      <td>Development Tools Software Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Development-Tools-Software-Engineer_JR0282770'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>New York, New York, United States of America</td>
+      <td>Global Capital Markets - Strategic Lending Group Analyst/Associate</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Global-Capital-Markets---Strategic-Lending-Group-Analyst-Associate_JR033203-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>STANDARD & POOR'S FINANCIAL SERVICE</b></td>
+      <td>New York, NY</td>
+      <td>Summer Intern, Software Quality Engineer (Early Career)</td>
+      <td><a href='https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Summer-Intern--Software-Quality-Engineer--Early-Career-_324230-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-13-14-08-11'>🕐 Batch at 2026-04-13 14:08:11</h3>
 
@@ -267,7 +351,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-13-12-28-00'>🕐 Batch at 2026-04-13 12:28:00</h3>
 
 📊 **Total jobs in this batch: 22**
@@ -460,8 +543,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-13-10-16-58'>🕐 Batch at 2026-04-13 10:16:58</h3>
+---<h3 id='batch-2026-04-13-10-16-58'>🕐 Batch at 2026-04-13 10:16:58</h3>
 
 📊 **Total jobs in this batch: 12**
 
