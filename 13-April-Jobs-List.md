@@ -4,10 +4,269 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-13 14:08:11](#batch-2026-04-13-14-08-11)
 - [Batch at 2026-04-13 12:28:00](#batch-2026-04-13-12-28-00)
 - [Batch at 2026-04-13 10:16:58](#batch-2026-04-13-10-16-58)
 - [Batch at 2026-04-13 08:27:48](#batch-2026-04-13-08-27-48)
-- [Batch at 2026-04-13 06:56:32](#batch-2026-04-13-06-56-32)
+
+<h3 id='batch-2026-04-13-14-08-11'>🕐 Batch at 2026-04-13 14:08:11</h3>
+
+📊 **Total jobs in this batch: 31**
+
+**Per company:**
+- ally: 1 job
+- Applied Materials: 1 job
+- Autodesk: 1 job
+- BAH: 3 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- Citi: 1 job
+- Commvault: 1 job
+- CMU: 1 job
+- Datamaxis: 1 job
+- Formlabs: 2 jobs
+- genpt: 1 job
+- Intel Corporation: 1 job
+- KLA: 1 job
+- nVent: 1 job
+- NVIDIAExternalCareerSite: 2 jobs
+- Prudential Financial: 1 job
+- Stripe: 3 jobs
+- visa: 1 job
+- Walmart: 6 jobs
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ally</b></td>
+      <td>N/A</td>
+      <td>Email</td>
+      <td><a href='mailto:?subject=Associate%20Consumer%20Underwriter%20-%20Careers&body=https%3A%2F%2Fally.avature.net%2Fcareers%2FJobDetail%2FAssociate-Consumer-Underwriter%2F16326'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Process Engineer Intern - BS/MS</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Process-Engineer-Intern---BS-MS_R2616889'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Autodesk</b></td>
+      <td>Portland, OR, USA</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Portland-OR-USA/Software-Development-Engineer_26WD97140-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort McCoy, WI</td>
+      <td>Virtual Battle Space and Simulator Trainer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-McCoy-WI/Virtual-Battle-Space-and-Simulator-Trainer_R0237337'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Walton Beach, FL</td>
+      <td>Data Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Walton-Beach-FL/Data-Engineer--Mid_R0237656'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Open-Source Research Analyst, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0234113'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA GA - Covington BMD</td>
+      <td>Intern - Product Engineering</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-GA---Covington-BMD/Intern---Product-Engineering_R-542887'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Mountain View California United States</td>
+      <td>Part-Time Teller (20 Hours), Mountain View Branch</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mountain-View-California-United-States/Part-Time-Teller--20-Hours---Mountain-View-Branch_26954759'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Commvault</b></td>
+      <td>United States</td>
+      <td>AI & Support Automation Intern (Remote - USA)</td>
+      <td><a href='https://job-boards.greenhouse.io/commvault/jobs/5051703008'>Apply</a></td>
+      <td>Jan 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Summer Research Intern - College of Engineering - Electrical and Computer Engineering</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Summer-Research-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024368'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Datamaxis</b></td>
+      <td>Pune, IN</td>
+      <td>MDM Developer Analyst - R360</td>
+      <td><a href='https://datamaxis.breezy.hr/p/b21e2f497dd9-mdm-developer-analyst-r360'>Apply</a></td>
+      <td>Apr 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Hardware Reliability Engineering Intern (Fall 2026)</td>
+      <td><a href='https://careers.formlabs.com/job/7812501/apply/?gh_jid=7812501'>Apply</a></td>
+      <td>Apr 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Test Engineering Intern (Fall 2026)</td>
+      <td><a href='https://careers.formlabs.com/job/7773874/apply/?gh_jid=7773874'>Apply</a></td>
+      <td>Apr 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>USA, AL - Remote</td>
+      <td>Data Scientist</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/USA-AL---Remote/Data-Scientist_R26_0000011913'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, California, Santa Clara</td>
+      <td>Software Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Software-Engineer_JR0280597'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Product Applications Development Engineer</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Product-Applications-Development-Engineer_2633840'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Anoka, MN, US</td>
+      <td>Manufacturing Trainer - 2nd Shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/R20729-Manufacturing-Trainer---2nd-Shift_R21403'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIAExternalCareerSite</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Diagnostics Software Infrastructure Engineer</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Diagnostics-Software-Infrastructure-Engineer_JR2012383'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIAExternalCareerSite</b></td>
+      <td>US, MA, Westford</td>
+      <td>Software Engineer - DPU Platform</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Software-Engineer---DPU-Platform_JR2015949-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Prudential Financial</b></td>
+      <td>Newark, NJ, USA</td>
+      <td>PGIM - Fixed Income Data Analyst</td>
+      <td><a href='https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/PGIM-Fixed-Income---Analyst--Data-Integrity_R-122667-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>Seattle, WA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=7809414'>Apply</a></td>
+      <td>Apr 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>San Francisco, California</td>
+      <td>Software Engineer</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=7808471'>Apply</a></td>
+      <td>Apr 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>Seattle, WA</td>
+      <td>Software Engineer L2</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=7812279'>Apply</a></td>
+      <td>Apr 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>visa</b></td>
+      <td>Austin</td>
+      <td>Business Analyst, Cloud FinOps</td>
+      <td><a href='https://www.smartrecruiters.com/visa/744000120533788'>Apply</a></td>
+      <td>Apr 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) VIZIO SERVICES DALLAS TX DALLAS Home Office</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-VIZIO-SERVICES-DALLAS-TX-DALLAS-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2471268-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Danville, IL</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Danville-IL/XMLNAME--USA--Front-End-Coach_R-2381237-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2466163'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) OH OBERLIN 05309 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OH-OBERLIN-05309-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2472197'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) OH STREETSBORO 02313 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OH-STREETSBORO-02313-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2475627'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Coralville, IA</td>
+      <td>(USA) Coach/Ops Mgr Trainee-2</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Coralville-IA/XMLNAME--USA--Coach-Ops-Mgr-Trainee-2_R-2476433-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Development Engineer in Test, Product Software - Mobile App</td>
+      <td><a href='https://jobs.lever.co/zoox/eceb3a6d-9cbe-4241-ab70-e6e45509390a'>Apply</a></td>
+      <td>2026-04-13 20:03:32</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-13-12-28-00'>🕐 Batch at 2026-04-13 12:28:00</h3>
 
@@ -202,7 +461,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-13-10-16-58'>🕐 Batch at 2026-04-13 10:16:58</h3>
 
 📊 **Total jobs in this batch: 12**
@@ -317,8 +575,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-13-08-27-48'>🕐 Batch at 2026-04-13 08:27:48</h3>
+---<h3 id='batch-2026-04-13-08-27-48'>🕐 Batch at 2026-04-13 08:27:48</h3>
 
 📊 **Total jobs in this batch: 15**
 
