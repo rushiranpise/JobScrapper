@@ -4,10 +4,126 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-13 10:16:58](#batch-2026-04-13-10-16-58)
 - [Batch at 2026-04-13 08:27:48](#batch-2026-04-13-08-27-48)
 - [Batch at 2026-04-13 06:56:32](#batch-2026-04-13-06-56-32)
 - [Batch at 2026-04-13 04:28:13](#batch-2026-04-13-04-28-13)
-- [Batch at 2026-04-13 02:10:54](#batch-2026-04-13-02-10-54)
+
+<h3 id='batch-2026-04-13-10-16-58'>🕐 Batch at 2026-04-13 10:16:58</h3>
+
+📊 **Total jobs in this batch: 12**
+
+**Per company:**
+- Allstate: 2 jobs
+- Applied Materials: 1 job
+- BAH: 2 jobs
+- Citi: 1 job
+- CMU: 1 job
+- genpt: 1 job
+- Snowflake: 1 job
+- The Toro: 1 job
+- Walmart: 1 job
+- Zscaler: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - CT (Remote)</td>
+      <td>Field Auto Appraiser - Stonington, CT</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---CT-Remote/Field-Auto-Appraiser---Stonington--CT_R29181'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - RI (Remote)</td>
+      <td>Field Auto Appraiser</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---RI-Remote/Field-Auto-Appraiser_R29182'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Electrical Engineer Intern</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Electrical-Engineer-Intern_R2617469'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Cloud Computing Application Architect, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Cloud-Computing-Application-Architect--Mid_R0230945'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>AI DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/AI-DevOps-Engineer_R0237619'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Irving Texas United States</td>
+      <td>Applications Support  - Officer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Applications-Support----Officer_26949917-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Summer Research Intern - College of Engineering</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Summer-Research-Intern---College-of-Engineering_2024357'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Latham, NY, USA</td>
+      <td>Store Paint Specialist</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Latham-NY-USA/Store-Paint-Specialist_R26_0000011896'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-GA-Remote</td>
+      <td>Solution Engineer - Data Engineering Specialist - Bilingual (Spanish)</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/745f8b76-989e-46f9-b3fd-f5b83b4ba70c'>Apply</a></td>
+      <td>Apr 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Batesville, AR</td>
+      <td>Painter, 1st Shift - Spartan Mowers</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Batesville-AR/Painter--1st-Shift---Spartan-Mowers_JR15920-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Carmel, IN</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Carmel-IN/Pharmacy-Grad-Intern--Hrly-_R-2372789-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zscaler</b></td>
+      <td>San Jose, California, USA</td>
+      <td>Software Engineer Intern, Software Development</td>
+      <td><a href='https://job-boards.greenhouse.io/zscaler/jobs/5103680007'>Apply</a></td>
+      <td>Apr 13, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-13-08-27-48'>🕐 Batch at 2026-04-13 08:27:48</h3>
 
@@ -145,7 +261,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-13-06-56-32'>🕐 Batch at 2026-04-13 06:56:32</h3>
 
 📊 **Total jobs in this batch: 5**
@@ -203,8 +318,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-13-04-28-13'>🕐 Batch at 2026-04-13 04:28:13</h3>
+---<h3 id='batch-2026-04-13-04-28-13'>🕐 Batch at 2026-04-13 04:28:13</h3>
 
 📊 **Total jobs in this batch: 1**
 
