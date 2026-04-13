@@ -4,10 +4,63 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-13 16:57:02](#batch-2026-04-13-16-57-02)
 - [Batch at 2026-04-13 16:03:25](#batch-2026-04-13-16-03-25)
 - [Batch at 2026-04-13 15:05:43](#batch-2026-04-13-15-05-43)
 - [Batch at 2026-04-13 14:08:11](#batch-2026-04-13-14-08-11)
-- [Batch at 2026-04-13 12:28:00](#batch-2026-04-13-12-28-00)
+
+<h3 id='batch-2026-04-13-16-57-02'>🕐 Batch at 2026-04-13 16:57:02</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- spacex: 1 job
+- STANDARD & POOR'S FINANCIAL SERVICE: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Full Stack Software Engineer (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8501225002?gh_jid=8501225002'>Apply</a></td>
+      <td>Apr 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>STANDARD & POOR'S FINANCIAL SERVICE</b></td>
+      <td>Michigan, US</td>
+      <td>Product Management Intern (Early Careers)</td>
+      <td><a href='https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Michigan-US/Product-Management-Intern--Early-Careers-_327951-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>West Melbourne, FL</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/West-Melbourne-FL/XMLNAME--USA--Front-End-Coach_R-2477259'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Titusville, FL</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Titusville-FL/XMLNAME--USA--Front-End-Coach_R-2477251-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-13-16-03-25'>🕐 Batch at 2026-04-13 16:03:25</h3>
 
@@ -54,7 +107,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-13-15-05-43'>🕐 Batch at 2026-04-13 15:05:43</h3>
 
 📊 **Total jobs in this batch: 8**
@@ -137,8 +189,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-13-14-08-11'>🕐 Batch at 2026-04-13 14:08:11</h3>
+---<h3 id='batch-2026-04-13-14-08-11'>🕐 Batch at 2026-04-13 14:08:11</h3>
 
 📊 **Total jobs in this batch: 31**
 
