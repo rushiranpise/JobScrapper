@@ -4,9 +4,115 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-14 08:25:29](#batch-2026-04-14-08-25-29)
 - [Batch at 2026-04-14 07:01:02](#batch-2026-04-14-07-01-02)
 - [Batch at 2026-04-14 02:31:06](#batch-2026-04-14-02-31-06)
 - [Batch at 2026-04-14 01:01:31](#batch-2026-04-14-01-01-31)
+
+<h3 id='batch-2026-04-14-08-25-29'>🕐 Batch at 2026-04-14 08:25:29</h3>
+
+📊 **Total jobs in this batch: 11**
+
+**Per company:**
+- ally: 2 jobs
+- BAH: 3 jobs
+- Commvault: 1 job
+- homedepot: 1 job
+- Walmart: 3 jobs
+- yahoo: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ally</b></td>
+      <td>N/A</td>
+      <td>Email</td>
+      <td><a href='mailto:?subject=Senior%20Analyst-%20Adv%20Bus%20Analytics%20-%20Careers&body=https%3A%2F%2Fally.avature.net%2Fcareers%2FJobDetail%2FSenior-Analyst-Adv-Bus-Analytics%2F16242'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>ally</b></td>
+      <td>N/A</td>
+      <td>Email</td>
+      <td><a href='mailto:?subject=Field%20Auditor%20-%20CA%20-%20Careers&body=https%3A%2F%2Fally.avature.net%2Fcareers%2FJobDetail%2FField-Auditor-CA%2F16330'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Baltimore, MD</td>
+      <td>Medicaid Medical Review SME</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Baltimore-MD/Medicaid-Medical-Review-SME_R0237733'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Tampa, FL</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Tampa-FL/Data-Scientist_R0237694'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Cyber Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Cyber-Data-Analyst_R0233426'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Commvault</b></td>
+      <td>United States</td>
+      <td>AI Governance Associate</td>
+      <td><a href='https://job-boards.greenhouse.io/commvault/jobs/5187908008'>Apply</a></td>
+      <td>Apr 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>MICHIGAN - VIRTUAL - MI01</td>
+      <td>Field Service Professional - Midland, MI</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/MICHIGAN---VIRTUAL---MI01/Field-Service-Professional---Midland--MI_Req176305'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PW II</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PW-II/Software-Engineer-III_R-2424877'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Easton, MD</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Easton-MD/Front-End-Coach_R-2471622-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>yahoo</b></td>
+      <td>United States of America</td>
+      <td>Data Engineer - AI Semantic Analytics</td>
+      <td><a href='https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Data-Engineer---AI-Semantic-Analytics_JR0026990-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Moultrie, GA</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Moultrie-GA/XMLNAME--USA--Front-End-Coach_R-2477077-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-14-07-01-02'>🕐 Batch at 2026-04-14 07:01:02</h3>
 
@@ -107,7 +213,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-14-02-31-06'>🕐 Batch at 2026-04-14 02:31:06</h3>
 
 📊 **Total jobs in this batch: 1**
@@ -136,8 +241,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-14-01-01-31'>🕐 Batch at 2026-04-14 01:01:31</h3>
+---<h3 id='batch-2026-04-14-01-01-31'>🕐 Batch at 2026-04-14 01:01:31</h3>
 
 📊 **Total jobs in this batch: 1**
 
