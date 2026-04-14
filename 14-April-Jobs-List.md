@@ -4,10 +4,92 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-14 16:53:53](#batch-2026-04-14-16-53-53)
 - [Batch at 2026-04-14 15:09:16](#batch-2026-04-14-15-09-16)
 - [Batch at 2026-04-14 14:08:51](#batch-2026-04-14-14-08-51)
 - [Batch at 2026-04-14 12:31:25](#batch-2026-04-14-12-31-25)
-- [Batch at 2026-04-14 10:23:21](#batch-2026-04-14-10-23-21)
+
+<h3 id='batch-2026-04-14-16-53-53'>🕐 Batch at 2026-04-14 16:53:53</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- Broadcom : 1 job
+- Okta: 1 job
+- Walmart: 5 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>North Reading, MA</td>
+      <td>Data Engineer/Software Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5108380007'>Apply</a></td>
+      <td>Apr 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-NY Melville</td>
+      <td>Business Process Analyst- Mainframe Software Division</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-NY-Melville/Business-Process-Analyst--Mainframe-Software-Division_R025683'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Okta</b></td>
+      <td>Bellevue, Washington; Chicago, Illinois; San Francisco, California</td>
+      <td>Digital Solutions Intern (Summer 2026)</td>
+      <td><a href='https://www.okta.com/company/careers/opportunity/7551302?gh_jid=7551302'>Apply</a></td>
+      <td>Feb 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Tampa, FL</td>
+      <td>Freight Handler</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Tampa-FL/Freight-Handler--Evergreen---Open-_R-1251534'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Fort Worth, TX</td>
+      <td>Freight Handler</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Fort-Worth-TX/Freight-Handler_R-1251904-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Perris, CA</td>
+      <td>Freight Handler</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Perris-CA/Freight-Handler_R-1251924'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Groveport, OH</td>
+      <td>Freight Handler</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Groveport-OH/Freight-Handler_R-1251948-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Lumberton, NC</td>
+      <td>Freight Handler</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Lumberton-NC/Freight-Handler_R-1252001'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-14-15-09-16'>🕐 Batch at 2026-04-14 15:09:16</h3>
 
@@ -85,7 +167,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-14-14-08-51'>🕐 Batch at 2026-04-14 14:08:51</h3>
 
 📊 **Total jobs in this batch: 68**
@@ -596,8 +677,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-14-12-31-25'>🕐 Batch at 2026-04-14 12:31:25</h3>
+---<h3 id='batch-2026-04-14-12-31-25'>🕐 Batch at 2026-04-14 12:31:25</h3>
 
 📊 **Total jobs in this batch: 29**
 
