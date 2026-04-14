@@ -4,10 +4,48 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-13 20:00:10](#batch-2026-04-13-20-00-10)
 - [Batch at 2026-04-13 16:57:02](#batch-2026-04-13-16-57-02)
 - [Batch at 2026-04-13 16:03:25](#batch-2026-04-13-16-03-25)
 - [Batch at 2026-04-13 15:05:43](#batch-2026-04-13-15-05-43)
-- [Batch at 2026-04-13 14:08:11](#batch-2026-04-13-14-08-11)
+
+<h3 id='batch-2026-04-13-20-00-10'>🕐 Batch at 2026-04-13 20:00:10</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- OpenAI: 1 job
+- Otis: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>OpenAI</b></td>
+      <td>Remote - US</td>
+      <td>Manufacturing Test Engineer, AI Compute Infrastructure - Stargate</td>
+      <td><a href='https://jobs.ashbyhq.com/openai/8a950265-0527-48f8-be3c-2923d7d96940'>Apply</a></td>
+      <td>Apr 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Otis</b></td>
+      <td>LOC3274: Rm B608,112 Su Tong Road, GLP-I-Park, Industrial Park District, Suzhou</td>
+      <td>Trainee SVC Mechanic</td>
+      <td><a href='https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/LOC3274-Rm-B608112-Su-Tong-Road-GLP-I-Park-Industrial-Park-District-Suzhou/Trainee-SVC-Mechanic_20156840'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-13-16-57-02'>🕐 Batch at 2026-04-13 16:57:02</h3>
 
@@ -61,7 +99,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-13-16-03-25'>🕐 Batch at 2026-04-13 16:03:25</h3>
 
 📊 **Total jobs in this batch: 3**
@@ -106,8 +143,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-13-15-05-43'>🕐 Batch at 2026-04-13 15:05:43</h3>
+---<h3 id='batch-2026-04-13-15-05-43'>🕐 Batch at 2026-04-13 15:05:43</h3>
 
 📊 **Total jobs in this batch: 8**
 
