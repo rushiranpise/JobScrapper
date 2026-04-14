@@ -4,10 +4,87 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-14 15:09:16](#batch-2026-04-14-15-09-16)
 - [Batch at 2026-04-14 14:08:51](#batch-2026-04-14-14-08-51)
 - [Batch at 2026-04-14 12:31:25](#batch-2026-04-14-12-31-25)
 - [Batch at 2026-04-14 10:23:21](#batch-2026-04-14-10-23-21)
-- [Batch at 2026-04-14 08:25:29](#batch-2026-04-14-08-25-29)
+
+<h3 id='batch-2026-04-14-15-09-16'>🕐 Batch at 2026-04-14 15:09:16</h3>
+
+📊 **Total jobs in this batch: 7**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Samsung Electronics America, Inc: 1 job
+- Applied Materials: 2 jobs
+- BAH: 1 job
+- Citi: 1 job
+- Sentry : 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Training Simulation Engineer </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5091048007?gh_jid=5091048007'>Apply</a></td>
+      <td>Apr 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>1530 FM 973 Taylor, TX, USA</td>
+      <td>Failure Analysis Technician - Night Shift</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Failure-Analysis-Technician---Night-Shift_R113723-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Mechnical Engineer Intern</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Mechnical-Engineer-Intern_R2616255'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Gloucester,MA</td>
+      <td>CDL Driver</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/CDL-Driver_R2617222-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>AI & ML Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/AI---ML-Engineer_R0237334'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex Data Analyst para Campañas</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Data-Analyst-para-Campaas_26945420'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Sentry </b></td>
+      <td>Stevens Point, WI</td>
+      <td>Banquet Captain</td>
+      <td><a href='https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Banquet-Captain_JR-141663'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-14-14-08-51'>🕐 Batch at 2026-04-14 14:08:51</h3>
 
@@ -520,7 +597,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-14-12-31-25'>🕐 Batch at 2026-04-14 12:31:25</h3>
 
 📊 **Total jobs in this batch: 29**
@@ -762,8 +838,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-14-10-23-21'>🕐 Batch at 2026-04-14 10:23:21</h3>
+---<h3 id='batch-2026-04-14-10-23-21'>🕐 Batch at 2026-04-14 10:23:21</h3>
 
 📊 **Total jobs in this batch: 19**
 
