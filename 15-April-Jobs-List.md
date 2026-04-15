@@ -4,10 +4,185 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-15 10:17:46](#batch-2026-04-15-10-17-46)
 - [Batch at 2026-04-15 08:18:23](#batch-2026-04-15-08-18-23)
 - [Batch at 2026-04-15 06:55:38](#batch-2026-04-15-06-55-38)
 - [Batch at 2026-04-15 04:11:17](#batch-2026-04-15-04-11-17)
-- [Batch at 2026-04-15 02:32:52](#batch-2026-04-15-02-32-52)
+
+<h3 id='batch-2026-04-15-10-17-46'>🕐 Batch at 2026-04-15 10:17:46</h3>
+
+📊 **Total jobs in this batch: 20**
+
+**Per company:**
+- ally: 1 job
+- Allstate: 1 job
+- ASMLEXT1: 1 job
+- Anduril Industries: 1 job
+- BAH: 2 jobs
+- Citi: 1 job
+- Datadog: 1 job
+- genpt: 1 job
+- Khan Academy: 1 job
+- MOOG: 1 job
+- netflix: 1 job
+- spacex: 1 job
+- Walmart: 7 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ally</b></td>
+      <td>N/A</td>
+      <td>Email</td>
+      <td><a href='mailto:?subject=Remarketing%20Representative%20-%20Careers&body=https%3A%2F%2Fally.avature.net%2Fcareers%2FJobDetail%2FLittle-Rock-Arkansas-United-States-Remarketing-Representative%2F16285'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - IL (Remote)</td>
+      <td>Managing Engineer (Java/Spring)</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---IL-Remote/Managing-Engineer--Java-Spring-_R27931-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>San Jose, CA, USA</td>
+      <td>Data Analyst</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Jose-CA-USA/Data-Analyst_J-00339242'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Mission Software Engineer, Vehicle Software, Frontend</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/4672911007?gh_jid=4672911007'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-Engineer_R0237844-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Honolulu, HI</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0237843'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex - Desarrollador de aplicaciones COBOL bajo plataforma TANDEM para backend de ATM's</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Desarrollador-de-aplicaciones-COBOL-bajo-plataforma-TANDEM-para-backend-de-ATM-s_26949267'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Datadog</b></td>
+      <td>New York, New York, USA</td>
+      <td>Software Engineer II, Demo Engineering</td>
+      <td><a href='https://careers.datadoghq.com/detail/7815725/?gh_jid=7815725'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Indianapolis, IN, USA</td>
+      <td>CDL Local Driver</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Indianapolis-IN-USA/CDL-Local-Driver_R26_0000012141'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Khan Academy</b></td>
+      <td>Mountain View, CA / Remote (Continental US + Hawaii + Canada Only)</td>
+      <td>Data Analyst I, Analytics Reporting (24 months fixed-term)</td>
+      <td><a href='https://job-boards.greenhouse.io/khanacademy/jobs/7818434'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Quality Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Quality-Engineering_R-25-12749'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>netflix</b></td>
+      <td>USA - Remote</td>
+      <td>Data Scientist 5 - Games</td>
+      <td><a href='https://netflix.wd1.myworkdayjobs.com/en-US/Netflix/job/USA---Remote/Data-Scientist-5---Games_JR39683'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Data Infrastructure Operations Specialist II (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8508424002?gh_jid=8508424002'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MI STERLING HEIGHTS 02559 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MI-STERLING-HEIGHTS-02559-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2478047'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NE HASTINGS 01460 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NE-HASTINGS-01460-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2478256'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NE YORK 00350 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NE-YORK-00350-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2478263-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Allentown, PA</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Allentown-PA/Pharmacy-Pre-Grad-Intern---WM_R-2477744'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) CA EASTVALE 03129 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CA-EASTVALE-03129-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2477809-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) OR GRANTS PASS 01834 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OR-GRANTS-PASS-01834-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2478559-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) GA COLUMBUS 04426 NEIGHBORHOOD MARKET</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-GA-COLUMBUS-04426-NEIGHBORHOOD-MARKET/Pharmacy-Grad-Intern--Hrly-_R-2478343'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-15-08-18-23'>🕐 Batch at 2026-04-15 08:18:23</h3>
 
@@ -126,7 +301,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-15-06-55-38'>🕐 Batch at 2026-04-15 06:55:38</h3>
 
 📊 **Total jobs in this batch: 6**
@@ -193,8 +367,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-15-04-11-17'>🕐 Batch at 2026-04-15 04:11:17</h3>
+---<h3 id='batch-2026-04-15-04-11-17'>🕐 Batch at 2026-04-15 04:11:17</h3>
 
 📊 **Total jobs in this batch: 1**
 
