@@ -4,10 +4,87 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-15 15:05:42](#batch-2026-04-15-15-05-42)
 - [Batch at 2026-04-15 14:04:37](#batch-2026-04-15-14-04-37)
 - [Batch at 2026-04-15 12:31:56](#batch-2026-04-15-12-31-56)
 - [Batch at 2026-04-15 10:17:46](#batch-2026-04-15-10-17-46)
-- [Batch at 2026-04-15 08:18:23](#batch-2026-04-15-08-18-23)
+
+<h3 id='batch-2026-04-15-15-05-42'>🕐 Batch at 2026-04-15 15:05:42</h3>
+
+📊 **Total jobs in this batch: 7**
+
+**Per company:**
+- Applied Materials: 1 job
+- BAH: 1 job
+- Jump Trading: 1 job
+- Solera: 2 jobs
+- Walmart: 1 job
+- Zoom: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>AI Algorithm Developer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/AI-Algorithm-Developer_R2519827'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Bethesda, MD</td>
+      <td>Health Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Data-Analyst_R0237887'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Jump Trading</b></td>
+      <td>Carrollton, TX</td>
+      <td>Data Center Technician</td>
+      <td><a href='https://www.jumptrading.com/hr/job?gh_jid=7781600'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Solera</b></td>
+      <td>Westlake, Texas</td>
+      <td>Product Management Intern</td>
+      <td><a href='https://solera.wd5.myworkdayjobs.com/en-US/Global_Career_Site/job/Westlake-Texas/Product-Management-Intern_JR-019582'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Solera</b></td>
+      <td>Westlake, Texas</td>
+      <td>Software Engineering Intern</td>
+      <td><a href='https://solera.wd5.myworkdayjobs.com/en-US/Global_Career_Site/job/Westlake-Texas/Software-Engineering-Intern_JR-019584'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Excellence Building CA SUNNYVALE Home Office</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2420608-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoom</b></td>
+      <td>Remote  (US)</td>
+      <td>Value Realization Advisor - AI</td>
+      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--US/Value-Realization-Advisor---AI_R18493-1'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-15-14-04-37'>🕐 Batch at 2026-04-15 14:04:37</h3>
 
@@ -125,7 +202,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-15-12-31-56'>🕐 Batch at 2026-04-15 12:31:56</h3>
 
 📊 **Total jobs in this batch: 28**
@@ -355,8 +431,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-15-10-17-46'>🕐 Batch at 2026-04-15 10:17:46</h3>
+---<h3 id='batch-2026-04-15-10-17-46'>🕐 Batch at 2026-04-15 10:17:46</h3>
 
 📊 **Total jobs in this batch: 20**
 
