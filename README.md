@@ -4,10 +4,88 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-15 15:59:43](#batch-2026-04-15-15-59-43)
 - [Batch at 2026-04-15 15:05:42](#batch-2026-04-15-15-05-42)
 - [Batch at 2026-04-15 14:04:37](#batch-2026-04-15-14-04-37)
 - [Batch at 2026-04-15 12:31:56](#batch-2026-04-15-12-31-56)
-- [Batch at 2026-04-15 10:17:46](#batch-2026-04-15-10-17-46)
+
+<h3 id='batch-2026-04-15-15-59-43'>🕐 Batch at 2026-04-15 15:59:43</h3>
+
+📊 **Total jobs in this batch: 7**
+
+**Per company:**
+- Motorola Solutions, Inc: 1 job
+- BAH: 1 job
+- Jump Trading: 1 job
+- netflix: 1 job
+- Twitch: 1 job
+- WEX: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Los Angeles, CA</td>
+      <td>Software Test Engineer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Los-Angeles-CA/Software-Test-Engineer_R63985'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Stafford, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Stafford-VA/Data-Scientist_R0237900'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Jump Trading</b></td>
+      <td>Chicago or New York </td>
+      <td>Electrical Engineer | HPC Infrastructure </td>
+      <td><a href='https://www.jumptrading.com/hr/job?gh_jid=7819624'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>netflix</b></td>
+      <td>USA - Remote</td>
+      <td>Data Engineer 5, Experimentation Platform</td>
+      <td><a href='https://netflix.wd1.myworkdayjobs.com/en-US/Netflix/job/USA---Remote/Data-Engineer-5--Experimentation-Platform_JR39968-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Twitch</b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer, Safety</td>
+      <td><a href='https://job-boards.greenhouse.io/twitch/jobs/8504990002'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>WEX</b></td>
+      <td>US - Remote</td>
+      <td>Software Engineer</td>
+      <td><a href='https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer_R20387'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Saint-Eustache, QC</td>
+      <td>(CAN) Associé saisonnier</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Saint-Eustache-QC/XMLNAME--CAN--Associ-saisonnier_R-2479749'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-15-15-05-42'>🕐 Batch at 2026-04-15 15:05:42</h3>
 
@@ -85,7 +163,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-15-14-04-37'>🕐 Batch at 2026-04-15 14:04:37</h3>
 
 📊 **Total jobs in this batch: 12**
@@ -201,8 +278,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-15-12-31-56'>🕐 Batch at 2026-04-15 12:31:56</h3>
+---<h3 id='batch-2026-04-15-12-31-56'>🕐 Batch at 2026-04-15 12:31:56</h3>
 
 📊 **Total jobs in this batch: 28**
 
