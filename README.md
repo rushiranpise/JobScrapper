@@ -4,10 +4,127 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-15 14:04:37](#batch-2026-04-15-14-04-37)
 - [Batch at 2026-04-15 12:31:56](#batch-2026-04-15-12-31-56)
 - [Batch at 2026-04-15 10:17:46](#batch-2026-04-15-10-17-46)
 - [Batch at 2026-04-15 08:18:23](#batch-2026-04-15-08-18-23)
-- [Batch at 2026-04-15 06:55:38](#batch-2026-04-15-06-55-38)
+
+<h3 id='batch-2026-04-15-14-04-37'>🕐 Batch at 2026-04-15 14:04:37</h3>
+
+📊 **Total jobs in this batch: 12**
+
+**Per company:**
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- Esri: 1 job
+- Micron: 1 job
+- MOOG: 1 job
+- NVIDIA: 1 job
+- Penn Mutual: 1 job
+- Scoutm Otors: 1 job
+- spacex: 1 job
+- terex: 2 jobs
+- The Walt Disney Company: 1 job
+- Virtru : 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA NC - Durham - Roche Drive</td>
+      <td>Quality Engineering Intern</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NC---Durham---Roche-Drive/Quality-Engineering-Intern_R-542913'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://www.esri.com/careers/5109083007?gh_jid=5109083007'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>San Jose, CA</td>
+      <td>Intern - SSD Firmware</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---SSD-Firmware_JR83017'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Salt Lake City, UT</td>
+      <td>Intern, Electrical Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Salt-Lake-City-UT/Intern--Electrical-Engineering_R-26-17150'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Developer Tools DevOps Engineer</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Tools-DevOps-Engineer_JR2013314'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Penn Mutual</b></td>
+      <td>Remote - United States</td>
+      <td>Financial Management Co-op</td>
+      <td><a href='https://pennmutual.wd1.myworkdayjobs.com/en-US/_penn-careers/job/Remote---United-States/Financial-Management-Co-op_R-100569'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Scoutm Otors</b></td>
+      <td>Blythewood, South Carolina, United States</td>
+      <td>Specialist, Invoicing & Master Data Management</td>
+      <td><a href='https://job-boards.greenhouse.io/scoutmotors/jobs/5098373007'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>CNC Programmer (Starship Components) - Level 4/5   </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8509075002?gh_jid=8509075002'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>US-SD Watertown</td>
+      <td>Painter - 2nd Shift **$1k Sign-On Bonus**</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/US-SD-Watertown/Finish-Painter---2nd-Shift----1k-Sign-On-Bonus--_REQ-11518'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>US-SD Watertown</td>
+      <td>Painter</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/US-SD-Watertown/Finish-Painter_REQ-11517'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>Walt Disney Alternative Studio Production & Post Production Intern, Summer/Fall 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Walt-Disney-Alternative-Studio-Production---Post-Production-Intern--Summer-Fall-2026_10139680'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Virtru </b></td>
+      <td>Washington, DC</td>
+      <td>Data Warehouse Technical Architect</td>
+      <td><a href='https://job-boards.greenhouse.io/virtru/jobs/4685202005'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-15-12-31-56'>🕐 Batch at 2026-04-15 12:31:56</h3>
 
@@ -239,7 +356,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-15-10-17-46'>🕐 Batch at 2026-04-15 10:17:46</h3>
 
 📊 **Total jobs in this batch: 20**
@@ -413,8 +529,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-15-08-18-23'>🕐 Batch at 2026-04-15 08:18:23</h3>
+---<h3 id='batch-2026-04-15-08-18-23'>🕐 Batch at 2026-04-15 08:18:23</h3>
 
 📊 **Total jobs in this batch: 12**
 
