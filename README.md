@@ -4,10 +4,56 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-15 16:55:54](#batch-2026-04-15-16-55-54)
 - [Batch at 2026-04-15 15:59:43](#batch-2026-04-15-15-59-43)
 - [Batch at 2026-04-15 15:05:42](#batch-2026-04-15-15-05-42)
 - [Batch at 2026-04-15 14:04:37](#batch-2026-04-15-14-04-37)
-- [Batch at 2026-04-15 12:31:56](#batch-2026-04-15-12-31-56)
+
+<h3 id='batch-2026-04-15-16-55-54'>🕐 Batch at 2026-04-15 16:55:54</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Cohesity: 1 job
+- Esri: 1 job
+- flir: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Cohesity</b></td>
+      <td>Santa Clara, CA - USA (Office)</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://cohesity.wd5.myworkdayjobs.com/en-US/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineer-III_R03223'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Web Developer II – JavaScript</td>
+      <td><a href='https://www.esri.com/careers/5012724007?gh_jid=5012724007'>Apply</a></td>
+      <td>Jan 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Durham, NC (TDY)</td>
+      <td>Software Engineer</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Durham-NC-TDY/Senior-Research-Engineer_REQ23486'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-15-15-59-43'>🕐 Batch at 2026-04-15 15:59:43</h3>
 
@@ -86,7 +132,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-15-15-05-42'>🕐 Batch at 2026-04-15 15:05:42</h3>
 
 📊 **Total jobs in this batch: 7**
@@ -162,8 +207,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-15-14-04-37'>🕐 Batch at 2026-04-15 14:04:37</h3>
+---<h3 id='batch-2026-04-15-14-04-37'>🕐 Batch at 2026-04-15 14:04:37</h3>
 
 📊 **Total jobs in this batch: 12**
 
