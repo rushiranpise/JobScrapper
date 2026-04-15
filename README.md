@@ -4,10 +4,79 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-14 19:59:18](#batch-2026-04-14-19-59-18)
 - [Batch at 2026-04-14 16:53:53](#batch-2026-04-14-16-53-53)
 - [Batch at 2026-04-14 15:09:16](#batch-2026-04-14-15-09-16)
 - [Batch at 2026-04-14 14:08:51](#batch-2026-04-14-14-08-51)
-- [Batch at 2026-04-14 12:31:25](#batch-2026-04-14-12-31-25)
+
+<h3 id='batch-2026-04-14-19-59-18'>🕐 Batch at 2026-04-14 19:59:18</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- Allstate: 1 job
+- BAH: 2 jobs
+- Chime: 1 job
+- SoFi: 1 job
+- spacex: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>US - Remote</td>
+      <td>(Entry level) Full Stack Software Engineer (LLM application Development)</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/XMLNAME--Entry-level--Full-Stack-Software-Engineer--LLM-application-Development-_R28486-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Full-Stack Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Full-Stack-Software-Engineer_R0233147-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Front End Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Front-End-Software-Engineer_R0226555'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Chime</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Software Engineer, MyPay</td>
+      <td><a href='https://boards.greenhouse.io/chime/jobs/8499450002?gh_jid=8499450002'>Apply</a></td>
+      <td>Apr 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SoFi</b></td>
+      <td>WA - Seattle </td>
+      <td>Software Engineer, Loans Originations</td>
+      <td><a href='https://sofi.com/careers/job/7701303003?gh_jid=7701303003'>Apply</a></td>
+      <td>Apr 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Material Handler, Heatshield (Starship) </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8506512002?gh_jid=8506512002'>Apply</a></td>
+      <td>Apr 14, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-14-16-53-53'>🕐 Batch at 2026-04-14 16:53:53</h3>
 
@@ -90,7 +159,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-14-15-09-16'>🕐 Batch at 2026-04-14 15:09:16</h3>
 
 📊 **Total jobs in this batch: 7**
@@ -166,8 +234,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-14-14-08-51'>🕐 Batch at 2026-04-14 14:08:51</h3>
+---<h3 id='batch-2026-04-14-14-08-51'>🕐 Batch at 2026-04-14 14:08:51</h3>
 
 📊 **Total jobs in this batch: 68**
 
