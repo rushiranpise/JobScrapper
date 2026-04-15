@@ -4,10 +4,241 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-15 12:31:56](#batch-2026-04-15-12-31-56)
 - [Batch at 2026-04-15 10:17:46](#batch-2026-04-15-10-17-46)
 - [Batch at 2026-04-15 08:18:23](#batch-2026-04-15-08-18-23)
 - [Batch at 2026-04-15 06:55:38](#batch-2026-04-15-06-55-38)
-- [Batch at 2026-04-15 04:11:17](#batch-2026-04-15-04-11-17)
+
+<h3 id='batch-2026-04-15-12-31-56'>🕐 Batch at 2026-04-15 12:31:56</h3>
+
+📊 **Total jobs in this batch: 28**
+
+**Per company:**
+- Applied Materials: 2 jobs
+- BAH: 3 jobs
+- CMU: 2 jobs
+- Comcast : 1 job
+- Esri: 8 jobs
+- General Motors LLC: 1 job
+- NVIDIA: 3 jobs
+- Pinterest: 1 job
+- Rakuten : 1 job
+- visa: 1 job
+- Woven: 1 job
+- Walmart: 3 jobs
+- Wyetech LLC: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Global software support engineer II</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Global-software-support-engineer-II_R2616439-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Algorithm Developer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Algorithm-Developer_R2616895'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer_R0237892'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Huntsville, AL</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/DevOps-Engineer_R0237879'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Camp Lejeune, NC</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Lejeune-NC/Data-Scientist_R0237867'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Research Associate - School of Computer Science - MLD</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Research-Associate---School-of-Computer-Science---MLD_2024380'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Research Associate - School of Computer Science - MLD</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Research-Associate---School-of-Computer-Science---MLD_2024381'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>NJ - Voorhees, 601 Laurel Oak Rd</td>
+      <td>Hockey Analytics Summer Intern</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/NJ---Voorhees-601-Laurel-Oak-Rd/Hockey-Analytics-Summer-Intern_R435371'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://www.esri.com/careers/5108014007?gh_jid=5108014007'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://www.esri.com/careers/5108079007?gh_jid=5108079007'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://www.esri.com/careers/5108104007?gh_jid=5108104007'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://www.esri.com/careers/5108003007?gh_jid=5108003007'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://www.esri.com/careers/5108019007?gh_jid=5108019007'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://www.esri.com/careers/5108042007?gh_jid=5108042007'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://www.esri.com/careers/5108111007?gh_jid=5108111007'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer </td>
+      <td><a href='https://www.esri.com/careers/5108092007?gh_jid=5108092007'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Engineering Group - Computer Aided Engineering</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Engineering-Group---Computer-Aided-Engineering_JR-202607820'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Solutions Architect, Generative AI</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solutions-Architect--Generative-AI_JR2012388'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Solutions Architect, Generative AI</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solutions-Architect--Generative-AI_JR2007265'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>GPU Development Tools System Software Engineer</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Development-Tools-System-Software-Engineer_JR2015871-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pinterest</b></td>
+      <td>Toronto, ON, CA</td>
+      <td>Software Engineer Intern Fall 2026 (Toronto)</td>
+      <td><a href='https://www.pinterestcareers.com/jobs/?gh_jid=7258004'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Rakuten </b></td>
+      <td>San Mateo, California</td>
+      <td>Intern - AI Engineer</td>
+      <td><a href='https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAdvertising/job/San-Mateo-California/Intern---AI-Engineer_1031662-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>visa</b></td>
+      <td>Austin</td>
+      <td>Software Engineer</td>
+      <td><a href='https://www.smartrecruiters.com/visa/744000121038328'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Woven</b></td>
+      <td>Palo Alto, CA</td>
+      <td>AI‑Driven Release & Triage Tooling Software Engineer</td>
+      <td><a href='https://jobs.lever.co/woven-by-toyota/098c58b9-f752-42a0-babe-5cd843267f57'>Apply</a></td>
+      <td>2026-04-15 17:09:54</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2462977'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2463044'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Robinson, TX</td>
+      <td>Material Handler, Manufacturing (Friday-Sunday, 6:00pm-6:30am) - $25/hr.</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Robinson-TX/Material-Handler--Manufacturing--Friday-Sunday--6-00pm-6-30am-----25-hr_R-2479409'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 1 or 2</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/b464498e-c95f-4f95-89ad-72d4ab61ab7e'>Apply</a></td>
+      <td>2026-04-15 18:44:18</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-15-10-17-46'>🕐 Batch at 2026-04-15 10:17:46</h3>
 
@@ -183,7 +414,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-15-08-18-23'>🕐 Batch at 2026-04-15 08:18:23</h3>
 
 📊 **Total jobs in this batch: 12**
@@ -300,8 +530,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-15-06-55-38'>🕐 Batch at 2026-04-15 06:55:38</h3>
+---<h3 id='batch-2026-04-15-06-55-38'>🕐 Batch at 2026-04-15 06:55:38</h3>
 
 📊 **Total jobs in this batch: 6**
 
