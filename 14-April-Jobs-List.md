@@ -4,10 +4,63 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-14 22:36:06](#batch-2026-04-14-22-36-06)
 - [Batch at 2026-04-14 19:59:18](#batch-2026-04-14-19-59-18)
 - [Batch at 2026-04-14 16:53:53](#batch-2026-04-14-16-53-53)
 - [Batch at 2026-04-14 15:09:16](#batch-2026-04-14-15-09-16)
-- [Batch at 2026-04-14 14:08:51](#batch-2026-04-14-14-08-51)
+
+<h3 id='batch-2026-04-14-22-36-06'>🕐 Batch at 2026-04-14 22:36:06</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- BAH: 1 job
+- Snorkel AI: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lexington Park, MD</td>
+      <td>Test Engineer Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/Test-Engineer-Intern_R0237800'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snorkel AI</b></td>
+      <td>Redwood City, CA (Hybrid); San Francisco, CA (Hybrid)</td>
+      <td>Software Engineer - Core Services</td>
+      <td><a href='https://job-boards.greenhouse.io/snorkelai/jobs/5970324004'>Apply</a></td>
+      <td>Apr 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>San Tan Valley, AZ</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/San-Tan-Valley-AZ/XMLNAME--USA--Front-End-Coach_R-2478450'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Excellence Building CA SUNNYVALE Home Office</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III_R-2451481'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-14-19-59-18'>🕐 Batch at 2026-04-14 19:59:18</h3>
 
@@ -77,7 +130,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-14-16-53-53'>🕐 Batch at 2026-04-14 16:53:53</h3>
 
 📊 **Total jobs in this batch: 8**
@@ -158,8 +210,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-14-15-09-16'>🕐 Batch at 2026-04-14 15:09:16</h3>
+---<h3 id='batch-2026-04-14-15-09-16'>🕐 Batch at 2026-04-14 15:09:16</h3>
 
 📊 **Total jobs in this batch: 7**
 
