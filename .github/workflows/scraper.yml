@@ -42,6 +42,8 @@ jobs:
           mkdir -p old
           cp -f *.md old/
           rm *.md
+          today="$(date '+%-d-%B-Jobs-List.md')"
+          cp old/$today .
           mv old/README.md .
           git add old output_old.csv *.md
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update job archive and daily markdown [skip ci]" && git push)
