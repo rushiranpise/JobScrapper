@@ -4,10 +4,94 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-16 14:57:50](#batch-2026-04-16-14-57-50)
 - [Batch at 2026-04-16 14:03:40](#batch-2026-04-16-14-03-40)
 - [Batch at 2026-04-16 12:30:37](#batch-2026-04-16-12-30-37)
 - [Batch at 2026-04-16 10:28:43](#batch-2026-04-16-10-28-43)
-- [Batch at 2026-04-16 08:52:27](#batch-2026-04-16-08-52-27)
+
+<h3 id='batch-2026-04-16-14-57-50'>🕐 Batch at 2026-04-16 14:57:50</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- ally: 1 job
+- Anduril Industries: 1 job
+- Motorola Solutions, Inc: 2 jobs
+- BAH: 1 job
+- Intel Corporation: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ally</b></td>
+      <td>N/A</td>
+      <td>Email</td>
+      <td><a href='mailto:?subject=Field%20Auditor%20-%20Dallas%2FFort%20Worth%2C%20TX%20-%20Careers&body=https%3A%2F%2Fally.avature.net%2Fcareers%2FJobDetail%2FField-Auditor-Dallas-Fort-Worth-TX%2F16416'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Software Engineer - Modeling & Simulation</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5062357007?gh_jid=5062357007'>Apply</a></td>
+      <td>Apr 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>North Carolina, US Offsite, More...</td>
+      <td>Field Engineer - Emergency Call Handling - US Remote with Travel</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/North-Carolina-US-Offsite/Field-Engineer---Emergency-Call-Handling---US-Remote-with-Travel_R61449'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Illinois Remote Work, More...</td>
+      <td>Software Application Specialist</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Illinois-Remote-Work/Software-Application-Specialist_R63483'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Norfolk, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Data-Scientist--Mid_R0238003'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>FCS System Reliability Developer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/FCS-System-Reliability-Developer_JR0283070'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Cortez, CO</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Cortez-CO/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2479104-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>US PA WOODLAND 06727 MAINTENANCE TRUCKING</td>
+      <td>(USA) Service Shop Entry Technician - Woodland, PA</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-PA-WOODLAND-06727-MAINTENANCE-TRUCKING/XMLNAME--USA--Service-Shop-Entry-Technician---Woodland--PA_R-2480381'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-16-14-03-40'>🕐 Batch at 2026-04-16 14:03:40</h3>
 
@@ -123,7 +207,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-16-12-30-37'>🕐 Batch at 2026-04-16 12:30:37</h3>
 
 📊 **Total jobs in this batch: 24**
@@ -330,8 +413,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-16-10-28-43'>🕐 Batch at 2026-04-16 10:28:43</h3>
+---<h3 id='batch-2026-04-16-10-28-43'>🕐 Batch at 2026-04-16 10:28:43</h3>
 
 📊 **Total jobs in this batch: 8**
 
