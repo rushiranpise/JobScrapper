@@ -4,10 +4,72 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-16 15:54:38](#batch-2026-04-16-15-54-38)
 - [Batch at 2026-04-16 14:57:50](#batch-2026-04-16-14-57-50)
 - [Batch at 2026-04-16 14:03:40](#batch-2026-04-16-14-03-40)
 - [Batch at 2026-04-16 12:30:37](#batch-2026-04-16-12-30-37)
-- [Batch at 2026-04-16 10:28:43](#batch-2026-04-16-10-28-43)
+
+<h3 id='batch-2026-04-16-15-54-38'>🕐 Batch at 2026-04-16 15:54:38</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- Salesforce: 1 job
+- spacex: 1 job
+- Twilio: 1 job
+- visa: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Washington - Seattle</td>
+      <td>Data Engineer - MTS/SMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Seattle/Data-Engineer---MTS-SMTS_JR338891-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Sunnyvale, CA</td>
+      <td>Wireless Software Engineer (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8511186002?gh_jid=8511186002'>Apply</a></td>
+      <td>Apr 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Twilio</b></td>
+      <td>Remote - US</td>
+      <td>Software Engineer (L2)</td>
+      <td><a href='https://job-boards.greenhouse.io/twilio/jobs/7188174'>Apply</a></td>
+      <td>Aug 27, 2025</td>
+    </tr>
+    <tr>
+      <td><b>visa</b></td>
+      <td>Austin</td>
+      <td>Software Development Engineer- Product Reliability Engineering</td>
+      <td><a href='https://www.smartrecruiters.com/visa/744000121300908'>Apply</a></td>
+      <td>Apr 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Excellence Building CA SUNNYVALE Home Office</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2475065-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-16-14-57-50'>🕐 Batch at 2026-04-16 14:57:50</h3>
 
@@ -92,7 +154,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-16-14-03-40'>🕐 Batch at 2026-04-16 14:03:40</h3>
 
 📊 **Total jobs in this batch: 12**
@@ -206,8 +267,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-16-12-30-37'>🕐 Batch at 2026-04-16 12:30:37</h3>
+---<h3 id='batch-2026-04-16-12-30-37'>🕐 Batch at 2026-04-16 12:30:37</h3>
 
 📊 **Total jobs in this batch: 24**
 
