@@ -4,10 +4,125 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-16 14:03:40](#batch-2026-04-16-14-03-40)
 - [Batch at 2026-04-16 12:30:37](#batch-2026-04-16-12-30-37)
 - [Batch at 2026-04-16 10:28:43](#batch-2026-04-16-10-28-43)
 - [Batch at 2026-04-16 08:52:27](#batch-2026-04-16-08-52-27)
-- [Batch at 2026-04-16 07:05:18](#batch-2026-04-16-07-05-18)
+
+<h3 id='batch-2026-04-16-14-03-40'>🕐 Batch at 2026-04-16 14:03:40</h3>
+
+📊 **Total jobs in this batch: 12**
+
+**Per company:**
+- ally: 1 job
+- Anduril Industries: 2 jobs
+- BAH: 3 jobs
+- Citi: 1 job
+- KLA: 1 job
+- Ripple: 1 job
+- The Walt Disney Company: 1 job
+- Xylem Services USA LLC: 1 job
+- Wyetech LLC: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ally</b></td>
+      <td>N/A</td>
+      <td>Email</td>
+      <td><a href='mailto:?subject=Account%20Executive%2C%20Auto%20Finance%20-%20Greensboro%2FWinston-Salem%20or%20Raleigh%2FDurham%20or%20Charlotte%2C%20NC%20Sales%20Market%20-%20Careers&body=https%3A%2F%2Fally.avature.net%2Fcareers%2FJobDetail%2FAccount-Executive-Auto-Finance-Greensboro-Winston-Salem-or-Raleigh-Durham-or-Charlotte-NC-Sales-Market%2F16346'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Quincy, Massachusetts, United States</td>
+      <td>Software Engineer, Maritime</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5036989007?gh_jid=5036989007'>Apply</a></td>
+      <td>Apr 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Trainer, Electronic Warfare</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5111336007?gh_jid=5111336007'>Apply</a></td>
+      <td>Apr 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist--Mid_R0238002'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Corporate AI Solution Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Corporate-AI-Solution-Architect_R0237999'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Camp Lejeune, NC</td>
+      <td>Defense Mission Professional Training SME</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Lejeune-NC/Defense-Mission-Professional-Training-SME_R0237996'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex Analista KYC de AML</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-KYC-de-AML_26942152'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Data Analytics Intern – Business Development</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Data-Analytics-Intern---Business-Development_2635668'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Ripple</b></td>
+      <td>Chicago, Illinois, United States</td>
+      <td>Software Engineer Intern, GTreasury (Summer 2026)</td>
+      <td><a href='https://ripple.com/careers/all-jobs/job/7822192?gh_jid=7822192'>Apply</a></td>
+      <td>Apr 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>New York, NY, USA</td>
+      <td>WABC Digital Content Producer - Daily Hire</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/WABC-Digital-Content-Producer---Daily-Hire_10148897'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Xylem Services USA LLC</b></td>
+      <td>Yellow Springs, Ohio</td>
+      <td>Manufacturing Engineering Summer Intern</td>
+      <td><a href='https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Yellow-Springs-Ohio/Manufacturing-Engineering-Summer-Intern_R47724-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Ft. Meade, Maryland</td>
+      <td>Software Engineer 3</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/9ffc3789-e8a8-4a21-a37c-2b4f3dfce757'>Apply</a></td>
+      <td>2026-04-16 19:42:29</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-16-12-30-37'>🕐 Batch at 2026-04-16 12:30:37</h3>
 
@@ -216,7 +331,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-16-10-28-43'>🕐 Batch at 2026-04-16 10:28:43</h3>
 
 📊 **Total jobs in this batch: 8**
@@ -298,8 +412,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-16-08-52-27'>🕐 Batch at 2026-04-16 08:52:27</h3>
+---<h3 id='batch-2026-04-16-08-52-27'>🕐 Batch at 2026-04-16 08:52:27</h3>
 
 📊 **Total jobs in this batch: 27**
 
