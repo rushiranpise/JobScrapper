@@ -50,7 +50,7 @@ jobs:
           mv old/README.md .
           ls
           git add old output_old.csv *.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update job archive and daily markdown [skip ci]" && git push)
+          git commit -m "Update job archive and daily markdown [skip ci]" && git push
 
       - name: Send Telegram notification
         env:
