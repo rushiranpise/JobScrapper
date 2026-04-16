@@ -1,9 +1,25 @@
-company,title,location,postedOn,link
-BAH,Pricing AI Solution Architect,"McLean, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Pricing-AI-Solution-Architect_R0237952
-BAH,Delivery Operations AI Solution Architect,"McLean, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Delivery-Operations-AI-Solution-Architect_R0237953
-BAH,Software Engineer,"Herndon, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Herndon-VA/Software-Engineer_R0237939
-BAH,AI Solution Architect,"McLean, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/AI-Solution-Architect_R0237951
-Becton Dickinson’s Integrated Diagnostics Systems,Quality Engineering Intern,USA NC - Durham - Roche Drive,Posted Today,https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NC---Durham---Roche-Drive/Quality-Engineering-Intern_R-543669
-genpt,ML Search Engineer,"Birmingham, AL, USA",Posted Today,https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/ML-Search-Engineer_R26_0000004143
-Nike,Material Handler,"Beaverton, Oregon",Posted Today,https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Material-Handler_R-82360-1
-Walmart,Pharmacy Pre-Grad Intern - WM,(USA) NC GARNER 05743 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NC-GARNER-05743-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2480362
+company,title,location,link,postedOn,updatedOn
+Anduril Industries,Mission Software Engineer,"Costa Mesa, California, United States",https://boards.greenhouse.io/andurilindustries/jobs/5044319007?gh_jid=5044319007,2026-04-16T13:54:29-04:00,2026-04-16T13:54:29-04:00
+ASMLEXT1,Field Applications Engineer - AZ,"Hillsboro, OR, USA",https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Hillsboro-OR-USA/Field-Applications-Engineer---AZ_J-00338453,Posted Today,
+ASMLEXT1,Optical Fabrication Technician CWW Front End Nights,"Wilton, CT, USA",https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Nights_J-00336919,Posted Today,
+BorgWarner,"Mfg Engineering Automation and Controls Technician, Grade G ($29.50-$36.61)",Arden - North Carolina - USA,https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/Mfg-Engineering-Automation-and-Controls-Technician--Grade-G---2950--3661-_R2026-1442-1,Posted Today,
+Children's Hospital Medical Center,"OR Tech - Surgical Tech Students, Main OR",Burnet Campus,https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Burnet-Campus/OR-Tech---Surgical-Tech-Students--Main-OR_JR219745,Posted Today,
+flir,Quality Analytics Intern,"US - Camarillo, CA",https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Camarillo-CA/Quality-Analytics-Intern_REQ34263,Posted Today,
+General Motors LLC,Paint Process Engineer,"Lake Orion, Michigan, United States of America",https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Lake-Orion-Michigan-United-States-of-America/Paint-Process-Engineer_JR-202608515,Posted Today,
+KLA,Applications Development Engineer,"Austin, TX",https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Austin-TX/Applications-Development-Engineer_2635568-1,Posted Today,
+Morgan Stanley,Data Governance and Data Quality - Institutional Securities Data Group – Associate,"New York, New York, United States of America",https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Data-Governance-and-Data-Quality---Institutional-Securities-Data-Group---Associate_JR035107,Posted Today,
+Okta,AI Content Operations Intern (Summer 2026),"Chicago, Illinois",https://www.okta.com/company/careers/opportunity/7818807?gh_jid=7818807,2026-04-16T15:13:13-04:00,2026-04-16T15:13:13-04:00
+Rokt,Junior Software Engineer,"New York, New York",https://apply.workable.com/rokt/j/783A754DDB/,2026-04-16T00:00:00.000Z,
+Squarespace,Software Engineer - Delivery Platform ,New York City,http://www.squarespace.com/about/careers?gh_jid=7789058,2026-04-16T14:09:39-04:00,2026-04-16T14:09:39-04:00
+The Walt Disney Company,"WPVI-TV (6abc) Multiplatform Programming Intern, Summer/Fall 2026","Philadelphia, PA, USA",https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Philadelphia-PA-USA/WPVI-TV--6abc--Multiplatform-Programming-Intern--Summer-Fall-2026_10138357-1,Posted Today,
+Toast,International FinTech Counsel,Remote - USA,https://careers.toasttab.com/jobs?gh_jid=7787556,2026-04-16T15:09:47-04:00,2026-04-16T15:09:47-04:00
+Waymo,"Software Engineer, Strategic SWE Reserve","Mountain View,  California, USA; San Francisco, California, USA",https://careers.withwaymo.com/jobs?gh_jid=7622998,2026-04-16T14:14:55-04:00,2026-04-16T14:14:55-04:00
+Warner Bros,Software Engineer II,GA Atlanta 1050 Techwood Drive NW,https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Software-Engineer-II_R000103735,Posted Today,
+Walmart,(CAN) Associé saisonnier,"Rimouski, QC",https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Rimouski-QC/XMLNAME--CAN--Associ-saisonnier_R-2480851,Posted Today,
+Walmart,Préposé au traitement des commandes OMNI,"Val-D'Or, QC",https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Val-DOr-QC/Prpos-au-traitement-des-commandes-OMNI_R-2480826,Posted Today,
+Walmart,Pharmacy Pre-Grad Intern - WM,(USA) FL TALLAHASSEE 01408 WM SUPERCENTER,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-FL-TALLAHASSEE-01408-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2479755,Posted Today,
+Walmart,(USA) Front End Coach,"Maricopa, AZ",https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Maricopa-AZ/XMLNAME--USA--Front-End-Coach_R-2480387-1,Posted Today,
+Walmart,Software Engineer III,(USA) Crossman Excellence Building CA SUNNYVALE Home Office,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III_R-2456488,Posted Today,
+Walmart,(USA) Software Engineer III,(USA) Crossman Service Building CA SUNNYVALE Home Office,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2479854,Posted Today,
+Wyetech LLC,Signals Software Engineer 1,"Annapolis Junction, Maryland",https://jobs.lever.co/wyetechllc/a53dfc7c-85b7-4b2b-b956-07f04fa1a224,2026-04-16 18:32:10,N/A
+Zoox,"PhD Research Intern, Mapping Software","Foster City, CA",https://jobs.lever.co/zoox/f318f39e-c089-4240-b341-ebb021d86b4f,2025-11-03 22:12:08,N/A

@@ -4,10 +4,218 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-16 12:30:37](#batch-2026-04-16-12-30-37)
 - [Batch at 2026-04-16 10:28:43](#batch-2026-04-16-10-28-43)
 - [Batch at 2026-04-16 08:52:27](#batch-2026-04-16-08-52-27)
 - [Batch at 2026-04-16 07:05:18](#batch-2026-04-16-07-05-18)
-- [Batch at 2026-04-16 02:31:56](#batch-2026-04-16-02-31-56)
+
+<h3 id='batch-2026-04-16-12-30-37'>🕐 Batch at 2026-04-16 12:30:37</h3>
+
+📊 **Total jobs in this batch: 24**
+
+**Per company:**
+- Anduril Industries: 1 job
+- ASMLEXT1: 2 jobs
+- BorgWarner: 1 job
+- Children's Hospital Medical Center: 1 job
+- flir: 1 job
+- General Motors LLC: 1 job
+- KLA: 1 job
+- Morgan Stanley: 1 job
+- Okta: 1 job
+- Rokt: 1 job
+- Squarespace: 1 job
+- The Walt Disney Company: 1 job
+- Toast: 1 job
+- Waymo: 1 job
+- Warner Bros: 1 job
+- Walmart: 6 jobs
+- Wyetech LLC: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Mission Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5044319007?gh_jid=5044319007'>Apply</a></td>
+      <td>Apr 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Hillsboro, OR, USA</td>
+      <td>Field Applications Engineer - AZ</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Hillsboro-OR-USA/Field-Applications-Engineer---AZ_J-00338453'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Optical Fabrication Technician CWW Front End Nights</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Nights_J-00336919'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Arden - North Carolina - USA</td>
+      <td>Mfg Engineering Automation and Controls Technician, Grade G ($29.50-$36.61)</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/Mfg-Engineering-Automation-and-Controls-Technician--Grade-G---2950--3661-_R2026-1442-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Children's Hospital Medical Center</b></td>
+      <td>Burnet Campus</td>
+      <td>OR Tech - Surgical Tech Students, Main OR</td>
+      <td><a href='https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Burnet-Campus/OR-Tech---Surgical-Tech-Students--Main-OR_JR219745'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Camarillo, CA</td>
+      <td>Quality Analytics Intern</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Camarillo-CA/Quality-Analytics-Intern_REQ34263'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Lake Orion, Michigan, United States of America</td>
+      <td>Paint Process Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Lake-Orion-Michigan-United-States-of-America/Paint-Process-Engineer_JR-202608515'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Austin, TX</td>
+      <td>Applications Development Engineer</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Austin-TX/Applications-Development-Engineer_2635568-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>New York, New York, United States of America</td>
+      <td>Data Governance and Data Quality - Institutional Securities Data Group – Associate</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Data-Governance-and-Data-Quality---Institutional-Securities-Data-Group---Associate_JR035107'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Okta</b></td>
+      <td>Chicago, Illinois</td>
+      <td>AI Content Operations Intern (Summer 2026)</td>
+      <td><a href='https://www.okta.com/company/careers/opportunity/7818807?gh_jid=7818807'>Apply</a></td>
+      <td>Apr 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Rokt</b></td>
+      <td>New York, New York</td>
+      <td>Junior Software Engineer</td>
+      <td><a href='https://apply.workable.com/rokt/j/783A754DDB/'>Apply</a></td>
+      <td>Apr 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Squarespace</b></td>
+      <td>New York City</td>
+      <td>Software Engineer - Delivery Platform </td>
+      <td><a href='http://www.squarespace.com/about/careers?gh_jid=7789058'>Apply</a></td>
+      <td>Apr 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Philadelphia, PA, USA</td>
+      <td>WPVI-TV (6abc) Multiplatform Programming Intern, Summer/Fall 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Philadelphia-PA-USA/WPVI-TV--6abc--Multiplatform-Programming-Intern--Summer-Fall-2026_10138357-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Toast</b></td>
+      <td>Remote - USA</td>
+      <td>International FinTech Counsel</td>
+      <td><a href='https://careers.toasttab.com/jobs?gh_jid=7787556'>Apply</a></td>
+      <td>Apr 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View,  California, USA; San Francisco, California, USA</td>
+      <td>Software Engineer, Strategic SWE Reserve</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7622998'>Apply</a></td>
+      <td>Apr 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Warner Bros</b></td>
+      <td>GA Atlanta 1050 Techwood Drive NW</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Software-Engineer-II_R000103735'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Rimouski, QC</td>
+      <td>(CAN) Associé saisonnier</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Rimouski-QC/XMLNAME--CAN--Associ-saisonnier_R-2480851'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Val-D'Or, QC</td>
+      <td>Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Val-DOr-QC/Prpos-au-traitement-des-commandes-OMNI_R-2480826'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) FL TALLAHASSEE 01408 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-FL-TALLAHASSEE-01408-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2479755'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Maricopa, AZ</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Maricopa-AZ/XMLNAME--USA--Front-End-Coach_R-2480387-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Excellence Building CA SUNNYVALE Home Office</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III_R-2456488'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Service Building CA SUNNYVALE Home Office</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2479854'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Signals Software Engineer 1</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/a53dfc7c-85b7-4b2b-b956-07f04fa1a224'>Apply</a></td>
+      <td>2026-04-16 18:32:10</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>PhD Research Intern, Mapping Software</td>
+      <td><a href='https://jobs.lever.co/zoox/f318f39e-c089-4240-b341-ebb021d86b4f'>Apply</a></td>
+      <td>2025-11-03 22:12:08</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-16-10-28-43'>🕐 Batch at 2026-04-16 10:28:43</h3>
 
@@ -91,7 +299,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-16-08-52-27'>🕐 Batch at 2026-04-16 08:52:27</h3>
 
 📊 **Total jobs in this batch: 27**
@@ -315,8 +522,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-16-07-05-18'>🕐 Batch at 2026-04-16 07:05:18</h3>
+---<h3 id='batch-2026-04-16-07-05-18'>🕐 Batch at 2026-04-16 07:05:18</h3>
 
 📊 **Total jobs in this batch: 7**
 
