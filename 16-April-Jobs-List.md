@@ -4,10 +4,64 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-16 16:53:52](#batch-2026-04-16-16-53-52)
 - [Batch at 2026-04-16 15:54:38](#batch-2026-04-16-15-54-38)
 - [Batch at 2026-04-16 14:57:50](#batch-2026-04-16-14-57-50)
 - [Batch at 2026-04-16 14:03:40](#batch-2026-04-16-14-03-40)
-- [Batch at 2026-04-16 12:30:37](#batch-2026-04-16-12-30-37)
+
+<h3 id='batch-2026-04-16-16-53-52'>🕐 Batch at 2026-04-16 16:53:52</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- Airbnb: 1 job
+- Micron: 1 job
+- Walmart: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Airbnb</b></td>
+      <td>Remote, USA</td>
+      <td>iOS Software Engineer, Host Pricing</td>
+      <td><a href='https://careers.airbnb.com/positions/7822751?gh_jid=7822751'>Apply</a></td>
+      <td>Apr 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Scanner Application Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/ENGINEER--ID1-ATE-PH-SCANNER-PROCESS_JR94990'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) VA NORFOLK 05488 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-VA-NORFOLK-05488-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2474634'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer Intern, Perception Data</td>
+      <td><a href='https://jobs.lever.co/zoox/15aa4a31-81e0-4f7a-b9d9-5bc64eb2afb8'>Apply</a></td>
+      <td>2026-04-16 23:01:59</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-16-15-54-38'>🕐 Batch at 2026-04-16 15:54:38</h3>
 
@@ -70,7 +124,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-16-14-57-50'>🕐 Batch at 2026-04-16 14:57:50</h3>
 
 📊 **Total jobs in this batch: 8**
@@ -153,8 +206,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-16-14-03-40'>🕐 Batch at 2026-04-16 14:03:40</h3>
+---<h3 id='batch-2026-04-16-14-03-40'>🕐 Batch at 2026-04-16 14:03:40</h3>
 
 📊 **Total jobs in this batch: 12**
 
