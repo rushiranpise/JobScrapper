@@ -31,20 +31,24 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run job scraper
-        id: scraper
-        run: python job_scraper.py 2>&1 | tee scraper_output.txt
+      # - name: Run job scraper
+      #   id: scraper
+      #   run: python job_scraper.py 2>&1 | tee scraper_output.txt
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           mkdir -p old
+          ls
           cp -f *.md old/
+          ls
           rm *.md
+          ls
           today="$(date '+%-d-%B-Jobs-List.md')"
           cp old/$today .
           mv old/README.md .
+          ls
           git add old output_old.csv *.md
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update job archive and daily markdown [skip ci]" && git push)
 
