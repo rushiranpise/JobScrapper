@@ -4,9 +4,235 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-16 08:52:27](#batch-2026-04-16-08-52-27)
 - [Batch at 2026-04-16 07:05:18](#batch-2026-04-16-07-05-18)
 - [Batch at 2026-04-16 02:31:56](#batch-2026-04-16-02-31-56)
 - [Batch at 2026-04-16 00:08:59](#batch-2026-04-16-00-08-59)
+
+<h3 id='batch-2026-04-16-08-52-27'>🕐 Batch at 2026-04-16 08:52:27</h3>
+
+📊 **Total jobs in this batch: 27**
+
+**Per company:**
+- Addepar: 1 job
+- ASMLEXT1: 1 job
+- BAH: 2 jobs
+- BorgWarner: 1 job
+- Comcast : 5 jobs
+- genpt: 2 jobs
+- Intrinsic Robotics: 1 job
+- Micron: 1 job
+- Morgan Stanley: 1 job
+- NVIDIAExternalCareerSite: 1 job
+- SharkNinja: 1 job
+- Veeva Systems: 1 job
+- Walmart: 2 jobs
+- Wyetech LLC: 7 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Addepar</b></td>
+      <td>Salt Lake City, UT</td>
+      <td>Portfolio Data Operations Analyst</td>
+      <td><a href='https://job-boards.greenhouse.io/addepar1/jobs/8509584002'>Apply</a></td>
+      <td>Apr 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>WF Optics Fabrication- Shift Coordinator CWW Front End Nights</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/WF-Optics-Fabrication--Shift-Coordinator-CWW-Front-End-Nights_J-00338282'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Software Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Data-Engineer_R0237928'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Human Resources Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Human-Resources-Intern_R0237923-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Auburn Hills - Michigan - USA</td>
+      <td>Data Science Summer Intern (May-August)</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Data-Science-Summer-Intern--May-August-_R2026-1267'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1701 John F Kennedy Blvd</td>
+      <td>Engineer 4, Software Development & Engineering-9770</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Engineer-4--Software-Development---Engineering-9770_R434757'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>VA - Reston, 11951 Freedom Dr Ste 900</td>
+      <td>Software Engineer-7975</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Software-Engineer-7975_R434853'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - West Chester, 1354 Boot Rd</td>
+      <td>Engineer 4, Software Development & Engineering-3343</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---West-Chester-1354-Boot-Rd/Engineer-4--Software-Development---Engineering-3343_R434756'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1701 John F Kennedy Blvd</td>
+      <td>Software Development Engineer 3- 0473</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Software-Development-Engineer-3--0473_R434759'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1800 Arch St</td>
+      <td>Engineer 4, Software Development & Engineering - SDET-7620</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-4--Software-Development---Engineering---SDET-7620_R434758'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>BI Data Analyst</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/BI-Data-Analyst_R26_0000011918'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>BI Data Analyst</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/BI-Data-Analyst_R26_0000011924'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intrinsic Robotics</b></td>
+      <td>Mountain View, California</td>
+      <td>Deep Learning Intern, Model Optimization</td>
+      <td><a href='https://boards.greenhouse.io/intrinsicrobotics/jobs/5743849004?gh_jid=5743849004'>Apply</a></td>
+      <td>Dec 26, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Manassas, VA -  Fab 6</td>
+      <td>New College Grad - Fab Layout Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/Fab-Layout-Engineer_JR98058'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>New York, New York, United States of America</td>
+      <td>Associate, Data & Technology</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Associate--Data---Technology_JR022490'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIAExternalCareerSite</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Deep Learning Kernel Software Performance Architect - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Kernel-Software-Performance-Architect---New-College-Grad-2026_JR2011814'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SharkNinja</b></td>
+      <td>Needham, MA, United States</td>
+      <td>Product Developer - Cookware</td>
+      <td><a href='https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4673197006'>Apply</a></td>
+      <td>Apr 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Veeva Systems</b></td>
+      <td>Massachusetts - Boston</td>
+      <td>Data Engineer</td>
+      <td><a href='https://jobs.lever.co/veeva/bef9af9f-7189-4bc3-8171-d423da8488f5'>Apply</a></td>
+      <td>2026-04-15 21:32:51</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Software-Engineer-III_R-2420941'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Linthicum Heights, Maryland</td>
+      <td>Software Engineer 2</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/030121c0-867a-40cc-968e-e935eab97f45'>Apply</a></td>
+      <td>2026-04-16 14:52:47</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Linthicum Heights, Maryland</td>
+      <td>Software Engineer 3</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/54a7adbc-beb0-44db-8330-3132f51cc25f'>Apply</a></td>
+      <td>2026-04-16 14:44:44</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Ft. Meade, Maryland</td>
+      <td>Software Engineer 3</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/7e652135-efb0-404f-adbc-441da985e8b9'>Apply</a></td>
+      <td>2026-04-16 15:03:27</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Ft. Meade, Maryland</td>
+      <td>Software Engineer 3</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/a019eaa3-9453-4d7e-b0b9-58e5dcba7592'>Apply</a></td>
+      <td>2026-04-16 15:00:01</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Ft. Meade, Maryland</td>
+      <td>Software Engineer 3</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/a6b3fa01-fdf7-499d-833a-d2495fcdd33a'>Apply</a></td>
+      <td>2026-04-16 15:10:22</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Linthicum Heights, Maryland</td>
+      <td>Software Engineer 3</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/b0b35e4b-7697-4280-bcbc-280d68ed6994'>Apply</a></td>
+      <td>2026-04-16 14:41:41</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Ft. Meade, Maryland</td>
+      <td>Software Engineer 3 (copy)</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/4d342531-019f-42b1-8057-43335452d5a4'>Apply</a></td>
+      <td>2026-04-16 15:12:09</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office Building 11</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-11/Software-Engineer-III_R-2388502'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-16-07-05-18'>🕐 Batch at 2026-04-16 07:05:18</h3>
 
@@ -85,7 +311,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-16-02-31-56'>🕐 Batch at 2026-04-16 02:31:56</h3>
 
 📊 **Total jobs in this batch: 2**
@@ -122,8 +347,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-16-00-08-59'>🕐 Batch at 2026-04-16 00:08:59</h3>
+---<h3 id='batch-2026-04-16-00-08-59'>🕐 Batch at 2026-04-16 00:08:59</h3>
 
 📊 **Total jobs in this batch: 3**
 
