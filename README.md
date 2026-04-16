@@ -4,10 +4,93 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-16 10:28:43](#batch-2026-04-16-10-28-43)
 - [Batch at 2026-04-16 08:52:27](#batch-2026-04-16-08-52-27)
 - [Batch at 2026-04-16 07:05:18](#batch-2026-04-16-07-05-18)
 - [Batch at 2026-04-16 02:31:56](#batch-2026-04-16-02-31-56)
-- [Batch at 2026-04-16 00:08:59](#batch-2026-04-16-00-08-59)
+
+<h3 id='batch-2026-04-16-10-28-43'>🕐 Batch at 2026-04-16 10:28:43</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- BAH: 4 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- genpt: 1 job
+- Nike: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Pricing AI Solution Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Pricing-AI-Solution-Architect_R0237952'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Delivery Operations AI Solution Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Delivery-Operations-AI-Solution-Architect_R0237953'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Herndon, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Herndon-VA/Software-Engineer_R0237939'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>AI Solution Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/AI-Solution-Architect_R0237951'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA NC - Durham - Roche Drive</td>
+      <td>Quality Engineering Intern</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NC---Durham---Roche-Drive/Quality-Engineering-Intern_R-543669'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>ML Search Engineer</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/ML-Search-Engineer_R26_0000004143'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Beaverton, Oregon</td>
+      <td>Material Handler</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Material-Handler_R-82360-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NC GARNER 05743 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NC-GARNER-05743-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2480362'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-16-08-52-27'>🕐 Batch at 2026-04-16 08:52:27</h3>
 
@@ -233,7 +316,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-16-07-05-18'>🕐 Batch at 2026-04-16 07:05:18</h3>
 
 📊 **Total jobs in this batch: 7**
@@ -310,8 +392,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-16-02-31-56'>🕐 Batch at 2026-04-16 02:31:56</h3>
+---<h3 id='batch-2026-04-16-02-31-56'>🕐 Batch at 2026-04-16 02:31:56</h3>
 
 📊 **Total jobs in this batch: 2**
 
