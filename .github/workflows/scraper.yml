@@ -40,7 +40,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           mkdir -p old
-          cp *.md old/
+          cp -f *.md old/
           rm *.md
           mv old/README.md .
           git add old output_old.csv *.md
