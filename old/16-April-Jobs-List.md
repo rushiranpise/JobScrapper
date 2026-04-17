@@ -4,10 +4,48 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-16 20:05:17](#batch-2026-04-16-20-05-17)
 - [Batch at 2026-04-16 16:53:52](#batch-2026-04-16-16-53-52)
 - [Batch at 2026-04-16 15:54:38](#batch-2026-04-16-15-54-38)
 - [Batch at 2026-04-16 14:57:50](#batch-2026-04-16-14-57-50)
-- [Batch at 2026-04-16 14:03:40](#batch-2026-04-16-14-03-40)
+
+<h3 id='batch-2026-04-16-20-05-17'>🕐 Batch at 2026-04-16 20:05:17</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- homedepot: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Boston, Massachusetts</td>
+      <td>Software Development Engineer - Robotics</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5030988007'>Apply</a></td>
+      <td>Jan 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>PENNSYLVANIA - VIRTUAL - PA01</td>
+      <td>Rental Delivery Driver I CDLA - Bristol, PA</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/PENNSYLVANIA---VIRTUAL---PA01/Rental-Delivery-Driver-I-CDLA---Bristol--PA_Req177094'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-16-16-53-52'>🕐 Batch at 2026-04-16 16:53:52</h3>
 
@@ -62,7 +100,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-16-15-54-38'>🕐 Batch at 2026-04-16 15:54:38</h3>
 
 📊 **Total jobs in this batch: 5**
@@ -123,8 +160,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-16-14-57-50'>🕐 Batch at 2026-04-16 14:57:50</h3>
+---<h3 id='batch-2026-04-16-14-57-50'>🕐 Batch at 2026-04-16 14:57:50</h3>
 
 📊 **Total jobs in this batch: 8**
 
