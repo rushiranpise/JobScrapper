@@ -1,18 +1,6 @@
-company,title,location,postedOn,link,updatedOn
-Applied Materials,Software Engineer,"Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer_R2617940,
-BAH,"Digital Transformation Specialist, Junior","Arlington, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Digital-Transformation-Specialist--Junior_R0238120,
-BAH,"Digital Transformation Specialist, Junior","Arlington, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Digital-Transformation-Specialist--Junior_R0238122,
-BAH,Software Systems Engineer,"El Segundo, CA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Software-Systems-Engineer_R0237921-1,
-BAH,AI Developer,"San Antonio, TX",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/AI-Developer_R0238125,
-BAH,AI Engineer,"San Antonio, TX",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/AI-Engineer_R0238124,
-Digital Ocean,Hardware Sustaining Engineer,Austin,2026-04-17T16:27:07-04:00,https://www.digitalocean.com/careers/position/apply/?gh_jid=7759528,2026-04-17T16:27:07-04:00
-MOOG,"Intern, IT Computer Science","Buffalo, NY",Posted Today,https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-17073,
-Morgan Stanley,Change Management & Training Associate,"New York, New York, United States of America",Posted Today,https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Change-Management---Training-Associate_PT-JR034582,
-Snowflake,Data Engineer,US-CA-Menlo Park,2026-04-17T01:36:54.979+00:00,https://jobs.ashbyhq.com/snowflake/f0142017-5fc1-4046-833b-4032de3254bb,
-terex,CNC Programmer,US-SD Huron,Posted Today,https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/US-SD-Huron/CNC-Programmer_REQ-12527,
-The Toro,"Material Handler, 2nd Shift - Exmark","Beatrice, NE",Posted Today,https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Beatrice-NE/Material-Handler--2nd-Shift---Exmark_JR15953,
-Toast,Software Engineer II,"Remote, US",2026-04-17T16:20:28-04:00,https://careers.toasttab.com/jobs?gh_jid=7656431,2026-04-17T16:20:28-04:00
-Walmart,"Material Handler, Manufacturing (Starting at $23.00, Mon-Fri 11:00p-7:30a, 3rd Shift)","Olathe, KS",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Olathe-KS/Material-Handler--Manufacturing--Starting-at--2300--Mon-Fri-11-00p-7-30a--3rd-Shift-_R-2416362,
-Walmart,Front End Coach,(USA) AL ROBERTSDALE 06173 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-AL-ROBERTSDALE-06173-WM-SUPERCENTER/Front-End-Coach_R-2482422-2,
-Walmart,(USA) Coach/Ops Mgr Trainee-2,"Moncks Corner, SC",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Moncks-Corner-SC/XMLNAME--USA--Coach-Ops-Mgr-Trainee-2_R-2480506,
-Walmart,Software Engineer III,"Bentonville, AR",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2464506,
+company,title,location,link,postedOn,updatedOn
+Applied Intuition,People Data Analyst,"Sunnyvale, California, United States",https://boards.greenhouse.io/appliedintuition/jobs/4620154005?gh_jid=4620154005,2025-10-29T12:50:47-04:00,2026-04-17T17:24:03-04:00
+Applied Materials,Material Coordinator/Handler II,"Santa Clara,CA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Material-Coordinator-Handler-II_R2617899,Posted Today,
+PlayStation Global,Software Development Engineer in Test II,"United States, San Mateo, CA",https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5969889004,2026-04-17T17:05:10-04:00,2026-04-17T17:05:10-04:00
+Walmart,(USA) Front End Coach,(USA) MS CANTON 03059 WM SUPERCENTER,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MS-CANTON-03059-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2482242,Posted Today,
+Zoox,Software Engineer - Core Sensors,"Foster City, CA",https://jobs.lever.co/zoox/9abd3543-0d46-4fd8-882c-2fe93d75a51b,2026-04-17 20:46:51,N/A

@@ -4,10 +4,72 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-17 14:56:15](#batch-2026-04-17-14-56-15)
 - [Batch at 2026-04-17 13:59:37](#batch-2026-04-17-13-59-37)
 - [Batch at 2026-04-17 12:15:18](#batch-2026-04-17-12-15-18)
 - [Batch at 2026-04-17 11:01:38](#batch-2026-04-17-11-01-38)
-- [Batch at 2026-04-17 09:18:24](#batch-2026-04-17-09-18-24)
+
+<h3 id='batch-2026-04-17-14-56-15'>🕐 Batch at 2026-04-17 14:56:15</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- Applied Intuition: 1 job
+- Applied Materials: 1 job
+- PlayStation Global: 1 job
+- Walmart: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Intuition</b></td>
+      <td>Sunnyvale, California, United States</td>
+      <td>People Data Analyst</td>
+      <td><a href='https://boards.greenhouse.io/appliedintuition/jobs/4620154005?gh_jid=4620154005'>Apply</a></td>
+      <td>Oct 29, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Material Coordinator/Handler II</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Material-Coordinator-Handler-II_R2617899'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Mateo, CA</td>
+      <td>Software Development Engineer in Test II</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5969889004'>Apply</a></td>
+      <td>Apr 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MS CANTON 03059 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MS-CANTON-03059-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2482242'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer - Core Sensors</td>
+      <td><a href='https://jobs.lever.co/zoox/9abd3543-0d46-4fd8-882c-2fe93d75a51b'>Apply</a></td>
+      <td>2026-04-17 20:46:51</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-17-13-59-37'>🕐 Batch at 2026-04-17 13:59:37</h3>
 
@@ -159,7 +221,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-17-12-15-18'>🕐 Batch at 2026-04-17 12:15:18</h3>
 
 📊 **Total jobs in this batch: 10**
@@ -259,8 +320,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-17-11-01-38'>🕐 Batch at 2026-04-17 11:01:38</h3>
+---<h3 id='batch-2026-04-17-11-01-38'>🕐 Batch at 2026-04-17 11:01:38</h3>
 
 📊 **Total jobs in this batch: 16**
 
