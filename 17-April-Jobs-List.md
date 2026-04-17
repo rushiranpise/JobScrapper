@@ -4,10 +4,111 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-17 12:15:18](#batch-2026-04-17-12-15-18)
 - [Batch at 2026-04-17 11:01:38](#batch-2026-04-17-11-01-38)
 - [Batch at 2026-04-17 09:18:24](#batch-2026-04-17-09-18-24)
 - [Batch at 2026-04-17 08:06:53](#batch-2026-04-17-08-06-53)
-- [Batch at 2026-04-17 06:35:39](#batch-2026-04-17-06-35-39)
+
+<h3 id='batch-2026-04-17-12-15-18'>🕐 Batch at 2026-04-17 12:15:18</h3>
+
+📊 **Total jobs in this batch: 10**
+
+**Per company:**
+- Applied Materials: 1 job
+- BAH: 1 job
+- Broadcom : 1 job
+- General Motors LLC: 1 job
+- Intrinsic Robotics: 2 jobs
+- MOOG: 1 job
+- SharkNinja: 1 job
+- Warner Bros: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Chandler,AZ</td>
+      <td>DevOps and Software Lab Engineer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/ChandlerAZ/DevOps-and-Software-Lab-Engineer_R2617972'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Omaha, NE</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Omaha-NE/DevOps-Engineer_R0238117'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-CA - Promontory E</td>
+      <td>Software Engineer</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-E/Software-Engineer_R025774'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Software Engineer - HIL Battery & Propulsion Simulation and Integration</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer---HIL-Battery---Propulsion-Simulation-and-Integration_JR-202607808'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intrinsic Robotics</b></td>
+      <td>Mountain View, California</td>
+      <td>Application Engineer</td>
+      <td><a href='https://boards.greenhouse.io/intrinsicrobotics/jobs/5973136004?gh_jid=5973136004'>Apply</a></td>
+      <td>Apr 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intrinsic Robotics</b></td>
+      <td>Mountain View, California</td>
+      <td>Software Engineer, Planning & Orchestration</td>
+      <td><a href='https://boards.greenhouse.io/intrinsicrobotics/jobs/5972997004?gh_jid=5972997004'>Apply</a></td>
+      <td>Apr 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Torrance, CA</td>
+      <td>Intern, Actuation Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Intern--Actuation-Engineering_R-25-13774'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SharkNinja</b></td>
+      <td>Needham, MA, United States</td>
+      <td>Software Development Engineer in Test</td>
+      <td><a href='https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4673233006'>Apply</a></td>
+      <td>Apr 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Warner Bros</b></td>
+      <td>Mexico City, Paseo de las Palmas No.425-701</td>
+      <td>Supplier Master Data Management Analyst</td>
+      <td><a href='https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/Mexico-City-Paseo-de-las-Palmas-No425-701/Supplier-Master-Data-Management-Analyst_R000104581'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Aurora, CO</td>
+      <td>Pre Grad Intern - Sam's</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Aurora-CO/Pre-Grad-Intern---Sam-s_R-2482221'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-17-11-01-38'>🕐 Batch at 2026-04-17 11:01:38</h3>
 
@@ -151,7 +252,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-17-09-18-24'>🕐 Batch at 2026-04-17 09:18:24</h3>
 
 📊 **Total jobs in this batch: 8**
@@ -236,8 +336,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-17-08-06-53'>🕐 Batch at 2026-04-17 08:06:53</h3>
+---<h3 id='batch-2026-04-17-08-06-53'>🕐 Batch at 2026-04-17 08:06:53</h3>
 
 📊 **Total jobs in this batch: 9**
 
