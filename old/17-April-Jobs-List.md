@@ -4,10 +4,161 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-17 13:59:37](#batch-2026-04-17-13-59-37)
 - [Batch at 2026-04-17 12:15:18](#batch-2026-04-17-12-15-18)
 - [Batch at 2026-04-17 11:01:38](#batch-2026-04-17-11-01-38)
 - [Batch at 2026-04-17 09:18:24](#batch-2026-04-17-09-18-24)
-- [Batch at 2026-04-17 08:06:53](#batch-2026-04-17-08-06-53)
+
+<h3 id='batch-2026-04-17-13-59-37'>🕐 Batch at 2026-04-17 13:59:37</h3>
+
+📊 **Total jobs in this batch: 17**
+
+**Per company:**
+- Applied Materials: 1 job
+- BAH: 5 jobs
+- Digital Ocean: 1 job
+- MOOG: 1 job
+- Morgan Stanley: 1 job
+- Snowflake: 1 job
+- terex: 1 job
+- The Toro: 1 job
+- Toast: 1 job
+- Walmart: 4 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer_R2617940'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Digital Transformation Specialist, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Digital-Transformation-Specialist--Junior_R0238120'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Digital Transformation Specialist, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Digital-Transformation-Specialist--Junior_R0238122'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>El Segundo, CA</td>
+      <td>Software Systems Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Software-Systems-Engineer_R0237921-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>AI Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/AI-Developer_R0238125'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>AI Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/AI-Engineer_R0238124'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Digital Ocean</b></td>
+      <td>Austin</td>
+      <td>Hardware Sustaining Engineer</td>
+      <td><a href='https://www.digitalocean.com/careers/position/apply/?gh_jid=7759528'>Apply</a></td>
+      <td>Apr 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, IT Computer Science</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-17073'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>New York, New York, United States of America</td>
+      <td>Change Management & Training Associate</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Change-Management---Training-Associate_PT-JR034582'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Data Engineer</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/f0142017-5fc1-4046-833b-4032de3254bb'>Apply</a></td>
+      <td>Apr 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>US-SD Huron</td>
+      <td>CNC Programmer</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/US-SD-Huron/CNC-Programmer_REQ-12527'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Beatrice, NE</td>
+      <td>Material Handler, 2nd Shift - Exmark</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Beatrice-NE/Material-Handler--2nd-Shift---Exmark_JR15953'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Toast</b></td>
+      <td>Remote, US</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://careers.toasttab.com/jobs?gh_jid=7656431'>Apply</a></td>
+      <td>Apr 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Olathe, KS</td>
+      <td>Material Handler, Manufacturing (Starting at $23.00, Mon-Fri 11:00p-7:30a, 3rd Shift)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Olathe-KS/Material-Handler--Manufacturing--Starting-at--2300--Mon-Fri-11-00p-7-30a--3rd-Shift-_R-2416362'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) AL ROBERTSDALE 06173 WM SUPERCENTER</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-AL-ROBERTSDALE-06173-WM-SUPERCENTER/Front-End-Coach_R-2482422-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Moncks Corner, SC</td>
+      <td>(USA) Coach/Ops Mgr Trainee-2</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Moncks-Corner-SC/XMLNAME--USA--Coach-Ops-Mgr-Trainee-2_R-2480506'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2464506'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-17-12-15-18'>🕐 Batch at 2026-04-17 12:15:18</h3>
 
@@ -109,7 +260,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-17-11-01-38'>🕐 Batch at 2026-04-17 11:01:38</h3>
 
 📊 **Total jobs in this batch: 16**
@@ -251,8 +401,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-17-09-18-24'>🕐 Batch at 2026-04-17 09:18:24</h3>
+---<h3 id='batch-2026-04-17-09-18-24'>🕐 Batch at 2026-04-17 09:18:24</h3>
 
 📊 **Total jobs in this batch: 8**
 
