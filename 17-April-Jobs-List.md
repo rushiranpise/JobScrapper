@@ -4,9 +4,95 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-17 06:35:39](#batch-2026-04-17-06-35-39)
 - [Batch at 2026-04-17 04:09:31](#batch-2026-04-17-04-09-31)
 - [Batch at 2026-04-17 02:30:54](#batch-2026-04-17-02-30-54)
 - [Batch at 2026-04-17 01:03:14](#batch-2026-04-17-01-03-14)
+
+<h3 id='batch-2026-04-17-06-35-39'>🕐 Batch at 2026-04-17 06:35:39</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- Bank of Montreal: 1 job
+- Empower: 1 job
+- MOOG: 1 job
+- NVIDIA: 1 job
+- STANDARD & POOR'S FINANCIAL SERVICE: 1 job
+- State Street: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>Naperville, IL, USA</td>
+      <td>AWS Cloud Developer</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Naperville-IL-USA/AWS-Cloud-Developer_R260012009'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Empower</b></td>
+      <td>MA Boston - Federal St</td>
+      <td>Intern</td>
+      <td><a href='https://empower.wd12.myworkdayjobs.com/en-US/empower/job/MA-Boston---Federal-St/Intern_R0058061'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Manufacturing Engineer/CNC Programmer - Mill-Turn</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Manufacturing-Engineer-CNC-Programmer---Mill-Turn_R-26-17271'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>PR Specialist, Enterprise AI</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PR-Specialist--Enterprise-AI_JR2016038'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>STANDARD & POOR'S FINANCIAL SERVICE</b></td>
+      <td>IN - AHMEDABAD</td>
+      <td>.NET Full stack Developer</td>
+      <td><a href='https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/IN---AHMEDABAD/Engineer--Software-Engineering--NET-Full-stack-_323380-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Boston, Massachusetts</td>
+      <td>Markets Capital Optimization Analyst, Officer</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Markets-Capital-Optimization-Analyst--Officer_R-788670'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN TN CHENNAI Home Office RMZ Millenia Biz Park</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-RMZ-Millenia-Biz-Park/Software-Engineer-III_R-2470190'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office Building 11</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-11/Software-Engineer-III_R-2447808'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-17-04-09-31'>🕐 Batch at 2026-04-17 04:09:31</h3>
 
@@ -37,7 +123,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-17-02-30-54'>🕐 Batch at 2026-04-17 02:30:54</h3>
 
 📊 **Total jobs in this batch: 2**
@@ -74,8 +159,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-17-01-03-14'>🕐 Batch at 2026-04-17 01:03:14</h3>
+---<h3 id='batch-2026-04-17-01-03-14'>🕐 Batch at 2026-04-17 01:03:14</h3>
 
 📊 **Total jobs in this batch: 4**
 
