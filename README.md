@@ -4,10 +4,96 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-17 09:18:24](#batch-2026-04-17-09-18-24)
 - [Batch at 2026-04-17 08:06:53](#batch-2026-04-17-08-06-53)
 - [Batch at 2026-04-17 06:35:39](#batch-2026-04-17-06-35-39)
 - [Batch at 2026-04-17 04:09:31](#batch-2026-04-17-04-09-31)
-- [Batch at 2026-04-17 02:30:54](#batch-2026-04-17-02-30-54)
+
+<h3 id='batch-2026-04-17-09-18-24'>🕐 Batch at 2026-04-17 09:18:24</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- AQR Capital Management: 1 job
+- BAH: 1 job
+- General Motors LLC: 1 job
+- Otis: 1 job
+- Roblox: 1 job
+- Walmart: 1 job
+- Xylem Services USA LLC: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>AQR Capital Management</b></td>
+      <td>Greenwich, CT</td>
+      <td>Associate, Quantitative Front Office Engineer (AQR Capital Management, LLC, Greenwich, CT)</td>
+      <td><a href='https://careers.aqr.com/jobs?gh_jid=7825744&gh_jid=7825744'>Apply</a></td>
+      <td>Apr 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Annapolis Junction, MD</td>
+      <td>IT Infrastructure Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/IT-Infrastructure-Engineer--Mid_R0237982'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Transmission Software Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Transmission-Senior-Software-Engineer_JR-202604353-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Otis</b></td>
+      <td>Coline Business Center, Casablanca</td>
+      <td>Prodctn/Maint, Field Svc</td>
+      <td><a href='https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/Coline-Business-Center-Casablanca/Prodctn-Maint--Field-Svc_20147392'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>San Mateo, CA, United States</td>
+      <td>Enterprise Applications Engineer </td>
+      <td><a href='https://careers.roblox.com/jobs/7822353?gh_jid=7822353'>Apply</a></td>
+      <td>Apr 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Cap-De-La-Madeleine, QC</td>
+      <td>(CAN) Caissier</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Cap-De-La-Madeleine-QC/XMLNAME--CAN--Caissier_R-2481768'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Xylem Services USA LLC</b></td>
+      <td>Bridgeport, New Jersey</td>
+      <td>CDL A Driver Technician</td>
+      <td><a href='https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Bridgeport-New-Jersey/Driver-Technician_R47755'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>PhD Research Intern, Physical AI in Perception</td>
+      <td><a href='https://jobs.lever.co/zoox/aab5dc76-6ee6-419c-90ce-4a852d9fdeec'>Apply</a></td>
+      <td>2026-04-17 15:23:45</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-17-08-06-53'>🕐 Batch at 2026-04-17 08:06:53</h3>
 
@@ -99,7 +185,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-17-06-35-39'>🕐 Batch at 2026-04-17 06:35:39</h3>
 
 📊 **Total jobs in this batch: 8**
@@ -183,8 +268,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-17-04-09-31'>🕐 Batch at 2026-04-17 04:09:31</h3>
+---<h3 id='batch-2026-04-17-04-09-31'>🕐 Batch at 2026-04-17 04:09:31</h3>
 
 📊 **Total jobs in this batch: 1**
 

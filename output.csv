@@ -1,10 +1,9 @@
-company,title,location,postedOn,link
-Allstate,Cloud FinOps Engineer,USA - MI (Remote),Posted Today,https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---MI-Remote/Cloud-FinOps-Engineer_R27970
-"Motorola Solutions, Inc",Junior Buyer,"Los Angeles, CA",Posted Today,https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Los-Angeles-CA/Junior-Buyer_R64024
-BAH,DevOps Engineer,"Beavercreek, OH",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/DevOps-Engineer_R0238019-1
-BAH,Cloud Software Engineer,"Fort Meade, MD",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Cloud-Software-Engineer_R0238011-1
-Datamaxis,Data Scientist – NLP & Gen AI,"Baltimore, MD",2026-04-17T13:31:44.706Z,https://datamaxis.breezy.hr/p/9eb3666d2bc7-data-scientist-nlp-gen-ai
-Intel Corporation,Robotics Software Developer,"US, Arizona, Phoenix",Posted Today,https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Robotics-Software-Developer_JR0282885
-Intel Corporation,Agentic AI Software Research Intern,"US, California, Santa Clara",Posted Today,https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Agentic-AI-Software-Research-Intern_JR0282977
-Walmart,Pharmacy Pre-Grad Intern - WM,(USA) GA HAMPTON 05363 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-GA-HAMPTON-05363-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2479575
-Walmart,(IND) Software Engineer III,IN TN CHENNAI Home Office Capita Land,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/XMLNAME--IND--Software-Engineer-III_R-2474491
+company,title,location,link,postedOn,updatedOn
+AQR Capital Management,"Associate, Quantitative Front Office Engineer (AQR Capital Management, LLC, Greenwich, CT)","Greenwich, CT",https://careers.aqr.com/jobs?gh_jid=7825744&gh_jid=7825744,2026-04-17T11:57:10-04:00,2026-04-17T11:57:10-04:00
+BAH,"IT Infrastructure Engineer, Mid","Annapolis Junction, MD",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/IT-Infrastructure-Engineer--Mid_R0237982,Posted Today,
+General Motors LLC,Transmission Software Engineer,"Milford, Michigan, United States of America",https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Transmission-Senior-Software-Engineer_JR-202604353-1,Posted Today,
+Otis,"Prodctn/Maint, Field Svc","Coline Business Center, Casablanca",https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/Coline-Business-Center-Casablanca/Prodctn-Maint--Field-Svc_20147392,Posted Today,
+Roblox,Enterprise Applications Engineer ,"San Mateo, CA, United States",https://careers.roblox.com/jobs/7822353?gh_jid=7822353,2026-04-17T11:52:01-04:00,2026-04-17T11:52:01-04:00
+Walmart,(CAN) Caissier,"Cap-De-La-Madeleine, QC",https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Cap-De-La-Madeleine-QC/XMLNAME--CAN--Caissier_R-2481768,Posted Today,
+Xylem Services USA LLC,CDL A Driver Technician,"Bridgeport, New Jersey",https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Bridgeport-New-Jersey/Driver-Technician_R47755,Posted Today,
+Zoox,"PhD Research Intern, Physical AI in Perception","Foster City, CA",https://jobs.lever.co/zoox/aab5dc76-6ee6-419c-90ce-4a852d9fdeec,2026-04-17 15:23:45,N/A
