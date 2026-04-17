@@ -4,10 +4,127 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-17 16:51:01](#batch-2026-04-17-16-51-01)
 - [Batch at 2026-04-17 15:52:07](#batch-2026-04-17-15-52-07)
 - [Batch at 2026-04-17 14:56:15](#batch-2026-04-17-14-56-15)
 - [Batch at 2026-04-17 13:59:37](#batch-2026-04-17-13-59-37)
-- [Batch at 2026-04-17 12:15:18](#batch-2026-04-17-12-15-18)
+
+<h3 id='batch-2026-04-17-16-51-01'>🕐 Batch at 2026-04-17 16:51:01</h3>
+
+📊 **Total jobs in this batch: 13**
+
+**Per company:**
+- ASMLEXT1: 1 job
+- Citi: 2 jobs
+- Sentry : 9 jobs
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Chandler, AZ, USA</td>
+      <td>Ethics, Privacy and AI Officer</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Chandler-AZ-USA/Ethics--Privacy-and-AI-Officer_J-00338678'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX Applications Support Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Applications-Support-Analyst_25929314-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX - Data Analytics & Scientist Jr. - Officer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX---Data-Analytics---Scientist-Jr---Officer_26947775'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Sentry </b></td>
+      <td>Stevens Point, WI</td>
+      <td>IT Business Analyst Intern</td>
+      <td><a href='https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/IT-Business-Analyst-Intern_JR-141852'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Sentry </b></td>
+      <td>Stevens Point, WI</td>
+      <td>Safety Services Intern</td>
+      <td><a href='https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Safety-Services-Intern_JR-141853'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Sentry </b></td>
+      <td>Stevens Point, WI</td>
+      <td>Industrial Hygienist Intern</td>
+      <td><a href='https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Industrial-Hygienist-Intern_JR-141850'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Sentry </b></td>
+      <td>Stevens Point, WI</td>
+      <td>PL Business Analyst Intern</td>
+      <td><a href='https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/PL-Business-Analyst-Intern_JR-141835'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Sentry </b></td>
+      <td>Stevens Point, WI</td>
+      <td>Software Development Intern</td>
+      <td><a href='https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Software-Development-Intern_JR-141833'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Sentry </b></td>
+      <td>Stevens Point, WI</td>
+      <td>Brand Journalist Intern</td>
+      <td><a href='https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Brand-Journalist-Intern_JR-141831'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Sentry </b></td>
+      <td>Stevens Point, WI</td>
+      <td>Actuarial Analyst Intern</td>
+      <td><a href='https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Actuarial-Analyst-Intern_JR-141824'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Sentry </b></td>
+      <td>Stevens Point, WI</td>
+      <td>Actuarial Analyst Intern</td>
+      <td><a href='https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Actuarial-Analyst-Intern_JR-141823'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Sentry </b></td>
+      <td>Stevens Point, WI</td>
+      <td>Software Development Intern</td>
+      <td><a href='https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Software-Development-Intern_JR-141818'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 03074 WM SUPERCENTER</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-03074-WM-SUPERCENTER/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2482752'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-17-15-52-07'>🕐 Batch at 2026-04-17 15:52:07</h3>
 
@@ -78,7 +195,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-17-14-56-15'>🕐 Batch at 2026-04-17 14:56:15</h3>
 
 📊 **Total jobs in this batch: 5**
@@ -139,8 +255,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-17-13-59-37'>🕐 Batch at 2026-04-17 13:59:37</h3>
+---<h3 id='batch-2026-04-17-13-59-37'>🕐 Batch at 2026-04-17 13:59:37</h3>
 
 📊 **Total jobs in this batch: 17**
 

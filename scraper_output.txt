@@ -1,8 +1,8 @@
 
-✅ Scraped 6 new jobs. Output saved to 'output.csv'.
-📦 Appended 6 jobs to 'output_old.csv'
+✅ Scraped 13 new jobs. Output saved to 'output.csv'.
+📦 Appended 13 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"Affirm\u00a0","title":"Software Engineer II (ML Feature Platform)","location":"Remote US","link":"https:\/\/job-boards.greenhouse.io\/affirm\/jobs\/7694294003","postedOn":"2026-04-17T18:25:32-04:00","updatedOn":"2026-04-17T18:25:32-04:00"},{"company":"gumgum","title":"Data Scientist I","location":"Santa Monica, California, United States","link":"https:\/\/job-boards.greenhouse.io\/gumgum\/jobs\/7703520003","postedOn":"2026-04-17T18:09:25-04:00","updatedOn":"2026-04-17T18:27:56-04:00"},{"company":"Intel Corporation","title":"GPU Software Development Engineer","location":"US, California, Folsom","link":"https:\/\/intel.wd1.myworkdayjobs.com\/en-US\/External\/job\/US-California-Folsom\/GPU-Software-Development-Engineer_JR0283073","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"Deep Learning Software Engineer, FlashInfer - New College Grad 2025","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/Deep-Learning-Software-Engineer--FlashInfer---New-College-Grad-2025_JR2002086","postedOn":"Posted Today","updatedOn":null},{"company":"Snorkel AI","title":"Research Scientist, RL Training","location":"Redwood City, CA (Hybrid); San Francisco, CA (Hybrid); United States (Remote)","link":"https:\/\/job-boards.greenhouse.io\/snorkelai\/jobs\/5973944004","postedOn":"2026-04-17T18:29:49-04:00","updatedOn":"2026-04-17T18:29:49-04:00"},{"company":"Truveta","title":"Research Analyst Summer Intern","location":"Seattle, WA","link":"https:\/\/job-boards.greenhouse.io\/truveta\/jobs\/5973938004","postedOn":"2026-04-17T18:36:14-04:00","updatedOn":"2026-04-17T18:36:14-04:00"}]
+[{"company":"ASMLEXT1","title":"Ethics, Privacy and AI Officer","location":"Chandler, AZ, USA","link":"https:\/\/asml.wd3.myworkdayjobs.com\/en-US\/ASMLEXT1\/job\/Chandler-AZ-USA\/Ethics--Privacy-and-AI-Officer_J-00338678","postedOn":"Posted Today","updatedOn":null},{"company":"Citi","title":"BANAMEX Applications Support Analyst","location":"Ciudad De Mexico Distrito Federal Mexico","link":"https:\/\/citi.wd5.myworkdayjobs.com\/en-US\/2\/job\/Ciudad-De-Mexico-Distrito-Federal-Mexico\/BANAMEX-Applications-Support-Analyst_25929314-1","postedOn":"Posted Today","updatedOn":null},{"company":"Citi","title":"BANAMEX - Data Analytics & Scientist Jr. - Officer","location":"Ciudad De Mexico Distrito Federal Mexico","link":"https:\/\/citi.wd5.myworkdayjobs.com\/en-US\/2\/job\/Ciudad-De-Mexico-Distrito-Federal-Mexico\/BANAMEX---Data-Analytics---Scientist-Jr---Officer_26947775","postedOn":"Posted Today","updatedOn":null},{"company":"Sentry ","title":"IT Business Analyst Intern","location":"Stevens Point, WI","link":"https:\/\/sentryinsurance.wd1.myworkdayjobs.com\/en-US\/SentryCareers\/job\/Stevens-Point-WI\/IT-Business-Analyst-Intern_JR-141852","postedOn":"Posted Today","updatedOn":null},{"company":"Sentry ","title":"Safety Services Intern","location":"Stevens Point, WI","link":"https:\/\/sentryinsurance.wd1.myworkdayjobs.com\/en-US\/SentryCareers\/job\/Stevens-Point-WI\/Safety-Services-Intern_JR-141853","postedOn":"Posted Today","updatedOn":null},{"company":"Sentry ","title":"Industrial Hygienist Intern","location":"Stevens Point, WI","link":"https:\/\/sentryinsurance.wd1.myworkdayjobs.com\/en-US\/SentryCareers\/job\/Stevens-Point-WI\/Industrial-Hygienist-Intern_JR-141850","postedOn":"Posted Today","updatedOn":null},{"company":"Sentry ","title":"PL Business Analyst Intern","location":"Stevens Point, WI","link":"https:\/\/sentryinsurance.wd1.myworkdayjobs.com\/en-US\/SentryCareers\/job\/Stevens-Point-WI\/PL-Business-Analyst-Intern_JR-141835","postedOn":"Posted Today","updatedOn":null},{"company":"Sentry ","title":"Software Development Intern","location":"Stevens Point, WI","link":"https:\/\/sentryinsurance.wd1.myworkdayjobs.com\/en-US\/SentryCareers\/job\/Stevens-Point-WI\/Software-Development-Intern_JR-141833","postedOn":"Posted Today","updatedOn":null},{"company":"Sentry ","title":"Brand Journalist Intern","location":"Stevens Point, WI","link":"https:\/\/sentryinsurance.wd1.myworkdayjobs.com\/en-US\/SentryCareers\/job\/Stevens-Point-WI\/Brand-Journalist-Intern_JR-141831","postedOn":"Posted Today","updatedOn":null},{"company":"Sentry ","title":"Actuarial Analyst Intern","location":"Stevens Point, WI","link":"https:\/\/sentryinsurance.wd1.myworkdayjobs.com\/en-US\/SentryCareers\/job\/Stevens-Point-WI\/Actuarial-Analyst-Intern_JR-141824","postedOn":"Posted Today","updatedOn":null},{"company":"Sentry ","title":"Actuarial Analyst Intern","location":"Stevens Point, WI","link":"https:\/\/sentryinsurance.wd1.myworkdayjobs.com\/en-US\/SentryCareers\/job\/Stevens-Point-WI\/Actuarial-Analyst-Intern_JR-141823","postedOn":"Posted Today","updatedOn":null},{"company":"Sentry ","title":"Software Development Intern","location":"Stevens Point, WI","link":"https:\/\/sentryinsurance.wd1.myworkdayjobs.com\/en-US\/SentryCareers\/job\/Stevens-Point-WI\/Software-Development-Intern_JR-141818","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"(CAN) Pr\u00e9pos\u00e9 au traitement des commandes OMNI","location":"(CAN) QC VILLE DE QUEBEC 03074 WM SUPERCENTER","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/CAN-QC-VILLE-DE-QUEBEC-03074-WM-SUPERCENTER\/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2482752","postedOn":"Posted Today","updatedOn":null}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
@@ -11,9 +11,17 @@ ERRORS_START
 [ERROR] Amidon Heavy Industries: Ashby API failed - HTTP 404: Not Found
 [ERROR] Magna Services of America, Inc: Invalid Workday URL
 [ERROR] boomi: Greenhouse API failed: 404
+[ERROR] ASMLEXT1: Workday API failed: HTTP 502 - <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+
 [ERROR] Canonical: Greenhouse API failed: 404
 [ERROR] Cdata: Greenhouse API failed: 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"EB937EMO3HXSM1","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"797E6CMO3K19HN","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
 [ERROR] Clever: Could not extract Lever company name
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
@@ -21,7 +29,7 @@ ERRORS_START
 [ERROR] Demandbase : Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"DE1C59MO3HYSM7","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"B568D2MO3K27TM","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
 [ERROR] Funnel: Breezy API failed: 403
 [ERROR] Grammarly : Greenhouse API failed: 404
@@ -37,31 +45,43 @@ ERRORS_START
 [ERROR] Perplexity AI: Greenhouse API failed: 404
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"25C34EMO3I17ZS","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"DBA009MO3K4VAM","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Relativity Space: Greenhouse API failed: 404
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
-[ERROR] Rakuten : Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] Sentry : Workday API failed: HTTP 403 - <!DOCTYPE html>
-[ERROR] Skydio: Greenhouse API failed: 404
-[ERROR] Robert Half : Workday API failed: HTTP 403 - <!DOCTYPE html>
-[ERROR] Shipt : Workday API failed: HTTP 403 - <!DOCTYPE html>
-[ERROR] Snap: Invalid Workday URL
-[ERROR] searchLFN: Workday API failed: HTTP 403 - <!DOCTYPE html>
-[ERROR] Root: Workday API failed: HTTP 403 - <!DOCTYPE html>
-[ERROR] Rakuten Marketing LLC: Workday API failed: HTTP 403 - <!DOCTYPE html>
-[ERROR] Simons Foundation: Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] SabreJobs: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] Root: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] Robert Half : Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] Rakuten Marketing LLC: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] Rakuten : Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] Skydio: Greenhouse API failed: 404
+[ERROR] Snap: Invalid Workday URL
 [ERROR] Stitch Fix : Greenhouse API failed: 404
-[ERROR] Sony AI America Inc: Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
+[ERROR] Sony AI America Inc: Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"AEAB17MO3I2DFI","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"1E6A36MO3I2FGU","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Simons Foundation: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] searchLFN: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] Shipt : Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] The standard: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] The Toro: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] State Street: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] terex: Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] TRM labs: Greenhouse API failed: 404
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"FF86FBMO3K6FGQ","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"43C2C3MO3K6FZD","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Vimeo: Greenhouse API failed: 404
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"FFE89DMO3I3NW3","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"BDC89FMO3K7DIR","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Walmart: Workday API failed: HTTP 502 - <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+
 ERRORS_END
