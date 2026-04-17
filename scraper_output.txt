@@ -1,8 +1,8 @@
 
-✅ Scraped 5 new jobs. Output saved to 'output.csv'.
-📦 Appended 5 jobs to 'output_old.csv'
+✅ Scraped 6 new jobs. Output saved to 'output.csv'.
+📦 Appended 6 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"Applied Intuition","title":"People Data Analyst","location":"Sunnyvale, California, United States","link":"https:\/\/boards.greenhouse.io\/appliedintuition\/jobs\/4620154005?gh_jid=4620154005","postedOn":"2025-10-29T12:50:47-04:00","updatedOn":"2026-04-17T17:24:03-04:00"},{"company":"Applied Materials","title":"Material Coordinator\/Handler II","location":"Santa Clara,CA","link":"https:\/\/amat.wd1.myworkdayjobs.com\/en-US\/External\/job\/Santa-ClaraCA\/Material-Coordinator-Handler-II_R2617899","postedOn":"Posted Today","updatedOn":null},{"company":"PlayStation Global","title":"Software Development Engineer in Test II","location":"United States, San Mateo, CA","link":"https:\/\/job-boards.greenhouse.io\/sonyinteractiveentertainmentglobal\/jobs\/5969889004","postedOn":"2026-04-17T17:05:10-04:00","updatedOn":"2026-04-17T17:05:10-04:00"},{"company":"Walmart","title":"(USA) Front End Coach","location":"(USA) MS CANTON 03059 WM SUPERCENTER","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/USA-MS-CANTON-03059-WM-SUPERCENTER\/XMLNAME--USA--Front-End-Coach_R-2482242","postedOn":"Posted Today","updatedOn":null},{"company":"Zoox","title":"Software Engineer - Core Sensors","location":"Foster City, CA","link":"https:\/\/jobs.lever.co\/zoox\/9abd3543-0d46-4fd8-882c-2fe93d75a51b","postedOn":"2026-04-17 20:46:51","updatedOn":"N\/A"}]
+[{"company":"Affirm\u00a0","title":"Software Engineer II (ML Feature Platform)","location":"Remote US","link":"https:\/\/job-boards.greenhouse.io\/affirm\/jobs\/7694294003","postedOn":"2026-04-17T18:25:32-04:00","updatedOn":"2026-04-17T18:25:32-04:00"},{"company":"gumgum","title":"Data Scientist I","location":"Santa Monica, California, United States","link":"https:\/\/job-boards.greenhouse.io\/gumgum\/jobs\/7703520003","postedOn":"2026-04-17T18:09:25-04:00","updatedOn":"2026-04-17T18:27:56-04:00"},{"company":"Intel Corporation","title":"GPU Software Development Engineer","location":"US, California, Folsom","link":"https:\/\/intel.wd1.myworkdayjobs.com\/en-US\/External\/job\/US-California-Folsom\/GPU-Software-Development-Engineer_JR0283073","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"Deep Learning Software Engineer, FlashInfer - New College Grad 2025","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/Deep-Learning-Software-Engineer--FlashInfer---New-College-Grad-2025_JR2002086","postedOn":"Posted Today","updatedOn":null},{"company":"Snorkel AI","title":"Research Scientist, RL Training","location":"Redwood City, CA (Hybrid); San Francisco, CA (Hybrid); United States (Remote)","link":"https:\/\/job-boards.greenhouse.io\/snorkelai\/jobs\/5973944004","postedOn":"2026-04-17T18:29:49-04:00","updatedOn":"2026-04-17T18:29:49-04:00"},{"company":"Truveta","title":"Research Analyst Summer Intern","location":"Seattle, WA","link":"https:\/\/job-boards.greenhouse.io\/truveta\/jobs\/5973938004","postedOn":"2026-04-17T18:36:14-04:00","updatedOn":"2026-04-17T18:36:14-04:00"}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
@@ -13,15 +13,15 @@ ERRORS_START
 [ERROR] boomi: Greenhouse API failed: 404
 [ERROR] Canonical: Greenhouse API failed: 404
 [ERROR] Cdata: Greenhouse API failed: 404
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"EB937EMO3HXSM1","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"4E3D3CMO3FWYR5","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Clever: Could not extract Lever company name
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
 [ERROR] Dapper Labs: Lever API failed: https://api.lever.co/v0/postings/axiomzen?mode=json - 404
 [ERROR] Demandbase : Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"9DED1DMO3FY0F4","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"DE1C59MO3HYSM7","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
 [ERROR] Funnel: Breezy API failed: 403
 [ERROR] Grammarly : Greenhouse API failed: 404
@@ -37,29 +37,31 @@ ERRORS_START
 [ERROR] Perplexity AI: Greenhouse API failed: 404
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"117A80MO3G0N7X","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"25C34EMO3I17ZS","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Relativity Space: Greenhouse API failed: 404
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
+[ERROR] Rakuten : Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] Sentry : Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] Skydio: Greenhouse API failed: 404
+[ERROR] Robert Half : Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] Shipt : Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] Snap: Invalid Workday URL
+[ERROR] searchLFN: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] Root: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] Rakuten Marketing LLC: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] Simons Foundation: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] SabreJobs: Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] Stitch Fix : Greenhouse API failed: 404
+[ERROR] Sony AI America Inc: Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"2081C3MO3G2IJN","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"BC405DMO3G2L3P","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"AEAB17MO3I2DFI","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"1E6A36MO3I2FGU","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] TRM labs: Greenhouse API failed: 404
 [ERROR] Vimeo: Greenhouse API failed: 404
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] VSP: Workday API failed: HTTP 502 - <html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>cloudflare</center>
-</body>
-</html>
-
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"09581AMO3G3PYR","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"FFE89DMO3I3NW3","httpStatus":422,"message":"","messageParams":{}}
 ERRORS_END

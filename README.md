@@ -4,10 +4,80 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-17 15:52:07](#batch-2026-04-17-15-52-07)
 - [Batch at 2026-04-17 14:56:15](#batch-2026-04-17-14-56-15)
 - [Batch at 2026-04-17 13:59:37](#batch-2026-04-17-13-59-37)
 - [Batch at 2026-04-17 12:15:18](#batch-2026-04-17-12-15-18)
-- [Batch at 2026-04-17 11:01:38](#batch-2026-04-17-11-01-38)
+
+<h3 id='batch-2026-04-17-15-52-07'>🕐 Batch at 2026-04-17 15:52:07</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- Affirm : 1 job
+- gumgum: 1 job
+- Intel Corporation: 1 job
+- NVIDIA: 1 job
+- Snorkel AI: 1 job
+- Truveta: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>Software Engineer II (ML Feature Platform)</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/7694294003'>Apply</a></td>
+      <td>Apr 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>gumgum</b></td>
+      <td>Santa Monica, California, United States</td>
+      <td>Data Scientist I</td>
+      <td><a href='https://job-boards.greenhouse.io/gumgum/jobs/7703520003'>Apply</a></td>
+      <td>Apr 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, California, Folsom</td>
+      <td>GPU Software Development Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/GPU-Software-Development-Engineer_JR0283073'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Deep Learning Software Engineer, FlashInfer - New College Grad 2025</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--FlashInfer---New-College-Grad-2025_JR2002086'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snorkel AI</b></td>
+      <td>Redwood City, CA (Hybrid); San Francisco, CA (Hybrid); United States (Remote)</td>
+      <td>Research Scientist, RL Training</td>
+      <td><a href='https://job-boards.greenhouse.io/snorkelai/jobs/5973944004'>Apply</a></td>
+      <td>Apr 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Truveta</b></td>
+      <td>Seattle, WA</td>
+      <td>Research Analyst Summer Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/truveta/jobs/5973938004'>Apply</a></td>
+      <td>Apr 17, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-17-14-56-15'>🕐 Batch at 2026-04-17 14:56:15</h3>
 
@@ -70,7 +140,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-17-13-59-37'>🕐 Batch at 2026-04-17 13:59:37</h3>
 
 📊 **Total jobs in this batch: 17**
@@ -220,8 +289,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-17-12-15-18'>🕐 Batch at 2026-04-17 12:15:18</h3>
+---<h3 id='batch-2026-04-17-12-15-18'>🕐 Batch at 2026-04-17 12:15:18</h3>
 
 📊 **Total jobs in this batch: 10**
 
