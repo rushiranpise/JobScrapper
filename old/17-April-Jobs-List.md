@@ -4,10 +4,153 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-17 11:01:38](#batch-2026-04-17-11-01-38)
 - [Batch at 2026-04-17 09:18:24](#batch-2026-04-17-09-18-24)
 - [Batch at 2026-04-17 08:06:53](#batch-2026-04-17-08-06-53)
 - [Batch at 2026-04-17 06:35:39](#batch-2026-04-17-06-35-39)
-- [Batch at 2026-04-17 04:09:31](#batch-2026-04-17-04-09-31)
+
+<h3 id='batch-2026-04-17-11-01-38'>🕐 Batch at 2026-04-17 11:01:38</h3>
+
+📊 **Total jobs in this batch: 16**
+
+**Per company:**
+- BAH: 6 jobs
+- Citi: 1 job
+- Hyanni Sportresearch: 1 job
+- Jump Trading: 1 job
+- Kalderos: 1 job
+- Micron: 1 job
+- MOOG: 2 jobs
+- The Walt Disney Company: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Belvoir, VA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Zero-Trust-Information-Systems-Security-Engineer_R0236817'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Data-Analyst_R0238097'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lexington Park, MD</td>
+      <td>Test Engineer Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/Test-Engineer-Intern_R0238087'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Atlanta, GA</td>
+      <td>Cloud Computing Application Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Cloud-Computing-Application-Architect_R0238086'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Norfolk, VA</td>
+      <td>Data Visualization Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Data-Visualization-Specialist_R0238000'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Honolulu, HI</td>
+      <td>Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Analyst_R0238065-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Florence Kentucky United States</td>
+      <td>Collections Specialist Recovery - Train Onsite Work From Home Salary up to $22.14/hour</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Florence-Kentucky-United-States/Collections-Specialist-Recovery---Train-Onsite-Work-From-Home-Salary-up-to--2214-hour_26956695'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Hyanni Sportresearch</b></td>
+      <td>Needham, MA</td>
+      <td>Software Engineering Intern - Summer 2026</td>
+      <td><a href='https://job-boards.greenhouse.io/hyannisportresearch/jobs/6667961003'>Apply</a></td>
+      <td>Aug 01, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Jump Trading</b></td>
+      <td>Chicago, New York, Austin</td>
+      <td>Software Engineer | Core Development</td>
+      <td><a href='https://www.jumptrading.com/hr/job?gh_jid=7792796'>Apply</a></td>
+      <td>Apr 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Kalderos</b></td>
+      <td>Boston, MA, Chicago, IL, Remote</td>
+      <td>Infrastructure Engineer II</td>
+      <td><a href='https://www.kalderos.com/company/job-board/?gh_jid=7704513003'>Apply</a></td>
+      <td>Apr 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Software Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Software-Engineer_JR98628'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Blacksburg, VA</td>
+      <td>Intern, Manufacturing & Industrial Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Blacksburg-VA/Intern--Manufacturing---Industrial-Engineering_R-26-17199'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Blacksburg, VA</td>
+      <td>Intern, Manufacturing & Industrial Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Blacksburg-VA/Intern--Manufacturing---Industrial-Engineering_R-26-17198'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>ABC Entertainment, Hulu Originals & Onyx Collective Casting Intern, Summer/Fall 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/ABC-Entertainment--Hulu-Originals---Onyx-Collective-Casting-Intern--Summer-Fall-2026_10139700'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Lynn Haven, FL</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Lynn-Haven-FL/XMLNAME--USA--Front-End-Coach_R-2479350-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Software-Engineer-III_R-2466607-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-17-09-18-24'>🕐 Batch at 2026-04-17 09:18:24</h3>
 
@@ -94,7 +237,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-17-08-06-53'>🕐 Batch at 2026-04-17 08:06:53</h3>
 
 📊 **Total jobs in this batch: 9**
@@ -184,8 +326,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-17-06-35-39'>🕐 Batch at 2026-04-17 06:35:39</h3>
+---<h3 id='batch-2026-04-17-06-35-39'>🕐 Batch at 2026-04-17 06:35:39</h3>
 
 📊 **Total jobs in this batch: 8**
 
