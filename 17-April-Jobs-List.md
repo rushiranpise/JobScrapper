@@ -4,10 +4,101 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-17 08:06:53](#batch-2026-04-17-08-06-53)
 - [Batch at 2026-04-17 06:35:39](#batch-2026-04-17-06-35-39)
 - [Batch at 2026-04-17 04:09:31](#batch-2026-04-17-04-09-31)
 - [Batch at 2026-04-17 02:30:54](#batch-2026-04-17-02-30-54)
-- [Batch at 2026-04-17 01:03:14](#batch-2026-04-17-01-03-14)
+
+<h3 id='batch-2026-04-17-08-06-53'>🕐 Batch at 2026-04-17 08:06:53</h3>
+
+📊 **Total jobs in this batch: 9**
+
+**Per company:**
+- Allstate: 1 job
+- Motorola Solutions, Inc: 1 job
+- BAH: 2 jobs
+- Datamaxis: 1 job
+- Intel Corporation: 2 jobs
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - MI (Remote)</td>
+      <td>Cloud FinOps Engineer</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---MI-Remote/Cloud-FinOps-Engineer_R27970'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Los Angeles, CA</td>
+      <td>Junior Buyer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Los-Angeles-CA/Junior-Buyer_R64024'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/DevOps-Engineer_R0238019-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Meade, MD</td>
+      <td>Cloud Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Cloud-Software-Engineer_R0238011-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Datamaxis</b></td>
+      <td>Baltimore, MD</td>
+      <td>Data Scientist – NLP & Gen AI</td>
+      <td><a href='https://datamaxis.breezy.hr/p/9eb3666d2bc7-data-scientist-nlp-gen-ai'>Apply</a></td>
+      <td>Apr 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Robotics Software Developer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Robotics-Software-Developer_JR0282885'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, California, Santa Clara</td>
+      <td>Agentic AI Software Research Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Agentic-AI-Software-Research-Intern_JR0282977'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) GA HAMPTON 05363 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-GA-HAMPTON-05363-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2479575'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN TN CHENNAI Home Office Capita Land</td>
+      <td>(IND) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/XMLNAME--IND--Software-Engineer-III_R-2474491'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-17-06-35-39'>🕐 Batch at 2026-04-17 06:35:39</h3>
 
@@ -93,7 +184,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-17-04-09-31'>🕐 Batch at 2026-04-17 04:09:31</h3>
 
 📊 **Total jobs in this batch: 1**
@@ -122,8 +212,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-17-02-30-54'>🕐 Batch at 2026-04-17 02:30:54</h3>
+---<h3 id='batch-2026-04-17-02-30-54'>🕐 Batch at 2026-04-17 02:30:54</h3>
 
 📊 **Total jobs in this batch: 2**
 
