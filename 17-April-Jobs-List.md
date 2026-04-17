@@ -4,8 +4,39 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-17 04:09:31](#batch-2026-04-17-04-09-31)
 - [Batch at 2026-04-17 02:30:54](#batch-2026-04-17-02-30-54)
 - [Batch at 2026-04-17 01:03:14](#batch-2026-04-17-01-03-14)
+
+<h3 id='batch-2026-04-17-04-09-31'>🕐 Batch at 2026-04-17 04:09:31</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- nVent: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Mumbai, IN</td>
+      <td>CPQ Digital Developer</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Mumbai-IN/CPQ-Digital-Developer_R20939'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-17-02-30-54'>🕐 Batch at 2026-04-17 02:30:54</h3>
 
@@ -44,7 +75,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-17-01-03-14'>🕐 Batch at 2026-04-17 01:03:14</h3>
 
 📊 **Total jobs in this batch: 4**
