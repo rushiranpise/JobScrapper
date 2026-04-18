@@ -4,8 +4,39 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-18 12:53:19](#batch-2026-04-18-12-53-19)
 - [Batch at 2026-04-18 09:54:40](#batch-2026-04-18-09-54-40)
 - [Batch at 2026-04-18 07:51:29](#batch-2026-04-18-07-51-29)
+
+<h3 id='batch-2026-04-18-12-53-19'>🕐 Batch at 2026-04-18 12:53:19</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Dematic Corp. (ILD-US): 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Dematic Corp. (ILD-US)</b></td>
+      <td>Grand Rapids, MI, United States</td>
+      <td>Procurement Intern</td>
+      <td><a href='https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Grand-Rapids-MI-United-States/Procurement-Intern_JR-0088786-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-18-09-54-40'>🕐 Batch at 2026-04-18 09:54:40</h3>
 
@@ -36,7 +67,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-18-07-51-29'>🕐 Batch at 2026-04-18 07:51:29</h3>
 
 📊 **Total jobs in this batch: 1**
