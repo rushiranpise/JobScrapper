@@ -4,10 +4,40 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-18 16:46:40](#batch-2026-04-18-16-46-40)
 - [Batch at 2026-04-18 14:48:02](#batch-2026-04-18-14-48-02)
 - [Batch at 2026-04-18 12:53:19](#batch-2026-04-18-12-53-19)
 - [Batch at 2026-04-18 09:54:40](#batch-2026-04-18-09-54-40)
-- [Batch at 2026-04-18 07:51:29](#batch-2026-04-18-07-51-29)
+
+<h3 id='batch-2026-04-18-16-46-40'>🕐 Batch at 2026-04-18 16:46:40</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>PhD Research Intern, Offline Driving Intelligence</td>
+      <td><a href='https://jobs.lever.co/zoox/07681120-7f8d-4431-a293-daf2485244fa'>Apply</a></td>
+      <td>2026-04-18 23:05:44</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-18-14-48-02'>🕐 Batch at 2026-04-18 14:48:02</h3>
 
@@ -38,7 +68,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-18-12-53-19'>🕐 Batch at 2026-04-18 12:53:19</h3>
 
 📊 **Total jobs in this batch: 1**
@@ -67,8 +96,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-18-09-54-40'>🕐 Batch at 2026-04-18 09:54:40</h3>
+---<h3 id='batch-2026-04-18-09-54-40'>🕐 Batch at 2026-04-18 09:54:40</h3>
 
 📊 **Total jobs in this batch: 1**
 
