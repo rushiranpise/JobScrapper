@@ -4,9 +4,40 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-18 14:48:02](#batch-2026-04-18-14-48-02)
 - [Batch at 2026-04-18 12:53:19](#batch-2026-04-18-12-53-19)
 - [Batch at 2026-04-18 09:54:40](#batch-2026-04-18-09-54-40)
 - [Batch at 2026-04-18 07:51:29](#batch-2026-04-18-07-51-29)
+
+<h3 id='batch-2026-04-18-14-48-02'>🕐 Batch at 2026-04-18 14:48:02</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Applied Materials: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Data Analyst NCG/Early Career</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Analyst-NCG-Early-Career_R2618071'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-18-12-53-19'>🕐 Batch at 2026-04-18 12:53:19</h3>
 
@@ -37,7 +68,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-18-09-54-40'>🕐 Batch at 2026-04-18 09:54:40</h3>
 
 📊 **Total jobs in this batch: 1**
@@ -66,8 +96,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-18-07-51-29'>🕐 Batch at 2026-04-18 07:51:29</h3>
+---<h3 id='batch-2026-04-18-07-51-29'>🕐 Batch at 2026-04-18 07:51:29</h3>
 
 📊 **Total jobs in this batch: 1**
 
