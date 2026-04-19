@@ -4,10 +4,40 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-18 20:26:04](#batch-2026-04-18-20-26-04)
 - [Batch at 2026-04-18 16:46:40](#batch-2026-04-18-16-46-40)
 - [Batch at 2026-04-18 14:48:02](#batch-2026-04-18-14-48-02)
 - [Batch at 2026-04-18 12:53:19](#batch-2026-04-18-12-53-19)
-- [Batch at 2026-04-18 09:54:40](#batch-2026-04-18-09-54-40)
+
+<h3 id='batch-2026-04-18-20-26-04'>🕐 Batch at 2026-04-18 20:26:04</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Miles City, MT</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Miles-City-MT/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2483416-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-18-16-46-40'>🕐 Batch at 2026-04-18 16:46:40</h3>
 
@@ -38,7 +68,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-18-14-48-02'>🕐 Batch at 2026-04-18 14:48:02</h3>
 
 📊 **Total jobs in this batch: 1**
@@ -67,8 +96,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-18-12-53-19'>🕐 Batch at 2026-04-18 12:53:19</h3>
+---<h3 id='batch-2026-04-18-12-53-19'>🕐 Batch at 2026-04-18 12:53:19</h3>
 
 📊 **Total jobs in this batch: 1**
 
