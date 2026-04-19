@@ -4,8 +4,39 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-19 10:46:37](#batch-2026-04-19-10-46-37)
 - [Batch at 2026-04-19 08:49:31](#batch-2026-04-19-08-49-31)
 - [Batch at 2026-04-19 01:14:24](#batch-2026-04-19-01-14-24)
+
+<h3 id='batch-2026-04-19-10-46-37'>🕐 Batch at 2026-04-19 10:46:37</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Scoutm Otors: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Scoutm Otors</b></td>
+      <td>Columbia, SC United States</td>
+      <td>Intern, Quality Systems</td>
+      <td><a href='https://job-boards.greenhouse.io/scoutmotors/jobs/5113354007'>Apply</a></td>
+      <td>Apr 19, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-19-08-49-31'>🕐 Batch at 2026-04-19 08:49:31</h3>
 
@@ -43,7 +74,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-19-01-14-24'>🕐 Batch at 2026-04-19 01:14:24</h3>
 
 📊 **Total jobs in this batch: 2**
