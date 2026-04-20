@@ -4,9 +4,116 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-20 08:27:50](#batch-2026-04-20-08-27-50)
 - [Batch at 2026-04-20 06:59:56](#batch-2026-04-20-06-59-56)
 - [Batch at 2026-04-20 04:29:13](#batch-2026-04-20-04-29-13)
 - [Batch at 2026-04-20 02:20:48](#batch-2026-04-20-02-20-48)
+
+<h3 id='batch-2026-04-20-08-27-50'>🕐 Batch at 2026-04-20 08:27:50</h3>
+
+📊 **Total jobs in this batch: 11**
+
+**Per company:**
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- CMU: 2 jobs
+- genpt: 1 job
+- Voya: 1 job
+- Walmart: 3 jobs
+- Wyetech LLC: 2 jobs
+- Zoom: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA RI - Warwick</td>
+      <td>Junior Associate - Summer 2026</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-RI---Warwick/Junior-Associate---Summer-2026_R-533361-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Intern - Facilities Management & Campus Services (FMCS)</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Intern---Facilities-Management---Campus-Services--FMCS-_2024391'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Early Childhood Aide - Cyert Center for Early Education</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Early-Childhood-Aide---Cyert-Center-for-Early-Education_2024405'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Greenfield, IN, USA</td>
+      <td>Engineering Intern</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Greenfield-IN-USA/Engineering-Intern_R26_0000003071'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Voya</b></td>
+      <td>Hartford, CT</td>
+      <td>Associate Software Developer</td>
+      <td><a href='https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Hartford-CT/Associate-Software-Developer_JR0032548'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MN CROOKSTON 03758 WM SUPERCENTER</td>
+      <td>(USA) Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MN-CROOKSTON-03758-WM-SUPERCENTER/XMLNAME--USA--Pharmacy-Grad-Intern--Hrly-_R-2481951'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MN SAUK CENTRE 04253 WM SUPERCENTER</td>
+      <td>(USA) Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MN-SAUK-CENTRE-04253-WM-SUPERCENTER/XMLNAME--USA--Pharmacy-Grad-Intern--Hrly-_R-2482294'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Scarborough, ME</td>
+      <td>(USA) Pharmacy Pre-Grad Intern - WM #1788</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Scarborough-ME/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM--1788_R-2484187-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 2</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/954babf6-bb3e-40f3-90ca-caa9529932d4'>Apply</a></td>
+      <td>2026-04-20 14:55:48</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Ft. Meade, Maryland</td>
+      <td>Software Integration Engineer (SIE) 4 (copy)</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/317cae34-453b-4cc4-a6b9-712d68e2f8c1'>Apply</a></td>
+      <td>2026-04-20 14:50:36</td>
+    </tr>
+    <tr>
+      <td><b>Zoom</b></td>
+      <td>Seattle (WA)</td>
+      <td>AI Engineer - Agent</td>
+      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Seattle-WA/AI-Engineer---Agent_R18956'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-20-06-59-56'>🕐 Batch at 2026-04-20 06:59:56</h3>
 
@@ -76,7 +183,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-20-04-29-13'>🕐 Batch at 2026-04-20 04:29:13</h3>
 
 📊 **Total jobs in this batch: 5**
@@ -134,8 +240,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-20-02-20-48'>🕐 Batch at 2026-04-20 02:20:48</h3>
+---<h3 id='batch-2026-04-20-02-20-48'>🕐 Batch at 2026-04-20 02:20:48</h3>
 
 📊 **Total jobs in this batch: 3**
 
