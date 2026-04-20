@@ -4,10 +4,76 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-20 16:56:06](#batch-2026-04-20-16-56-06)
 - [Batch at 2026-04-20 15:58:12](#batch-2026-04-20-15-58-12)
 - [Batch at 2026-04-20 15:00:12](#batch-2026-04-20-15-00-12)
 - [Batch at 2026-04-20 14:02:24](#batch-2026-04-20-14-02-24)
-- [Batch at 2026-04-20 12:21:55](#batch-2026-04-20-12-21-55)
+
+<h3 id='batch-2026-04-20-16-56-06'>🕐 Batch at 2026-04-20 16:56:06</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- Broadcom : 1 job
+- Citi: 5 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-CA - Promontory B</td>
+      <td>Distributed Resource Scheduler: Software Engineer 4</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Distributed-Resource-Scheduler--Software-Engineer-4_R025755'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX Data Science Jr.</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Data-Science-Jr_26949336'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX Data Science Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Data-Science-Analyst_26949329'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX Data Science Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Data-Science-Analyst_26948393-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX Data Science Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Data-Science-Analyst_26936499'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX Data Science Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Data-Science-Analyst_26938527'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-20-15-58-12'>🕐 Batch at 2026-04-20 15:58:12</h3>
 
@@ -85,7 +151,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-20-15-00-12'>🕐 Batch at 2026-04-20 15:00:12</h3>
 
 📊 **Total jobs in this batch: 6**
@@ -153,8 +218,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-20-14-02-24'>🕐 Batch at 2026-04-20 14:02:24</h3>
+---<h3 id='batch-2026-04-20-14-02-24'>🕐 Batch at 2026-04-20 14:02:24</h3>
 
 📊 **Total jobs in this batch: 18**
 
