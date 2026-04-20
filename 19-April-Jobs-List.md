@@ -4,10 +4,48 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-19 20:28:56](#batch-2026-04-19-20-28-56)
 - [Batch at 2026-04-19 16:49:37](#batch-2026-04-19-16-49-37)
 - [Batch at 2026-04-19 15:47:59](#batch-2026-04-19-15-47-59)
 - [Batch at 2026-04-19 10:46:37](#batch-2026-04-19-10-46-37)
-- [Batch at 2026-04-19 08:49:31](#batch-2026-04-19-08-49-31)
+
+<h3 id='batch-2026-04-19-20-28-56'>🕐 Batch at 2026-04-19 20:28:56</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- visa: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>visa</b></td>
+      <td>Austin</td>
+      <td>Software Engineer</td>
+      <td><a href='https://www.smartrecruiters.com/visa/744000121657362'>Apply</a></td>
+      <td>Apr 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MN ALBERT LEA 01020 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MN-ALBERT-LEA-01020-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2483902-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-19-16-49-37'>🕐 Batch at 2026-04-19 16:49:37</h3>
 
@@ -38,7 +76,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-19-15-47-59'>🕐 Batch at 2026-04-19 15:47:59</h3>
 
 📊 **Total jobs in this batch: 2**
@@ -74,8 +111,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-19-10-46-37'>🕐 Batch at 2026-04-19 10:46:37</h3>
+---<h3 id='batch-2026-04-19-10-46-37'>🕐 Batch at 2026-04-19 10:46:37</h3>
 
 📊 **Total jobs in this batch: 1**
 
