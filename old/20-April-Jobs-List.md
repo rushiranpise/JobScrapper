@@ -4,10 +4,172 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-20 14:02:24](#batch-2026-04-20-14-02-24)
 - [Batch at 2026-04-20 12:21:55](#batch-2026-04-20-12-21-55)
 - [Batch at 2026-04-20 10:19:28](#batch-2026-04-20-10-19-28)
 - [Batch at 2026-04-20 08:27:50](#batch-2026-04-20-08-27-50)
-- [Batch at 2026-04-20 06:59:56](#batch-2026-04-20-06-59-56)
+
+<h3 id='batch-2026-04-20-14-02-24'>🕐 Batch at 2026-04-20 14:02:24</h3>
+
+📊 **Total jobs in this batch: 18**
+
+**Per company:**
+- ASMLEXT1: 1 job
+- Anduril Industries: 2 jobs
+- Autodesk: 2 jobs
+- Bandwidth: 1 job
+- BAH: 2 jobs
+- Broadcom : 1 job
+- Citi: 1 job
+- Datamaxis: 1 job
+- Salesforce: 1 job
+- Snowflake: 1 job
+- spacex: 1 job
+- Wyetech LLC: 2 jobs
+- ZoomInfo: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Optical Fabrication Technician CWW Front End Days</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Days_J-00339729'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Washington, District of Columbia, United States</td>
+      <td>Tracking Software Engineer, Space</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5114861007?gh_jid=5114861007'>Apply</a></td>
+      <td>Apr 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Tracking Software Engineer, Space</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5111994007?gh_jid=5111994007'>Apply</a></td>
+      <td>Apr 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Autodesk</b></td>
+      <td>California, USA - Remote</td>
+      <td>Software Engineer</td>
+      <td><a href='https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/California-USA---Remote/Software-Engineer_26WD96719-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Autodesk</b></td>
+      <td>California, USA - Remote</td>
+      <td>Software Engineer</td>
+      <td><a href='https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/California-USA---Remote/Software-Engineer_26WD96719-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bandwidth</b></td>
+      <td>Raleigh, NC</td>
+      <td>People Analytics Intern - Summer 2026</td>
+      <td><a href='https://job-boards.greenhouse.io/bandwidth/jobs/7833893'>Apply</a></td>
+      <td>Apr 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Ashburn, VA</td>
+      <td>Cloud Database Administrator</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/Cloud-Database-Administrator_R0238045'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Crane, IN</td>
+      <td>University, Data Engineering Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Crane-IN/University--Data-Engineering-Intern_R0238206'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-CA San Jose Innovation Drive</td>
+      <td>AI Systems Performance Engineer</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/AI-Systems-Performance-Engineer_R025748'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Jacksonville Florida United States</td>
+      <td>AI/ML Full Stack Engineer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/AI-ML-Full-Stack-Engineer_26957287'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Datamaxis</b></td>
+      <td>Okemos, MI</td>
+      <td>Database Architect</td>
+      <td><a href='https://datamaxis.breezy.hr/p/54729ccd520a-database-architect'>Apply</a></td>
+      <td>Apr 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Summer 2026 Intern - Employer Brand Content</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Employer-Brand-Content_JR338709-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Software Engineer - Observe</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/07e50e24-84ac-4002-ad26-9de1d991362c'>Apply</a></td>
+      <td>Apr 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>CNC Programmer - Level 4/5 (2nd Shift)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8487596002?gh_jid=8487596002'>Apply</a></td>
+      <td>Apr 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Columbia, Maryland</td>
+      <td>Software Engineer (Hybrid) - 27725</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/bfca0367-ff9c-4268-a1ff-41179362aecd'>Apply</a></td>
+      <td>2026-04-20 19:34:21</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Columbia, Maryland</td>
+      <td>Software Engineer (Hybrid) - 27784</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/8bd079a3-8028-488f-a610-4296705f21fe'>Apply</a></td>
+      <td>2026-04-20 19:41:29</td>
+    </tr>
+    <tr>
+      <td><b>ZoomInfo</b></td>
+      <td>Bethesda, Maryland, United States; Waltham, Massachusetts, United States</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://www.zoominfo.com/careers?gh_jid=8509478002'>Apply</a></td>
+      <td>Apr 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>PhD Research Intern, Vision Language Action Models</td>
+      <td><a href='https://jobs.lever.co/zoox/2a00b538-3c7c-4217-a14b-3e7881f2a8a0'>Apply</a></td>
+      <td>2026-04-20 19:35:30</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-20-12-21-55'>🕐 Batch at 2026-04-20 12:21:55</h3>
 
@@ -187,7 +349,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-20-10-19-28'>🕐 Batch at 2026-04-20 10:19:28</h3>
 
 📊 **Total jobs in this batch: 33**
@@ -458,8 +619,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-20-08-27-50'>🕐 Batch at 2026-04-20 08:27:50</h3>
+---<h3 id='batch-2026-04-20-08-27-50'>🕐 Batch at 2026-04-20 08:27:50</h3>
 
 📊 **Total jobs in this batch: 11**
 
