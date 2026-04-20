@@ -4,10 +4,79 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-20 15:00:12](#batch-2026-04-20-15-00-12)
 - [Batch at 2026-04-20 14:02:24](#batch-2026-04-20-14-02-24)
 - [Batch at 2026-04-20 12:21:55](#batch-2026-04-20-12-21-55)
 - [Batch at 2026-04-20 10:19:28](#batch-2026-04-20-10-19-28)
-- [Batch at 2026-04-20 08:27:50](#batch-2026-04-20-08-27-50)
+
+<h3 id='batch-2026-04-20-15-00-12'>🕐 Batch at 2026-04-20 15:00:12</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- BAH: 1 job
+- Morgan Stanley: 1 job
+- Walmart: 2 jobs
+- Zscaler: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Troy, Michigan, United States</td>
+      <td>Software Engineer (Ref. L-2537)</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5115082007'>Apply</a></td>
+      <td>Apr 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Honolulu, HI</td>
+      <td>Training Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Training-Specialist_R0238173'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>New York, New York, United States of America</td>
+      <td>Full Stack Java Developer - Associate</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Full-Stack-Java-Developer---Associate_PT-JR033470'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MS MCCOMB 01025 WM SUPERCENTER</td>
+      <td>(USA) Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MS-MCCOMB-01025-WM-SUPERCENTER/XMLNAME--USA--Pharmacy-Grad-Intern--Hrly-_R-2481749'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Colorado Springs, CO</td>
+      <td>(USA) Systems and Infrastructure Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Colorado-Springs-CO/XMLNAME--USA--Systems-and-Infrastructure-Engineer-III_R-2478969'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zscaler</b></td>
+      <td>Remote - USA</td>
+      <td>Detection Engineer- SkillBridge Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/zscaler/jobs/5114254007'>Apply</a></td>
+      <td>Apr 20, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-20-14-02-24'>🕐 Batch at 2026-04-20 14:02:24</h3>
 
@@ -170,7 +239,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-20-12-21-55'>🕐 Batch at 2026-04-20 12:21:55</h3>
 
 📊 **Total jobs in this batch: 21**
@@ -348,8 +416,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-20-10-19-28'>🕐 Batch at 2026-04-20 10:19:28</h3>
+---<h3 id='batch-2026-04-20-10-19-28'>🕐 Batch at 2026-04-20 10:19:28</h3>
 
 📊 **Total jobs in this batch: 33**
 
