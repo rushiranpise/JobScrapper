@@ -4,10 +4,282 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-20 10:19:28](#batch-2026-04-20-10-19-28)
 - [Batch at 2026-04-20 08:27:50](#batch-2026-04-20-08-27-50)
 - [Batch at 2026-04-20 06:59:56](#batch-2026-04-20-06-59-56)
 - [Batch at 2026-04-20 04:29:13](#batch-2026-04-20-04-29-13)
-- [Batch at 2026-04-20 02:20:48](#batch-2026-04-20-02-20-48)
+
+<h3 id='batch-2026-04-20-10-19-28'>🕐 Batch at 2026-04-20 10:19:28</h3>
+
+📊 **Total jobs in this batch: 33**
+
+**Per company:**
+- Motorola Solutions, Inc: 1 job
+- Samsung Electronics America, Inc: 4 jobs
+- Applied Intuition: 1 job
+- ASMLEXT1: 1 job
+- BAH: 8 jobs
+- careers: 1 job
+- Core Weave: 1 job
+- Datadog: 1 job
+- General Motors LLC: 1 job
+- KLA: 1 job
+- MOOG: 1 job
+- nVent: 3 jobs
+- Otis: 1 job
+- Pinterest: 1 job
+- Snowflake: 1 job
+- State Street: 1 job
+- terex: 1 job
+- Wyetech LLC: 2 jobs
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Illinois, US Offsite, More...</td>
+      <td>Technical Training Specialist - US Remote</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Illinois-US-Offsite/Technical-Training-Specialist---US-Remote_R63777'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>1530 FM 973 Taylor, TX, USA</td>
+      <td>Fault Detection & Classification (FDC) Data Science Engineer</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Fault-Detection---Classification--FDC--Data-Science-Engineer_R113462'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>1530 FM 973 Taylor, TX, USA</td>
+      <td>Fault Detection & Classification (FDC) Data Science Engineer</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Fault-Detection---Classification--FDC--Data-Science-Engineer_R113461'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>645 Clyde Avenue, Mountain View, CA, USA</td>
+      <td>Engineer III, Software Process Engineering</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Engineer-III--Software-Process-Engineering_R116563'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>645 Clyde Avenue, Mountain View, CA, USA</td>
+      <td>Engineer, Software Quality Engineering</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Engineer--Software-Quality-Engineering_R116564'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Intuition</b></td>
+      <td>Ann Arbor, Michigan, United States</td>
+      <td>Autonomy Integration Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/appliedintuition/jobs/4686353005?gh_jid=4686353005'>Apply</a></td>
+      <td>Apr 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Dallas, TX, USA</td>
+      <td>Field Applications Engineer - TX</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Dallas-TX-USA/Field-Applications-Engineer---TX_J-00338536'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Data-Engineer_R0238166'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Cloud Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cloud-Engineer_R0238177'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Data-Engineer_R0238165'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Cloud Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cloud-Architect_R0238176'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Cloud Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cloud-Engineer_R0238172'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Data-Engineer_R0238164'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0238161'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Cloud Infrastructure Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Cloud-Infrastructure-Architect_R0238160'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>careers</b></td>
+      <td>Paeonian Springs, VA USA</td>
+      <td>Engineering Intern</td>
+      <td><a href='https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Paeonian-Springs-VA-USA/Engineering-Intern_260004553-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Mesa, Arizona</td>
+      <td>Data Center Technician - Mesa, AZ</td>
+      <td><a href='https://coreweave.com/careers/job?4673492006&board=coreweave&gh_jid=4673492006'>Apply</a></td>
+      <td>Apr 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Datadog</b></td>
+      <td>Boston, Massachusetts, USA</td>
+      <td>IT Support Technician Intern</td>
+      <td><a href='https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788'>Apply</a></td>
+      <td>Apr 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Technical Specialist– Software Reflash</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Technical-Specialist--Software-Reflash_JR-202606546'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Software Intern (IOT)</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Intern--IOT-_2532211-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Software Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Software-Engineering_R-26-17220'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Houston, TX, US</td>
+      <td>Painter - Day Shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Houston-TX-US/Painter---Day-Shift_R21490'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Houston, TX, US</td>
+      <td>Painter</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Houston-TX-US/Painter_R21488'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Anoka, MN, US</td>
+      <td>Material Handler (Receiving) - 1st Shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Material-Handler--Receiving----1st-Shift_R21482'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Otis</b></td>
+      <td>Golfo De Salónica 73, 28033 MADRID, Spain</td>
+      <td>HR Business Partner - Iberia, Africa & Middle East</td>
+      <td><a href='https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/Golfo-De-Salnica-73-28033-MADRID-Spain/HR-Business-Partner---Iberia--Africa---Middle-East_20157610'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pinterest</b></td>
+      <td>San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US</td>
+      <td>PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)</td>
+      <td><a href='https://www.pinterestcareers.com/jobs/?gh_jid=7255640'>Apply</a></td>
+      <td>Apr 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Software Engineer - Notebooks </td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/3272836f-807d-4306-af07-83a848803e01'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Boston, Massachusetts</td>
+      <td>State Street - Custody and Complex Operations Team - Risk Monitoring Intern - Summer 2026</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/State-Street---Custody-and-Complex-Operations-Team---Risk-Monitoring-Intern---Summer-2026_R-788816'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>USA, WI, Waukesha</td>
+      <td>Manufacturing Engineer, Trainer</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/USA-WI-Waukesha/Manufacturing-Engineer--Trainer_REQ-12321'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Ft. Belvoir, Virginia</td>
+      <td>DevOps Engineer - 27098</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/2527367f-e198-4cf9-ab42-b937df2a6208'>Apply</a></td>
+      <td>2026-04-20 17:08:22</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Ft. Meade, Maryland</td>
+      <td>Software Tools Engineer 1</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/301f98af-3ebb-4159-8c3e-8405badd495e'>Apply</a></td>
+      <td>2026-04-20 15:31:16</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Dilworth, MN</td>
+      <td>(USA) Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Dilworth-MN/XMLNAME--USA--Pharmacy-Grad-Intern--Hrly-_R-2481947'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) AZ CHANDLER 02671 WM SUPERCENTER</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-AZ-CHANDLER-02671-WM-SUPERCENTER/Front-End-Coach_R-2482982-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-20-08-27-50'>🕐 Batch at 2026-04-20 08:27:50</h3>
 
@@ -114,7 +386,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-20-06-59-56'>🕐 Batch at 2026-04-20 06:59:56</h3>
 
 📊 **Total jobs in this batch: 6**
@@ -182,8 +453,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-20-04-29-13'>🕐 Batch at 2026-04-20 04:29:13</h3>
+---<h3 id='batch-2026-04-20-04-29-13'>🕐 Batch at 2026-04-20 04:29:13</h3>
 
 📊 **Total jobs in this batch: 5**
 
