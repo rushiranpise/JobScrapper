@@ -4,10 +4,40 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-19 23:28:31](#batch-2026-04-19-23-28-31)
 - [Batch at 2026-04-19 20:28:56](#batch-2026-04-19-20-28-56)
 - [Batch at 2026-04-19 16:49:37](#batch-2026-04-19-16-49-37)
 - [Batch at 2026-04-19 15:47:59](#batch-2026-04-19-15-47-59)
-- [Batch at 2026-04-19 10:46:37](#batch-2026-04-19-10-46-37)
+
+<h3 id='batch-2026-04-19-23-28-31'>🕐 Batch at 2026-04-19 23:28:31</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP2</td>
+      <td>Software Engineer III - Java</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP2/Software-Engineer-III---Java_R-2472005'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-19-20-28-56'>🕐 Batch at 2026-04-19 20:28:56</h3>
 
@@ -46,7 +76,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-19-16-49-37'>🕐 Batch at 2026-04-19 16:49:37</h3>
 
 📊 **Total jobs in this batch: 1**
@@ -75,8 +104,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-19-15-47-59'>🕐 Batch at 2026-04-19 15:47:59</h3>
+---<h3 id='batch-2026-04-19-15-47-59'>🕐 Batch at 2026-04-19 15:47:59</h3>
 
 📊 **Total jobs in this batch: 2**
 
