@@ -4,10 +4,87 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-20 15:58:12](#batch-2026-04-20-15-58-12)
 - [Batch at 2026-04-20 15:00:12](#batch-2026-04-20-15-00-12)
 - [Batch at 2026-04-20 14:02:24](#batch-2026-04-20-14-02-24)
 - [Batch at 2026-04-20 12:21:55](#batch-2026-04-20-12-21-55)
-- [Batch at 2026-04-20 10:19:28](#batch-2026-04-20-10-19-28)
+
+<h3 id='batch-2026-04-20-15-58-12'>🕐 Batch at 2026-04-20 15:58:12</h3>
+
+📊 **Total jobs in this batch: 7**
+
+**Per company:**
+- Brink: 2 jobs
+- Comcast : 1 job
+- Dematic Corp. (ILD-US): 1 job
+- Intel Corporation: 1 job
+- State Street: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Brink</b></td>
+      <td>Newark NJ</td>
+      <td>CDL Driver</td>
+      <td><a href='https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Newark-NJ/CDL-Driver_R72946'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Brink</b></td>
+      <td>Springfield Gardens NY</td>
+      <td>CDL Driver</td>
+      <td><a href='https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Springfield-Gardens-NY/CDL-Driver_R72945-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1701 John F Kennedy Blvd</td>
+      <td>Data Scientist</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Data-Scientist_R435597'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Dematic Corp. (ILD-US)</b></td>
+      <td>Salt Lake City, UT, United States</td>
+      <td>Industrial Engineer Intern</td>
+      <td><a href='https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Salt-Lake-City-UT-United-States/Industrial-Engineer-Intern_JR-0089796-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Semiconductor Packaging Engineering PHD Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Semiconductor-Packaging-Engineering-PHD-Intern_JR0283282'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Burlington Massachusetts</td>
+      <td>Professional Services Operations Intern- July- Dec (6 Month)</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Professional-Services-Operations-Intern--July--Dec--6-Month-_R-788829'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) IN AUBURN 01570 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IN-AUBURN-01570-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2479234-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-20-15-00-12'>🕐 Batch at 2026-04-20 15:00:12</h3>
 
@@ -77,7 +154,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-20-14-02-24'>🕐 Batch at 2026-04-20 14:02:24</h3>
 
 📊 **Total jobs in this batch: 18**
@@ -238,8 +314,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-20-12-21-55'>🕐 Batch at 2026-04-20 12:21:55</h3>
+---<h3 id='batch-2026-04-20-12-21-55'>🕐 Batch at 2026-04-20 12:21:55</h3>
 
 📊 **Total jobs in this batch: 21**
 
