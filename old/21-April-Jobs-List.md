@@ -4,10 +4,111 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-21 14:05:43](#batch-2026-04-21-14-05-43)
 - [Batch at 2026-04-21 12:27:55](#batch-2026-04-21-12-27-55)
 - [Batch at 2026-04-21 10:17:10](#batch-2026-04-21-10-17-10)
 - [Batch at 2026-04-21 08:27:11](#batch-2026-04-21-08-27-11)
-- [Batch at 2026-04-21 07:01:26](#batch-2026-04-21-07-01-26)
+
+<h3 id='batch-2026-04-21-14-05-43'>🕐 Batch at 2026-04-21 14:05:43</h3>
+
+📊 **Total jobs in this batch: 10**
+
+**Per company:**
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- Anduril Industries: 1 job
+- Archer 56: 1 job
+- BAH: 2 jobs
+- Bank of Montreal: 1 job
+- Brink: 1 job
+- Otis: 1 job
+- spacex: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Okfuskee County</td>
+      <td>Certified Medication Aide</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Okfuskee-County/Certified-Medication-Aide_JR59012'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Boston, Massachusetts, United States</td>
+      <td>Frontend Software Engineer, Maneuver dominance </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5115179007?gh_jid=5115179007'>Apply</a></td>
+      <td>Apr 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Archer 56</b></td>
+      <td>San Jose, California, United States</td>
+      <td>Aerospace Software Certification Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/archer56/jobs/7622496003'>Apply</a></td>
+      <td>Apr 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Test-Focused DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Test-Focused-DevOps-Engineer_R0238293'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Annapolis Junction, MD</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Software-Engineer_R0238283'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>Chicago, IL, USA</td>
+      <td>Business and Process Analyst (New or Recent Graduate Opportunity)</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Business-and-Process-Analyst--New-or-Recent-Graduate-Opportunity-_R260011591-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Brink</b></td>
+      <td>New York, NY (B0490)</td>
+      <td>CDL Driver</td>
+      <td><a href='https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/New-York-NY-B0490/CDL-Driver_R73003'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Otis</b></td>
+      <td>OT541: TFP - Florence, SC 1500 Otis Way, Florence, SC, 29501 USA</td>
+      <td>Manufacturing Engineering Intern</td>
+      <td><a href='https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT541-TFP---Florence-SC-1500-Otis-Way-Florence-SC-29501-USA/Manufacturing-Engineering-Intern_20157758'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer (Flight Reliability)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8512876002?gh_jid=8512876002'>Apply</a></td>
+      <td>Apr 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) IN NEW ALBANY 02691 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IN-NEW-ALBANY-02691-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2485692-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-21-12-27-55'>🕐 Batch at 2026-04-21 12:27:55</h3>
 
@@ -227,7 +328,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-21-10-17-10'>🕐 Batch at 2026-04-21 10:17:10</h3>
 
 📊 **Total jobs in this batch: 21**
@@ -408,8 +508,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-21-08-27-11'>🕐 Batch at 2026-04-21 08:27:11</h3>
+---<h3 id='batch-2026-04-21-08-27-11'>🕐 Batch at 2026-04-21 08:27:11</h3>
 
 📊 **Total jobs in this batch: 14**
 
