@@ -4,10 +4,86 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-20 20:02:16](#batch-2026-04-20-20-02-16)
 - [Batch at 2026-04-20 16:56:06](#batch-2026-04-20-16-56-06)
 - [Batch at 2026-04-20 15:58:12](#batch-2026-04-20-15-58-12)
 - [Batch at 2026-04-20 15:00:12](#batch-2026-04-20-15-00-12)
-- [Batch at 2026-04-20 14:02:24](#batch-2026-04-20-14-02-24)
+
+<h3 id='batch-2026-04-20-20-02-16'>🕐 Batch at 2026-04-20 20:02:16</h3>
+
+📊 **Total jobs in this batch: 7**
+
+**Per company:**
+- Applied Materials: 1 job
+- Intel Corporation: 1 job
+- Snowflake: 1 job
+- Walmart: 3 jobs
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Material Coordinator/Handler IV</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Material-Coordinator-Handler-IV_R2617847'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Graduate Intern - 2026 Summer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Graduate-Intern---2026-Summer_JR0283125'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Developer Associate - Cortex Code Enablement</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/0675599f-3475-4706-ab37-925bc34aebe0'>Apply</a></td>
+      <td>Mar 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) PA BENSALEM 05131 WAL-MART</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-PA-BENSALEM-05131-WAL-MART/Pharmacy-Pre-Grad-Intern---WM_R-2484080'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MO KANSAS CITY 02955 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MO-KANSAS-CITY-02955-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2481751'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX MCKINNEY 05311 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-MCKINNEY-05311-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2484922-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>PhD Research Intern, Multi-Modal Foundation Encoder for Perception</td>
+      <td><a href='https://jobs.lever.co/zoox/44721ec7-87ce-4b24-95a1-b949c6d9b17c'>Apply</a></td>
+      <td>2026-04-20 23:45:55</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-20-16-56-06'>🕐 Batch at 2026-04-20 16:56:06</h3>
 
@@ -74,7 +150,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-20-15-58-12'>🕐 Batch at 2026-04-20 15:58:12</h3>
 
 📊 **Total jobs in this batch: 7**
@@ -150,8 +225,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-20-15-00-12'>🕐 Batch at 2026-04-20 15:00:12</h3>
+---<h3 id='batch-2026-04-20-15-00-12'>🕐 Batch at 2026-04-20 15:00:12</h3>
 
 📊 **Total jobs in this batch: 6**
 
