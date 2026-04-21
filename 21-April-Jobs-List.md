@@ -4,10 +4,48 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-21 15:49:01](#batch-2026-04-21-15-49-01)
 - [Batch at 2026-04-21 15:03:06](#batch-2026-04-21-15-03-06)
 - [Batch at 2026-04-21 14:05:43](#batch-2026-04-21-14-05-43)
 - [Batch at 2026-04-21 12:27:55](#batch-2026-04-21-12-27-55)
-- [Batch at 2026-04-21 10:17:10](#batch-2026-04-21-10-17-10)
+
+<h3 id='batch-2026-04-21-15-49-01'>🕐 Batch at 2026-04-21 15:49:01</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- Allstate: 1 job
+- Truveta: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>US - Remote</td>
+      <td>Product Engineer – Java Spring Boot - Full Stack</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Product-Engineer---Java-Spring-Boot---Full-Stack_R27511'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Truveta</b></td>
+      <td>Seattle, WA</td>
+      <td>Software Engineer - Data Fulfillment</td>
+      <td><a href='https://job-boards.greenhouse.io/truveta/jobs/5978337004'>Apply</a></td>
+      <td>Apr 21, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-21-15-03-06'>🕐 Batch at 2026-04-21 15:03:06</h3>
 
@@ -108,7 +146,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-21-14-05-43'>🕐 Batch at 2026-04-21 14:05:43</h3>
 
 📊 **Total jobs in this batch: 10**
@@ -208,8 +245,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-21-12-27-55'>🕐 Batch at 2026-04-21 12:27:55</h3>
+---<h3 id='batch-2026-04-21-12-27-55'>🕐 Batch at 2026-04-21 12:27:55</h3>
 
 📊 **Total jobs in this batch: 26**
 
