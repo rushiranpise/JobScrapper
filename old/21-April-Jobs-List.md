@@ -4,10 +4,110 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-21 15:03:06](#batch-2026-04-21-15-03-06)
 - [Batch at 2026-04-21 14:05:43](#batch-2026-04-21-14-05-43)
 - [Batch at 2026-04-21 12:27:55](#batch-2026-04-21-12-27-55)
 - [Batch at 2026-04-21 10:17:10](#batch-2026-04-21-10-17-10)
-- [Batch at 2026-04-21 08:27:11](#batch-2026-04-21-08-27-11)
+
+<h3 id='batch-2026-04-21-15-03-06'>🕐 Batch at 2026-04-21 15:03:06</h3>
+
+📊 **Total jobs in this batch: 10**
+
+**Per company:**
+- Airbnb: 1 job
+- BAH: 1 job
+- Intrinsic Robotics: 2 jobs
+- Intel Corporation: 1 job
+- spacex: 1 job
+- Snowflake: 2 jobs
+- State Street: 1 job
+- Workday: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Airbnb</b></td>
+      <td>United States</td>
+      <td>Data Science Intern</td>
+      <td><a href='https://careers.airbnb.com/positions/7839237?gh_jid=7839237'>Apply</a></td>
+      <td>Apr 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>Unity Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Unity-Developer_R0237842'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intrinsic Robotics</b></td>
+      <td>Mountain View, California</td>
+      <td>Backend Software Engineer (Robotics Systems)</td>
+      <td><a href='https://boards.greenhouse.io/intrinsicrobotics/jobs/5973679004?gh_jid=5973679004'>Apply</a></td>
+      <td>Apr 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intrinsic Robotics</b></td>
+      <td>Mountain View, California</td>
+      <td>Frontend Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/intrinsicrobotics/jobs/5973139004?gh_jid=5973139004'>Apply</a></td>
+      <td>Apr 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, California, Folsom</td>
+      <td>Undegrad Intern- AI Software Development</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Undegrad-Intern--AI-Software-Development_JR0282658'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>Hardware Reliability Specialist, Microelectronics Failure Analysis (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8500797002?gh_jid=8500797002'>Apply</a></td>
+      <td>Apr 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-NY-New York</td>
+      <td>Solution Engineer - Data Engineering Specialist (FSI)</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/509681a0-08cd-484f-aaa6-ffdb8ea5a5ce'>Apply</a></td>
+      <td>Apr 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Remote</td>
+      <td>Product Growth Specialist (PGS) - Data Engineering</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/d442fe64-f165-4132-85fc-7401fad88724'>Apply</a></td>
+      <td>Apr 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Burlington Massachusetts</td>
+      <td>Cloud Engineering Internship- 6 Month Internship- (July-Dec)</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Cloud-Engineering-Internship--6-Month-Internship---July-Dec-_R-788935'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA.VA.Reston</td>
+      <td>Cloud Engineer (US Federal)</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Site-Reliability-Engineer--SRE----Database-Engineering--US-Federal-_JR-0093733'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-21-14-05-43'>🕐 Batch at 2026-04-21 14:05:43</h3>
 
@@ -109,7 +209,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-21-12-27-55'>🕐 Batch at 2026-04-21 12:27:55</h3>
 
 📊 **Total jobs in this batch: 26**
@@ -327,8 +426,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-21-10-17-10'>🕐 Batch at 2026-04-21 10:17:10</h3>
+---<h3 id='batch-2026-04-21-10-17-10'>🕐 Batch at 2026-04-21 10:17:10</h3>
 
 📊 **Total jobs in this batch: 21**
 
