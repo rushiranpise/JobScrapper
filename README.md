@@ -4,10 +4,56 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-20 22:39:34](#batch-2026-04-20-22-39-34)
 - [Batch at 2026-04-20 20:02:16](#batch-2026-04-20-20-02-16)
 - [Batch at 2026-04-20 16:56:06](#batch-2026-04-20-16-56-06)
 - [Batch at 2026-04-20 15:58:12](#batch-2026-04-20-15-58-12)
-- [Batch at 2026-04-20 15:00:12](#batch-2026-04-20-15-00-12)
+
+<h3 id='batch-2026-04-20-22-39-34'>🕐 Batch at 2026-04-20 22:39:34</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Anduril Industries: 1 job
+- NVIDIA: 1 job
+- STANDARD & POOR'S FINANCIAL SERVICE: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Electrical Engineering Intern</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/4802466007?gh_jid=4802466007'>Apply</a></td>
+      <td>Aug 11, 2025</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Software Engineering Intern, Robot Learning Platform - Fall 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Robot-Learning-Platform---Fall-2026_JR2015575'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>STANDARD & POOR'S FINANCIAL SERVICE</b></td>
+      <td>New York, NY</td>
+      <td>ETF Analyst Intern - Business & Product Analysis</td>
+      <td><a href='https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/ETF-Analyst-Intern---Business---Product-Analysis_321942-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-20-20-02-16'>🕐 Batch at 2026-04-20 20:02:16</h3>
 
@@ -84,7 +130,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-20-16-56-06'>🕐 Batch at 2026-04-20 16:56:06</h3>
 
 📊 **Total jobs in this batch: 6**
@@ -149,8 +194,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-20-15-58-12'>🕐 Batch at 2026-04-20 15:58:12</h3>
+---<h3 id='batch-2026-04-20-15-58-12'>🕐 Batch at 2026-04-20 15:58:12</h3>
 
 📊 **Total jobs in this batch: 7**
 
