@@ -4,9 +4,137 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-21 08:27:11](#batch-2026-04-21-08-27-11)
 - [Batch at 2026-04-21 07:01:26](#batch-2026-04-21-07-01-26)
 - [Batch at 2026-04-21 04:21:02](#batch-2026-04-21-04-21-02)
 - [Batch at 2026-04-21 02:57:40](#batch-2026-04-21-02-57-40)
+
+<h3 id='batch-2026-04-21-08-27-11'>🕐 Batch at 2026-04-21 08:27:11</h3>
+
+📊 **Total jobs in this batch: 14**
+
+**Per company:**
+- Anduril Industries: 1 job
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- BAH: 4 jobs
+- CMU: 1 job
+- Commvault: 1 job
+- palantir: 2 jobs
+- Walmart: 4 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Atlanta, Georgia, United States</td>
+      <td>Software Engineer, Mobile - Android - Tactical, Recon & Strike</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/4775860007?gh_jid=4775860007'>Apply</a></td>
+      <td>Apr 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>State Capital Parks Technician</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/State-Capital-Parks-Technician_JR57276'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Walton Beach, FL</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Walton-Beach-FL/Data-Engineer_R0238258'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Azure Cloud Infrastructure Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Azure-Cloud-Infrastructure-Architect_R0238259'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/DevOps-Engineer_R0238248'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>ServiceNow Developer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/ServiceNow-Developer--Mid_R0238221-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Teaching Assistant, National High School Game Academy - UEIS - Entertainment Technology Center</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Teaching-Assistant--National-High-School-Game-Academy---UEIS---Entertainment-Technology-Center_2024377'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Commvault</b></td>
+      <td>United States</td>
+      <td>Software Subscription Renewal Rep (Remote - West Coast, USA)</td>
+      <td><a href='https://job-boards.greenhouse.io/commvault/jobs/5193816008'>Apply</a></td>
+      <td>Apr 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>palantir</b></td>
+      <td>Washington, D.C.</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://jobs.lever.co/palantir/51ea4a3b-7764-4c87-96e4-310e19c856d5'>Apply</a></td>
+      <td>2018-06-28 16:26:03</td>
+    </tr>
+    <tr>
+      <td><b>palantir</b></td>
+      <td>New York, NY</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://jobs.lever.co/palantir/c3f40e41-6258-4233-a7f9-091bf67df30b'>Apply</a></td>
+      <td>2018-06-28 16:02:25</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN TN CHENNAI Home Office Capita Land</td>
+      <td>SOFTWARE ENGINEER III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/SOFTWARE-ENGINEER-III_R-2422978'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office Building 10</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/Software-Engineer-III_R-2447475'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Excellence Building CA SUNNYVALE Home Office</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2458605'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>US IL SPRING VALLEY 06892 DISPATCH TRUCKING</td>
+      <td>Truck Driver OTR - Regional - Spring Valley, IL</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-IL-SPRING-VALLEY-06892-DISPATCH-TRUCKING/Truck-Driver-OTR---Regional---Spring-Valley--IL_R-2485638'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-21-07-01-26'>🕐 Batch at 2026-04-21 07:01:26</h3>
 
@@ -91,7 +219,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-21-04-21-02'>🕐 Batch at 2026-04-21 04:21:02</h3>
 
 📊 **Total jobs in this batch: 3**
@@ -135,8 +262,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-21-02-57-40'>🕐 Batch at 2026-04-21 02:57:40</h3>
+---<h3 id='batch-2026-04-21-02-57-40'>🕐 Batch at 2026-04-21 02:57:40</h3>
 
 📊 **Total jobs in this batch: 1**
 
