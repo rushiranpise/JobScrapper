@@ -4,10 +4,229 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-21 12:27:55](#batch-2026-04-21-12-27-55)
 - [Batch at 2026-04-21 10:17:10](#batch-2026-04-21-10-17-10)
 - [Batch at 2026-04-21 08:27:11](#batch-2026-04-21-08-27-11)
 - [Batch at 2026-04-21 07:01:26](#batch-2026-04-21-07-01-26)
-- [Batch at 2026-04-21 04:21:02](#batch-2026-04-21-04-21-02)
+
+<h3 id='batch-2026-04-21-12-27-55'>🕐 Batch at 2026-04-21 12:27:55</h3>
+
+📊 **Total jobs in this batch: 26**
+
+**Per company:**
+- Applied Materials: 3 jobs
+- BAH: 2 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 3 jobs
+- Core Weave: 1 job
+- genpt: 1 job
+- Jump Trading: 1 job
+- Lyft: 1 job
+- Micron: 1 job
+- OpenEye: 1 job
+- Precisely: 1 job
+- Ripple: 1 job
+- Snowflake: 1 job
+- State Street: 1 job
+- Walmart: 7 jobs
+- Xylem Services USA LLC: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Hillsboro,OR</td>
+      <td>Global Software Support Engineer II - (E2)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/HillsboroOR/Global-Software-Support-Engineer-II----E2-_R2616425'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Chandler,AZ</td>
+      <td>AIX Field Service Engineer II - (E2)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/ChandlerAZ/AIX-Field-Service-Engineer-II----E2-_R2616649'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Manassas,VA</td>
+      <td>AIX Field Service Engineer II - (E2)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/ManassasVA/AIX-Field-Service-Engineer-II----E2-_R2616648'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Huntsville, AL</td>
+      <td>Aerospace Engineer Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Aerospace-Engineer-Intern_R0238291'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Meade, MD</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Software-Engineer_R0238282'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA SC - Sumter</td>
+      <td>Engineering Intern - Documentation</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-SC---Sumter/Engineering-Intern---Documentation_R-543484'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA SC - Sumter</td>
+      <td>Engineering Intern - Manufacturing Plant</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-SC---Sumter/Engineering-Intern---Manufacturing-Plant_R-543481'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA SC - Sumter</td>
+      <td>Engineering Intern - Manufacturing</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-SC---Sumter/Engineering-Intern---Manufacturing_R-543483'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA / Richmond, VA / Dallas, TX</td>
+      <td>SME Data Center Commission & Quality</td>
+      <td><a href='https://coreweave.com/careers/job?4675029006&board=coreweave&gh_jid=4675029006'>Apply</a></td>
+      <td>Apr 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Saint Paul, MN, USA</td>
+      <td>Store Paint Specialist</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Saint-Paul-MN-USA/Store-Paint-Specialist_R26_0000012965'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Jump Trading</b></td>
+      <td>Chicago, IL, United States, New York, NY, United States</td>
+      <td>HPC Data Center Production Engineer</td>
+      <td><a href='https://www.jumptrading.com/hr/job?gh_jid=7838715'>Apply</a></td>
+      <td>Apr 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Lyft</b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer - RTSM, Driver</td>
+      <td><a href='https://app.careerpuck.com/job-board/lyft/job/8514380002?gh_jid=8514380002'>Apply</a></td>
+      <td>Apr 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Manassas, VA -  Fab 6</td>
+      <td>New College Grad - Metrology Applications Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/Metrology-Applications-Engineer_JR89915'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenEye</b></td>
+      <td>Centennial, Colorado</td>
+      <td>Software Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/alarmcom/jobs/8490048002'>Apply</a></td>
+      <td>Apr 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Precisely</b></td>
+      <td>United States</td>
+      <td>Professional Services AI Enablement Analyst</td>
+      <td><a href='https://www.precisely.com/careers-and-culture/us-jobs/job/4683900005?gh_jid=4683900005'>Apply</a></td>
+      <td>Apr 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Ripple</b></td>
+      <td>Chicago, Illinois, United States</td>
+      <td>GTM Systems Architect, Ripple Treasury (AI & Automation)</td>
+      <td><a href='https://ripple.com/careers/all-jobs/job/7824574?gh_jid=7824574'>Apply</a></td>
+      <td>Apr 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>CA-Ontario-Toronto</td>
+      <td>Software Engineer, Engineering Infrastructure</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/8aaca557-05dc-4412-8d3b-28ed686df200'>Apply</a></td>
+      <td>Apr 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Quincy, Massachusetts</td>
+      <td>Python Developer , Officer</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Python-Developer---Officer_R-781782'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Software-Engineer-III_R-2479880'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>(IND) Grad Intern - No Work Experience</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2465961'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>(IND) Grad Intern - No Work Experience</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2465957'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Seekonk, MA</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Seekonk-MA/XMLNAME--USA--Front-End-Coach_R-2485893-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) CO WESTMINSTER 03824 WM SUPERCENTER</td>
+      <td>(USA) Front end Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CO-WESTMINSTER-03824-WM-SUPERCENTER/XMLNAME--USA--Front-end-Coach_R-2484641-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 03074 WM SUPERCENTER</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-03074-WM-SUPERCENTER/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2485798'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>US IL SPRING VALLEY 06892 DISPATCH TRUCKING</td>
+      <td>Truck Driver OTR - Regional - Spring Valley, IL</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-IL-SPRING-VALLEY-06892-DISPATCH-TRUCKING/Truck-Driver-OTR---Regional---Spring-Valley--IL_R-2485790'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Xylem Services USA LLC</b></td>
+      <td>Holland, Michigan (Office)</td>
+      <td>Intern, Quality</td>
+      <td><a href='https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Holland-Michigan-Office/Intern--Quality_R44370'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-21-10-17-10'>🕐 Batch at 2026-04-21 10:17:10</h3>
 
@@ -190,7 +409,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-21-08-27-11'>🕐 Batch at 2026-04-21 08:27:11</h3>
 
 📊 **Total jobs in this batch: 14**
@@ -316,8 +534,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-21-07-01-26'>🕐 Batch at 2026-04-21 07:01:26</h3>
+---<h3 id='batch-2026-04-21-07-01-26'>🕐 Batch at 2026-04-21 07:01:26</h3>
 
 📊 **Total jobs in this batch: 8**
 
