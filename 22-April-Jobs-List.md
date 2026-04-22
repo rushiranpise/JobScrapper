@@ -4,10 +4,149 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-22 10:14:15](#batch-2026-04-22-10-14-15)
 - [Batch at 2026-04-22 08:26:52](#batch-2026-04-22-08-26-52)
 - [Batch at 2026-04-22 06:59:14](#batch-2026-04-22-06-59-14)
 - [Batch at 2026-04-22 04:18:38](#batch-2026-04-22-04-18-38)
-- [Batch at 2026-04-22 01:04:09](#batch-2026-04-22-01-04-09)
+
+<h3 id='batch-2026-04-22-10-14-15'>🕐 Batch at 2026-04-22 10:14:15</h3>
+
+📊 **Total jobs in this batch: 15**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- Anduril Industries: 1 job
+- Bandwidth: 1 job
+- BAH: 4 jobs
+- Comcast : 1 job
+- Dematic Corp. (ILD-US): 1 job
+- National Information Solutions Cooperative (NISC): 1 job
+- OpenEye: 1 job
+- SharkNinja: 1 job
+- State Street: 1 job
+- Walmart: 1 job
+- Wyetech LLC: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Troy, Michigan, United States</td>
+      <td>Test Tool Developer / Integrator </td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5117443007'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Early Career Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007'>Apply</a></td>
+      <td>Aug 11, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Bandwidth</b></td>
+      <td>Raleigh, NC</td>
+      <td>Software Development Intern (Messaging)  - Summer 2026</td>
+      <td><a href='https://job-boards.greenhouse.io/bandwidth/jobs/7380729'>Apply</a></td>
+      <td>Nov 07, 2025</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>MacDill AFB, FL</td>
+      <td>Training Coordinator</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/MacDill-AFB-FL/Training-Coordinator_R0238378'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dayton, OH</td>
+      <td>AI and ML Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/AI-and-ML-Software-Engineer_R0238382'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dayton, OH</td>
+      <td>Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Data-Analyst_R0238370'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Engineer_R0238336'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1800 Arch St</td>
+      <td>Software Engineer - Agentic AI</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Software-Engineer---Agentic-AI_R434812'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Dematic Corp. (ILD-US)</b></td>
+      <td>Grand Rapids, MI, United States</td>
+      <td>Product & Program Management Intern</td>
+      <td><a href='https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Grand-Rapids-MI-United-States/Product---Program-Management-Intern_JR-0089752-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>National Information Solutions Cooperative (NISC)</b></td>
+      <td>Any NISC Location or Virtual</td>
+      <td>Software Developer III - Distributed Engineering Workstation (Power Flow Software) </td>
+      <td><a href='https://job-boards.greenhouse.io/nisc/jobs/7842753'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>OpenEye</b></td>
+      <td>Lawrence, Kansas</td>
+      <td>Software Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/alarmcom/jobs/8490045002'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SharkNinja</b></td>
+      <td>Needham, MA, United States</td>
+      <td>Recipe Developer - Ninja Test Kitchen</td>
+      <td><a href='https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4674731006'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Quincy, Massachusetts</td>
+      <td>Quality Assurance (a/k/a Software Testing Engineer)</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Quality-Assurance--a-k-a-Software-Testing-Engineer-_R-789002'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Respect Building CA SUNNYVALE Home Office</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III_R-2476971'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 2</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/e5a10366-92ef-4990-85c3-d10d1d07abc2'>Apply</a></td>
+      <td>2026-04-22 15:58:04</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-22-08-26-52'>🕐 Batch at 2026-04-22 08:26:52</h3>
 
@@ -215,7 +354,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-22-06-59-14'>🕐 Batch at 2026-04-22 06:59:14</h3>
 
 📊 **Total jobs in this batch: 4**
@@ -268,8 +406,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-22-04-18-38'>🕐 Batch at 2026-04-22 04:18:38</h3>
+---<h3 id='batch-2026-04-22-04-18-38'>🕐 Batch at 2026-04-22 04:18:38</h3>
 
 📊 **Total jobs in this batch: 9**
 
