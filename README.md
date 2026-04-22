@@ -4,10 +4,54 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-21 22:37:49](#batch-2026-04-21-22-37-49)
 - [Batch at 2026-04-21 20:01:48](#batch-2026-04-21-20-01-48)
 - [Batch at 2026-04-21 16:46:38](#batch-2026-04-21-16-46-38)
 - [Batch at 2026-04-21 15:49:01](#batch-2026-04-21-15-49-01)
-- [Batch at 2026-04-21 15:03:06](#batch-2026-04-21-15-03-06)
+
+<h3 id='batch-2026-04-21-22-37-49'>🕐 Batch at 2026-04-21 22:37:49</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Salaberry-De-Valleyfield, QC</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Salaberry-De-Valleyfield-QC/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2486755'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Counsel, Tech and Data Regulatory (Global)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Counsel--Tech-and-Data-Regulatory_R-2474208'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Counsel Data and Tech Americas</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Counsel-Data-and-Tech-Americas_R-2474222'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-21-20-01-48'>🕐 Batch at 2026-04-21 20:01:48</h3>
 
@@ -68,7 +112,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-21-16-46-38'>🕐 Batch at 2026-04-21 16:46:38</h3>
 
 📊 **Total jobs in this batch: 2**
@@ -105,8 +148,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-21-15-49-01'>🕐 Batch at 2026-04-21 15:49:01</h3>
+---<h3 id='batch-2026-04-21-15-49-01'>🕐 Batch at 2026-04-21 15:49:01</h3>
 
 📊 **Total jobs in this batch: 2**
 
