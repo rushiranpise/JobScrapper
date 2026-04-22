@@ -4,10 +4,222 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-22 12:28:22](#batch-2026-04-22-12-28-22)
 - [Batch at 2026-04-22 10:14:15](#batch-2026-04-22-10-14-15)
 - [Batch at 2026-04-22 08:26:52](#batch-2026-04-22-08-26-52)
 - [Batch at 2026-04-22 06:59:14](#batch-2026-04-22-06-59-14)
-- [Batch at 2026-04-22 04:18:38](#batch-2026-04-22-04-18-38)
+
+<h3 id='batch-2026-04-22-12-28-22'>🕐 Batch at 2026-04-22 12:28:22</h3>
+
+📊 **Total jobs in this batch: 25**
+
+**Per company:**
+- Art of Problem Solving: 1 job
+- ASMLEXT1: 1 job
+- Applied Materials: 1 job
+- BAH: 3 jobs
+- BorgWarner: 1 job
+- Children's Hospital Medical Center: 1 job
+- GE Healthcare: 1 job
+- Intel Corporation: 1 job
+- MOOG: 2 jobs
+- NT Concepts: 2 jobs
+- Rvo health: 3 jobs
+- Truveta: 1 job
+- Waymo: 1 job
+- Wyetech LLC: 5 jobs
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Art of Problem Solving</b></td>
+      <td>San Diego, California, United States</td>
+      <td>Math Curriculum Developer</td>
+      <td><a href='https://artofproblemsolving.com/careers/job/7691337003?gh_jid=7691337003'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Optical Fabrication Technicians: CWW Front End Nights (6:00pm-6:00am Sunday-Tuesday, every other Wednesday) 15 % Differential</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technicians--CWW-Front-End-Nights--6-00pm-6-00am-Sunday-Tuesday--every-other-Wednesday--15---Differential_J-00339886'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Job Profile Material Coordinator/Handler III</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Job-Profile-Material-Coordinator-Handler-III_R2617881'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Diego, CA</td>
+      <td>Information Technology Project Analyst, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Information-Technology-Project-Analyst--Junior_R0238391'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>MLOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/MLOps-Engineer_R0238394'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Data-Engineer_R0238398'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Auburn Hills - Michigan - USA</td>
+      <td>Data Science Intern (Year-Round)</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Data-Science-Intern--Year-Round-_R2026-1423'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Children's Hospital Medical Center</b></td>
+      <td>Burnet Campus</td>
+      <td>Resp Therapist I/PSG Technician 18:30-07:00</td>
+      <td><a href='https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Burnet-Campus/Resp-Therapist-I-PSG-Technician-18-30-07-00_JR220425'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>GE Healthcare</b></td>
+      <td>WA07-01-Bellevue-1100-112th Avenue NE</td>
+      <td>AI Engineer</td>
+      <td><a href='https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/WA07-01-Bellevue-1100-112th-Avenue-NE/AI-Engineer_R4039182-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Development-Engineer_JR0283216'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Torrance, CA</td>
+      <td>Intern, Manufacturing Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Intern--Manufacturing-Engineering_R-25-13762'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Software Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Software-Engineering_R-26-17369'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NT Concepts</b></td>
+      <td>Chantilly, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://job-boards.greenhouse.io/ntconcepts/jobs/5978863004'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NT Concepts</b></td>
+      <td>Herndon, VA</td>
+      <td>Python Developer</td>
+      <td><a href='https://job-boards.greenhouse.io/ntconcepts/jobs/5978870004'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Rvo health</b></td>
+      <td>Denver, Colorado, United States</td>
+      <td>Data Scientist </td>
+      <td><a href='https://job-boards.greenhouse.io/rvohealth/jobs/4687902005'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Rvo health</b></td>
+      <td>Charlotte, North Carolina, United States</td>
+      <td>Data Scientist </td>
+      <td><a href='https://job-boards.greenhouse.io/rvohealth/jobs/4686552005'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Rvo health</b></td>
+      <td>Minneapolis, MN</td>
+      <td>Data Scientist </td>
+      <td><a href='https://job-boards.greenhouse.io/rvohealth/jobs/4687897005'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Truveta</b></td>
+      <td>Seattle, WA</td>
+      <td>Software Engineer - Search</td>
+      <td><a href='https://job-boards.greenhouse.io/truveta/jobs/5979001004'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA; San Francisco, CA, USA</td>
+      <td>Software Engineer, Planner Reasoning, Onboard Infrastructure</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7460969'>Apply</a></td>
+      <td>Dec 11, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 1 (Potential Telework)</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/00e1c676-92b4-400f-a44d-9a60a9fb88e2'>Apply</a></td>
+      <td>2026-04-22 17:49:58</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 1 (Potential Telework)</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/a64caa22-543e-4617-b980-01c20bc20550'>Apply</a></td>
+      <td>2026-04-22 17:45:00</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 3</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/6ac5109a-a525-4ad3-acae-dddbbdc0c44c'>Apply</a></td>
+      <td>2026-04-22 18:47:25</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 3</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/c92db7f4-d3b1-419a-805b-80c9d7ad7f89'>Apply</a></td>
+      <td>2026-04-22 18:54:21</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 3</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/ecf1527b-cb32-4e78-8188-dd12b156c7e3'>Apply</a></td>
+      <td>2026-04-22 18:49:38</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Redbird AR BENTONVILLE Home Office</td>
+      <td>(USA) Systems and Infrastructure Engineer II</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Redbird-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Systems-and-Infrastructure-Engineer-II_R-2484936'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-22-10-14-15'>🕐 Batch at 2026-04-22 10:14:15</h3>
 
@@ -147,7 +359,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-22-08-26-52'>🕐 Batch at 2026-04-22 08:26:52</h3>
 
 📊 **Total jobs in this batch: 25**
@@ -353,8 +564,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-22-06-59-14'>🕐 Batch at 2026-04-22 06:59:14</h3>
+---<h3 id='batch-2026-04-22-06-59-14'>🕐 Batch at 2026-04-22 06:59:14</h3>
 
 📊 **Total jobs in this batch: 4**
 
