@@ -4,10 +4,70 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-22 16:06:58](#batch-2026-04-22-16-06-58)
 - [Batch at 2026-04-22 15:07:34](#batch-2026-04-22-15-07-34)
 - [Batch at 2026-04-22 14:08:33](#batch-2026-04-22-14-08-33)
 - [Batch at 2026-04-22 12:28:22](#batch-2026-04-22-12-28-22)
-- [Batch at 2026-04-22 10:14:15](#batch-2026-04-22-10-14-15)
+
+<h3 id='batch-2026-04-22-16-06-58'>🕐 Batch at 2026-04-22 16:06:58</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- Anduril Industries: 1 job
+- NVIDIA: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Bellevue, Washington, United States</td>
+      <td>Skillbridge Software Engineer, Warfighter Systems</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5117558007?gh_jid=5117558007'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Software Engineering, Data Infrastructure</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering--Data-Infrastructure_JR2015096'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Service Building CA SUNNYVALE Home Office</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2478521'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Service Building CA SUNNYVALE Home Office</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2477910'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Service Building CA SUNNYVALE Home Office</td>
+      <td>Software Engineer III- iOS mobile</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III--iOS-mobile_R-2487873'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-22-15-07-34'>🕐 Batch at 2026-04-22 15:07:34</h3>
 
@@ -85,7 +145,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-22-14-08-33'>🕐 Batch at 2026-04-22 14:08:33</h3>
 
 📊 **Total jobs in this batch: 19**
@@ -253,8 +312,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-22-12-28-22'>🕐 Batch at 2026-04-22 12:28:22</h3>
+---<h3 id='batch-2026-04-22-12-28-22'>🕐 Batch at 2026-04-22 12:28:22</h3>
 
 📊 **Total jobs in this batch: 25**
 
