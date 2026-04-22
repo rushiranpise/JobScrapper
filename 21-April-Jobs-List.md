@@ -4,10 +4,70 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-21 20:01:48](#batch-2026-04-21-20-01-48)
 - [Batch at 2026-04-21 16:46:38](#batch-2026-04-21-16-46-38)
 - [Batch at 2026-04-21 15:49:01](#batch-2026-04-21-15-49-01)
 - [Batch at 2026-04-21 15:03:06](#batch-2026-04-21-15-03-06)
-- [Batch at 2026-04-21 14:05:43](#batch-2026-04-21-14-05-43)
+
+<h3 id='batch-2026-04-21-20-01-48'>🕐 Batch at 2026-04-21 20:01:48</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- Citi: 3 jobs
+- Walmart: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex KYC Operations Analyst 2 PLD AML CDD CDMX</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-KYC-Operations-Analyst-2-PLD-AML-CDD-CDMX_26953971'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex KYC - Prevención de Crímenes Financieros KYC PLD AML CDD CDMX</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-KYC---Prevencin-de-Crmenes-Financieros-KYC-PLD-AML-CDD-CDMX_26952207'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Tampa Florida United States</td>
+      <td>Capital Markets Transactional Attorney</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Capital-Markets-Transactional-Attorney_26954942'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) SUNNYVALE TECH CORNERS BLDG 6 CA SUNNYVALE Home Office</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-SUNNYVALE-TECH-CORNERS-BLDG-6-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2476649'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>PhD Research Intern, Object Detection and Tracking</td>
+      <td><a href='https://jobs.lever.co/zoox/b6da7d77-18ae-4ba7-a4d2-af1891c87d42'>Apply</a></td>
+      <td>2026-04-22 00:30:03</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-21-16-46-38'>🕐 Batch at 2026-04-21 16:46:38</h3>
 
@@ -46,7 +106,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-21-15-49-01'>🕐 Batch at 2026-04-21 15:49:01</h3>
 
 📊 **Total jobs in this batch: 2**
@@ -83,8 +142,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-21-15-03-06'>🕐 Batch at 2026-04-21 15:03:06</h3>
+---<h3 id='batch-2026-04-21-15-03-06'>🕐 Batch at 2026-04-21 15:03:06</h3>
 
 📊 **Total jobs in this batch: 10**
 
