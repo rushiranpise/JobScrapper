@@ -4,10 +4,87 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-22 15:07:34](#batch-2026-04-22-15-07-34)
 - [Batch at 2026-04-22 14:08:33](#batch-2026-04-22-14-08-33)
 - [Batch at 2026-04-22 12:28:22](#batch-2026-04-22-12-28-22)
 - [Batch at 2026-04-22 10:14:15](#batch-2026-04-22-10-14-15)
-- [Batch at 2026-04-22 08:26:52](#batch-2026-04-22-08-26-52)
+
+<h3 id='batch-2026-04-22-15-07-34'>🕐 Batch at 2026-04-22 15:07:34</h3>
+
+📊 **Total jobs in this batch: 7**
+
+**Per company:**
+- Applied Intuition: 1 job
+- Motorola Solutions, Inc: 1 job
+- Morgan Stanley: 1 job
+- NVIDIAExternalCareerSite: 1 job
+- spacex: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Intuition</b></td>
+      <td>Sunnyvale, California, United States</td>
+      <td>Software Quality Assurance Engineer</td>
+      <td><a href='https://boards.greenhouse.io/appliedintuition/jobs/4680916005?gh_jid=4680916005'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Melville, NY</td>
+      <td>Software Engineer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Melville-NY/Software-Engineer_R64140'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>Dallas, Texas, United States of America</td>
+      <td>Analyst, Data Governance & Quality</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/Dallas-Texas-United-States-of-America/Analyst--Data-Governance---Quality_JR029603'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIAExternalCareerSite</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Sourcing Data Analyst</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sourcing-Data-Analyst_JR2016583-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Mission Integration Engineer, Network and Infrastructure (Starshield) </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8519574002?gh_jid=8519574002'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NC CHAPEL HILL 03182 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NC-CHAPEL-HILL-03182-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2486291'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NC RALEIGH 01751 WAL-MART</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NC-RALEIGH-01751-WAL-MART/Pharmacy-Pre-Grad-Intern---WM_R-2486276'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-22-14-08-33'>🕐 Batch at 2026-04-22 14:08:33</h3>
 
@@ -177,7 +254,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-22-12-28-22'>🕐 Batch at 2026-04-22 12:28:22</h3>
 
 📊 **Total jobs in this batch: 25**
@@ -388,8 +464,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-22-10-14-15'>🕐 Batch at 2026-04-22 10:14:15</h3>
+---<h3 id='batch-2026-04-22-10-14-15'>🕐 Batch at 2026-04-22 10:14:15</h3>
 
 📊 **Total jobs in this batch: 15**
 
