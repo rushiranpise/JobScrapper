@@ -4,10 +4,179 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-22 14:08:33](#batch-2026-04-22-14-08-33)
 - [Batch at 2026-04-22 12:28:22](#batch-2026-04-22-12-28-22)
 - [Batch at 2026-04-22 10:14:15](#batch-2026-04-22-10-14-15)
 - [Batch at 2026-04-22 08:26:52](#batch-2026-04-22-08-26-52)
-- [Batch at 2026-04-22 06:59:14](#batch-2026-04-22-06-59-14)
+
+<h3 id='batch-2026-04-22-14-08-33'>🕐 Batch at 2026-04-22 14:08:33</h3>
+
+📊 **Total jobs in this batch: 19**
+
+**Per company:**
+- Addepar: 1 job
+- ALTEN Technology USA: 2 jobs
+- Archer 56: 1 job
+- Applied Materials: 1 job
+- BAH: 4 jobs
+- Comcast : 1 job
+- Datadog: 1 job
+- General Motors LLC: 1 job
+- NVIDIA: 1 job
+- Pinterest: 2 jobs
+- Salesforce: 1 job
+- spacex: 1 job
+- Wyetech LLC: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Addepar</b></td>
+      <td>New York, NY</td>
+      <td>Portfolio Data Operations Analyst</td>
+      <td><a href='https://job-boards.greenhouse.io/addepar1/jobs/8512792002'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Auburn Hills, Michigan, United States</td>
+      <td>EE Architecture Application Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5116029007'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Auburn Hills, Michigan, United States</td>
+      <td>EE Architecture Domain Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5116001007'>Apply</a></td>
+      <td>Apr 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Archer 56</b></td>
+      <td>San Jose, California, United States</td>
+      <td>Frontend Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/archer56/jobs/7501304003'>Apply</a></td>
+      <td>Oct 21, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Material/Coordinator Handler IV</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Material-Coordinator-Handler-IV_R2618063'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Charlottesville, VA</td>
+      <td>Cloud Infrastructure Support Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/Cloud-Infrastructure-Support-Engineer_R0238450'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Alexandria, VA</td>
+      <td>Data Platform Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Platform-Engineer_R0238430'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Access and Data Tagging Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Access-and-Data-Tagging-Specialist_R0238426'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Database Administrator</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Database-Administrator_R0238423'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1800 Arch St</td>
+      <td>Engineer, AI/ML Operations</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer--AI-ML-Operations_R432030'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Datadog</b></td>
+      <td>New York, New York, USA</td>
+      <td>AI Governance Analyst 1</td>
+      <td><a href='https://careers.datadoghq.com/detail/7843744/?gh_jid=7843744'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Software Developer - Lab Systems Integration</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Developer---Lab-Systems-Integration_JR-202608927'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>System Software Engineer - Tegra</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Tegra_JR2007081'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pinterest</b></td>
+      <td>San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US</td>
+      <td>Master's Fall Machine Learning Internship (ATG - Visual Search)</td>
+      <td><a href='https://www.pinterestcareers.com/jobs/?gh_jid=7253017'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Pinterest</b></td>
+      <td>San Francisco, CA, US; Seattle, WA, US</td>
+      <td>Software Engineer II, Backend</td>
+      <td><a href='https://www.pinterestcareers.com/jobs/?gh_jid=4813946'>Apply</a></td>
+      <td>Jan 31, 2023</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Summer 2026 Intern - ES Product Management, Digital Experience and Research</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---ES-Product-Management--Digital-Experience-and-Research_JR339395-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>RF Software Engineer (Starshield)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8517637002?gh_jid=8517637002'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 2 (copy)</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/17194210-ea80-4cd1-89ae-2db6f9fe1dcd'>Apply</a></td>
+      <td>2026-04-22 19:59:31</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Systems and Infrastructure Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Systems-and-Infrastructure-Engineer-III_R-2470421'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-22-12-28-22'>🕐 Batch at 2026-04-22 12:28:22</h3>
 
@@ -220,7 +389,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-22-10-14-15'>🕐 Batch at 2026-04-22 10:14:15</h3>
 
 📊 **Total jobs in this batch: 15**
@@ -358,8 +526,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-22-08-26-52'>🕐 Batch at 2026-04-22 08:26:52</h3>
+---<h3 id='batch-2026-04-22-08-26-52'>🕐 Batch at 2026-04-22 08:26:52</h3>
 
 📊 **Total jobs in this batch: 25**
 
