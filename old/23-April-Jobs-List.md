@@ -4,7 +4,38 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-23 03:30:10](#batch-2026-04-23-03-30-10)
 - [Batch at 2026-04-23 01:09:17](#batch-2026-04-23-01-09-17)
+
+<h3 id='batch-2026-04-23-03-30-10'>🕐 Batch at 2026-04-23 03:30:10</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>SOFTWARE ENGINEER III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/SOFTWARE-ENGINEER-III_R-2392087-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-23-01-09-17'>🕐 Batch at 2026-04-23 01:09:17</h3>
 
@@ -86,4 +117,3 @@
 <table>
 
 ---
-

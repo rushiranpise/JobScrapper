@@ -1,9 +1,2 @@
-company,title,location,link,postedOn
-Datamaxis,Azure Data Engineer,"Pune, IN",https://datamaxis.breezy.hr/p/b79434d5c24b-azure-data-engineer,2026-04-23T07:35:32.408Z
-GE Healthcare,Software Engineer,Haifa HEALTHCARE HA IL 2,https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/Software-Engineer_R4040206-1,Posted Today
-Walmart,Software Engineer III,IN KA BANGALORE Home Office PTPP1,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Software-Engineer-III_R-2465912,Posted Today
-Walmart,SOFTWARE ENGINEER III,IN KA BANGALORE Home Office Building 10,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/SOFTWARE-ENGINEER-III_R-2480487,Posted Today
-Walmart,Software Engineer III,IN KA BANGALORE Home Office PTPP1,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Software-Engineer-III_R-2465933,Posted Today
-Walmart,Software Engineer III,IN KA BANGALORE Home Office Building 10,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/Software-Engineer-III_R-2447815-1,Posted Today
-Walmart,Software Engineer III,IN KA BANGALORE Home Office PTPP1,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Software-Engineer-III_R-2467101,Posted Today
-Walmart,Software Engineer III,IN KA BANGALORE Home Office PTPP1,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Software-Engineer-III_R-2473056,Posted Today
+company,title,location,postedOn,link
+Walmart,SOFTWARE ENGINEER III,IN KA BANGALORE Home Office PTPP1,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/SOFTWARE-ENGINEER-III_R-2392087-1
