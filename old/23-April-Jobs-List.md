@@ -4,10 +4,166 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-23 14:59:18](#batch-2026-04-23-14-59-18)
 - [Batch at 2026-04-23 13:16:15](#batch-2026-04-23-13-16-15)
 - [Batch at 2026-04-23 11:16:54](#batch-2026-04-23-11-16-54)
 - [Batch at 2026-04-23 09:54:51](#batch-2026-04-23-09-54-51)
-- [Batch at 2026-04-23 07:15:46](#batch-2026-04-23-07-15-46)
+
+<h3 id='batch-2026-04-23-14-59-18'>🕐 Batch at 2026-04-23 14:59:18</h3>
+
+📊 **Total jobs in this batch: 18**
+
+**Per company:**
+- Applied Intuition: 1 job
+- BAH: 2 jobs
+- Citi: 2 jobs
+- Flexport: 2 jobs
+- Otis: 1 job
+- The Walt Disney Company: 1 job
+- Veeva Systems: 3 jobs
+- Walmart: 6 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Intuition</b></td>
+      <td>Mountain View, California, United States</td>
+      <td>Software Engineer - Performance Optimization</td>
+      <td><a href='https://boards.greenhouse.io/appliedintuition/jobs/4608108005?gh_jid=4608108005'>Apply</a></td>
+      <td>Sep 11, 2025</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Ivalua Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Ivalua-Developer_R0238559'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>DevOps Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-Engineer--Mid_R0238557'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex Analista junior de estrategia comercial - BEI</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-junior-de-estrategia-comercial---BEI_26955197'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex Analista junior de estrategia comercial- BEI</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-junior-de-estrategia-comercial--BEI_26955199'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Flexport</b></td>
+      <td>San Francisco, California, United States</td>
+      <td>Software Engineer I</td>
+      <td><a href='https://boards.greenhouse.io/flexport/jobs/7839298?gh_jid=7839298'>Apply</a></td>
+      <td>Apr 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Flexport</b></td>
+      <td>San Francisco, California, United States</td>
+      <td> Software Engineer II</td>
+      <td><a href='https://boards.greenhouse.io/flexport/jobs/7839346?gh_jid=7839346'>Apply</a></td>
+      <td>Apr 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Otis</b></td>
+      <td>OT541: TFP - Florence, SC 1500 Otis Way, Florence, SC, 29501 USA</td>
+      <td>Material Handler (3rd Shift)</td>
+      <td><a href='https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT541-TFP---Florence-SC-1500-Otis-Way-Florence-SC-29501-USA/Material-Handler--3rd-Shift-_20158131'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Orlando, FL, USA</td>
+      <td>Software Engineer-AI</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Software-Engineer-AI_10134165'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Veeva Systems</b></td>
+      <td>Illinois - Chicago</td>
+      <td>Full Stack Web Developer</td>
+      <td><a href='https://jobs.lever.co/veeva/055e479c-7649-4fdd-a467-f4077e43c4ef'>Apply</a></td>
+      <td>2026-04-23 18:40:49</td>
+    </tr>
+    <tr>
+      <td><b>Veeva Systems</b></td>
+      <td>Massachusetts - Boston</td>
+      <td>Full Stack Web Developer</td>
+      <td><a href='https://jobs.lever.co/veeva/16c682d2-0cdc-4a0f-9561-d84471e3dea1'>Apply</a></td>
+      <td>2026-04-23 18:49:36</td>
+    </tr>
+    <tr>
+      <td><b>Veeva Systems</b></td>
+      <td>New York - New York City</td>
+      <td>Full Stack Web Developer</td>
+      <td><a href='https://jobs.lever.co/veeva/d16a873a-967c-473c-85ed-43c174faf54b'>Apply</a></td>
+      <td>2026-04-23 18:46:06</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Software-Engineer-III_R-2488987'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) UT SALT LAKE CITY 03589 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-UT-SALT-LAKE-CITY-03589-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2487894'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Sunnyvale, CA</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-III_R-2403728-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Hula Building Bentonville AR Home Office</td>
+      <td>Associate Merchant - Spray Paint / Interior Stains</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Hula-Building-Bentonville-AR-Home-Office/Associate-Merchant---Spray-Paint---Interior-Stains_R-2420919'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Saint-Eustache, QC</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Saint-Eustache-QC/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2488563'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Dilworth, MN</td>
+      <td>(USA) Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Dilworth-MN/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM_R-2488512'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-23-13-16-15'>🕐 Batch at 2026-04-23 13:16:15</h3>
 
@@ -166,7 +322,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-23-11-16-54'>🕐 Batch at 2026-04-23 11:16:54</h3>
 
 📊 **Total jobs in this batch: 22**
@@ -349,8 +504,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-23-09-54-51'>🕐 Batch at 2026-04-23 09:54:51</h3>
+---<h3 id='batch-2026-04-23-09-54-51'>🕐 Batch at 2026-04-23 09:54:51</h3>
 
 📊 **Total jobs in this batch: 19**
 
