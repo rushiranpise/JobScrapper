@@ -4,10 +4,64 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-22 20:04:12](#batch-2026-04-22-20-04-12)
 - [Batch at 2026-04-22 17:04:00](#batch-2026-04-22-17-04-00)
 - [Batch at 2026-04-22 16:06:58](#batch-2026-04-22-16-06-58)
 - [Batch at 2026-04-22 15:07:34](#batch-2026-04-22-15-07-34)
-- [Batch at 2026-04-22 14:08:33](#batch-2026-04-22-14-08-33)
+
+<h3 id='batch-2026-04-22-20-04-12'>🕐 Batch at 2026-04-22 20:04:12</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- GE Healthcare: 1 job
+- genpt: 1 job
+- PlayStation Global: 1 job
+- SingleStore: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>GE Healthcare</b></td>
+      <td>AUS11-01-Brisbane-520 Wickham St</td>
+      <td>Ultrasound Applications Specialist CVUS - QLD</td>
+      <td><a href='https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/AUS11-01-Brisbane-520-Wickham-St/Ultrasound-Applications-Specialist-CVUS---QLD_R4040029'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Rowville, Victoria, Australia</td>
+      <td>Data Product Owner Merchandise Catalogue </td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Rowville-Victoria-Australia/Data-Product-Owner-Merchandise-Catalogue-_R25_0000027652'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Mateo, CA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5978926004'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SingleStore</b></td>
+      <td>United States</td>
+      <td>Software Engineer </td>
+      <td><a href='https://job-boards.greenhouse.io/singlestore/jobs/7118095'>Apply</a></td>
+      <td>Sep 19, 2025</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-22-17-04-00'>🕐 Batch at 2026-04-22 17:04:00</h3>
 
@@ -46,7 +100,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-22-16-06-58'>🕐 Batch at 2026-04-22 16:06:58</h3>
 
 📊 **Total jobs in this batch: 5**
@@ -105,8 +158,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-22-15-07-34'>🕐 Batch at 2026-04-22 15:07:34</h3>
+---<h3 id='batch-2026-04-22-15-07-34'>🕐 Batch at 2026-04-22 15:07:34</h3>
 
 📊 **Total jobs in this batch: 7**
 
