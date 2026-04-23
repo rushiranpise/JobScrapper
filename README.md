@@ -4,10 +4,194 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-23 11:16:54](#batch-2026-04-23-11-16-54)
 - [Batch at 2026-04-23 09:54:51](#batch-2026-04-23-09-54-51)
 - [Batch at 2026-04-23 07:15:46](#batch-2026-04-23-07-15-46)
 - [Batch at 2026-04-23 03:30:10](#batch-2026-04-23-03-30-10)
-- [Batch at 2026-04-23 01:09:17](#batch-2026-04-23-01-09-17)
+
+<h3 id='batch-2026-04-23-11-16-54'>🕐 Batch at 2026-04-23 11:16:54</h3>
+
+📊 **Total jobs in this batch: 22**
+
+**Per company:**
+- BAH: 2 jobs
+- Citi: 1 job
+- Comcast : 1 job
+- Formlabs: 1 job
+- MOOG: 1 job
+- terex: 1 job
+- Zipline: 13 jobs
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>AI and ML Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/AI-and-ML-Software-Engineer_R0238514'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Power Platform Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Power-Platform-Developer_R0238483'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Irving Texas United States</td>
+      <td>Java Backend Developer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Java-Backend-Developer_26953830'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>CA - Irvine, 5300 California Ave., 4th floor</td>
+      <td>Jr Software Engineer-Xumo (onsite Irvine, CA)</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/CA---Irvine-5300-California-Ave-4thfloor/Jr-Software-Engineer-Xumo--onsite-Irvine--CA-_R435605'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Paid Advertising Intern (Summer 2026)</td>
+      <td><a href='https://careers.formlabs.com/job/7847589/apply/?gh_jid=7847589'>Apply</a></td>
+      <td>Apr 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Artificial Intelligence</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-26-17396-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>USA, WI, Waukesha</td>
+      <td>Automotive Painter **$3K Sign-on Bonus**</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/USA-WI-Waukesha/Automotive-Painter----3K-Sign-on-Bonus--_REQ-11739'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Autonomy Perception CV/ML SWE</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=4359084003'>Apply</a></td>
+      <td>Feb 09, 2021</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Autonomy Platform Software Engineer</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7516682003'>Apply</a></td>
+      <td>Dec 12, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Autonomy Software Engineer</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=6570283003'>Apply</a></td>
+      <td>May 20, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Autonomy Software Engineer, Validation Tools</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7711584003'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Data Analyst</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7610295003'>Apply</a></td>
+      <td>Jan 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Digital Experiences Intern (New Grad - Summer 2026)</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7692662003'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Electrical Engineering Intern (Summer 2026)</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7549505003'>Apply</a></td>
+      <td>Dec 12, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Fullstack - Data Platform (Autonomy) </td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7607673003'>Apply</a></td>
+      <td>Jan 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Hardware Technician – Autonomy Data Systems</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7703718003'>Apply</a></td>
+      <td>Apr 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Join Our Fall 2026 Internships Mailing List!</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7603255003'>Apply</a></td>
+      <td>Feb 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Motor Control Firmware Intern (Summer 2026)</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7549489003'>Apply</a></td>
+      <td>Dec 12, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Software Engineer - Systems Validation</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7564211003'>Apply</a></td>
+      <td>Dec 16, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Supplier Industrialization Engineering Intern (Summer 2026)</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7549483003'>Apply</a></td>
+      <td>Dec 12, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2473142'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) ISD Office - DGTC AR BENTONVILLE Home Office</td>
+      <td>(USA) Systems and Infrastructure Engineer II</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Systems-and-Infrastructure-Engineer-II_R-2469818-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-23-09-54-51'>🕐 Batch at 2026-04-23 09:54:51</h3>
 
@@ -173,7 +357,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-23-07-15-46'>🕐 Batch at 2026-04-23 07:15:46</h3>
 
 📊 **Total jobs in this batch: 10**
@@ -272,8 +455,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-23-03-30-10'>🕐 Batch at 2026-04-23 03:30:10</h3>
+---<h3 id='batch-2026-04-23-03-30-10'>🕐 Batch at 2026-04-23 03:30:10</h3>
 
 📊 **Total jobs in this batch: 1**
 
