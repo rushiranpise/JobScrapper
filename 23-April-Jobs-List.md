@@ -4,9 +4,175 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-23 09:54:51](#batch-2026-04-23-09-54-51)
 - [Batch at 2026-04-23 07:15:46](#batch-2026-04-23-07-15-46)
 - [Batch at 2026-04-23 03:30:10](#batch-2026-04-23-03-30-10)
 - [Batch at 2026-04-23 01:09:17](#batch-2026-04-23-01-09-17)
+
+<h3 id='batch-2026-04-23-09-54-51'>🕐 Batch at 2026-04-23 09:54:51</h3>
+
+📊 **Total jobs in this batch: 19**
+
+**Per company:**
+- BAH: 4 jobs
+- Citi: 3 jobs
+- Dematic Corp. (ILD-US): 1 job
+- General Motors LLC: 1 job
+- MKSCareersUniversity: 2 jobs
+- nVent: 1 job
+- NVIDIA: 1 job
+- Pinterest: 1 job
+- Xometry: 3 jobs
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Information Systems Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Information-Systems-Intern_R0238499'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Power Platform Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Power-Platform-Developer_R0238477'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Annapolis Junction, MD</td>
+      <td>Agentic AI Machine Learning Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Agentic-AI-Machine-Learning-Engineer_R0238480'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Cloud DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cloud-DevOps-Engineer_R0238317'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex Analista KYC AML de cumplimiento - BSU</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-KYC-AML-de-cumplimiento---BSU_26953025'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX- Encargado de Administración de garantías - Middle Office AFORE</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--AVP-Collateral-Management---Middle-Office-AFORE_26955184'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex Analista KYC AML de cumplimiento - BSU</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-KYC-AML-de-cumplimiento---BSU_26954762'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Dematic Corp. (ILD-US)</b></td>
+      <td>Wauwatosa, WI, United States</td>
+      <td>AI Internships</td>
+      <td><a href='https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Wauwatosa-WI-United-States/AI-Internships_JR-0088855-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Software Development Integration Laboratory - Operations Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Development-Integration-Laboratory---Operations-Engineer_JR-202607772'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MKSCareersUniversity</b></td>
+      <td>Belarus Minsk</td>
+      <td>SW PLC Engineer (Intern/Student)</td>
+      <td><a href='https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Belarus-Minsk/SW-PLC-Engineer--Intern-Student-_R18602'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MKSCareersUniversity</b></td>
+      <td>Belarus Minsk</td>
+      <td>C# Developer (Intern/Student)</td>
+      <td><a href='https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Belarus-Minsk/C--Developer--Intern-Student-_R18604'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Oshkosh, WI, US</td>
+      <td>Painter</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Oshkosh-WI-US/Painter_R21551'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Software QA Engineer- New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-QA-Engineer--New-College-Grad-2026_JR2016688'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pinterest</b></td>
+      <td>Toronto, ON, CA</td>
+      <td>Software Engineer II, Backend</td>
+      <td><a href='https://www.pinterestcareers.com/jobs/?gh_jid=5132899'>Apply</a></td>
+      <td>Aug 22, 2024</td>
+    </tr>
+    <tr>
+      <td><b>Xometry</b></td>
+      <td>Lexington, KY</td>
+      <td>Logistics Coordinator, International Freight</td>
+      <td><a href='https://job-boards.greenhouse.io/xometry/jobs/5118899007'>Apply</a></td>
+      <td>Apr 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Xometry</b></td>
+      <td>Waltham, MA </td>
+      <td>Logistics Coordinator, International Freight</td>
+      <td><a href='https://job-boards.greenhouse.io/xometry/jobs/5118900007'>Apply</a></td>
+      <td>Apr 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Xometry</b></td>
+      <td>Denver, CO</td>
+      <td>Logistics Coordinator, International Freight</td>
+      <td><a href='https://job-boards.greenhouse.io/xometry/jobs/5118901007'>Apply</a></td>
+      <td>Apr 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>(USA) Systems and Infrastructure Engineer II</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Systems-and-Infrastructure-Engineer-II_R-2470839'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>(USA) Systems and Infrastructure Engineer II</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Systems-and-Infrastructure-Engineer-II_R-2470803'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-23-07-15-46'>🕐 Batch at 2026-04-23 07:15:46</h3>
 
@@ -107,7 +273,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-23-03-30-10'>🕐 Batch at 2026-04-23 03:30:10</h3>
 
 📊 **Total jobs in this batch: 1**
@@ -136,8 +301,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-23-01-09-17'>🕐 Batch at 2026-04-23 01:09:17</h3>
+---<h3 id='batch-2026-04-23-01-09-17'>🕐 Batch at 2026-04-23 01:09:17</h3>
 
 📊 **Total jobs in this batch: 8**
 

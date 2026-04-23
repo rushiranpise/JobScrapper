@@ -1,11 +1,20 @@
-company,title,location,link,postedOn,updatedOn
-Airbnb,"Software Engineer, Guest & Host ","Remote, USA ",https://careers.airbnb.com/positions/7579462?gh_jid=7579462,2026-02-04T14:36:09-05:00,2026-04-23T09:16:26-04:00
-Applied Materials,"2026 Summer Process Engineer Intern - Doctorate (Albany, NY)","Albany,NY",https://amat.wd1.myworkdayjobs.com/en-US/External/job/AlbanyNY/XMLNAME-2026-Summer-Process-Engineer-Intern---Doctorate--Albany--NY-_R2617491,Posted Today,
-Hudson River Trading,Junior Trading Systems Engineer,"Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States",https://www.hudsonrivertrading.com/careers/job/?gh_jid=7846663,2026-04-23T09:38:59-04:00,2026-04-23T09:38:59-04:00
-Morgan Stanley,Full Stack React / Java Developer,"Alpharetta, Georgia, United States of America",https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-Georgia-United-States-of-America/Full-Stack-React---Java-Developer_PT-JR031657,Posted Today,
-nVent,"R&D Engineer, Software","Bangalore, IN",https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Bangalore-IN/R-D-Engineer--Software_R21347,Posted Today,
-nVent,"R&D Engineer, Software","Bangalore, IN",https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Bangalore-IN/R-D-Engineer--Software_R21047,Posted Today,
-SharkNinja,Data Platform Administrator,United States - Remote,https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4673527006,2026-04-23T10:07:45-04:00,2026-04-23T10:08:04-04:00
-Snowflake,Product Growth Specialist - Data Engineering,US-VA-Remote,https://jobs.ashbyhq.com/snowflake/9ac203c7-76aa-493e-a629-0785cea5ed83,2026-04-23T12:29:16.190+00:00,
-Walmart,Software Engineer III,IN KA BANGALORE Home Office PTPP2,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP2/Software-Engineer-III_R-2388302,Posted Today,
-Walmart,Software Engineer III,IN KA BANGALORE Home Office PTPP1,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Software-Engineer-III_R-2473915,Posted Today,
+company,title,location,postedOn,link,updatedOn
+BAH,Information Systems Intern,"McLean, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Information-Systems-Intern_R0238499,
+BAH,Power Platform Developer,"Arlington, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Power-Platform-Developer_R0238477,
+BAH,Agentic AI Machine Learning Engineer,"Annapolis Junction, MD",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Agentic-AI-Machine-Learning-Engineer_R0238480,
+BAH,Cloud DevOps Engineer,"McLean, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cloud-DevOps-Engineer_R0238317,
+Citi,Banamex Analista KYC AML de cumplimiento - BSU,Ciudad De Mexico Distrito Federal Mexico,Posted Today,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-KYC-AML-de-cumplimiento---BSU_26953025,
+Citi,BANAMEX- Encargado de Administración de garantías - Middle Office AFORE,Ciudad De Mexico Distrito Federal Mexico,Posted Today,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--AVP-Collateral-Management---Middle-Office-AFORE_26955184,
+Citi,Banamex Analista KYC AML de cumplimiento - BSU,Ciudad De Mexico Distrito Federal Mexico,Posted Today,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-KYC-AML-de-cumplimiento---BSU_26954762,
+Dematic Corp. (ILD-US),AI Internships,"Wauwatosa, WI, United States",Posted Today,https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Wauwatosa-WI-United-States/AI-Internships_JR-0088855-1,
+General Motors LLC,Software Development Integration Laboratory - Operations Engineer,"Warren, Michigan, United States of America",Posted Today,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Development-Integration-Laboratory---Operations-Engineer_JR-202607772,
+MKSCareersUniversity,SW PLC Engineer (Intern/Student),Belarus Minsk,Posted Today,https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Belarus-Minsk/SW-PLC-Engineer--Intern-Student-_R18602,
+MKSCareersUniversity,C# Developer (Intern/Student),Belarus Minsk,Posted Today,https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Belarus-Minsk/C--Developer--Intern-Student-_R18604,
+nVent,Painter,"Oshkosh, WI, US",Posted Today,https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Oshkosh-WI-US/Painter_R21551,
+NVIDIA,Software QA Engineer- New College Grad 2026,"US, CA, Santa Clara",Posted Today,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-QA-Engineer--New-College-Grad-2026_JR2016688,
+Pinterest,"Software Engineer II, Backend","Toronto, ON, CA",2024-08-22T15:10:20-04:00,https://www.pinterestcareers.com/jobs/?gh_jid=5132899,2026-04-23T11:35:40-04:00
+Xometry,"Logistics Coordinator, International Freight","Lexington, KY",2026-04-23T12:09:47-04:00,https://job-boards.greenhouse.io/xometry/jobs/5118899007,2026-04-23T12:09:47-04:00
+Xometry,"Logistics Coordinator, International Freight","Waltham, MA ",2026-04-23T12:10:11-04:00,https://job-boards.greenhouse.io/xometry/jobs/5118900007,2026-04-23T12:10:11-04:00
+Xometry,"Logistics Coordinator, International Freight","Denver, CO",2026-04-23T12:10:39-04:00,https://job-boards.greenhouse.io/xometry/jobs/5118901007,2026-04-23T12:10:39-04:00
+Walmart,(USA) Systems and Infrastructure Engineer II,"Bentonville, AR",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Systems-and-Infrastructure-Engineer-II_R-2470839,
+Walmart,(USA) Systems and Infrastructure Engineer II,"Bentonville, AR",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Systems-and-Infrastructure-Engineer-II_R-2470803,
