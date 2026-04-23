@@ -1,19 +1,7 @@
-company,title,location,link,postedOn,updatedOn
-Applied Intuition,Software Engineer - Performance Optimization,"Mountain View, California, United States",https://boards.greenhouse.io/appliedintuition/jobs/4608108005?gh_jid=4608108005,2025-09-11T15:30:46-04:00,2026-04-23T16:44:00-04:00
-BAH,Ivalua Developer,"McLean, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Ivalua-Developer_R0238559,Posted Today,
-BAH,"DevOps Engineer, Mid","McLean, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-Engineer--Mid_R0238557,Posted Today,
-Citi,Banamex Analista junior de estrategia comercial - BEI,Ciudad De Mexico Distrito Federal Mexico,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-junior-de-estrategia-comercial---BEI_26955197,Posted Today,
-Citi,Banamex Analista junior de estrategia comercial- BEI,Ciudad De Mexico Distrito Federal Mexico,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-junior-de-estrategia-comercial--BEI_26955199,Posted Today,
-Flexport,Software Engineer I,"San Francisco, California, United States",https://boards.greenhouse.io/flexport/jobs/7839298?gh_jid=7839298,2026-04-23T16:41:38-04:00,2026-04-23T16:41:38-04:00
-Flexport, Software Engineer II,"San Francisco, California, United States",https://boards.greenhouse.io/flexport/jobs/7839346?gh_jid=7839346,2026-04-23T16:41:28-04:00,2026-04-23T16:41:28-04:00
-Otis,Material Handler (3rd Shift),"OT541: TFP - Florence, SC 1500 Otis Way, Florence, SC, 29501 USA",https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT541-TFP---Florence-SC-1500-Otis-Way-Florence-SC-29501-USA/Material-Handler--3rd-Shift-_20158131,Posted Today,
-The Walt Disney Company,Software Engineer-AI,"Orlando, FL, USA",https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Software-Engineer-AI_10134165,Posted Today,
-Veeva Systems,Full Stack Web Developer,Illinois - Chicago,https://jobs.lever.co/veeva/055e479c-7649-4fdd-a467-f4077e43c4ef,2026-04-23 18:40:49,N/A
-Veeva Systems,Full Stack Web Developer,Massachusetts - Boston,https://jobs.lever.co/veeva/16c682d2-0cdc-4a0f-9561-d84471e3dea1,2026-04-23 18:49:36,N/A
-Veeva Systems,Full Stack Web Developer,New York - New York City,https://jobs.lever.co/veeva/d16a873a-967c-473c-85ed-43c174faf54b,2026-04-23 18:46:06,N/A
-Walmart,(USA) Software Engineer III,"Bentonville, AR",https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Software-Engineer-III_R-2488987,Posted Today,
-Walmart,Pharmacy Grad Intern (Hrly),(USA) UT SALT LAKE CITY 03589 WM SUPERCENTER,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-UT-SALT-LAKE-CITY-03589-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2487894,Posted Today,
-Walmart,Software Engineer III,"Sunnyvale, CA",https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-III_R-2403728-1,Posted Today,
-Walmart,Associate Merchant - Spray Paint / Interior Stains,(USA) Hula Building Bentonville AR Home Office,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Hula-Building-Bentonville-AR-Home-Office/Associate-Merchant---Spray-Paint---Interior-Stains_R-2420919,Posted Today,
-Walmart,(CAN) Préposé au traitement des commandes OMNI,"Saint-Eustache, QC",https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Saint-Eustache-QC/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2488563,Posted Today,
-Walmart,(USA) Pharmacy Pre-Grad Intern - WM,"Dilworth, MN",https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Dilworth-MN/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM_R-2488512,Posted Today,
+company,title,location,postedOn,link
+BAH,Data Analyst,"Camp Lejeune, NC",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Lejeune-NC/Data-Analyst_R0238468-1
+BAH,AI/ML Software Development Engineer,"Washington, DC",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Software-Development-Engineer--Senior_R0238303
+MOOG,Associate Software Engineer,"Santa Barbara, CA",Posted Today,https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Santa-Barbara-CA/Embedded-Software-Engineer_R-26-17229
+STANDARD & POOR'S FINANCIAL SERVICE,Corporate Platforms Engage Intern,PK - ISLAMABAD 101 W AL KHAIR PLAZA,Posted Today,https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/PK---ISLAMABAD-101-W-AL-KHAIR-PLAZA/Corporate-Platforms-Engage-Intern_326235-1
+Walmart,(USA) Coach/Ops Mgr Trainee,"Rincon, GA",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Rincon-GA/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2460193-2
+Walmart,Front End Coach,"Hardeeville, SC",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Hardeeville-SC/Front-End-Coach_R-2472960-2

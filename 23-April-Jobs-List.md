@@ -4,10 +4,78 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-23 15:59:25](#batch-2026-04-23-15-59-25)
 - [Batch at 2026-04-23 14:59:18](#batch-2026-04-23-14-59-18)
 - [Batch at 2026-04-23 13:16:15](#batch-2026-04-23-13-16-15)
 - [Batch at 2026-04-23 11:16:54](#batch-2026-04-23-11-16-54)
-- [Batch at 2026-04-23 09:54:51](#batch-2026-04-23-09-54-51)
+
+<h3 id='batch-2026-04-23-15-59-25'>🕐 Batch at 2026-04-23 15:59:25</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- BAH: 2 jobs
+- MOOG: 1 job
+- STANDARD & POOR'S FINANCIAL SERVICE: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Camp Lejeune, NC</td>
+      <td>Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Lejeune-NC/Data-Analyst_R0238468-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>AI/ML Software Development Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Software-Development-Engineer--Senior_R0238303'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Santa Barbara, CA</td>
+      <td>Associate Software Engineer</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Santa-Barbara-CA/Embedded-Software-Engineer_R-26-17229'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>STANDARD & POOR'S FINANCIAL SERVICE</b></td>
+      <td>PK - ISLAMABAD 101 W AL KHAIR PLAZA</td>
+      <td>Corporate Platforms Engage Intern</td>
+      <td><a href='https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/PK---ISLAMABAD-101-W-AL-KHAIR-PLAZA/Corporate-Platforms-Engage-Intern_326235-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Rincon, GA</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Rincon-GA/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2460193-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Hardeeville, SC</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Hardeeville-SC/Front-End-Coach_R-2472960-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-23-14-59-18'>🕐 Batch at 2026-04-23 14:59:18</h3>
 
@@ -164,7 +232,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-23-13-16-15'>🕐 Batch at 2026-04-23 13:16:15</h3>
 
 📊 **Total jobs in this batch: 18**
@@ -321,8 +388,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-23-11-16-54'>🕐 Batch at 2026-04-23 11:16:54</h3>
+---<h3 id='batch-2026-04-23-11-16-54'>🕐 Batch at 2026-04-23 11:16:54</h3>
 
 📊 **Total jobs in this batch: 22**
 
