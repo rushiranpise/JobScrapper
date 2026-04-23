@@ -4,10 +4,48 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-23 16:59:41](#batch-2026-04-23-16-59-41)
 - [Batch at 2026-04-23 15:59:25](#batch-2026-04-23-15-59-25)
 - [Batch at 2026-04-23 14:59:18](#batch-2026-04-23-14-59-18)
 - [Batch at 2026-04-23 13:16:15](#batch-2026-04-23-13-16-15)
-- [Batch at 2026-04-23 11:16:54](#batch-2026-04-23-11-16-54)
+
+<h3 id='batch-2026-04-23-16-59-41'>🕐 Batch at 2026-04-23 16:59:41</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- Verkada : 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Verkada </b></td>
+      <td>San Mateo, CA United States</td>
+      <td>Channel Enablement Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/verkada/jobs/5113156007'>Apply</a></td>
+      <td>Apr 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Hardeeville, SC</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Hardeeville-SC/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2453424-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-23-15-59-25'>🕐 Batch at 2026-04-23 15:59:25</h3>
 
@@ -76,7 +114,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-23-14-59-18'>🕐 Batch at 2026-04-23 14:59:18</h3>
 
 📊 **Total jobs in this batch: 18**
@@ -231,8 +268,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-23-13-16-15'>🕐 Batch at 2026-04-23 13:16:15</h3>
+---<h3 id='batch-2026-04-23-13-16-15'>🕐 Batch at 2026-04-23 13:16:15</h3>
 
 📊 **Total jobs in this batch: 18**
 

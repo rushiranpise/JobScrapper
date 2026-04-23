@@ -1,7 +1,3 @@
-company,title,location,postedOn,link
-BAH,Data Analyst,"Camp Lejeune, NC",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Lejeune-NC/Data-Analyst_R0238468-1
-BAH,AI/ML Software Development Engineer,"Washington, DC",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Software-Development-Engineer--Senior_R0238303
-MOOG,Associate Software Engineer,"Santa Barbara, CA",Posted Today,https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Santa-Barbara-CA/Embedded-Software-Engineer_R-26-17229
-STANDARD & POOR'S FINANCIAL SERVICE,Corporate Platforms Engage Intern,PK - ISLAMABAD 101 W AL KHAIR PLAZA,Posted Today,https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/PK---ISLAMABAD-101-W-AL-KHAIR-PLAZA/Corporate-Platforms-Engage-Intern_326235-1
-Walmart,(USA) Coach/Ops Mgr Trainee,"Rincon, GA",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Rincon-GA/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2460193-2
-Walmart,Front End Coach,"Hardeeville, SC",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Hardeeville-SC/Front-End-Coach_R-2472960-2
+company,title,location,link,postedOn,updatedOn
+Verkada ,Channel Enablement Intern,"San Mateo, CA United States",https://job-boards.greenhouse.io/verkada/jobs/5113156007,2026-04-23T19:35:35-04:00,2026-04-23T19:35:35-04:00
+Walmart,(USA) Coach/Ops Mgr Trainee,"Hardeeville, SC",https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Hardeeville-SC/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2453424-2,Posted Today,
