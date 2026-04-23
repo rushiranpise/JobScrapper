@@ -4,10 +4,168 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-23 13:16:15](#batch-2026-04-23-13-16-15)
 - [Batch at 2026-04-23 11:16:54](#batch-2026-04-23-11-16-54)
 - [Batch at 2026-04-23 09:54:51](#batch-2026-04-23-09-54-51)
 - [Batch at 2026-04-23 07:15:46](#batch-2026-04-23-07-15-46)
-- [Batch at 2026-04-23 03:30:10](#batch-2026-04-23-03-30-10)
+
+<h3 id='batch-2026-04-23-13-16-15'>🕐 Batch at 2026-04-23 13:16:15</h3>
+
+📊 **Total jobs in this batch: 18**
+
+**Per company:**
+- Motorola Solutions, Inc: 2 jobs
+- Applied Materials: 1 job
+- BAH: 7 jobs
+- genpt: 1 job
+- NVIDIA: 1 job
+- Pinterest: 1 job
+- Snowflake: 1 job
+- The Walt Disney Company: 2 jobs
+- Veeva Systems: 1 job
+- visa: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Michigan, US Offsite</td>
+      <td>DevOps Private/Public Cloud Engineer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Michigan-US-Offsite/DevOps-Private-Public-Cloud-Engineer_R61766'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Schaumburg, IL</td>
+      <td>DevOps Private/Public Cloud Engineer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/DevOps-Private-Public-Cloud-Engineer_R62062'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Material Coordinator/Handler II</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Coordinator-Handler-II_R2611761'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Identity Governance and Administration Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Identity-Governance-and-Administration-Developer_R0238539'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Annapolis Junction, MD</td>
+      <td>Modeling, Simulation, and Physics Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Modeling--Simulation--and-Physics-Software-Engineer_R0238552'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Platform-DevOps-Engineer--Senior_R0236759'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Development-Engineer_R0238538'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer_R0238535'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Development-Engineer_R0238526'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Edgewood, MD</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Edgewood-MD/Data-Scientist_R0238506-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Rio Rancho, NM, USA</td>
+      <td>Store Counter Trainee</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Rio-Rancho-NM-USA/Store-Counter-Trainee_R26_0000013003-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>System Software Engineer - GPU</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GPU_JR2016824'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pinterest</b></td>
+      <td>San Francisco, CA, US; Remote, US</td>
+      <td>ML Platform Engineer, tvScientific</td>
+      <td><a href='https://www.pinterestcareers.com/jobs/?gh_jid=7782571'>Apply</a></td>
+      <td>Apr 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-NY-Remote</td>
+      <td>Data Engineering Solutions Specialist </td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/85ad455a-ecbc-45b3-bab3-76685251e136'>Apply</a></td>
+      <td>Apr 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Santa Monica, CA, USA</td>
+      <td>Data Engineer I</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Data-Engineer-I_10147074'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Santa Monica, CA, USA</td>
+      <td>Software Development Engineer in Test (SDET)</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Software-Development-Engineer-in-Test--SDET-_10146997'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Veeva Systems</b></td>
+      <td>Massachusetts - Boston</td>
+      <td>Junior Consumer Support Navigator (Part-Time)</td>
+      <td><a href='https://jobs.lever.co/veeva/254dc93b-b04a-4a0f-8d31-3cb3df16d48b'>Apply</a></td>
+      <td>2026-04-17 17:46:42</td>
+    </tr>
+    <tr>
+      <td><b>visa</b></td>
+      <td>Austin</td>
+      <td>Software Engineer</td>
+      <td><a href='https://www.smartrecruiters.com/visa/744000122534622'>Apply</a></td>
+      <td>Apr 23, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-23-11-16-54'>🕐 Batch at 2026-04-23 11:16:54</h3>
 
@@ -192,7 +350,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-23-09-54-51'>🕐 Batch at 2026-04-23 09:54:51</h3>
 
 📊 **Total jobs in this batch: 19**
@@ -356,8 +513,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-23-07-15-46'>🕐 Batch at 2026-04-23 07:15:46</h3>
+---<h3 id='batch-2026-04-23-07-15-46'>🕐 Batch at 2026-04-23 07:15:46</h3>
 
 📊 **Total jobs in this batch: 10**
 
