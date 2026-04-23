@@ -4,10 +4,140 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-22 22:43:23](#batch-2026-04-22-22-43-23)
 - [Batch at 2026-04-22 20:04:12](#batch-2026-04-22-20-04-12)
 - [Batch at 2026-04-22 17:04:00](#batch-2026-04-22-17-04-00)
 - [Batch at 2026-04-22 16:06:58](#batch-2026-04-22-16-06-58)
-- [Batch at 2026-04-22 15:07:34](#batch-2026-04-22-15-07-34)
+
+<h3 id='batch-2026-04-22-22-43-23'>🕐 Batch at 2026-04-22 22:43:23</h3>
+
+📊 **Total jobs in this batch: 15**
+
+**Per company:**
+- Workday: 1 job
+- Walmart: 1 job
+- Zipline: 13 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA, WA, Seattle</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-WA-Seattle/Software-Development-Engineer_JR-0104752'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>SOFTWARE ENGINEER III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/SOFTWARE-ENGINEER-III_R-2464723'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Autonomy Perception CV/ML SWE</td>
+      <td><a href='https://www.zipline.com/careers/open-roles?gh_jid=4359084003'>Apply</a></td>
+      <td>Feb 09, 2021</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Autonomy Platform Software Engineer</td>
+      <td><a href='https://www.zipline.com/careers/open-roles?gh_jid=7516682003'>Apply</a></td>
+      <td>Dec 12, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Autonomy Software Engineer</td>
+      <td><a href='https://www.zipline.com/careers/open-roles?gh_jid=6570283003'>Apply</a></td>
+      <td>May 20, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Autonomy Software Engineer, Validation Tools</td>
+      <td><a href='https://www.zipline.com/careers/open-roles?gh_jid=7711584003'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Data Analyst</td>
+      <td><a href='https://www.zipline.com/careers/open-roles?gh_jid=7610295003'>Apply</a></td>
+      <td>Jan 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Digital Experiences Intern (New Grad - Summer 2026)</td>
+      <td><a href='https://www.zipline.com/careers/open-roles?gh_jid=7692662003'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Electrical Engineering Intern (Summer 2026)</td>
+      <td><a href='https://www.zipline.com/careers/open-roles?gh_jid=7549505003'>Apply</a></td>
+      <td>Dec 12, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Fullstack - Data Platform (Autonomy) </td>
+      <td><a href='https://www.zipline.com/careers/open-roles?gh_jid=7607673003'>Apply</a></td>
+      <td>Jan 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Hardware Technician – Autonomy Data Systems</td>
+      <td><a href='https://www.zipline.com/careers/open-roles?gh_jid=7703718003'>Apply</a></td>
+      <td>Apr 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Join Our Fall 2026 Internships Mailing List!</td>
+      <td><a href='https://www.zipline.com/careers/open-roles?gh_jid=7603255003'>Apply</a></td>
+      <td>Feb 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Motor Control Firmware Intern (Summer 2026)</td>
+      <td><a href='https://www.zipline.com/careers/open-roles?gh_jid=7549489003'>Apply</a></td>
+      <td>Dec 12, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Software Engineer - Systems Validation</td>
+      <td><a href='https://www.zipline.com/careers/open-roles?gh_jid=7564211003'>Apply</a></td>
+      <td>Dec 16, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Supplier Industrialization Engineering Intern (Summer 2026)</td>
+      <td><a href='https://www.zipline.com/careers/open-roles?gh_jid=7549483003'>Apply</a></td>
+      <td>Dec 12, 2025</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-22-20-04-12'>🕐 Batch at 2026-04-22 20:04:12</h3>
 
@@ -62,7 +192,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-22-17-04-00'>🕐 Batch at 2026-04-22 17:04:00</h3>
 
 📊 **Total jobs in this batch: 2**
@@ -99,8 +228,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-22-16-06-58'>🕐 Batch at 2026-04-22 16:06:58</h3>
+---<h3 id='batch-2026-04-22-16-06-58'>🕐 Batch at 2026-04-22 16:06:58</h3>
 
 📊 **Total jobs in this batch: 5**
 

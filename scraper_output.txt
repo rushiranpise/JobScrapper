@@ -1,8 +1,8 @@
 
-✅ Scraped 4 new jobs. Output saved to 'output.csv'.
-📦 Appended 4 jobs to 'output_old.csv'
+✅ Scraped 15 new jobs. Output saved to 'output.csv'.
+📦 Appended 15 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"GE Healthcare","title":"Ultrasound Applications Specialist CVUS - QLD","location":"AUS11-01-Brisbane-520 Wickham St","link":"https:\/\/gehc.wd5.myworkdayjobs.com\/en-US\/GEHC_ExternalSite\/job\/AUS11-01-Brisbane-520-Wickham-St\/Ultrasound-Applications-Specialist-CVUS---QLD_R4040029","postedOn":"Posted Today","updatedOn":null},{"company":"genpt","title":"Data Product Owner Merchandise Catalogue\u00a0","location":"Rowville, Victoria, Australia","link":"https:\/\/genpt.wd1.myworkdayjobs.com\/en-US\/Careers\/job\/Rowville-Victoria-Australia\/Data-Product-Owner-Merchandise-Catalogue-_R25_0000027652","postedOn":"Posted Today","updatedOn":null},{"company":"PlayStation Global","title":"Software Engineer II","location":"United States, San Mateo, CA","link":"https:\/\/job-boards.greenhouse.io\/sonyinteractiveentertainmentglobal\/jobs\/5978926004","postedOn":"2026-04-22T20:04:58-04:00","updatedOn":"2026-04-22T20:04:58-04:00"},{"company":"SingleStore","title":"Software Engineer ","location":"United States","link":"https:\/\/job-boards.greenhouse.io\/singlestore\/jobs\/7118095","postedOn":"2025-09-19T09:55:38-04:00","updatedOn":"2026-04-22T21:01:05-04:00"}]
+[{"company":"Workday","title":"Software Development Engineer","location":"USA, WA, Seattle","link":"https:\/\/workday.wd5.myworkdayjobs.com\/en-US\/Workday\/job\/USA-WA-Seattle\/Software-Development-Engineer_JR-0104752","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"SOFTWARE ENGINEER III","location":"IN KA BANGALORE Home Office PTPP1","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/IN-KA-BANGALORE-Home-Office-PTPP1\/SOFTWARE-ENGINEER-III_R-2464723","postedOn":"Posted Today","updatedOn":null},{"company":"Zipline","title":"Autonomy Perception CV\/ML SWE","location":"South San Francisco, California, USA","link":"https:\/\/www.zipline.com\/careers\/open-roles?gh_jid=4359084003","postedOn":"2021-02-09T14:47:58-05:00","updatedOn":"2026-04-23T00:16:21-04:00"},{"company":"Zipline","title":"Autonomy Platform Software Engineer","location":"South San Francisco, California, USA","link":"https:\/\/www.zipline.com\/careers\/open-roles?gh_jid=7516682003","postedOn":"2025-12-12T19:20:23-05:00","updatedOn":"2026-04-23T00:16:21-04:00"},{"company":"Zipline","title":"Autonomy Software Engineer","location":"South San Francisco, California, USA","link":"https:\/\/www.zipline.com\/careers\/open-roles?gh_jid=6570283003","postedOn":"2025-05-20T00:01:24-04:00","updatedOn":"2026-04-23T00:16:21-04:00"},{"company":"Zipline","title":"Autonomy Software Engineer, Validation Tools","location":"South San Francisco, California, USA","link":"https:\/\/www.zipline.com\/careers\/open-roles?gh_jid=7711584003","postedOn":"2026-04-22T19:14:31-04:00","updatedOn":"2026-04-23T00:16:21-04:00"},{"company":"Zipline","title":"Data Analyst","location":"South San Francisco, California, USA","link":"https:\/\/www.zipline.com\/careers\/open-roles?gh_jid=7610295003","postedOn":"2026-01-30T19:10:12-05:00","updatedOn":"2026-04-23T00:16:21-04:00"},{"company":"Zipline","title":"Digital Experiences Intern (New Grad - Summer 2026)","location":"South San Francisco, California, USA","link":"https:\/\/www.zipline.com\/careers\/open-roles?gh_jid=7692662003","postedOn":"2026-04-07T16:01:45-04:00","updatedOn":"2026-04-23T00:16:21-04:00"},{"company":"Zipline","title":"Electrical Engineering Intern (Summer 2026)","location":"South San Francisco, California, USA","link":"https:\/\/www.zipline.com\/careers\/open-roles?gh_jid=7549505003","postedOn":"2025-12-12T18:32:53-05:00","updatedOn":"2026-04-23T00:16:21-04:00"},{"company":"Zipline","title":"Fullstack - Data Platform (Autonomy) ","location":"South San Francisco, California, USA","link":"https:\/\/www.zipline.com\/careers\/open-roles?gh_jid=7607673003","postedOn":"2026-01-28T13:10:59-05:00","updatedOn":"2026-04-23T00:16:21-04:00"},{"company":"Zipline","title":"Hardware Technician \u2013 Autonomy Data Systems","location":"South San Francisco, California, USA","link":"https:\/\/www.zipline.com\/careers\/open-roles?gh_jid=7703718003","postedOn":"2026-04-17T00:22:47-04:00","updatedOn":"2026-04-23T00:16:21-04:00"},{"company":"Zipline","title":"Join Our Fall 2026 Internships Mailing List!","location":"South San Francisco, California, USA","link":"https:\/\/www.zipline.com\/careers\/open-roles?gh_jid=7603255003","postedOn":"2026-02-02T15:50:45-05:00","updatedOn":"2026-04-23T00:16:21-04:00"},{"company":"Zipline","title":"Motor Control Firmware Intern (Summer 2026)","location":"South San Francisco, California, USA","link":"https:\/\/www.zipline.com\/careers\/open-roles?gh_jid=7549489003","postedOn":"2025-12-12T18:31:42-05:00","updatedOn":"2026-04-23T00:16:21-04:00"},{"company":"Zipline","title":"Software Engineer - Systems Validation","location":"South San Francisco, California, USA","link":"https:\/\/www.zipline.com\/careers\/open-roles?gh_jid=7564211003","postedOn":"2025-12-16T02:18:45-05:00","updatedOn":"2026-04-23T00:16:21-04:00"},{"company":"Zipline","title":"Supplier Industrialization Engineering Intern (Summer 2026)","location":"South San Francisco, California, USA","link":"https:\/\/www.zipline.com\/careers\/open-roles?gh_jid=7549483003","postedOn":"2025-12-12T18:31:00-05:00","updatedOn":"2026-04-23T00:16:21-04:00"}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
@@ -10,26 +10,18 @@ ERRORS_START
 [ERROR] Ambrook: Lever API failed: https://api.lever.co/v0/postings/ambrook?mode=json - 404
 [ERROR] Amidon Heavy Industries: Ashby API failed - HTTP 404: Not Found
 [ERROR] Magna Services of America, Inc: Invalid Workday URL
-[ERROR] Applied Materials: Workday API failed: HTTP 502 - <html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>cloudflare</center>
-</body>
-</html>
-
 [ERROR] boomi: Greenhouse API failed: 404
 [ERROR] Canonical: Greenhouse API failed: 404
 [ERROR] Cdata: Greenhouse API failed: 404
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"D453ADMOAW4RTE","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"8BEB50MOB1TOZP","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Clever: Could not extract Lever company name
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
 [ERROR] Dapper Labs: Lever API failed: https://api.lever.co/v0/postings/axiomzen?mode=json - 404
 [ERROR] Demandbase : Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"6740C1MOAW5UMI","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"BC6B44MOB1UO78","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
 [ERROR] Funnel: Breezy API failed: 403
 [ERROR] Grammarly : Greenhouse API failed: 404
@@ -41,12 +33,12 @@ ERRORS_START
 [ERROR] Kobie: Greenhouse API failed: 404
 [ERROR] Kodiak Robotics: Lever API failed: https://api.lever.co/v0/postings/kodiak?mode=json - 404
 [ERROR] Modernizing Medicine: Greenhouse API failed: 404
-[ERROR] Notion: Greenhouse API failed: 404
 [ERROR] netflix: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Notion: Greenhouse API failed: 404
 [ERROR] Perplexity AI: Greenhouse API failed: 404
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"6740C1MOAW855K","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"95E516MOB1WZ5K","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Relativity Space: Greenhouse API failed: 404
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
 [ERROR] Skydio: Greenhouse API failed: 404
@@ -54,13 +46,13 @@ ERRORS_START
 [ERROR] Stitch Fix : Greenhouse API failed: 404
 [ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"9AD0AEMOAWA3Y1","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"89B248MOAWA6BF","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"4658EDMOB1YX5G","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"DD2DC7MOB1YZ84","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] TRM labs: Greenhouse API failed: 404
 [ERROR] Vimeo: Greenhouse API failed: 404
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"54ED67MOAWAZ06","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"C05DDFMOB1ZR6R","httpStatus":422,"message":"","messageParams":{}}
 ERRORS_END
