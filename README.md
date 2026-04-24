@@ -4,10 +4,40 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-23 20:04:46](#batch-2026-04-23-20-04-46)
 - [Batch at 2026-04-23 16:59:41](#batch-2026-04-23-16-59-41)
 - [Batch at 2026-04-23 15:59:25](#batch-2026-04-23-15-59-25)
 - [Batch at 2026-04-23 14:59:18](#batch-2026-04-23-14-59-18)
-- [Batch at 2026-04-23 13:16:15](#batch-2026-04-23-13-16-15)
+
+<h3 id='batch-2026-04-23-20-04-46'>🕐 Batch at 2026-04-23 20:04:46</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Scale AI: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Scale AI</b></td>
+      <td>San Francisco, CA; New York, NY</td>
+      <td>Database Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/scaleai/jobs/4688489005'>Apply</a></td>
+      <td>Apr 23, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-23-16-59-41'>🕐 Batch at 2026-04-23 16:59:41</h3>
 
@@ -46,7 +76,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-23-15-59-25'>🕐 Batch at 2026-04-23 15:59:25</h3>
 
 📊 **Total jobs in this batch: 6**
@@ -113,8 +142,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-23-14-59-18'>🕐 Batch at 2026-04-23 14:59:18</h3>
+---<h3 id='batch-2026-04-23-14-59-18'>🕐 Batch at 2026-04-23 14:59:18</h3>
 
 📊 **Total jobs in this batch: 18**
 
