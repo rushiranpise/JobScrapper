@@ -4,10 +4,72 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-24 15:02:02](#batch-2026-04-24-15-02-02)
 - [Batch at 2026-04-24 14:04:53](#batch-2026-04-24-14-04-53)
 - [Batch at 2026-04-24 13:05:06](#batch-2026-04-24-13-05-06)
 - [Batch at 2026-04-24 12:07:25](#batch-2026-04-24-12-07-25)
-- [Batch at 2026-04-24 11:02:03](#batch-2026-04-24-11-02-03)
+
+<h3 id='batch-2026-04-24-15-02-02'>🕐 Batch at 2026-04-24 15:02:02</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- Bandwidth: 1 job
+- nVent: 1 job
+- NVIDIA: 1 job
+- Pinterest: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>San Francisco, California, United States</td>
+      <td>Data Collection Operator (2nd Shift)</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5120792007'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Bandwidth</b></td>
+      <td>Raleigh, NC</td>
+      <td>Applied AI Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/bandwidth/jobs/7844136'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Anoka, MN, US</td>
+      <td>Program Specialist - Data Center Solutions</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Program-Specialist---Data-Center-Solutions_R21467'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Software Engineering Intern, JAX - Fall 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pinterest</b></td>
+      <td>Toronto, ON, CA</td>
+      <td>Software Engineer II, Web Platform</td>
+      <td><a href='https://www.pinterestcareers.com/jobs/?gh_jid=7848208'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-24-14-04-53'>🕐 Batch at 2026-04-24 14:04:53</h3>
 
@@ -61,7 +123,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-24-13-05-06'>🕐 Batch at 2026-04-24 13:05:06</h3>
 
 📊 **Total jobs in this batch: 14**
@@ -190,8 +251,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-24-12-07-25'>🕐 Batch at 2026-04-24 12:07:25</h3>
+---<h3 id='batch-2026-04-24-12-07-25'>🕐 Batch at 2026-04-24 12:07:25</h3>
 
 📊 **Total jobs in this batch: 8**
 
