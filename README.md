@@ -4,10 +4,63 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-24 14:04:53](#batch-2026-04-24-14-04-53)
 - [Batch at 2026-04-24 13:05:06](#batch-2026-04-24-13-05-06)
 - [Batch at 2026-04-24 12:07:25](#batch-2026-04-24-12-07-25)
 - [Batch at 2026-04-24 11:02:03](#batch-2026-04-24-11-02-03)
-- [Batch at 2026-04-24 09:14:54](#batch-2026-04-24-09-14-54)
+
+<h3 id='batch-2026-04-24-14-04-53'>🕐 Batch at 2026-04-24 14:04:53</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- BAH: 2 jobs
+- Natera : 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>C-UAS Training Integrator</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/C-UAS-Training-Integrator_R0234444'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Alexandria, VA</td>
+      <td>AI and ML Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/AI-and-ML-Software-Engineer_R0238382'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Medical Science Liaison, Women's Health</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/5980103004'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Sunnyvale, CA</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-III_R-2489128'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-24-13-05-06'>🕐 Batch at 2026-04-24 13:05:06</h3>
 
@@ -138,7 +191,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-24-12-07-25'>🕐 Batch at 2026-04-24 12:07:25</h3>
 
 📊 **Total jobs in this batch: 8**
@@ -222,8 +274,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-24-11-02-03'>🕐 Batch at 2026-04-24 11:02:03</h3>
+---<h3 id='batch-2026-04-24-11-02-03'>🕐 Batch at 2026-04-24 11:02:03</h3>
 
 📊 **Total jobs in this batch: 18**
 
