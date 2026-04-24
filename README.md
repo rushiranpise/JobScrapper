@@ -4,10 +4,40 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-23 22:50:01](#batch-2026-04-23-22-50-01)
 - [Batch at 2026-04-23 20:04:46](#batch-2026-04-23-20-04-46)
 - [Batch at 2026-04-23 16:59:41](#batch-2026-04-23-16-59-41)
 - [Batch at 2026-04-23 15:59:25](#batch-2026-04-23-15-59-25)
-- [Batch at 2026-04-23 14:59:18](#batch-2026-04-23-14-59-18)
+
+<h3 id='batch-2026-04-23-22-50-01'>🕐 Batch at 2026-04-23 22:50:01</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Anduril Industries: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Sydney, New South Wales, Australia</td>
+      <td>Integration and Test Engineer (Software)</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5059054007?gh_jid=5059054007'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-23-20-04-46'>🕐 Batch at 2026-04-23 20:04:46</h3>
 
@@ -38,7 +68,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-23-16-59-41'>🕐 Batch at 2026-04-23 16:59:41</h3>
 
 📊 **Total jobs in this batch: 2**
@@ -75,8 +104,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-23-15-59-25'>🕐 Batch at 2026-04-23 15:59:25</h3>
+---<h3 id='batch-2026-04-23-15-59-25'>🕐 Batch at 2026-04-23 15:59:25</h3>
 
 📊 **Total jobs in this batch: 6**
 
