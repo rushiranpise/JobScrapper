@@ -1,15 +1,19 @@
-company,title,location,postedOn,link,updatedOn
-Allstate,Product Engineer Java Spring Boot,US - Remote,Posted Today,https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Product-Engineer-Java-Spring-Boot_R29644,
-Applied Materials,Application Engineer III (E3),"Benicia,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/BeniciaCA/Application-Engineer-III--E3-_R2618116,
-Bandwidth,Software Development Architect (Voice),"Raleigh, NC",2026-04-24T10:16:16-04:00,https://job-boards.greenhouse.io/bandwidth/jobs/7844095,2026-04-24T10:16:16-04:00
-BAH,"DevOps Engineer, Mid","Chantilly, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer--Mid_R0238594,
-Citi,Infrastructure Application Engineer,Jacksonville Florida United States,Posted Today,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/Server-Infrastructure-Administrator_26944117,
-LexisNexis Risk Solutions,Data Analyst (Onsite - VA),Virginia,Posted Today,https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Virginia/Data-Analyst--Onsite---VA-_R112673,
-OpenEye,DevOps Engineer,"Centennial, Colorado",2026-04-24T11:36:38-04:00,https://job-boards.greenhouse.io/alarmcom/jobs/8522951002,2026-04-24T12:09:56-04:00
-OpenEye,DevOps Engineer ,"Tysons, Virginia",2026-04-24T10:21:07-04:00,https://job-boards.greenhouse.io/alarmcom/jobs/8398722002,2026-04-24T10:21:07-04:00
-Quantinuum,Project Engineering Intern - 783,"US Broomfield, CO",2026-04-08 20:08:03,https://jobs.eu.lever.co/quantinuum/4b2030b4-f595-425f-ab93-d04874167062,N/A
-Remitly,"Software Development Engineer 1, Pricing Platform","Seattle, Washington United States",Posted Today,https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-1--Pricing-Platform_R_106145,
-terex,Summer Engineering Intern,"USA, IN, Fort Wayne",Posted Today,https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/USA-IN-Fort-Wayne/Summer-Engineering-Intern_REQ-12367,
-The Walt Disney Company,Software Engineer,"Orlando, FL, USA",Posted Today,https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Software-Engineer_10127341-2,
-Toast,Unily Developer - Backend,United States,2026-04-10T08:35:26-04:00,https://careers.toasttab.com/jobs?gh_jid=7807249,2026-04-24T11:36:08-04:00
-Walmart,Front end Coach,(USA) TX SAN ANTONIO 05146 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-SAN-ANTONIO-05146-WM-SUPERCENTER/Front-end-Coach_R-2488628-1,
+company,title,location,link,postedOn,updatedOn
+Anduril Industries,"Manufacturing Software Engineer, Frontier Systems","Santa Ana, California, United States",https://boards.greenhouse.io/andurilindustries/jobs/5111318007?gh_jid=5111318007,2026-04-24T13:02:01-04:00,2026-04-24T13:02:01-04:00
+Applied Materials,Software Engineer,"Santa Clara,CA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer_R2617991,Posted Today,
+BAH,Logistics Analytics Data Scientist,"Dahlgren, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dahlgren-VA/Logistics-Analytics-Data-Scientist_R0238646,Posted Today,
+BAH,"Open-Source Research Analyst, Junior","McLean, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0238373,Posted Today,
+Citi,Product Management for ERP Platforms and Sustainability,Tampa Florida United States,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Product-Management-for-ERP-Platforms-and-Sustainability_26956826,Posted Today,
+Concentrix,Data Quality Engineer,"USA, TX, Work-at-Home",https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/USA-TX-Work-at-Home/Data-Quality-Engineer_R1725176,Posted Today,
+Hatch IT,Generative & Agentic AI Engineer,"Reston, VA OR Somerville, MA",https://jobs.lever.co/hatchit/ac69a7f5-b1a9-4fc4-8b97-c8fe2c855f8f,2026-04-24 16:18:06,N/A
+Hatch IT,Image & Computer Vision AI Engineer,"Reston, VA/Washington, DC OR Somerville, MA",https://jobs.lever.co/hatchit/ba014f27-8b15-4652-bd7f-ab40336cd7db,2026-04-24 16:31:11,N/A
+MongoDB,Software Engineer 3 - Query Optimization,Atlanta; Boston; New York City,https://www.mongodb.com/careers/job/?gh_jid=7816135,2026-04-24T12:26:23-04:00,2026-04-24T12:26:23-04:00
+NVIDIA,"Deep Learning Software Engineer, FlashInfer - New College Grad 2026","US, CA, Santa Clara",https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--FlashInfer---New-College-Grad-2026_JR2017076,Posted Today,
+Snowflake,"Enterprise Technology, Support Engineer Intern",US-CA-Menlo Park,https://jobs.ashbyhq.com/snowflake/e1dd1cce-d39a-4a8a-9abc-4d783049ca78,2026-04-24T17:26:57.480+00:00,
+STANDARD & POOR'S FINANCIAL SERVICE,Economic Consulting Graduate Intern – Advisory Services,Washington DC,https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Washington-DC/Economic-Consulting-Graduate-Intern---Advisory-Services_326768,Posted Today,
+Toast,Unily Developer - Backend,"Remote, USA",https://careers.toasttab.com/jobs?gh_jid=7817574,2026-04-15T04:50:32-04:00,2026-04-24T13:21:35-04:00
+Twilio,"Software Engineer Intern (22nd June - 11th September, remote-US)",Remote - US,https://job-boards.greenhouse.io/twilio/jobs/7850821,2026-04-24T12:41:10-04:00,2026-04-24T12:41:10-04:00
+Verkada ,AI Software Engineering Intern - Fall 2026,"San Mateo, CA United States",https://job-boards.greenhouse.io/verkada/jobs/5117760007,2026-04-24T13:02:50-04:00,2026-04-24T13:02:50-04:00
+Walmart,(USA) Software Engineer III,(USA) Crossman Respect Building CA SUNNYVALE Home Office,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2477369-1,Posted Today,
+Walmart,(USA) Coach/Ops Mgr Trainee,"Fairfield, IA",https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Fairfield-IA/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2489651-1,Posted Today,
+Walmart,(CAN) Caissier,(CAN) QC VILLE DE QUEBEC 03074 WM SUPERCENTER,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-03074-WM-SUPERCENTER/XMLNAME--CAN--Caissier_R-2489517,Posted Today,

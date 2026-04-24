@@ -4,10 +4,172 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-24 11:02:03](#batch-2026-04-24-11-02-03)
 - [Batch at 2026-04-24 09:14:54](#batch-2026-04-24-09-14-54)
 - [Batch at 2026-04-24 07:10:31](#batch-2026-04-24-07-10-31)
 - [Batch at 2026-04-24 03:37:15](#batch-2026-04-24-03-37-15)
-- [Batch at 2026-04-24 01:18:16](#batch-2026-04-24-01-18-16)
+
+<h3 id='batch-2026-04-24-11-02-03'>🕐 Batch at 2026-04-24 11:02:03</h3>
+
+📊 **Total jobs in this batch: 18**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Applied Materials: 1 job
+- BAH: 2 jobs
+- Citi: 1 job
+- Concentrix: 1 job
+- Hatch IT: 2 jobs
+- MongoDB: 1 job
+- NVIDIA: 1 job
+- Snowflake: 1 job
+- STANDARD & POOR'S FINANCIAL SERVICE: 1 job
+- Toast: 1 job
+- Twilio: 1 job
+- Verkada : 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Santa Ana, California, United States</td>
+      <td>Manufacturing Software Engineer, Frontier Systems</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5111318007?gh_jid=5111318007'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer_R2617991'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dahlgren, VA</td>
+      <td>Logistics Analytics Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dahlgren-VA/Logistics-Analytics-Data-Scientist_R0238646'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Open-Source Research Analyst, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0238373'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Tampa Florida United States</td>
+      <td>Product Management for ERP Platforms and Sustainability</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Product-Management-for-ERP-Platforms-and-Sustainability_26956826'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>USA, TX, Work-at-Home</td>
+      <td>Data Quality Engineer</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/USA-TX-Work-at-Home/Data-Quality-Engineer_R1725176'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Hatch IT</b></td>
+      <td>Reston, VA OR Somerville, MA</td>
+      <td>Generative & Agentic AI Engineer</td>
+      <td><a href='https://jobs.lever.co/hatchit/ac69a7f5-b1a9-4fc4-8b97-c8fe2c855f8f'>Apply</a></td>
+      <td>2026-04-24 16:18:06</td>
+    </tr>
+    <tr>
+      <td><b>Hatch IT</b></td>
+      <td>Reston, VA/Washington, DC OR Somerville, MA</td>
+      <td>Image & Computer Vision AI Engineer</td>
+      <td><a href='https://jobs.lever.co/hatchit/ba014f27-8b15-4652-bd7f-ab40336cd7db'>Apply</a></td>
+      <td>2026-04-24 16:31:11</td>
+    </tr>
+    <tr>
+      <td><b>MongoDB</b></td>
+      <td>Atlanta; Boston; New York City</td>
+      <td>Software Engineer 3 - Query Optimization</td>
+      <td><a href='https://www.mongodb.com/careers/job/?gh_jid=7816135'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Deep Learning Software Engineer, FlashInfer - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--FlashInfer---New-College-Grad-2026_JR2017076'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Enterprise Technology, Support Engineer Intern</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/e1dd1cce-d39a-4a8a-9abc-4d783049ca78'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>STANDARD & POOR'S FINANCIAL SERVICE</b></td>
+      <td>Washington DC</td>
+      <td>Economic Consulting Graduate Intern – Advisory Services</td>
+      <td><a href='https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Washington-DC/Economic-Consulting-Graduate-Intern---Advisory-Services_326768'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Toast</b></td>
+      <td>Remote, USA</td>
+      <td>Unily Developer - Backend</td>
+      <td><a href='https://careers.toasttab.com/jobs?gh_jid=7817574'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Twilio</b></td>
+      <td>Remote - US</td>
+      <td>Software Engineer Intern (22nd June - 11th September, remote-US)</td>
+      <td><a href='https://job-boards.greenhouse.io/twilio/jobs/7850821'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Verkada </b></td>
+      <td>San Mateo, CA United States</td>
+      <td>AI Software Engineering Intern - Fall 2026</td>
+      <td><a href='https://job-boards.greenhouse.io/verkada/jobs/5117760007'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Respect Building CA SUNNYVALE Home Office</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2477369-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Fairfield, IA</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Fairfield-IA/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2489651-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 03074 WM SUPERCENTER</td>
+      <td>(CAN) Caissier</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-03074-WM-SUPERCENTER/XMLNAME--CAN--Caissier_R-2489517'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-24-09-14-54'>🕐 Batch at 2026-04-24 09:14:54</h3>
 
@@ -141,7 +303,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-24-07-10-31'>🕐 Batch at 2026-04-24 07:10:31</h3>
 
 📊 **Total jobs in this batch: 13**
@@ -259,8 +420,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-24-03-37-15'>🕐 Batch at 2026-04-24 03:37:15</h3>
+---<h3 id='batch-2026-04-24-03-37-15'>🕐 Batch at 2026-04-24 03:37:15</h3>
 
 📊 **Total jobs in this batch: 1**
 
