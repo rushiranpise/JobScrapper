@@ -4,9 +4,143 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-24 09:14:54](#batch-2026-04-24-09-14-54)
 - [Batch at 2026-04-24 07:10:31](#batch-2026-04-24-07-10-31)
 - [Batch at 2026-04-24 03:37:15](#batch-2026-04-24-03-37-15)
 - [Batch at 2026-04-24 01:18:16](#batch-2026-04-24-01-18-16)
+
+<h3 id='batch-2026-04-24-09-14-54'>🕐 Batch at 2026-04-24 09:14:54</h3>
+
+📊 **Total jobs in this batch: 14**
+
+**Per company:**
+- Allstate: 1 job
+- Applied Materials: 1 job
+- Bandwidth: 1 job
+- BAH: 1 job
+- Citi: 1 job
+- LexisNexis Risk Solutions: 1 job
+- OpenEye: 2 jobs
+- Quantinuum: 1 job
+- Remitly: 1 job
+- terex: 1 job
+- The Walt Disney Company: 1 job
+- Toast: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>US - Remote</td>
+      <td>Product Engineer Java Spring Boot</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Product-Engineer-Java-Spring-Boot_R29644'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Benicia,CA</td>
+      <td>Application Engineer III (E3)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/BeniciaCA/Application-Engineer-III--E3-_R2618116'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bandwidth</b></td>
+      <td>Raleigh, NC</td>
+      <td>Software Development Architect (Voice)</td>
+      <td><a href='https://job-boards.greenhouse.io/bandwidth/jobs/7844095'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>DevOps Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer--Mid_R0238594'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Jacksonville Florida United States</td>
+      <td>Infrastructure Application Engineer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/Server-Infrastructure-Administrator_26944117'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>LexisNexis Risk Solutions</b></td>
+      <td>Virginia</td>
+      <td>Data Analyst (Onsite - VA)</td>
+      <td><a href='https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Virginia/Data-Analyst--Onsite---VA-_R112673'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenEye</b></td>
+      <td>Centennial, Colorado</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/alarmcom/jobs/8522951002'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>OpenEye</b></td>
+      <td>Tysons, Virginia</td>
+      <td>DevOps Engineer </td>
+      <td><a href='https://job-boards.greenhouse.io/alarmcom/jobs/8398722002'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Quantinuum</b></td>
+      <td>US Broomfield, CO</td>
+      <td>Project Engineering Intern - 783</td>
+      <td><a href='https://jobs.eu.lever.co/quantinuum/4b2030b4-f595-425f-ab93-d04874167062'>Apply</a></td>
+      <td>2026-04-08 20:08:03</td>
+    </tr>
+    <tr>
+      <td><b>Remitly</b></td>
+      <td>Seattle, Washington United States</td>
+      <td>Software Development Engineer 1, Pricing Platform</td>
+      <td><a href='https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-1--Pricing-Platform_R_106145'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>USA, IN, Fort Wayne</td>
+      <td>Summer Engineering Intern</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/USA-IN-Fort-Wayne/Summer-Engineering-Intern_REQ-12367'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Orlando, FL, USA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Software-Engineer_10127341-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Toast</b></td>
+      <td>United States</td>
+      <td>Unily Developer - Backend</td>
+      <td><a href='https://careers.toasttab.com/jobs?gh_jid=7807249'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX SAN ANTONIO 05146 WM SUPERCENTER</td>
+      <td>Front end Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-SAN-ANTONIO-05146-WM-SUPERCENTER/Front-end-Coach_R-2488628-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-24-07-10-31'>🕐 Batch at 2026-04-24 07:10:31</h3>
 
@@ -126,7 +260,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-24-03-37-15'>🕐 Batch at 2026-04-24 03:37:15</h3>
 
 📊 **Total jobs in this batch: 1**
@@ -155,8 +288,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-24-01-18-16'>🕐 Batch at 2026-04-24 01:18:16</h3>
+---<h3 id='batch-2026-04-24-01-18-16'>🕐 Batch at 2026-04-24 01:18:16</h3>
 
 📊 **Total jobs in this batch: 2**
 
