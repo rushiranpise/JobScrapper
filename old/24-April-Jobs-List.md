@@ -4,10 +4,56 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-24 16:49:43](#batch-2026-04-24-16-49-43)
 - [Batch at 2026-04-24 15:49:53](#batch-2026-04-24-15-49-53)
 - [Batch at 2026-04-24 15:02:02](#batch-2026-04-24-15-02-02)
 - [Batch at 2026-04-24 14:04:53](#batch-2026-04-24-14-04-53)
-- [Batch at 2026-04-24 13:05:06](#batch-2026-04-24-13-05-06)
+
+<h3 id='batch-2026-04-24-16-49-43'>🕐 Batch at 2026-04-24 16:49:43</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Abnormal Security: 1 job
+- Citi: 1 job
+- Micron: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Abnormal Security</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer 1, Dev Accelerator</td>
+      <td><a href='https://abnormal.ai/careers/jobs/7697216003?gh_jid=7697216003'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex - Líder de plataforma en Teradata</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Lder-de-plataforma-en-Teradata_26953107'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Product Owner (I4.0 analyst), SMART MFG & AI</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Product-Owner--I40-analyst---SMART-MFG---AI_JR97963'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-24-15-49-53'>🕐 Batch at 2026-04-24 15:49:53</h3>
 
@@ -46,7 +92,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-24-15-02-02'>🕐 Batch at 2026-04-24 15:02:02</h3>
 
 📊 **Total jobs in this batch: 5**
@@ -107,8 +152,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-24-14-04-53'>🕐 Batch at 2026-04-24 14:04:53</h3>
+---<h3 id='batch-2026-04-24-14-04-53'>🕐 Batch at 2026-04-24 14:04:53</h3>
 
 📊 **Total jobs in this batch: 4**
 
