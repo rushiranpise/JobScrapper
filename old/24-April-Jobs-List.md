@@ -4,10 +4,95 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-24 12:07:25](#batch-2026-04-24-12-07-25)
 - [Batch at 2026-04-24 11:02:03](#batch-2026-04-24-11-02-03)
 - [Batch at 2026-04-24 09:14:54](#batch-2026-04-24-09-14-54)
 - [Batch at 2026-04-24 07:10:31](#batch-2026-04-24-07-10-31)
-- [Batch at 2026-04-24 03:37:15](#batch-2026-04-24-03-37-15)
+
+<h3 id='batch-2026-04-24-12-07-25'>🕐 Batch at 2026-04-24 12:07:25</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- Anduril Industries: 1 job
+- BAH: 2 jobs
+- Fastly: 1 job
+- NVIDIA: 1 job
+- OpenEye: 1 job
+- SoFi: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Mission Software Engineer, Maneuver Dominance </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5102918007?gh_jid=5102918007'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>MacDill AFB, FL</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/MacDill-AFB-FL/Data-Engineer_R0238651'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Sterling, VA</td>
+      <td>Intelligence Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Sterling-VA/Technology-Enabled-Analytic-Methodologist_R0237468'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Fastly</b></td>
+      <td>Denver, CO; San Francisco, CA</td>
+      <td>Associate Business Data Analyst</td>
+      <td><a href='https://www.fastly.com/about/jobs/apply?gh_jid=7851750'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Low Power ASIC Engineer - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017001'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenEye</b></td>
+      <td>Tysons, Virginia</td>
+      <td>Data Analyst</td>
+      <td><a href='https://job-boards.greenhouse.io/alarmcom/jobs/8500143002'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SoFi</b></td>
+      <td>UT - Cottonwood Heights </td>
+      <td>Software Engineer, Loans Originations</td>
+      <td><a href='https://sofi.com/careers/job/7713729003?gh_jid=7713729003'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NC RALEIGH 05118 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NC-RALEIGH-05118-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2489933'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-24-11-02-03'>🕐 Batch at 2026-04-24 11:02:03</h3>
 
@@ -170,7 +255,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-24-09-14-54'>🕐 Batch at 2026-04-24 09:14:54</h3>
 
 📊 **Total jobs in this batch: 14**
@@ -302,8 +386,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-24-07-10-31'>🕐 Batch at 2026-04-24 07:10:31</h3>
+---<h3 id='batch-2026-04-24-07-10-31'>🕐 Batch at 2026-04-24 07:10:31</h3>
 
 📊 **Total jobs in this batch: 13**
 
