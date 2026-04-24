@@ -4,10 +4,140 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-24 13:05:06](#batch-2026-04-24-13-05-06)
 - [Batch at 2026-04-24 12:07:25](#batch-2026-04-24-12-07-25)
 - [Batch at 2026-04-24 11:02:03](#batch-2026-04-24-11-02-03)
 - [Batch at 2026-04-24 09:14:54](#batch-2026-04-24-09-14-54)
-- [Batch at 2026-04-24 07:10:31](#batch-2026-04-24-07-10-31)
+
+<h3 id='batch-2026-04-24-13-05-06'>🕐 Batch at 2026-04-24 13:05:06</h3>
+
+📊 **Total jobs in this batch: 14**
+
+**Per company:**
+- BAH: 2 jobs
+- Breeze Airways: 1 job
+- Datadog: 1 job
+- flir: 1 job
+- Perpay: 1 job
+- Quantinuum: 1 job
+- Rvo health: 1 job
+- Snowflake: 1 job
+- USAA: 1 job
+- Walmart: 4 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Vandenberg AFB, CA</td>
+      <td>Palantir Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Vandenberg-AFB-CA/Palantir-Software-Engineer_R0238659'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Power Apps Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Power-Apps-Developer_R0238642'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Breeze Airways</b></td>
+      <td>Salt Lake City, Utah, United States</td>
+      <td>Inflight Curriculum Developer</td>
+      <td><a href='https://job-boards.greenhouse.io/breezeairways/jobs/7710002003'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Datadog</b></td>
+      <td>New York, New York, USA</td>
+      <td>DataPUPS Early ID Summit</td>
+      <td><a href='https://careers.datadoghq.com/detail/7851446/?gh_jid=7851446'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Mountain View, CA</td>
+      <td>Manufacturing Engineer (Intern)</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Mountain-View-CA/Manufacturing-Engineer--Intern-_REQ34008'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Perpay</b></td>
+      <td>Philadelphia, Pennsylvania, United States</td>
+      <td>Mid-Level Software Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/perpay/jobs/4034545007'>Apply</a></td>
+      <td>Jul 07, 2023</td>
+    </tr>
+    <tr>
+      <td><b>Quantinuum</b></td>
+      <td>US Broomfield, CO</td>
+      <td>PhD Intern - Trapped-Ion Quantum Computing Theory - 809</td>
+      <td><a href='https://jobs.eu.lever.co/quantinuum/69eca71d-1140-47f8-9e59-8bf10acf7e5c'>Apply</a></td>
+      <td>2026-04-22 20:21:57</td>
+    </tr>
+    <tr>
+      <td><b>Rvo health</b></td>
+      <td>Remote- US</td>
+      <td>Data Scientist </td>
+      <td><a href='https://job-boards.greenhouse.io/rvohealth/jobs/4688832005'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-WA-Bellevue</td>
+      <td>Software Engineer - Streamlit</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/3c018564-63c0-4179-ba91-f42ce75a40fa'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>USAA</b></td>
+      <td>Phoenix Campus (Main)</td>
+      <td>AI/ML Engineer II</td>
+      <td><a href='https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Phoenix-Campus-Main/AI-ML-Engineer-II_R0117273'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Software Engineer III - Mainframe/Java</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Software-Engineer-III---Mainframe-Java_R-2472652'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) VA BEDFORD 01399 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-VA-BEDFORD-01399-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2489455'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Software Engineer III - Fullstack</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Software-Engineer-III---Fullstack_R-2478367'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) IN GOSHEN 01566 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IN-GOSHEN-01566-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2489841-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-24-12-07-25'>🕐 Batch at 2026-04-24 12:07:25</h3>
 
@@ -93,7 +223,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-24-11-02-03'>🕐 Batch at 2026-04-24 11:02:03</h3>
 
 📊 **Total jobs in this batch: 18**
@@ -254,8 +383,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-24-09-14-54'>🕐 Batch at 2026-04-24 09:14:54</h3>
+---<h3 id='batch-2026-04-24-09-14-54'>🕐 Batch at 2026-04-24 09:14:54</h3>
 
 📊 **Total jobs in this batch: 14**
 

@@ -1,9 +1,15 @@
-company,title,location,link,postedOn,updatedOn
-Anduril Industries,"Mission Software Engineer, Maneuver Dominance ","Costa Mesa, California, United States",https://boards.greenhouse.io/andurilindustries/jobs/5102918007?gh_jid=5102918007,2026-04-24T13:52:45-04:00,2026-04-24T14:00:47-04:00
-BAH,Data Engineer,"MacDill AFB, FL",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/MacDill-AFB-FL/Data-Engineer_R0238651,Posted Today,
-BAH,Intelligence Data Analyst,"Sterling, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Sterling-VA/Technology-Enabled-Analytic-Methodologist_R0237468,Posted Today,
-Fastly,Associate Business Data Analyst,"Denver, CO; San Francisco, CA",https://www.fastly.com/about/jobs/apply?gh_jid=7851750,2026-04-24T14:03:35-04:00,2026-04-24T14:09:16-04:00
-NVIDIA,Low Power ASIC Engineer - New College Grad 2026,"US, CA, Santa Clara",https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017001,Posted Today,
-OpenEye,Data Analyst,"Tysons, Virginia",https://job-boards.greenhouse.io/alarmcom/jobs/8500143002,2026-04-24T13:59:38-04:00,2026-04-24T14:01:13-04:00
-SoFi,"Software Engineer, Loans Originations",UT - Cottonwood Heights ,https://sofi.com/careers/job/7713729003?gh_jid=7713729003,2026-04-24T14:56:03-04:00,2026-04-24T14:56:03-04:00
-Walmart,(USA) Front End Coach,(USA) NC RALEIGH 05118 WM SUPERCENTER,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NC-RALEIGH-05118-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2489933,Posted Today,
+company,title,location,postedOn,link,updatedOn
+BAH,Palantir Software Engineer,"Vandenberg AFB, CA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Vandenberg-AFB-CA/Palantir-Software-Engineer_R0238659,
+BAH,Power Apps Developer,"Arlington, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Power-Apps-Developer_R0238642,
+Breeze Airways,Inflight Curriculum Developer,"Salt Lake City, Utah, United States",2026-04-24T15:49:57-04:00,https://job-boards.greenhouse.io/breezeairways/jobs/7710002003,2026-04-24T15:49:57-04:00
+Datadog,DataPUPS Early ID Summit,"New York, New York, USA",2026-04-24T15:32:10-04:00,https://careers.datadoghq.com/detail/7851446/?gh_jid=7851446,2026-04-24T15:40:33-04:00
+flir,Manufacturing Engineer (Intern),"US - Mountain View, CA",Posted Today,https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Mountain-View-CA/Manufacturing-Engineer--Intern-_REQ34008,
+Perpay,Mid-Level Software Engineer,"Philadelphia, Pennsylvania, United States",2023-07-07T10:43:49-04:00,https://job-boards.greenhouse.io/perpay/jobs/4034545007,2026-04-24T15:52:55-04:00
+Quantinuum,PhD Intern - Trapped-Ion Quantum Computing Theory - 809,"US Broomfield, CO",2026-04-22 20:21:57,https://jobs.eu.lever.co/quantinuum/69eca71d-1140-47f8-9e59-8bf10acf7e5c,N/A
+Rvo health,Data Scientist ,Remote- US,2026-04-24T15:39:45-04:00,https://job-boards.greenhouse.io/rvohealth/jobs/4688832005,2026-04-24T15:39:45-04:00
+Snowflake,Software Engineer - Streamlit,US-WA-Bellevue,2026-04-22T22:26:13.446+00:00,https://jobs.ashbyhq.com/snowflake/3c018564-63c0-4179-ba91-f42ce75a40fa,
+USAA,AI/ML Engineer II,Phoenix Campus (Main),Posted Today,https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Phoenix-Campus-Main/AI-ML-Engineer-II_R0117273,
+Walmart,Software Engineer III - Mainframe/Java,"Bentonville, AR",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Software-Engineer-III---Mainframe-Java_R-2472652,
+Walmart,Pharmacy Pre-Grad Intern - WM,(USA) VA BEDFORD 01399 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-VA-BEDFORD-01399-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2489455,
+Walmart,Software Engineer III - Fullstack,"Bentonville, AR",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Software-Engineer-III---Fullstack_R-2478367,
+Walmart,(USA) Front End Coach,(USA) IN GOSHEN 01566 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IN-GOSHEN-01566-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2489841-1,
