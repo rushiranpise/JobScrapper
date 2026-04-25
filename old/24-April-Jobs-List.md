@@ -4,10 +4,40 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-24 22:23:18](#batch-2026-04-24-22-23-18)
 - [Batch at 2026-04-24 19:53:58](#batch-2026-04-24-19-53-58)
 - [Batch at 2026-04-24 16:49:43](#batch-2026-04-24-16-49-43)
 - [Batch at 2026-04-24 15:49:53](#batch-2026-04-24-15-49-53)
-- [Batch at 2026-04-24 15:02:02](#batch-2026-04-24-15-02-02)
+
+<h3 id='batch-2026-04-24-22-23-18'>🕐 Batch at 2026-04-24 22:23:18</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- STANDARD & POOR'S FINANCIAL SERVICE: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>STANDARD & POOR'S FINANCIAL SERVICE</b></td>
+      <td>Houston, TX</td>
+      <td>Operations Specialist, Industry Fundamentals Training Courses</td>
+      <td><a href='https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Houston-TX/Operations-Specialist--Industry-Fundamentals-Training-Courses_326612-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-24-19-53-58'>🕐 Batch at 2026-04-24 19:53:58</h3>
 
@@ -46,7 +76,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-24-16-49-43'>🕐 Batch at 2026-04-24 16:49:43</h3>
 
 📊 **Total jobs in this batch: 3**
@@ -91,8 +120,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-24-15-49-53'>🕐 Batch at 2026-04-24 15:49:53</h3>
+---<h3 id='batch-2026-04-24-15-49-53'>🕐 Batch at 2026-04-24 15:49:53</h3>
 
 📊 **Total jobs in this batch: 2**
 
