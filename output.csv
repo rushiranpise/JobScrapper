@@ -1,22 +1,13 @@
-company,title,location,postedOn,link,updatedOn
-"CrowdStrike, Inc","Specialist, AIDR (Remote)",USA - Remote,Posted Today,https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Specialist--AIDR--Remote-_R28662,
-566 DEPARTMENT OF TOURISM AND RECREATION,Choosing Childbirth Intern,Oklahoma County,Posted Today,https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Choosing-Childbirth-Intern_JR59210,
-Applied Materials,"Process Engineer New College Grad - Doctorate Degree (Santa Clara, Ca)","Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Process-Engineer-New-College-Grad---Doctorate-Degree--Santa-Clara--Ca-_R2618393,
-Applied Materials,Application Engineer III,"Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Application-Engineer-III_R2618158,
-BAH,DevOps Engineer,"Arlington, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/DevOps-Engineer_R0238680,
-BAH,Cloud Engineer,"Arlington, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Cloud-Engineer_R0238673,
-Brink,CDL Driver,Dallas TX,Posted Today,https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Dallas-TX/CDL-Driver_R73225-1,
-Dagster Labs,Software Engineer - Platform ,"Remote with offices in San Francisco, CA / New York, NY / Minneapolis, MN",2026-04-27T11:28:00-04:00,https://job-boards.greenhouse.io/dagsterlabs/jobs/7714923003,2026-04-27T11:28:00-04:00
-Comcast ,"Engineer 1, Software Development & Engineering","PA - Philadelphia, 1800 Arch St",Posted Today,https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R435990,
-Enova,Internal Fraud Investigator (Hybrid),"Chicago, IL ",2026-04-27T11:44:45-04:00,https://job-boards.greenhouse.io/enova/jobs/7858335,2026-04-27T11:44:45-04:00
-genpt,Material Handler I,"Seattle, WA, USA",Posted Today,https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Seattle-WA-USA/Material-Handler-I_R26_0000012770,
-Natera ,IT Intern,"San Carlos, CA",2026-04-27T10:55:45-04:00,https://job-boards.greenhouse.io/natera/jobs/5981610004,2026-04-27T10:55:45-04:00
-nVent,Material Handler - WKND Shift,"Blaine, MN, US",Posted Today,https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Blaine-MN-US/Material-Handler---WKND-Shift_R21589,
-NVIDIA,Software DevOps Engineer,"US, CA, Santa Clara",Posted Today,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-DevOps-Engineer_JR2011548,
-Ramp,"Software Engineer, Production Engineering","New York, NY (HQ)",2026-04-27T16:15:05.326+00:00,https://jobs.ashbyhq.com/ramp/be496b52-cfbf-494e-b862-61fb4a188b24,
-Scoutm Otors,Change Management Process development & Training Specialist,"Novi, Michigan United States",2026-04-27T11:20:02-04:00,https://job-boards.greenhouse.io/scoutmotors/jobs/5081983007,2026-04-27T11:20:02-04:00
-Salesforce,Software Engineering Architect - Platform,California - San Francisco,Posted Today,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-Architect---Platform_JR315655,
-Workday,Software Development Engineer - ML Ops (US Federal),USA.VA.Reston,Posted Today,https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer---ML-Ops--US-Federal-_JR-0105395,
-Walmart,SOFTWARE ENGINEER III,IN KA BANGALORE Home Office PTPP2,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP2/SOFTWARE-ENGINEER-III_R-2471503-1,
-Walmart,Pharmacy Pre-Grad Intern - WM,(USA) TX FORT WORTH 03773 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-FORT-WORTH-03773-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2491621-1,
-Walmart,Front End Coach,(USA) AL ENTERPRISE 00734 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-AL-ENTERPRISE-00734-WM-SUPERCENTER/Front-End-Coach_R-2491576-1,
+company,title,location,link,postedOn,updatedOn
+Anduril Industries,Software Engineer - Simulation Fidelity,"Seattle, Washington, United States",https://boards.greenhouse.io/andurilindustries/jobs/5120382007?gh_jid=5120382007,2026-04-27T13:55:31-04:00,2026-04-27T13:55:31-04:00
+Anduril Industries,Software Engineer - Simulation Integrations,"Seattle, Washington, United States",https://boards.greenhouse.io/andurilindustries/jobs/5120250007?gh_jid=5120250007,2026-04-27T13:55:33-04:00,2026-04-27T13:55:33-04:00
+BAH,Full Stack Developer,"Quantico, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/Full-Stack-Developer_R0238716,Posted Today,
+BAH,Exercise and Training Integrator,"Fayetteville, NC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Exercise-and-Training-Integrator_R0238715,Posted Today,
+BAH,"Power Apps Developer, Mid","Lexington Park, MD",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/Power-Apps-Developer--Mid_R0238212,Posted Today,
+Broadcom ,Software Engineer,USA-CA - Promontory B,https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Software-Engineer_R025847,Posted Today,
+Broadcom ,Software Engineer,USA-CA - Promontory B,https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Software-Engineer_R025848,Posted Today,
+NVIDIA,"System Software Test Engineer, Networking","US, CA, Santa Clara",https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Test-Engineer--Networking_JR2017054,Posted Today,
+Walmart,(USA) Front End Coach,(USA) IL HARRISBURG 00237 WM SUPERCENTER,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IL-HARRISBURG-00237-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2491969-1,Posted Today,
+Walmart,(USA) Coach/Ops Mgr Trainee,"Weatherford, OK",https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Weatherford-OK/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2491092-1,Posted Today,
+Walmart,"Job Posting Title Material Handler, Manufacturing (Starting at $23.00, Thu-Sat 6:00p-6:00a Sun 12a-6a, 3rd Shift)","Olathe, KS",https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Olathe-KS/Job-Posting-Title-Material-Handler--Manufacturing--Starting-at--2300--Thu-Sat-6-00p-6-00a-Sun-12a-6a--3rd-Shift-_R-2491964-1,Posted Today,
+Walmart,Front End Coach,(USA) NY AUBURN 01830 WM SUPERCENTER,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NY-AUBURN-01830-WM-SUPERCENTER/Front-End-Coach_R-2491989-1,Posted Today,

@@ -4,10 +4,121 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-27 11:15:01](#batch-2026-04-27-11-15-01)
 - [Batch at 2026-04-27 09:52:14](#batch-2026-04-27-09-52-14)
 - [Batch at 2026-04-27 07:12:42](#batch-2026-04-27-07-12-42)
 - [Batch at 2026-04-27 04:55:06](#batch-2026-04-27-04-55-06)
-- [Batch at 2026-04-27 02:30:12](#batch-2026-04-27-02-30-12)
+
+<h3 id='batch-2026-04-27-11-15-01'>🕐 Batch at 2026-04-27 11:15:01</h3>
+
+📊 **Total jobs in this batch: 12**
+
+**Per company:**
+- Anduril Industries: 2 jobs
+- BAH: 3 jobs
+- Broadcom : 2 jobs
+- NVIDIA: 1 job
+- Walmart: 4 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Seattle, Washington, United States</td>
+      <td>Software Engineer - Simulation Fidelity</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5120382007?gh_jid=5120382007'>Apply</a></td>
+      <td>Apr 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Seattle, Washington, United States</td>
+      <td>Software Engineer - Simulation Integrations</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5120250007?gh_jid=5120250007'>Apply</a></td>
+      <td>Apr 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Quantico, VA</td>
+      <td>Full Stack Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/Full-Stack-Developer_R0238716'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>Exercise and Training Integrator</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Exercise-and-Training-Integrator_R0238715'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lexington Park, MD</td>
+      <td>Power Apps Developer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/Power-Apps-Developer--Mid_R0238212'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-CA - Promontory B</td>
+      <td>Software Engineer</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Software-Engineer_R025847'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-CA - Promontory B</td>
+      <td>Software Engineer</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Software-Engineer_R025848'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>System Software Test Engineer, Networking</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Test-Engineer--Networking_JR2017054'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) IL HARRISBURG 00237 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IL-HARRISBURG-00237-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2491969-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Weatherford, OK</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Weatherford-OK/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2491092-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Olathe, KS</td>
+      <td>Job Posting Title Material Handler, Manufacturing (Starting at $23.00, Thu-Sat 6:00p-6:00a Sun 12a-6a, 3rd Shift)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Olathe-KS/Job-Posting-Title-Material-Handler--Manufacturing--Starting-at--2300--Thu-Sat-6-00p-6-00a-Sun-12a-6a--3rd-Shift-_R-2491964-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NY AUBURN 01830 WM SUPERCENTER</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NY-AUBURN-01830-WM-SUPERCENTER/Front-End-Coach_R-2491989-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-27-09-52-14'>🕐 Batch at 2026-04-27 09:52:14</h3>
 
@@ -194,7 +305,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-27-07-12-42'>🕐 Batch at 2026-04-27 07:12:42</h3>
 
 📊 **Total jobs in this batch: 10**
@@ -294,8 +404,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-27-04-55-06'>🕐 Batch at 2026-04-27 04:55:06</h3>
+---<h3 id='batch-2026-04-27-04-55-06'>🕐 Batch at 2026-04-27 04:55:06</h3>
 
 📊 **Total jobs in this batch: 2**
 
