@@ -4,10 +4,186 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-27 13:18:49](#batch-2026-04-27-13-18-49)
 - [Batch at 2026-04-27 11:15:01](#batch-2026-04-27-11-15-01)
 - [Batch at 2026-04-27 09:52:14](#batch-2026-04-27-09-52-14)
 - [Batch at 2026-04-27 07:12:42](#batch-2026-04-27-07-12-42)
-- [Batch at 2026-04-27 04:55:06](#batch-2026-04-27-04-55-06)
+
+<h3 id='batch-2026-04-27-13-18-49'>🕐 Batch at 2026-04-27 13:18:49</h3>
+
+📊 **Total jobs in this batch: 20**
+
+**Per company:**
+- Airbnb: 1 job
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- Archer 56: 1 job
+- BAH: 2 jobs
+- BorgWarner: 1 job
+- Citi: 1 job
+- Empower: 1 job
+- Esri: 1 job
+- General Motors LLC: 2 jobs
+- genpt: 1 job
+- Intrinsic Robotics: 1 job
+- LexisNexis Risk Solutions: 1 job
+- PlayStation Global: 1 job
+- Walmart: 5 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Airbnb</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer, Web Infrastructure </td>
+      <td><a href='https://careers.airbnb.com/positions/7858135?gh_jid=7858135'>Apply</a></td>
+      <td>Apr 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Application Developer</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Application-Developer_JR59256'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Archer 56</b></td>
+      <td>San Jose, California, United States</td>
+      <td>Testing Technician, Powertrain</td>
+      <td><a href='https://job-boards.greenhouse.io/archer56/jobs/7624482003'>Apply</a></td>
+      <td>Feb 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Charlottesville, VA</td>
+      <td>Full Stack Software Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/Full-Stack-Software-Developer_R0238747'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Contracts Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Contracts-Intern_R0238734'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Auburn Hills WHQ - USA</td>
+      <td>Benefits Intern (Year-Round)</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills-WHQ---USA/Benefits-Intern--Year-Round-_R2026-1609'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex Analista de Capital Humano en experiencia y atención al colaborador</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-de-Capital-Humano-en-experiencia-y-atencin-al-colaborador_26952256-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Empower</b></td>
+      <td>MA Boston - Federal St</td>
+      <td>Intern</td>
+      <td><a href='https://empower.wd12.myworkdayjobs.com/en-US/empower/job/MA-Boston---Federal-St/Intern_R0058062'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Product Engineer II - Generative AI & Assistants, ArcGIS Pro</td>
+      <td><a href='https://www.esri.com/careers/5019999007?gh_jid=5019999007'>Apply</a></td>
+      <td>Jan 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Software Integration Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Integration-Engineer_JR-202608501'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>Software Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer_JR-202609402'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Albuquerque, NM, USA</td>
+      <td>Store Counter Trainee (Part Time)</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Albuquerque-NM-USA/Store-Counter-Trainee--Part-Time-_R26_0000012656-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intrinsic Robotics</b></td>
+      <td>Mountain View, California</td>
+      <td>Frontend Robotics Engineer</td>
+      <td><a href='https://boards.greenhouse.io/intrinsicrobotics/jobs/5982764004?gh_jid=5982764004'>Apply</a></td>
+      <td>Apr 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>LexisNexis Risk Solutions</b></td>
+      <td>Alpharetta, GA</td>
+      <td>Data Control Anylst I</td>
+      <td><a href='https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Data-Control-Anylst-I_R112137-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Mateo, CA</td>
+      <td>SDET II</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5980025004'>Apply</a></td>
+      <td>Apr 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MN SHAKOPEE 04968 REGIONAL</td>
+      <td>(USA) Sam's Loose Freight Handler</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MN-SHAKOPEE-04968-REGIONAL/XMLNAME--USA--Sam-s-Loose-Freight-Handler_R-2490576-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Cap-De-La-Madeleine, QC</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Cap-De-La-Madeleine-QC/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2492307'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Sunnyvale, CA</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-III_R-2489137'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Data Analyst II - Data Ventures</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Data-Analyst-II---Data-Ventures_R-2410197-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) GA SAVANNAH 00605 WM SUPERCENTER</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-GA-SAVANNAH-00605-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2486841'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-27-11-15-01'>🕐 Batch at 2026-04-27 11:15:01</h3>
 
@@ -119,7 +295,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-27-09-52-14'>🕐 Batch at 2026-04-27 09:52:14</h3>
 
 📊 **Total jobs in this batch: 21**
@@ -304,8 +479,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-27-07-12-42'>🕐 Batch at 2026-04-27 07:12:42</h3>
+---<h3 id='batch-2026-04-27-07-12-42'>🕐 Batch at 2026-04-27 07:12:42</h3>
 
 📊 **Total jobs in this batch: 10**
 
