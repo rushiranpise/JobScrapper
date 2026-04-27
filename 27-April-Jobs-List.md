@@ -4,10 +4,76 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-27 16:04:39](#batch-2026-04-27-16-04-39)
 - [Batch at 2026-04-27 15:04:05](#batch-2026-04-27-15-04-05)
 - [Batch at 2026-04-27 13:18:49](#batch-2026-04-27-13-18-49)
 - [Batch at 2026-04-27 11:15:01](#batch-2026-04-27-11-15-01)
-- [Batch at 2026-04-27 09:52:14](#batch-2026-04-27-09-52-14)
+
+<h3 id='batch-2026-04-27-16-04-39'>🕐 Batch at 2026-04-27 16:04:39</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- BAH: 5 jobs
+- Citi: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Front End Developer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Front-End-Developer--Mid_R0238782'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>Data Solutions Architect SME</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Solutions-Architect-SME_R0238767'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0233968'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Records Management Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Records-Management-Intern_R0238759'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Annapolis Junction, MD</td>
+      <td>CNO Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/CNO-Developer_R0238768'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Getzville New York United States</td>
+      <td>Junior Market Operations Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Market-Operations-Analyst_26948121'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-27-15-04-05'>🕐 Batch at 2026-04-27 15:04:05</h3>
 
@@ -53,7 +119,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-27-13-18-49'>🕐 Batch at 2026-04-27 13:18:49</h3>
 
 📊 **Total jobs in this batch: 20**
@@ -228,8 +293,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-27-11-15-01'>🕐 Batch at 2026-04-27 11:15:01</h3>
+---<h3 id='batch-2026-04-27-11-15-01'>🕐 Batch at 2026-04-27 11:15:01</h3>
 
 📊 **Total jobs in this batch: 12**
 
