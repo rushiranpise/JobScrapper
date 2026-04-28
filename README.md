@@ -4,7 +4,38 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-28 04:57:05](#batch-2026-04-28-04-57-05)
 - [Batch at 2026-04-28 02:33:37](#batch-2026-04-28-02-33-37)
+
+<h3 id='batch-2026-04-28-04-57-05'>🕐 Batch at 2026-04-28 04:57:05</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MI VAN BUREN TWP 02872 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MI-VAN-BUREN-TWP-02872-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2491504'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-28-02-33-37'>🕐 Batch at 2026-04-28 02:33:37</h3>
 
@@ -35,4 +66,3 @@
 <table>
 
 ---
-
