@@ -4,10 +4,71 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-27 17:07:05](#batch-2026-04-27-17-07-05)
 - [Batch at 2026-04-27 16:04:39](#batch-2026-04-27-16-04-39)
 - [Batch at 2026-04-27 15:04:05](#batch-2026-04-27-15-04-05)
 - [Batch at 2026-04-27 13:18:49](#batch-2026-04-27-13-18-49)
-- [Batch at 2026-04-27 11:15:01](#batch-2026-04-27-11-15-01)
+
+<h3 id='batch-2026-04-27-17-07-05'>🕐 Batch at 2026-04-27 17:07:05</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- BAH: 2 jobs
+- Citi: 1 job
+- Concentrix: 1 job
+- NVIDIA: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>ServiceNow Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/ServiceNow-Developer_R0238791'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>DevOps Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer--Mid_R0238788'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX Asociado de Operaciones del Intercambio Bancario Nacional e Internacional </td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Asociado-de-Operaciones-del-Intercambio-Bancario-Nacional-e-Internacional-_26956604'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>Omaha, NE 68122</td>
+      <td>Cloud Data Engineer - Coalesce & Snowflake experience</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/Omaha-NE-68122/Cloud-Data-Engineer---Coalesce---Snowflake-experience_R1725875-5'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>SoC Product Architect, Telecom AI RAN</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Product-Architect--Telecom-AI-RAN_JR2016910'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-27-16-04-39'>🕐 Batch at 2026-04-27 16:04:39</h3>
 
@@ -74,7 +135,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-27-15-04-05'>🕐 Batch at 2026-04-27 15:04:05</h3>
 
 📊 **Total jobs in this batch: 3**
@@ -118,8 +178,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-27-13-18-49'>🕐 Batch at 2026-04-27 13:18:49</h3>
+---<h3 id='batch-2026-04-27-13-18-49'>🕐 Batch at 2026-04-27 13:18:49</h3>
 
 📊 **Total jobs in this batch: 20**
 
