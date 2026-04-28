@@ -4,10 +4,133 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-28 11:29:58](#batch-2026-04-28-11-29-58)
 - [Batch at 2026-04-28 10:04:55](#batch-2026-04-28-10-04-55)
 - [Batch at 2026-04-28 07:29:29](#batch-2026-04-28-07-29-29)
 - [Batch at 2026-04-28 04:57:05](#batch-2026-04-28-04-57-05)
-- [Batch at 2026-04-28 02:33:37](#batch-2026-04-28-02-33-37)
+
+<h3 id='batch-2026-04-28-11-29-58'>🕐 Batch at 2026-04-28 11:29:58</h3>
+
+📊 **Total jobs in this batch: 13**
+
+**Per company:**
+- Anduril Industries: 2 jobs
+- BAH: 2 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- careers: 2 jobs
+- Esri: 1 job
+- Intel Corporation: 1 job
+- MOOG: 1 job
+- NVIDIA: 1 job
+- OpenEye: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Mission Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5113524007?gh_jid=5113524007'>Apply</a></td>
+      <td>Apr 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Mission Software Engineer, EW</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5107573007?gh_jid=5107573007'>Apply</a></td>
+      <td>Apr 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Full Stack Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Full-Stack-Software-Engineer_R0233316'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0238846'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA UT - Salt Lake City BAS</td>
+      <td>Research & Development Engineering Year Round Internship (Salt Lake City, UT)</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Salt-Lake-City-BAS/Research---Development-Engineering-Year-Round-Internship--Salt-Lake-City--UT-_R-543791-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>careers</b></td>
+      <td>Chandler, AZ USA</td>
+      <td>Wireless Network Lab Intern</td>
+      <td><a href='https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Chandler-AZ-USA/Wireless-Network-Lab-Intern_260004579'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>careers</b></td>
+      <td>Chandler, AZ USA</td>
+      <td>Wireless Network Lab Intern</td>
+      <td><a href='https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Chandler-AZ-USA/Wireless-Network-Lab-Intern_260004580-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Developer II - Conflation, ArcGIS Pro</td>
+      <td><a href='https://www.esri.com/careers/5118023007?gh_jid=5118023007'>Apply</a></td>
+      <td>Apr 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Frame Automation Software Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Frame-Automation-Software-Engineer_JR0283454'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Sunnyvale, CA</td>
+      <td>Intern, Test Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Sunnyvale-CA/Intern--Test-Engineering_R-26-17398'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>SoC Product Architect, Telecom AI RAN</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Product-Architect--Telecom-AI-RAN_JR2017206'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenEye</b></td>
+      <td>Centennial, Colorado</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://job-boards.greenhouse.io/alarmcom/jobs/8505982002'>Apply</a></td>
+      <td>Apr 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MN FERGUS FALLS 01696 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MN-FERGUS-FALLS-01696-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2488522'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-28-10-04-55'>🕐 Batch at 2026-04-28 10:04:55</h3>
 
@@ -208,7 +331,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-28-07-29-29'>🕐 Batch at 2026-04-28 07:29:29</h3>
 
 📊 **Total jobs in this batch: 5**
@@ -269,8 +391,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-28-04-57-05'>🕐 Batch at 2026-04-28 04:57:05</h3>
+---<h3 id='batch-2026-04-28-04-57-05'>🕐 Batch at 2026-04-28 04:57:05</h3>
 
 📊 **Total jobs in this batch: 1**
 
