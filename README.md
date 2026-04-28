@@ -4,10 +4,119 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-28 15:10:25](#batch-2026-04-28-15-10-25)
 - [Batch at 2026-04-28 13:28:39](#batch-2026-04-28-13-28-39)
 - [Batch at 2026-04-28 11:29:58](#batch-2026-04-28-11-29-58)
 - [Batch at 2026-04-28 10:04:55](#batch-2026-04-28-10-04-55)
-- [Batch at 2026-04-28 07:29:29](#batch-2026-04-28-07-29-29)
+
+<h3 id='batch-2026-04-28-15-10-25'>🕐 Batch at 2026-04-28 15:10:25</h3>
+
+📊 **Total jobs in this batch: 11**
+
+**Per company:**
+- Archer 56: 1 job
+- Anduril Industries: 1 job
+- BAH: 2 jobs
+- Belvedere Trading: 1 job
+- Clear: 1 job
+- Natera : 1 job
+- Roblox: 1 job
+- Scale AI: 1 job
+- Snowflake: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Archer 56</b></td>
+      <td>San Jose, California, United States</td>
+      <td>Powertrain Platform Verification Engineer </td>
+      <td><a href='https://job-boards.greenhouse.io/archer56/jobs/7719018003'>Apply</a></td>
+      <td>Apr 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Software Engineer, Manufacturing Test (Roadrunner)</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5123245007?gh_jid=5123245007'>Apply</a></td>
+      <td>Apr 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>MLOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/MLOps-Engineer_R0239015'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Langley AFB, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/Data-Scientist_R0238793'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Belvedere Trading</b></td>
+      <td>New York, New York</td>
+      <td>Software Engineer</td>
+      <td><a href='https://jobs.lever.co/belvederetrading/2f915976-b1e1-4e3e-81da-1116dcbb2344'>Apply</a></td>
+      <td>2026-04-24 18:44:55</td>
+    </tr>
+    <tr>
+      <td><b>Clear</b></td>
+      <td>New York, NY, United States </td>
+      <td>Data Engineer II</td>
+      <td><a href='https://job-boards.greenhouse.io/clear/jobs/7821514'>Apply</a></td>
+      <td>Apr 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Software Engineer, Data Platform</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/5980882004'>Apply</a></td>
+      <td>Apr 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>San Mateo, CA, United States</td>
+      <td>[2026] Data Scientist, Foundation AI - PhD Early Career</td>
+      <td><a href='https://careers.roblox.com/jobs/7577436?gh_jid=7577436'>Apply</a></td>
+      <td>Feb 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Scale AI</b></td>
+      <td>San Francisco, CA; Seattle, WA; New York, NY</td>
+      <td>AI Infrastructure Engineer - Training Platform</td>
+      <td><a href='https://job-boards.greenhouse.io/scaleai/jobs/4689751005'>Apply</a></td>
+      <td>Apr 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>CA-Ontario-Toronto</td>
+      <td>Software Engineer, Engineering Infrastructure - Entry Level</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/a104fbc0-d07c-4974-aeeb-49aa56948fe7'>Apply</a></td>
+      <td>Apr 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TN NASHVILLE 04435 WM SUPERCENTER</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TN-NASHVILLE-04435-WM-SUPERCENTER/Front-End-Coach_R-2493639'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-28-13-28-39'>🕐 Batch at 2026-04-28 13:28:39</h3>
 
@@ -99,7 +208,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-28-11-29-58'>🕐 Batch at 2026-04-28 11:29:58</h3>
 
 📊 **Total jobs in this batch: 13**
@@ -221,8 +329,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-28-10-04-55'>🕐 Batch at 2026-04-28 10:04:55</h3>
+---<h3 id='batch-2026-04-28-10-04-55'>🕐 Batch at 2026-04-28 10:04:55</h3>
 
 📊 **Total jobs in this batch: 24**
 
