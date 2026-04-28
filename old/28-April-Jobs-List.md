@@ -4,10 +4,101 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-28 13:28:39](#batch-2026-04-28-13-28-39)
 - [Batch at 2026-04-28 11:29:58](#batch-2026-04-28-11-29-58)
 - [Batch at 2026-04-28 10:04:55](#batch-2026-04-28-10-04-55)
 - [Batch at 2026-04-28 07:29:29](#batch-2026-04-28-07-29-29)
-- [Batch at 2026-04-28 04:57:05](#batch-2026-04-28-04-57-05)
+
+<h3 id='batch-2026-04-28-13-28-39'>🕐 Batch at 2026-04-28 13:28:39</h3>
+
+📊 **Total jobs in this batch: 9**
+
+**Per company:**
+- Airbnb: 1 job
+- BAH: 2 jobs
+- Gecko Robotics: 1 job
+- GE Healthcare: 1 job
+- Samsara: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Airbnb</b></td>
+      <td>United States</td>
+      <td>Software Engineer, Storage</td>
+      <td><a href='https://careers.airbnb.com/positions/7858277?gh_jid=7858277'>Apply</a></td>
+      <td>Apr 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>DevOps Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer--Mid_R0238886-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>FMS Space Domain Awareness System Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/FMS-Space-Domain-Awareness-System-Engineer_R0238875-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Gecko Robotics</b></td>
+      <td>New York City</td>
+      <td>Software Engineer | Infrastructure | Government</td>
+      <td><a href='https://jobs.ashbyhq.com/gecko-robotics/5294ec64-877a-4796-9765-6f9c3a90db67'>Apply</a></td>
+      <td>Apr 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>GE Healthcare</b></td>
+      <td>WA07-01-Bellevue-1100-112th Avenue NE</td>
+      <td>AI Scientist</td>
+      <td><a href='https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/WA07-01-Bellevue-1100-112th-Avenue-NE/AI-Scientist_R4040023-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Samsara</b></td>
+      <td>Remote - US</td>
+      <td>Data Engineer II</td>
+      <td><a href='https://www.samsara.com/company/careers/roles/7859406?gh_jid=7859406'>Apply</a></td>
+      <td>Apr 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) LA SPRINGHILL 01169 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-LA-SPRINGHILL-01169-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2493535-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Data Analyst II - LMD Fraud Prevention</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Data-Analyst-II---LMD-Fraud-Prevention_R-2493335'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Olathe, KS</td>
+      <td>(USA) Material Handler, Manufacturing Mon - Fri, 10pm to 6:30am</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Olathe-KS/XMLNAME--USA--Material-Handler--Manufacturing-Mon---Fri--10pm-to-6-30am_R-2493495'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-28-11-29-58'>🕐 Batch at 2026-04-28 11:29:58</h3>
 
@@ -131,7 +222,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-28-10-04-55'>🕐 Batch at 2026-04-28 10:04:55</h3>
 
 📊 **Total jobs in this batch: 24**
@@ -330,8 +420,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-28-07-29-29'>🕐 Batch at 2026-04-28 07:29:29</h3>
+---<h3 id='batch-2026-04-28-07-29-29'>🕐 Batch at 2026-04-28 07:29:29</h3>
 
 📊 **Total jobs in this batch: 5**
 
