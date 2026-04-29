@@ -4,10 +4,117 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-29 11:24:13](#batch-2026-04-29-11-24-13)
 - [Batch at 2026-04-29 09:53:09](#batch-2026-04-29-09-53-09)
 - [Batch at 2026-04-29 07:16:00](#batch-2026-04-29-07-16-00)
 - [Batch at 2026-04-29 04:49:34](#batch-2026-04-29-04-49-34)
-- [Batch at 2026-04-29 02:20:14](#batch-2026-04-29-02-20-14)
+
+<h3 id='batch-2026-04-29-11-24-13'>🕐 Batch at 2026-04-29 11:24:13</h3>
+
+📊 **Total jobs in this batch: 11**
+
+**Per company:**
+- ASMLEXT1: 1 job
+- BAH: 1 job
+- BorgWarner: 1 job
+- Comcast : 1 job
+- Datamaxis: 1 job
+- nVent: 1 job
+- One: 1 job
+- Walmart: 4 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Hillsboro, OR, USA</td>
+      <td>Field Applications Engineer</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Hillsboro-OR-USA/Field-Applications-Engineer_J-00336394'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Cloud DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cloud-DevOps-Engineer_R0238964'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Auburn Hills - Michigan - USA</td>
+      <td>Software Application Engineering Intern (Year Round)</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Application-Engineering-Intern--Year-Round-_R2026-1645'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1800 Arch St</td>
+      <td>Engineer 1, Software Development & Engineering</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R436363'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Datamaxis</b></td>
+      <td>Springfield, IL</td>
+      <td>EDW Medicaid Subject Matter Expert/Data Specialist</td>
+      <td><a href='https://datamaxis.breezy.hr/p/e584966b5447-edw-medicaid-subject-matter-expert-data-specialist'>Apply</a></td>
+      <td>Apr 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Blaine, MN, US</td>
+      <td>Material Handler - 2nd Shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Blaine-MN-US/Material-Handler---2nd-Shift_R21671'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>One</b></td>
+      <td>United States (Remote)</td>
+      <td>React Native Mobile Developer</td>
+      <td><a href='https://jobs.ashbyhq.com/oneapp/0fdf3e1b-2c9c-4ef0-a9bf-d7313e9ed19a'>Apply</a></td>
+      <td>Apr 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Valdosta, GA</td>
+      <td>(USA) Pharmacy Grad Intern (Hrly) - Store 2615 - 2026 - Grad Intern Conversion</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Valdosta-GA/XMLNAME--USA--Pharmacy-Grad-Intern--Hrly----Store-2615---2026---Grad-Intern-Conversion_R-2328245-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) FL OLDSMAR 02796 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-FL-OLDSMAR-02796-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2493954'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) SD SIOUX FALLS 04865 WM SUPERCENTER</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-SD-SIOUX-FALLS-04865-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2491735'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Salaberry-De-Valleyfield, QC</td>
+      <td>(CAN) Caissier</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Salaberry-De-Valleyfield-QC/XMLNAME--CAN--Caissier_R-2494132'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-29-09-53-09'>🕐 Batch at 2026-04-29 09:53:09</h3>
 
@@ -204,7 +311,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-29-07-16-00'>🕐 Batch at 2026-04-29 07:16:00</h3>
 
 📊 **Total jobs in this batch: 7**
@@ -281,8 +387,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-29-04-49-34'>🕐 Batch at 2026-04-29 04:49:34</h3>
+---<h3 id='batch-2026-04-29-04-49-34'>🕐 Batch at 2026-04-29 04:49:34</h3>
 
 📊 **Total jobs in this batch: 1**
 
