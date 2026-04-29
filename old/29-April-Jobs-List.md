@@ -4,10 +4,170 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-29 13:21:32](#batch-2026-04-29-13-21-32)
 - [Batch at 2026-04-29 11:24:13](#batch-2026-04-29-11-24-13)
 - [Batch at 2026-04-29 09:53:09](#batch-2026-04-29-09-53-09)
 - [Batch at 2026-04-29 07:16:00](#batch-2026-04-29-07-16-00)
-- [Batch at 2026-04-29 04:49:34](#batch-2026-04-29-04-49-34)
+
+<h3 id='batch-2026-04-29-13-21-32'>🕐 Batch at 2026-04-29 13:21:32</h3>
+
+📊 **Total jobs in this batch: 18**
+
+**Per company:**
+- Applied Materials: 1 job
+- ASMLEXT1: 1 job
+- BorgWarner: 1 job
+- Citi: 1 job
+- DoorDash : 1 job
+- Gelber Group: 1 job
+- KLA: 1 job
+- MOOG: 1 job
+- NVIDIA: 1 job
+- spacex: 1 job
+- Waymo: 1 job
+- Walmart: 7 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Data Scientist II (E2)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist-II--E2-_R2618643'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>N Phoenix, AZ, USA</td>
+      <td>Upgrade Install and Relocation Engineer</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/N-Phoenix-AZ-USA/Upgrade-Install-and-Relocation-Engineer_J-00339736-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Arden - North Carolina - USA</td>
+      <td>HR Intern</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/HR-Intern_R2026-1616'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Fountain Valley California United States</td>
+      <td>Part Time Teller (20 Hours), Fountain Valley Branch</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Fountain-Valley-California-United-States/Part-Time-Teller--20-Hours---Fountain-Valley-Branch_26959869'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>San Francisco, CA</td>
+      <td>AI Research Fellowship, (Summer and Fall 2026)</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/7848317'>Apply</a></td>
+      <td>Apr 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Gelber Group</b></td>
+      <td>Chicago, IL</td>
+      <td>Software Engineering Internship (Backoffice Team) - Summer 2026</td>
+      <td><a href='https://job-boards.greenhouse.io/gelbergroup/jobs/4657272006'>Apply</a></td>
+      <td>Apr 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Material Handler</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Material-Handler_2635558'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Contracts</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Contracts_R-26-17425'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Compiler Engineer, Backend- New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Application Software Engineer, Data</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8530277002?gh_jid=8530277002'>Apply</a></td>
+      <td>Apr 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>MountainView, CA, United States </td>
+      <td>Front-End Software Engineer, Simulation</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7855418'>Apply</a></td>
+      <td>Apr 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) CO PAGOSA SPRINGS 05003 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CO-PAGOSA-SPRINGS-05003-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2492065-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Respect Building CA SUNNYVALE Home Office</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III_R-2473394-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Respect Building CA SUNNYVALE Home Office</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III_R-2473382-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Woodland Park, CO</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Woodland-Park-CO/XMLNAME--USA--Front-End-Coach_R-2494186-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 03646 WM SUPERCENTER</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-03646-WM-SUPERCENTER/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2494669'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 03646 WM SUPERCENTER</td>
+      <td>(CAN) Caissier</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-03646-WM-SUPERCENTER/XMLNAME--CAN--Caissier_R-2494665'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 01201 WM SUPERCENTER</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-01201-WM-SUPERCENTER/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2494583'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-29-11-24-13'>🕐 Batch at 2026-04-29 11:24:13</h3>
 
@@ -115,7 +275,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-29-09-53-09'>🕐 Batch at 2026-04-29 09:53:09</h3>
 
 📊 **Total jobs in this batch: 23**
@@ -310,8 +469,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-29-07-16-00'>🕐 Batch at 2026-04-29 07:16:00</h3>
+---<h3 id='batch-2026-04-29-07-16-00'>🕐 Batch at 2026-04-29 07:16:00</h3>
 
 📊 **Total jobs in this batch: 7**
 
