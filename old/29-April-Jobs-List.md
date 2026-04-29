@@ -4,10 +4,94 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-29 15:10:37](#batch-2026-04-29-15-10-37)
 - [Batch at 2026-04-29 13:21:32](#batch-2026-04-29-13-21-32)
 - [Batch at 2026-04-29 11:24:13](#batch-2026-04-29-11-24-13)
 - [Batch at 2026-04-29 09:53:09](#batch-2026-04-29-09-53-09)
-- [Batch at 2026-04-29 07:16:00](#batch-2026-04-29-07-16-00)
+
+<h3 id='batch-2026-04-29-15-10-37'>🕐 Batch at 2026-04-29 15:10:37</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- Applied Materials: 1 job
+- BAH: 2 jobs
+- Gelber Group: 1 job
+- homedepot: 1 job
+- Morgan Stanley: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Algorithm Developer Intern</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Algorithm-Developer-Intern_R2615108'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Ashburn, VA</td>
+      <td>Generative AI Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/Generative-AI-Engineer_R0239018'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Meteorological Data Management Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Meteorological-Data-Management-Engineer_R0239007'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Gelber Group</b></td>
+      <td>Chicago, IL</td>
+      <td>Software Engineer Internship (Technical Operations Team) - Summer 2026</td>
+      <td><a href='https://job-boards.greenhouse.io/gelbergroup/jobs/4652887006'>Apply</a></td>
+      <td>Apr 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>MARYLAND - VIRTUAL - MD01</td>
+      <td>Rental Delivery Driver I CDLA - Silver Spring, MD</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/MARYLAND---VIRTUAL---MD01/Rental-Delivery-Driver-I-CDLA---Silver-Spring--MD_Req178690'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>Alpharetta, Georgia, United States of America</td>
+      <td>Python / Solution Architect - Modernization, Cloud & AI Enablement</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-Georgia-United-States-of-America/Software-Architect-Electronic-Records-Archiving--Modernization--Cloud---AI-Enablement---VP_PT-JR034932'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) AL ARAB 00306 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-AL-ARAB-00306-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2494274-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) IL WOOD RIVER 01071 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IL-WOOD-RIVER-01071-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2493493'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-29-13-21-32'>🕐 Batch at 2026-04-29 13:21:32</h3>
 
@@ -168,7 +252,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-29-11-24-13'>🕐 Batch at 2026-04-29 11:24:13</h3>
 
 📊 **Total jobs in this batch: 11**
@@ -274,8 +357,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-29-09-53-09'>🕐 Batch at 2026-04-29 09:53:09</h3>
+---<h3 id='batch-2026-04-29-09-53-09'>🕐 Batch at 2026-04-29 09:53:09</h3>
 
 📊 **Total jobs in this batch: 23**
 
