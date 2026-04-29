@@ -4,10 +4,96 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-28 17:05:57](#batch-2026-04-28-17-05-57)
 - [Batch at 2026-04-28 15:10:25](#batch-2026-04-28-15-10-25)
 - [Batch at 2026-04-28 13:28:39](#batch-2026-04-28-13-28-39)
 - [Batch at 2026-04-28 11:29:58](#batch-2026-04-28-11-29-58)
-- [Batch at 2026-04-28 10:04:55](#batch-2026-04-28-10-04-55)
+
+<h3 id='batch-2026-04-28-17-05-57'>🕐 Batch at 2026-04-28 17:05:57</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- Akuna Capital: 1 job
+- Applied Materials: 1 job
+- Databricks: 1 job
+- Dematic Corp. (ILD-US): 1 job
+- NVIDIA: 1 job
+- OpenAI: 1 job
+- Twilio: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Akuna Capital</b></td>
+      <td>Chicago, IL</td>
+      <td>Junior Quantitative Researcher - Prediction Markets</td>
+      <td><a href='https://www.akunacapital.com/careers/job/7863348/?gh_jid=7863348'>Apply</a></td>
+      <td>Apr 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Material Coordinator/Handler III</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Coordinator-Handler-III_R2618035-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Databricks</b></td>
+      <td>Georgia; Illinois; Massachusetts; New York; North Carolina</td>
+      <td>Solutions Architect - Financial Services (Strategic Data Providers)</td>
+      <td><a href='https://databricks.com/company/careers/open-positions/job?gh_jid=8520024002'>Apply</a></td>
+      <td>Apr 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Dematic Corp. (ILD-US)</b></td>
+      <td>Belrose, NSW, Australia</td>
+      <td>Full-stack C# Software Engineer</td>
+      <td><a href='https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Belrose-NSW-Australia/Full-stack-C--Software-Engineer_JR-0089758-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Hardware Applications Engineer - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Applications-Engineer---New-College-Grad-2026_JR2016940'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenAI</b></td>
+      <td>New York City</td>
+      <td>AI Deployment Engineer- Codex</td>
+      <td><a href='https://jobs.ashbyhq.com/openai/179b998f-ae76-4de7-a4d0-c2c30d0b0bc8'>Apply</a></td>
+      <td>Apr 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Twilio</b></td>
+      <td>Remote - US</td>
+      <td>Software Engineer - Video</td>
+      <td><a href='https://job-boards.greenhouse.io/twilio/jobs/7661919'>Apply</a></td>
+      <td>Feb 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>US PA WOODLAND 06827 DISPATCH TRUCKING</td>
+      <td>Truck Driver OTR - Regional - Woodland, PA</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-PA-WOODLAND-06827-DISPATCH-TRUCKING/Truck-Driver-OTR---Regional---Woodland--PA_R-2493384'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-28-15-10-25'>🕐 Batch at 2026-04-28 15:10:25</h3>
 
@@ -117,7 +203,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-28-13-28-39'>🕐 Batch at 2026-04-28 13:28:39</h3>
 
 📊 **Total jobs in this batch: 9**
@@ -207,8 +292,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-28-11-29-58'>🕐 Batch at 2026-04-28 11:29:58</h3>
+---<h3 id='batch-2026-04-28-11-29-58'>🕐 Batch at 2026-04-28 11:29:58</h3>
 
 📊 **Total jobs in this batch: 13**
 
