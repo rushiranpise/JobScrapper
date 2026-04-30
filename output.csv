@@ -1,21 +1,23 @@
-company,title,location,postedOn,link,updatedOn
-"Samsung Electronics America, Inc","Engineer III, Software Process Engineering","12130 Millennium Dr., Los Angeles, CA USA",Posted Today,https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12130-Millennium-Dr-Los-Angeles-CA-USA/Engineer-III--Software-Process-Engineering_R116827,
-ASMLEXT1,"Material Handler, Contract","San Diego, CA, USA",Posted Today,https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/Material-Handler--Contract_J-00334433-1,
-BAH,Palantir Software Engineer,"Vandenberg AFB, CA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Vandenberg-AFB-CA/Palantir-Software-Engineer_R0239065,
-BAH,"Full Stack Developer, Mid","Hampton, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Hampton-VA/Full-Stack-Developer--Mid_R0239014,
-Bank of Montreal,"Executive Assistant, BMO Capital Markets","New York, NY, USA",Posted Today,https://bmo.wd3.myworkdayjobs.com/en-US/External/job/New-York-NY-USA/Executive-Assistant--BMO-Capital-Markets_R260000935,
-Comcast ,Software & Systems Architecture Engineer,"PA - Philadelphia, 1701 John F Kennedy Blvd",Posted Today,https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Sr-Engineer--Legal-Software---Systems-Architecture_R429512,
-Databricks,AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector,United States,2026-04-30T13:55:04-04:00,https://databricks.com/company/careers/open-positions/job?gh_jid=8531838002,2026-04-30T13:55:04-04:00
-KLA,Product Development Engineer (Electronics & Software Integration),"Milpitas, CA",Posted Today,https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Product-Development-Engineer--Electronics---Software-Integration-_2636324,
-MongoDB,Software Engineer 3,New York City,2026-04-10T14:00:57-04:00,https://job-boards.greenhouse.io/mongodb/jobs/7779598,2026-04-30T13:04:02-04:00
-MongoDB,Software Engineer 3 - Query Optimization,Atlanta; Boston; New York City,2026-04-24T12:26:23-04:00,https://job-boards.greenhouse.io/mongodb/jobs/7816135,2026-04-30T13:04:02-04:00
-MongoDB,"Software Engineer, Code Generation",California; Colorado; Montana; Nevada; New Mexico; Oregon; Utah; Washington,2025-12-22T14:40:50-05:00,https://job-boards.greenhouse.io/mongodb/jobs/7311666,2026-04-30T13:04:02-04:00
-NVIDIA,"Developer Technology Intern, High-Performance Databases - Fall 2026","US, CA, Santa Clara",Posted Today,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern--High-Performance-Databases---Fall-2026_JR2016352,
-NVIDIA,AI Factory Deployment Engineer,"US, CA, Santa Clara",Posted Today,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Deployment-Engineer_JR2016943,
-Pure storage,Software Asset Analyst,"Santa Clara, California",2026-04-30T12:48:07-04:00,https://job-boards.greenhouse.io/purestorage/jobs/7868516,2026-04-30T12:48:07-04:00
-SoFi,Appraisal Order Analyst,United States,2026-04-30T13:54:52-04:00,https://sofi.com/careers/job/7713452003?gh_jid=7713452003,2026-04-30T13:54:52-04:00
-Sony AI America Inc,Graphic Artist Intern (Peanuts Worldwide),New York,Posted Today,https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/New-York/Graphic-Artist-Intern--PWW_JR-119083,
-Voya,Sourcing and Procurement Intern,"Atlanta, GA",Posted Today,https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Atlanta-GA/Sourcing-and-Procurement-Intern_JR0032651,
-Workday,Analytics Software Engineer - US Federal,USA.VA.Reston,Posted Today,https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Analytics-Software-Engineer---US-Federal_JR-0105490-1,
-Workday,Software Development Engineer (US Federal),USA.VA.Reston,Posted Today,https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0105421,
-Walmart,Pharmacy Pre-Grad Intern - WM,(USA) NC RALEIGH 01372 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NC-RALEIGH-01372-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2495316-2,
+company,title,location,link,postedOn,updatedOn
+Anduril Industries,Firmware Engineer Intern,"Costa Mesa, California, United States",https://boards.greenhouse.io/andurilindustries/jobs/5121683007?gh_jid=5121683007,2026-04-30T14:59:15-04:00,2026-04-30T14:59:15-04:00
+ASMLEXT1,Optical Fabrication Technician (CNC) CWW Back End Days,"Wilton, CT, USA",https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician--CNC--CWW-Back-End-Days_J-00338895-1,Posted Today,
+ASMLEXT1,Material Handler Dallas,"Dallas, TX, USA",https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Dallas-TX-USA/Material-Handler-Dallas_J-00340160,Posted Today,
+Applied Materials,"EHS/Product Safety Engineer - New College Grad, Bachelor's (Santa Clara, CA)","Santa Clara,CA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/EHS-Product-Safety-Engineer---New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2518727,Posted Today,
+BAH,Data Engineer,"Chantilly, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Data-Engineer_R0239091,Posted Today,
+BAH,Data Engineer,"Chantilly, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Data-Engineer_R0239090,Posted Today,
+BAH,Cloud Architect,"McLean, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cloud-Architect_R0238174,Posted Today,
+BAH,F-35 Sustainment Engineering Analyst,"Fort Worth, TX",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Worth-TX/F-35-Sustainment-Engineering-Analyst_R0239066,Posted Today,
+BAH,API Integration Developer,"Annapolis Junction, MD",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/API-Integration-Developer_R0238401,Posted Today,
+BAH,Data Engineer,"Chantilly, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Data-Engineer_R0239070,Posted Today,
+Becton Dickinson’s Integrated Diagnostics Systems,Field Service Engineer 2- Part-time (Northern Maine),USA CA - San Diego Bldg A&B,https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-Bldg-AB/Field-Service-Engineer-2--Part-time--Northern-Maine-_R-544333,Posted Today,
+CMU,Course Administrative Assistant - School of Computer Science - MLD,"Pittsburgh, PA",https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Course-Administrative-Assistant---School-of-Computer-Science---MLD_2024412,Posted Today,
+Esri,Spatial Data Engineer II,"Redlands, CA",https://www.esri.com/careers/5031881007?gh_jid=5031881007,2026-02-09T13:58:59-05:00,2026-04-30T16:01:20-04:00
+genpt,Store Counter Trainee,"Rio Rancho, NM, USA",https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Rio-Rancho-NM-USA/Store-Counter-Trainee_R26_0000013004-1,Posted Today,
+homedepot,AI/ML Developer II (Remote),GEORGIA - VIRTUAL - GA01,https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/GEORGIA---VIRTUAL---GA01/AI-ML-Developer-II--Remote-_Req178618,Posted Today,
+nVent,Material Handler - 2nd Shift,"Anoka, MN, US",https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Material-Handler---2nd-Shift_R21700,Posted Today,
+Schonfeld,Market Data Analyst,"New York, New York, United States",https://job-boards.greenhouse.io/schonfeld/jobs/7843959,2026-04-30T15:08:56-04:00,2026-04-30T15:08:57-04:00
+Sony AI America Inc,"Intern, Vulnerability Management",Remote - Maryland,https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Maryland/Intern--Vulnerability-Management_JR-118844,Posted Today,
+SRK Supplylogix LLC,Specialist Software Developer B2B Commerce,"USA, VA, Richmond",https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-VA-Richmond/Specialist-Software-Developer-B2B-Commerce_JR0145015-1,Posted Today,
+The Walt Disney Company,Software Engineer II,"Seattle, WA, USA",https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-II_10148452,Posted Today,
+Voya,Wealth Management Investor Channel Internship,"MA-Boston, 121 Seaport Blvd",https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/MA-Boston-121-Seaport-Blvd/Wealth-Management-Investor-Channel-Internship_JR0032630,Posted Today,
+Walmart,Front End Coach,"Wooster, OH",https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Wooster-OH/Front-End-Coach_R-2495449-1,Posted Today,

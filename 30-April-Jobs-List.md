@@ -4,10 +4,202 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-30 13:20:28](#batch-2026-04-30-13-20-28)
 - [Batch at 2026-04-30 11:21:59](#batch-2026-04-30-11-21-59)
 - [Batch at 2026-04-30 09:31:21](#batch-2026-04-30-09-31-21)
 - [Batch at 2026-04-30 07:14:26](#batch-2026-04-30-07-14-26)
-- [Batch at 2026-04-30 04:49:23](#batch-2026-04-30-04-49-23)
+
+<h3 id='batch-2026-04-30-13-20-28'>🕐 Batch at 2026-04-30 13:20:28</h3>
+
+📊 **Total jobs in this batch: 22**
+
+**Per company:**
+- Anduril Industries: 1 job
+- ASMLEXT1: 2 jobs
+- Applied Materials: 1 job
+- BAH: 6 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- CMU: 1 job
+- Esri: 1 job
+- genpt: 1 job
+- homedepot: 1 job
+- nVent: 1 job
+- Schonfeld: 1 job
+- Sony AI America Inc: 1 job
+- SRK Supplylogix LLC: 1 job
+- The Walt Disney Company: 1 job
+- Voya: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Firmware Engineer Intern</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5121683007?gh_jid=5121683007'>Apply</a></td>
+      <td>Apr 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Optical Fabrication Technician (CNC) CWW Back End Days</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician--CNC--CWW-Back-End-Days_J-00338895-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Dallas, TX, USA</td>
+      <td>Material Handler Dallas</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Dallas-TX-USA/Material-Handler-Dallas_J-00340160'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>EHS/Product Safety Engineer - New College Grad, Bachelor's (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/EHS-Product-Safety-Engineer---New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2518727'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Data-Engineer_R0239091'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Data-Engineer_R0239090'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Cloud Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cloud-Architect_R0238174'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Worth, TX</td>
+      <td>F-35 Sustainment Engineering Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Worth-TX/F-35-Sustainment-Engineering-Analyst_R0239066'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Annapolis Junction, MD</td>
+      <td>API Integration Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/API-Integration-Developer_R0238401'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Data-Engineer_R0239070'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA CA - San Diego Bldg A&B</td>
+      <td>Field Service Engineer 2- Part-time (Northern Maine)</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-Bldg-AB/Field-Service-Engineer-2--Part-time--Northern-Maine-_R-544333'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Course Administrative Assistant - School of Computer Science - MLD</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Course-Administrative-Assistant---School-of-Computer-Science---MLD_2024412'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Spatial Data Engineer II</td>
+      <td><a href='https://www.esri.com/careers/5031881007?gh_jid=5031881007'>Apply</a></td>
+      <td>Feb 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Rio Rancho, NM, USA</td>
+      <td>Store Counter Trainee</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Rio-Rancho-NM-USA/Store-Counter-Trainee_R26_0000013004-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>GEORGIA - VIRTUAL - GA01</td>
+      <td>AI/ML Developer II (Remote)</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/GEORGIA---VIRTUAL---GA01/AI-ML-Developer-II--Remote-_Req178618'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Anoka, MN, US</td>
+      <td>Material Handler - 2nd Shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Material-Handler---2nd-Shift_R21700'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Schonfeld</b></td>
+      <td>New York, New York, United States</td>
+      <td>Market Data Analyst</td>
+      <td><a href='https://job-boards.greenhouse.io/schonfeld/jobs/7843959'>Apply</a></td>
+      <td>Apr 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Sony AI America Inc</b></td>
+      <td>Remote - Maryland</td>
+      <td>Intern, Vulnerability Management</td>
+      <td><a href='https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Maryland/Intern--Vulnerability-Management_JR-118844'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, VA, Richmond</td>
+      <td>Specialist Software Developer B2B Commerce</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-VA-Richmond/Specialist-Software-Developer-B2B-Commerce_JR0145015-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Seattle, WA, USA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-II_10148452'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Voya</b></td>
+      <td>MA-Boston, 121 Seaport Blvd</td>
+      <td>Wealth Management Investor Channel Internship</td>
+      <td><a href='https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/MA-Boston-121-Seaport-Blvd/Wealth-Management-Investor-Channel-Internship_JR0032630'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Wooster, OH</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Wooster-OH/Front-End-Coach_R-2495449-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-30-11-21-59'>🕐 Batch at 2026-04-30 11:21:59</h3>
 
@@ -185,7 +377,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-30-09-31-21'>🕐 Batch at 2026-04-30 09:31:21</h3>
 
 📊 **Total jobs in this batch: 14**
@@ -315,8 +506,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-30-07-14-26'>🕐 Batch at 2026-04-30 07:14:26</h3>
+---<h3 id='batch-2026-04-30-07-14-26'>🕐 Batch at 2026-04-30 07:14:26</h3>
 
 📊 **Total jobs in this batch: 16**
 
