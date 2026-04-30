@@ -4,10 +4,71 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-30 16:11:02](#batch-2026-04-30-16-11-02)
 - [Batch at 2026-04-30 15:07:26](#batch-2026-04-30-15-07-26)
 - [Batch at 2026-04-30 13:20:28](#batch-2026-04-30-13-20-28)
 - [Batch at 2026-04-30 11:21:59](#batch-2026-04-30-11-21-59)
-- [Batch at 2026-04-30 09:31:21](#batch-2026-04-30-09-31-21)
+
+<h3 id='batch-2026-04-30-16-11-02'>🕐 Batch at 2026-04-30 16:11:02</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- CrowdStrike, Inc: 1 job
+- Citi: 1 job
+- General Motors LLC: 1 job
+- IXL Learning: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Remote, CA</td>
+      <td>Data Engineer, Go to Market (Remote)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-CA/Data-Engineer--Go-to-Market--Remote-_R28625'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Irving Texas United States</td>
+      <td>Cloud Platform Developer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Cloud-Platform-Developer_26959775'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Software Integration Quality Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Integration-Quality-Engineer_JR-202609895'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>IXL Learning</b></td>
+      <td>Raleigh, NC</td>
+      <td>Software Engineer, New Grad</td>
+      <td><a href='https://www.ixl.com/company/jobs?gh_jid=8530542002'>Apply</a></td>
+      <td>Apr 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>IXL Learning</b></td>
+      <td>San Mateo, CA</td>
+      <td>Software Engineer, New Grad</td>
+      <td><a href='https://www.ixl.com/company/jobs?gh_jid=8530389002'>Apply</a></td>
+      <td>Apr 30, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-30-15-07-26'>🕐 Batch at 2026-04-30 15:07:26</h3>
 
@@ -137,7 +198,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-30-13-20-28'>🕐 Batch at 2026-04-30 13:20:28</h3>
 
 📊 **Total jobs in this batch: 22**
@@ -328,8 +388,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-30-11-21-59'>🕐 Batch at 2026-04-30 11:21:59</h3>
+---<h3 id='batch-2026-04-30-11-21-59'>🕐 Batch at 2026-04-30 11:21:59</h3>
 
 📊 **Total jobs in this batch: 20**
 
