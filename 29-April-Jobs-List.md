@@ -4,10 +4,104 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-29 23:40:40](#batch-2026-04-29-23-40-40)
 - [Batch at 2026-04-29 17:05:52](#batch-2026-04-29-17-05-52)
 - [Batch at 2026-04-29 15:10:37](#batch-2026-04-29-15-10-37)
 - [Batch at 2026-04-29 13:21:32](#batch-2026-04-29-13-21-32)
-- [Batch at 2026-04-29 11:24:13](#batch-2026-04-29-11-24-13)
+
+<h3 id='batch-2026-04-29-23-40-40'>🕐 Batch at 2026-04-29 23:40:40</h3>
+
+📊 **Total jobs in this batch: 10**
+
+**Per company:**
+- Applied Materials: 2 jobs
+- Walmart: 8 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Kalispell,MT</td>
+      <td>AGS Training Services PPC New Product (NPI) Instructor III - (E3)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/KalispellMT/AGS-Training-Services-PPC-New-Product--NPI--Instructor-III----E3-_R2618368'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>AGS Training Service DDP New Product (NPI) Instructor III - (E3)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/AGS-Training-Service-DDP-New-Product--NPI--Instructor-III----E3-_R2618366'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Software-Engineer-III_R-2433058-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN TN CHENNAI Home Office Capita Land</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/Software-Engineer-III_R-2463398'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN TN CHENNAI Home Office Capita Land</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/Software-Engineer-III_R-2463396'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Douglas, GA</td>
+      <td>Pharmacy Grad Intern (Hrly) - Store 593 Douglas, GA</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Douglas-GA/Pharmacy-Grad-Intern--Hrly----Store-593-Douglas--GA_R-2495072'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Hazlehurst, GA</td>
+      <td>Pharmacy Grad Intern (Hrly) - Store1061 Hazlehurst, GA</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Hazlehurst-GA/Pharmacy-Grad-Intern--Hrly----Store1061-Hazlehurst--GA_R-2495073'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Fitzgerald, GA</td>
+      <td>(USA) Pharmacy Grad Intern (Hrly) - Store 686 Fitzgerald, GA</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Fitzgerald-GA/XMLNAME--USA--Pharmacy-Grad-Intern--Hrly----Store-686-Fitzgerald--GA_R-2495069'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) GA EASTMAN 01018 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly) - Store 1018 Eastman, GA</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-GA-EASTMAN-01018-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly----Store-1018-Eastman--GA_R-2495067'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) GA WAYCROSS 00556 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly) - Store 556 Waycross, GA</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-GA-WAYCROSS-00556-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly----Store-556-Waycross--GA_R-2495066'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-29-17-05-52'>🕐 Batch at 2026-04-29 17:05:52</h3>
 
@@ -77,7 +171,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-29-15-10-37'>🕐 Batch at 2026-04-29 15:10:37</h3>
 
 📊 **Total jobs in this batch: 8**
@@ -160,8 +253,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-29-13-21-32'>🕐 Batch at 2026-04-29 13:21:32</h3>
+---<h3 id='batch-2026-04-29-13-21-32'>🕐 Batch at 2026-04-29 13:21:32</h3>
 
 📊 **Total jobs in this batch: 18**
 
