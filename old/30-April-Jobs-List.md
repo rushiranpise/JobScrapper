@@ -4,10 +4,187 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-30 11:21:59](#batch-2026-04-30-11-21-59)
 - [Batch at 2026-04-30 09:31:21](#batch-2026-04-30-09-31-21)
 - [Batch at 2026-04-30 07:14:26](#batch-2026-04-30-07-14-26)
 - [Batch at 2026-04-30 04:49:23](#batch-2026-04-30-04-49-23)
-- [Batch at 2026-04-30 02:24:02](#batch-2026-04-30-02-24-02)
+
+<h3 id='batch-2026-04-30-11-21-59'>🕐 Batch at 2026-04-30 11:21:59</h3>
+
+📊 **Total jobs in this batch: 20**
+
+**Per company:**
+- Samsung Electronics America, Inc: 1 job
+- ASMLEXT1: 1 job
+- BAH: 2 jobs
+- Bank of Montreal: 1 job
+- Comcast : 1 job
+- Databricks: 1 job
+- KLA: 1 job
+- MongoDB: 3 jobs
+- NVIDIA: 2 jobs
+- Pure storage: 1 job
+- SoFi: 1 job
+- Sony AI America Inc: 1 job
+- Voya: 1 job
+- Workday: 2 jobs
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>12130 Millennium Dr., Los Angeles, CA USA</td>
+      <td>Engineer III, Software Process Engineering</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12130-Millennium-Dr-Los-Angeles-CA-USA/Engineer-III--Software-Process-Engineering_R116827'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>San Diego, CA, USA</td>
+      <td>Material Handler, Contract</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/Material-Handler--Contract_J-00334433-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Vandenberg AFB, CA</td>
+      <td>Palantir Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Vandenberg-AFB-CA/Palantir-Software-Engineer_R0239065'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Hampton, VA</td>
+      <td>Full Stack Developer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Hampton-VA/Full-Stack-Developer--Mid_R0239014'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>New York, NY, USA</td>
+      <td>Executive Assistant, BMO Capital Markets</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/New-York-NY-USA/Executive-Assistant--BMO-Capital-Markets_R260000935'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1701 John F Kennedy Blvd</td>
+      <td>Software & Systems Architecture Engineer</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Sr-Engineer--Legal-Software---Systems-Architecture_R429512'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Databricks</b></td>
+      <td>United States</td>
+      <td>AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector</td>
+      <td><a href='https://databricks.com/company/careers/open-positions/job?gh_jid=8531838002'>Apply</a></td>
+      <td>Apr 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Product Development Engineer (Electronics & Software Integration)</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Product-Development-Engineer--Electronics---Software-Integration-_2636324'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MongoDB</b></td>
+      <td>New York City</td>
+      <td>Software Engineer 3</td>
+      <td><a href='https://job-boards.greenhouse.io/mongodb/jobs/7779598'>Apply</a></td>
+      <td>Apr 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>MongoDB</b></td>
+      <td>Atlanta; Boston; New York City</td>
+      <td>Software Engineer 3 - Query Optimization</td>
+      <td><a href='https://job-boards.greenhouse.io/mongodb/jobs/7816135'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>MongoDB</b></td>
+      <td>California; Colorado; Montana; Nevada; New Mexico; Oregon; Utah; Washington</td>
+      <td>Software Engineer, Code Generation</td>
+      <td><a href='https://job-boards.greenhouse.io/mongodb/jobs/7311666'>Apply</a></td>
+      <td>Dec 22, 2025</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Developer Technology Intern, High-Performance Databases - Fall 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern--High-Performance-Databases---Fall-2026_JR2016352'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>AI Factory Deployment Engineer</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Deployment-Engineer_JR2016943'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pure storage</b></td>
+      <td>Santa Clara, California</td>
+      <td>Software Asset Analyst</td>
+      <td><a href='https://job-boards.greenhouse.io/purestorage/jobs/7868516'>Apply</a></td>
+      <td>Apr 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SoFi</b></td>
+      <td>United States</td>
+      <td>Appraisal Order Analyst</td>
+      <td><a href='https://sofi.com/careers/job/7713452003?gh_jid=7713452003'>Apply</a></td>
+      <td>Apr 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Sony AI America Inc</b></td>
+      <td>New York</td>
+      <td>Graphic Artist Intern (Peanuts Worldwide)</td>
+      <td><a href='https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/New-York/Graphic-Artist-Intern--PWW_JR-119083'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Voya</b></td>
+      <td>Atlanta, GA</td>
+      <td>Sourcing and Procurement Intern</td>
+      <td><a href='https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Atlanta-GA/Sourcing-and-Procurement-Intern_JR0032651'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA.VA.Reston</td>
+      <td>Analytics Software Engineer - US Federal</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Analytics-Software-Engineer---US-Federal_JR-0105490-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA.VA.Reston</td>
+      <td>Software Development Engineer (US Federal)</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0105421'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NC RALEIGH 01372 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NC-RALEIGH-01372-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2495316-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-30-09-31-21'>🕐 Batch at 2026-04-30 09:31:21</h3>
 
@@ -139,7 +316,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-30-07-14-26'>🕐 Batch at 2026-04-30 07:14:26</h3>
 
 📊 **Total jobs in this batch: 16**
@@ -285,8 +461,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-30-04-49-23'>🕐 Batch at 2026-04-30 04:49:23</h3>
+---<h3 id='batch-2026-04-30-04-49-23'>🕐 Batch at 2026-04-30 04:49:23</h3>
 
 📊 **Total jobs in this batch: 1**
 

@@ -1,15 +1,21 @@
-company,title,location,link,postedOn,updatedOn
-Addepar,Frontend Software Engineer,"Remote, USA",https://job-boards.greenhouse.io/addepar1/jobs/8526593002,2026-04-30T11:40:59-04:00,2026-04-30T11:40:59-04:00
-BAH,"Data Scientist, Mid","Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0239044,Posted Today,
-Esri,"Software Engineer I – AI Assistant Framework, ArcGIS Enterprise","Redlands, CA",https://www.esri.com/careers/5111215007?gh_jid=5111215007,2026-04-30T11:42:55-04:00,2026-04-30T11:42:55-04:00
-genpt,Store Paint Specialist,"Fairfield, CA, USA",https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Fairfield-CA-USA/Store-Paint-Specialist_R26_0000013710,Posted Today,
-Natera ,Medical Science Liaison ,US Remote,https://job-boards.greenhouse.io/natera/jobs/5984085004,2026-04-30T11:38:25-04:00,2026-04-30T11:38:25-04:00
-Natera ,Medical Science Liaison ,US Remote,https://job-boards.greenhouse.io/natera/jobs/5984087004,2026-04-30T11:38:33-04:00,2026-04-30T11:38:33-04:00
-Pinterest,"Software Engineer II, Backend, tvScientific","San Francisco, CA, US; Remote, US",https://www.pinterestcareers.com/jobs/?gh_jid=7782552,2026-04-30T11:36:58-04:00,2026-04-30T11:36:58-04:00
-PlayStation Global,"Software Engineer II, Front End","United States, Madison, WI",https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5985217004,2026-04-30T10:48:04-04:00,2026-04-30T10:48:38-04:00
-Snowflake,AI System Research and Development Engineer - Optimization,US-WA-Bellevue,https://jobs.ashbyhq.com/snowflake/b8b30900-135e-4937-91b4-cec38d7901fd,2026-04-30T16:10:05.597+00:00,
-spacex,"Software Engineer, Beam Planning (Starlink)   ","Sunnyvale, CA",https://boards.greenhouse.io/spacex/jobs/8530316002?gh_jid=8530316002,2026-04-30T12:20:05-04:00,2026-04-30T12:20:05-04:00
-spacex,"Software Engineer, High Performance Computing (Starlink)   ","Sunnyvale, CA",https://boards.greenhouse.io/spacex/jobs/8530338002?gh_jid=8530338002,2026-04-30T12:20:06-04:00,2026-04-30T12:20:06-04:00
-spacex,"Software Engineer, Low Latency Computing (Starlink)   ","Sunnyvale, CA",https://boards.greenhouse.io/spacex/jobs/8530342002?gh_jid=8530342002,2026-04-30T12:20:07-04:00,2026-04-30T12:20:07-04:00
-Walmart,(CAN) Préposé au traitement des commandes OMNI,"Val-D'Or, QC",https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Val-DOr-QC/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2495372,Posted Today,
-Zipline,Software Systems Validation Engineer,"South San Francisco, California, USA",https://www.zipline.com/careers?gh_jid=7719677003,2026-04-30T12:12:33-04:00,2026-04-30T12:12:33-04:00
+company,title,location,postedOn,link,updatedOn
+"Samsung Electronics America, Inc","Engineer III, Software Process Engineering","12130 Millennium Dr., Los Angeles, CA USA",Posted Today,https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12130-Millennium-Dr-Los-Angeles-CA-USA/Engineer-III--Software-Process-Engineering_R116827,
+ASMLEXT1,"Material Handler, Contract","San Diego, CA, USA",Posted Today,https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/Material-Handler--Contract_J-00334433-1,
+BAH,Palantir Software Engineer,"Vandenberg AFB, CA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Vandenberg-AFB-CA/Palantir-Software-Engineer_R0239065,
+BAH,"Full Stack Developer, Mid","Hampton, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Hampton-VA/Full-Stack-Developer--Mid_R0239014,
+Bank of Montreal,"Executive Assistant, BMO Capital Markets","New York, NY, USA",Posted Today,https://bmo.wd3.myworkdayjobs.com/en-US/External/job/New-York-NY-USA/Executive-Assistant--BMO-Capital-Markets_R260000935,
+Comcast ,Software & Systems Architecture Engineer,"PA - Philadelphia, 1701 John F Kennedy Blvd",Posted Today,https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Sr-Engineer--Legal-Software---Systems-Architecture_R429512,
+Databricks,AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector,United States,2026-04-30T13:55:04-04:00,https://databricks.com/company/careers/open-positions/job?gh_jid=8531838002,2026-04-30T13:55:04-04:00
+KLA,Product Development Engineer (Electronics & Software Integration),"Milpitas, CA",Posted Today,https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Product-Development-Engineer--Electronics---Software-Integration-_2636324,
+MongoDB,Software Engineer 3,New York City,2026-04-10T14:00:57-04:00,https://job-boards.greenhouse.io/mongodb/jobs/7779598,2026-04-30T13:04:02-04:00
+MongoDB,Software Engineer 3 - Query Optimization,Atlanta; Boston; New York City,2026-04-24T12:26:23-04:00,https://job-boards.greenhouse.io/mongodb/jobs/7816135,2026-04-30T13:04:02-04:00
+MongoDB,"Software Engineer, Code Generation",California; Colorado; Montana; Nevada; New Mexico; Oregon; Utah; Washington,2025-12-22T14:40:50-05:00,https://job-boards.greenhouse.io/mongodb/jobs/7311666,2026-04-30T13:04:02-04:00
+NVIDIA,"Developer Technology Intern, High-Performance Databases - Fall 2026","US, CA, Santa Clara",Posted Today,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern--High-Performance-Databases---Fall-2026_JR2016352,
+NVIDIA,AI Factory Deployment Engineer,"US, CA, Santa Clara",Posted Today,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Deployment-Engineer_JR2016943,
+Pure storage,Software Asset Analyst,"Santa Clara, California",2026-04-30T12:48:07-04:00,https://job-boards.greenhouse.io/purestorage/jobs/7868516,2026-04-30T12:48:07-04:00
+SoFi,Appraisal Order Analyst,United States,2026-04-30T13:54:52-04:00,https://sofi.com/careers/job/7713452003?gh_jid=7713452003,2026-04-30T13:54:52-04:00
+Sony AI America Inc,Graphic Artist Intern (Peanuts Worldwide),New York,Posted Today,https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/New-York/Graphic-Artist-Intern--PWW_JR-119083,
+Voya,Sourcing and Procurement Intern,"Atlanta, GA",Posted Today,https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Atlanta-GA/Sourcing-and-Procurement-Intern_JR0032651,
+Workday,Analytics Software Engineer - US Federal,USA.VA.Reston,Posted Today,https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Analytics-Software-Engineer---US-Federal_JR-0105490-1,
+Workday,Software Development Engineer (US Federal),USA.VA.Reston,Posted Today,https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0105421,
+Walmart,Pharmacy Pre-Grad Intern - WM,(USA) NC RALEIGH 01372 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NC-RALEIGH-01372-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2495316-2,
