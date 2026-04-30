@@ -4,10 +4,139 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-30 15:07:26](#batch-2026-04-30-15-07-26)
 - [Batch at 2026-04-30 13:20:28](#batch-2026-04-30-13-20-28)
 - [Batch at 2026-04-30 11:21:59](#batch-2026-04-30-11-21-59)
 - [Batch at 2026-04-30 09:31:21](#batch-2026-04-30-09-31-21)
-- [Batch at 2026-04-30 07:14:26](#batch-2026-04-30-07-14-26)
+
+<h3 id='batch-2026-04-30-15-07-26'>🕐 Batch at 2026-04-30 15:07:26</h3>
+
+📊 **Total jobs in this batch: 14**
+
+**Per company:**
+- Anduril Industries: 1 job
+- BAH: 6 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- General Motors LLC: 1 job
+- Intel Corporation: 1 job
+- spacex: 1 job
+- The Walt Disney Company: 1 job
+- Voya: 1 job
+- Waymo: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Irvine, California, United States</td>
+      <td>Electrical Engineer, Sustainment</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5115318007?gh_jid=5115318007'>Apply</a></td>
+      <td>Apr 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Open-Source Research Analyst, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0239102'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Open-Source Research Analyst, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0239100'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Diego, CA</td>
+      <td>Cross Domain Solution Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Cross-Domain-Solution-Engineer_R0239089'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-Engineer_R0239083'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-Engineer_R0239081'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lexington Park, MD</td>
+      <td>Python Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/Python-Developer_R0239087'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA AZ - Tempe Headquarters</td>
+      <td>R&D Engineer III (Sustaining)</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-AZ---Tempe-Headquarters/R-D-Engineer-III--Sustaining-_R-542861-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Application Engineer -  Advanced Manufacturing</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Application-Engineer----Advanced-Manufacturing_JR-202609084'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>Virtual US</td>
+      <td>Developer Technology Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Developer-Technology-Engineer_JR0283560'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Engineer, Development Test (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8532395002?gh_jid=8532395002'>Apply</a></td>
+      <td>Apr 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>New York, NY, USA</td>
+      <td>World News Tonight Production Intern, Fall 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/World-News-Tonight-Production-Intern--Fall-2026_10149593'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Voya</b></td>
+      <td>Atlanta, GA</td>
+      <td>Summer Student - Data Analytics</td>
+      <td><a href='https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Atlanta-GA/Summer-Student---Data-Analytics_JR0031913'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA; San Francisco, CA, USA</td>
+      <td>Software Engineer, Driving Behaviors</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7351058'>Apply</a></td>
+      <td>Oct 29, 2025</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-30-13-20-28'>🕐 Batch at 2026-04-30 13:20:28</h3>
 
@@ -200,7 +329,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-30-11-21-59'>🕐 Batch at 2026-04-30 11:21:59</h3>
 
 📊 **Total jobs in this batch: 20**
@@ -376,8 +504,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-30-09-31-21'>🕐 Batch at 2026-04-30 09:31:21</h3>
+---<h3 id='batch-2026-04-30-09-31-21'>🕐 Batch at 2026-04-30 09:31:21</h3>
 
 📊 **Total jobs in this batch: 14**
 
