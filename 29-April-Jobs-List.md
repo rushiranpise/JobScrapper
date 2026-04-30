@@ -4,10 +4,79 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-29 17:05:52](#batch-2026-04-29-17-05-52)
 - [Batch at 2026-04-29 15:10:37](#batch-2026-04-29-15-10-37)
 - [Batch at 2026-04-29 13:21:32](#batch-2026-04-29-13-21-32)
 - [Batch at 2026-04-29 11:24:13](#batch-2026-04-29-11-24-13)
-- [Batch at 2026-04-29 09:53:09](#batch-2026-04-29-09-53-09)
+
+<h3 id='batch-2026-04-29-17-05-52'>🕐 Batch at 2026-04-29 17:05:52</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- BAH: 1 job
+- flir: 1 job
+- LexisNexis Risk Solutions: 1 job
+- State Street: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Joomla Backend Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Joomla-Backend-Developer_R0239019'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Milpitas, CA</td>
+      <td>Field Applications Engineer</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Milpitas-CA/Field-Applications-Engineer_REQ34462'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>LexisNexis Risk Solutions</b></td>
+      <td>Virginia</td>
+      <td>Data Analyst III</td>
+      <td><a href='https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Virginia/Data-Analyst-III_R112841'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Burlington Massachusetts</td>
+      <td>Cloud QA Engineer and Performance Intern - CRD- July- Dec</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Cloud-QA-Engineer-and-Performance-Intern---CRD--July--Dec_R-789400'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Respect Building CA SUNNYVALE Home Office</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2470806'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 01201 WM SUPERCENTER</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-01201-WM-SUPERCENTER/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2494566'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-29-15-10-37'>🕐 Batch at 2026-04-29 15:10:37</h3>
 
@@ -92,7 +161,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-29-13-21-32'>🕐 Batch at 2026-04-29 13:21:32</h3>
 
 📊 **Total jobs in this batch: 18**
@@ -251,8 +319,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-29-11-24-13'>🕐 Batch at 2026-04-29 11:24:13</h3>
+---<h3 id='batch-2026-04-29-11-24-13'>🕐 Batch at 2026-04-29 11:24:13</h3>
 
 📊 **Total jobs in this batch: 11**
 
