@@ -4,9 +4,141 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-30 09:31:21](#batch-2026-04-30-09-31-21)
 - [Batch at 2026-04-30 07:14:26](#batch-2026-04-30-07-14-26)
 - [Batch at 2026-04-30 04:49:23](#batch-2026-04-30-04-49-23)
 - [Batch at 2026-04-30 02:24:02](#batch-2026-04-30-02-24-02)
+
+<h3 id='batch-2026-04-30-09-31-21'>🕐 Batch at 2026-04-30 09:31:21</h3>
+
+📊 **Total jobs in this batch: 14**
+
+**Per company:**
+- Addepar: 1 job
+- BAH: 1 job
+- Esri: 1 job
+- genpt: 1 job
+- Natera : 2 jobs
+- Pinterest: 1 job
+- PlayStation Global: 1 job
+- Snowflake: 1 job
+- spacex: 3 jobs
+- Walmart: 1 job
+- Zipline: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Addepar</b></td>
+      <td>Remote, USA</td>
+      <td>Frontend Software Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/addepar1/jobs/8526593002'>Apply</a></td>
+      <td>Apr 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0239044'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Engineer I – AI Assistant Framework, ArcGIS Enterprise</td>
+      <td><a href='https://www.esri.com/careers/5111215007?gh_jid=5111215007'>Apply</a></td>
+      <td>Apr 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Fairfield, CA, USA</td>
+      <td>Store Paint Specialist</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Fairfield-CA-USA/Store-Paint-Specialist_R26_0000013710'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Medical Science Liaison </td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/5984085004'>Apply</a></td>
+      <td>Apr 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Medical Science Liaison </td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/5984087004'>Apply</a></td>
+      <td>Apr 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Pinterest</b></td>
+      <td>San Francisco, CA, US; Remote, US</td>
+      <td>Software Engineer II, Backend, tvScientific</td>
+      <td><a href='https://www.pinterestcareers.com/jobs/?gh_jid=7782552'>Apply</a></td>
+      <td>Apr 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, Madison, WI</td>
+      <td>Software Engineer II, Front End</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5985217004'>Apply</a></td>
+      <td>Apr 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-WA-Bellevue</td>
+      <td>AI System Research and Development Engineer - Optimization</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/b8b30900-135e-4937-91b4-cec38d7901fd'>Apply</a></td>
+      <td>Apr 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Sunnyvale, CA</td>
+      <td>Software Engineer, Beam Planning (Starlink)   </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8530316002?gh_jid=8530316002'>Apply</a></td>
+      <td>Apr 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Sunnyvale, CA</td>
+      <td>Software Engineer, High Performance Computing (Starlink)   </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8530338002?gh_jid=8530338002'>Apply</a></td>
+      <td>Apr 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Sunnyvale, CA</td>
+      <td>Software Engineer, Low Latency Computing (Starlink)   </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8530342002?gh_jid=8530342002'>Apply</a></td>
+      <td>Apr 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Val-D'Or, QC</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Val-DOr-QC/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2495372'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Software Systems Validation Engineer</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7719677003'>Apply</a></td>
+      <td>Apr 30, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-30-07-14-26'>🕐 Batch at 2026-04-30 07:14:26</h3>
 
@@ -154,7 +286,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-30-04-49-23'>🕐 Batch at 2026-04-30 04:49:23</h3>
 
 📊 **Total jobs in this batch: 1**
@@ -183,8 +314,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-30-02-24-02'>🕐 Batch at 2026-04-30 02:24:02</h3>
+---<h3 id='batch-2026-04-30-02-24-02'>🕐 Batch at 2026-04-30 02:24:02</h3>
 
 📊 **Total jobs in this batch: 1**
 
