@@ -4,10 +4,128 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-01 15:04:08](#batch-2026-05-01-15-04-08)
 - [Batch at 2026-05-01 13:15:23](#batch-2026-05-01-13-15-23)
 - [Batch at 2026-05-01 11:10:03](#batch-2026-05-01-11-10-03)
 - [Batch at 2026-05-01 09:13:03](#batch-2026-05-01-09-13-03)
-- [Batch at 2026-05-01 08:08:05](#batch-2026-05-01-08-08-05)
+
+<h3 id='batch-2026-05-01-15-04-08'>🕐 Batch at 2026-05-01 15:04:08</h3>
+
+📊 **Total jobs in this batch: 13**
+
+**Per company:**
+- Samsung Electronics America, Inc: 3 jobs
+- BAH: 7 jobs
+- Gemini: 1 job
+- Stripe: 1 job
+- spacex: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>12100 Samsung Blvd, Austin, TX, USA</td>
+      <td>CRC Material Handler</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/CRC-Material-Handler_R116797'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>12100 Samsung Blvd, Austin, TX, USA</td>
+      <td>Front-End Developer/Automation Engineer</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Front-End-Developer-Automation-Engineer_R116862'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>1530 FM 973 Taylor, TX, USA</td>
+      <td>Full Stack DX Engineer</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Full-Stack-DX-Engineer_R116863'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Aurora, CO</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0239228'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Offutt AFB, NE</td>
+      <td>Application System Administrator</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Offutt-AFB-NE/Application-System-Administrator_R0239227'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Reston, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Reston-VA/Data-Scientist--Mid_R0239225'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lorton, VA</td>
+      <td>Data Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Data-Architect_R0239222'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Software-Engineer_R0239218'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lorton, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Data-Scientist_R0239215'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Background Screening Specialist, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Background-Screening-Specialist--Junior_R0239208'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Gemini</b></td>
+      <td>New York, New York</td>
+      <td>Software Engineering Intern (Fall 2026)</td>
+      <td><a href='https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125'>Apply</a></td>
+      <td>May 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>San Francisco, New York City, Seattle, Chicago</td>
+      <td>PhD Data Scientist, Intern</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=7874965'>Apply</a></td>
+      <td>May 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, Telemetry - Top Secret Clearance (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8533686002?gh_jid=8533686002'>Apply</a></td>
+      <td>May 01, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-01-13-15-23'>🕐 Batch at 2026-05-01 13:15:23</h3>
 
@@ -113,7 +231,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-01-11-10-03'>🕐 Batch at 2026-05-01 11:10:03</h3>
 
 📊 **Total jobs in this batch: 5**
@@ -173,8 +290,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-01-09-13-03'>🕐 Batch at 2026-05-01 09:13:03</h3>
+---<h3 id='batch-2026-05-01-09-13-03'>🕐 Batch at 2026-05-01 09:13:03</h3>
 
 📊 **Total jobs in this batch: 10**
 

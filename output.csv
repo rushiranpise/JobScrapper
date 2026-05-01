@@ -1,12 +1,14 @@
-company,title,location,postedOn,link
-BAH,"Data Analyst, Mid","Millington, TN",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Millington-TN/Data-Analyst--Mid_R0239211
-BAH,Modeling and Simulation Software Engineer,"Wright Patterson AFB, OH",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wright-Patterson-AFB-OH/Modeling-and-Simulation-Software-Engineer_R0238585
-BAH,ServiceNow Developer,"Charlottesville, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/ServiceNow-Developer_R0239190
-BAH,Textile Materials Developer,"Lorton, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Textile-Materials-Developer_R0239193-1
-Becton Dickinson’s Integrated Diagnostics Systems,Quality Analytics Engineering Intern,USA NC - Durham - Roche Drive,Posted Today,https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NC---Durham---Roche-Drive/Quality-Analytics-Engineering-Intern_R-544433
-General Motors LLC,Software Controls Engineer / Chassis Dynamics,"Milford, Michigan, United States of America",Posted Today,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Controls-Engineer---Chassis-Dynamics_JR-202608806
-genpt,Inventory Data Analyst,"Birmingham, AL, USA",Posted Today,https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Inventory-Data-Analyst_R26_0000013130
-The Toro,"Co-Op, Engineering - Ventrac","Orrville, OH",Posted Today,https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Orrville-OH/Co-Op--Engineering---Ventrac_JR16069
-Walmart,Pharmacy Grad Intern (Hrly),(USA) PA CRANBERRY TOWNSHIP 01770 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-PA-CRANBERRY-TOWNSHIP-01770-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2496623-1
-Walmart,(USA) Coach/Ops Mgr Trainee,"Lakewood, NY",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Lakewood-NY/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2442838-1
-Walmart,Software Engineer III,(USA) Crossman Service Building CA SUNNYVALE Home Office,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III_R-2451418
+company,title,location,postedOn,link,updatedOn
+"Samsung Electronics America, Inc",CRC Material Handler,"12100 Samsung Blvd, Austin, TX, USA",Posted Today,https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/CRC-Material-Handler_R116797,
+"Samsung Electronics America, Inc",Front-End Developer/Automation Engineer,"12100 Samsung Blvd, Austin, TX, USA",Posted Today,https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Front-End-Developer-Automation-Engineer_R116862,
+"Samsung Electronics America, Inc",Full Stack DX Engineer,"1530 FM 973 Taylor, TX, USA",Posted Today,https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Full-Stack-DX-Engineer_R116863,
+BAH,Software Engineer,"Aurora, CO",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0239228,
+BAH,Application System Administrator,"Offutt AFB, NE",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Offutt-AFB-NE/Application-System-Administrator_R0239227,
+BAH,"Data Scientist, Mid","Reston, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Reston-VA/Data-Scientist--Mid_R0239225,
+BAH,Data Architect,"Lorton, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Data-Architect_R0239222,
+BAH,Software Engineer,"Washington, DC",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Software-Engineer_R0239218,
+BAH,Data Scientist,"Lorton, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Data-Scientist_R0239215,
+BAH,"Background Screening Specialist, Junior","McLean, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Background-Screening-Specialist--Junior_R0239208,
+Gemini,Software Engineering Intern (Fall 2026),"New York, New York",2026-05-01T16:57:37-04:00,https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125,2026-05-01T16:57:37-04:00
+Stripe,"PhD Data Scientist, Intern","San Francisco, New York City, Seattle, Chicago",2026-05-01T16:58:52-04:00,https://stripe.com/jobs/search?gh_jid=7874965,2026-05-01T16:58:52-04:00
+spacex,"Software Engineer, Telemetry - Top Secret Clearance (Starlink)","Hawthorne, CA",2026-05-01T17:52:29-04:00,https://boards.greenhouse.io/spacex/jobs/8533686002?gh_jid=8533686002,2026-05-01T17:52:29-04:00
