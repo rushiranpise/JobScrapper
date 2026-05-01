@@ -1,8 +1,8 @@
 
-✅ Scraped 13 new jobs. Output saved to 'output.csv'.
-📦 Appended 13 jobs to 'output_old.csv'
+✅ Scraped 5 new jobs. Output saved to 'output.csv'.
+📦 Appended 5 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"Samsung Electronics America, Inc","title":"CRC Material Handler","location":"12100 Samsung Blvd, Austin, TX, USA","link":"https:\/\/sec.wd3.myworkdayjobs.com\/en-US\/Samsung_Careers\/job\/12100-Samsung-Blvd-Austin-TX-USA\/CRC-Material-Handler_R116797","postedOn":"Posted Today","updatedOn":null},{"company":"Samsung Electronics America, Inc","title":"Front-End Developer\/Automation Engineer","location":"12100 Samsung Blvd, Austin, TX, USA","link":"https:\/\/sec.wd3.myworkdayjobs.com\/en-US\/Samsung_Careers\/job\/12100-Samsung-Blvd-Austin-TX-USA\/Front-End-Developer-Automation-Engineer_R116862","postedOn":"Posted Today","updatedOn":null},{"company":"Samsung Electronics America, Inc","title":"Full Stack DX Engineer","location":"1530 FM 973 Taylor, TX, USA","link":"https:\/\/sec.wd3.myworkdayjobs.com\/en-US\/Samsung_Careers\/job\/1530-FM-973-Taylor-TX-USA\/Full-Stack-DX-Engineer_R116863","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Software Engineer","location":"Aurora, CO","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Aurora-CO\/Software-Engineer_R0239228","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Application System Administrator","location":"Offutt AFB, NE","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Offutt-AFB-NE\/Application-System-Administrator_R0239227","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Data Scientist, Mid","location":"Reston, VA","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Reston-VA\/Data-Scientist--Mid_R0239225","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Data Architect","location":"Lorton, VA","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Lorton-VA\/Data-Architect_R0239222","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Software Engineer","location":"Washington, DC","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Washington-DC\/Software-Engineer_R0239218","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Data Scientist","location":"Lorton, VA","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Lorton-VA\/Data-Scientist_R0239215","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Background Screening Specialist, Junior","location":"McLean, VA","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/McLean-VA\/Background-Screening-Specialist--Junior_R0239208","postedOn":"Posted Today","updatedOn":null},{"company":"Gemini","title":"Software Engineering Intern (Fall 2026)","location":"New York, New York","link":"https:\/\/boards.greenhouse.io\/embed\/job_app?for=gemini&token=7875125&gh_jid=7875125","postedOn":"2026-05-01T16:57:37-04:00","updatedOn":"2026-05-01T16:57:37-04:00"},{"company":"Stripe","title":"PhD Data Scientist, Intern","location":"San Francisco, New York City, Seattle, Chicago","link":"https:\/\/stripe.com\/jobs\/search?gh_jid=7874965","postedOn":"2026-05-01T16:58:52-04:00","updatedOn":"2026-05-01T16:58:52-04:00"},{"company":"spacex","title":"Software Engineer, Telemetry - Top Secret Clearance (Starlink)","location":"Hawthorne, CA","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8533686002?gh_jid=8533686002","postedOn":"2026-05-01T17:52:29-04:00","updatedOn":"2026-05-01T17:52:29-04:00"}]
+[{"company":"Anduril Industries","title":"Multinational Digital Infrastructure - Full Stack SW Eng. (US)","location":"Washington, District of Columbia, United States","link":"https:\/\/boards.greenhouse.io\/andurilindustries\/jobs\/5127000007?gh_jid=5127000007","postedOn":"2026-05-01T18:34:08-04:00","updatedOn":"2026-05-01T18:35:02-04:00"},{"company":"Anduril Industries","title":"Multinational Digital Infrastructure - Full Stack SW Eng. (US)","location":"Costa Mesa, California, United States","link":"https:\/\/boards.greenhouse.io\/andurilindustries\/jobs\/5050511007?gh_jid=5050511007","postedOn":"2026-02-19T21:53:07-05:00","updatedOn":"2026-05-01T18:33:12-04:00"},{"company":"BAH","title":"Software Engineer","location":"Aurora, CO","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Aurora-CO\/Software-Engineer_R0239232","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"Costume Buyer - Cosmetology (Project Hire\/ Internal Assignment)","location":"Orlando, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Orlando-FL-USA\/Costume-Buyer---Cosmetology--Project-Hire--Internal-Assignment-_10148041","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"(CAN) Caissier","location":"(CAN) QC VILLE DE QUEBEC 01201 WM SUPERCENTER","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/CAN-QC-VILLE-DE-QUEBEC-01201-WM-SUPERCENTER\/XMLNAME--CAN--Caissier_R-2497392","postedOn":"Posted Today","updatedOn":null}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
@@ -14,15 +14,15 @@ ERRORS_START
 [ERROR] Canonical: Greenhouse API failed: 404
 [ERROR] Cdata: Greenhouse API failed: 404
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"FE15F2MONGE0IK","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"561557MONIGVGG","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Clever: Could not extract Lever company name
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
 [ERROR] Dapper Labs: Lever API failed: https://api.lever.co/v0/postings/axiomzen?mode=json - 404
 [ERROR] Demandbase : Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
 [ERROR] EliseAI : Greenhouse API failed: 404
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"D4B6F0MONIHROQ","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"FA6889MONGEYBL","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Funnel: Breezy API failed: 403
 [ERROR] Grammarly : Greenhouse API failed: 404
 [ERROR] Groq: Greenhouse API failed: 404
@@ -33,35 +33,41 @@ ERRORS_START
 [ERROR] Kobie: Greenhouse API failed: 404
 [ERROR] Kodiak Robotics: Lever API failed: https://api.lever.co/v0/postings/kodiak?mode=json - 404
 [ERROR] Modernizing Medicine: Greenhouse API failed: 404
-[ERROR] netflix: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Notion: Greenhouse API failed: 404
+[ERROR] netflix: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Perplexity AI: Greenhouse API failed: 404
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"E5A46DMONGH48Z","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"040FB8MONIJYIS","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Relativity Space: Greenhouse API failed: 404
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
+[ERROR] SabreJobs: Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] Shipt : Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] Sentry : Workday API failed: HTTP 403 - <!DOCTYPE html>
-[ERROR] Root: Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] Skydio: Greenhouse API failed: 404
-[ERROR] Rakuten Marketing LLC: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] Robert Half : Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] Root: Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] searchLFN: Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] Rakuten : Workday API failed: HTTP 403 - <!DOCTYPE html>
-[ERROR] Robert Half : Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] Simons Foundation: Workday API failed: HTTP 403 - <!DOCTYPE html>
-[ERROR] SabreJobs: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] Rakuten Marketing LLC: Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] Stitch Fix : Greenhouse API failed: 404
 [ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
 [ERROR] TCG Capital: Greenhouse API failed: 404
 [ERROR] Snap: Invalid Workday URL
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"38C4ACMONGIKTI","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"F2C7FBMONGIO4K","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"4D148BMONIL94R","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Sony AI America Inc: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] State Street: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"D93D01MONILBW2","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] The Toro: Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] TRM labs: Greenhouse API failed: 404
+[ERROR] Verily: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] USAA: Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] Vimeo: Greenhouse API failed: 404
+[ERROR] Tricentis : Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"48E968MONGJRXZ","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"F2C7FBMONIM4XS","httpStatus":422,"message":"","messageParams":{}}
 ERRORS_END

@@ -4,10 +4,71 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-01 16:01:54](#batch-2026-05-01-16-01-54)
 - [Batch at 2026-05-01 15:04:08](#batch-2026-05-01-15-04-08)
 - [Batch at 2026-05-01 13:15:23](#batch-2026-05-01-13-15-23)
 - [Batch at 2026-05-01 11:10:03](#batch-2026-05-01-11-10-03)
-- [Batch at 2026-05-01 09:13:03](#batch-2026-05-01-09-13-03)
+
+<h3 id='batch-2026-05-01-16-01-54'>🕐 Batch at 2026-05-01 16:01:54</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- Anduril Industries: 2 jobs
+- BAH: 1 job
+- The Walt Disney Company: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Washington, District of Columbia, United States</td>
+      <td>Multinational Digital Infrastructure - Full Stack SW Eng. (US)</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5127000007?gh_jid=5127000007'>Apply</a></td>
+      <td>May 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Multinational Digital Infrastructure - Full Stack SW Eng. (US)</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5050511007?gh_jid=5050511007'>Apply</a></td>
+      <td>Feb 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Aurora, CO</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0239232'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Orlando, FL, USA</td>
+      <td>Costume Buyer - Cosmetology (Project Hire/ Internal Assignment)</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Costume-Buyer---Cosmetology--Project-Hire--Internal-Assignment-_10148041'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 01201 WM SUPERCENTER</td>
+      <td>(CAN) Caissier</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-01201-WM-SUPERCENTER/XMLNAME--CAN--Caissier_R-2497392'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-01-15-04-08'>🕐 Batch at 2026-05-01 15:04:08</h3>
 
@@ -126,7 +187,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-01-13-15-23'>🕐 Batch at 2026-05-01 13:15:23</h3>
 
 📊 **Total jobs in this batch: 11**
@@ -230,8 +290,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-01-11-10-03'>🕐 Batch at 2026-05-01 11:10:03</h3>
+---<h3 id='batch-2026-05-01-11-10-03'>🕐 Batch at 2026-05-01 11:10:03</h3>
 
 📊 **Total jobs in this batch: 5**
 
