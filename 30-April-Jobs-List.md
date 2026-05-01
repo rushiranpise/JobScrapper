@@ -4,10 +4,115 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-30 20:51:27](#batch-2026-04-30-20-51-27)
 - [Batch at 2026-04-30 16:11:02](#batch-2026-04-30-16-11-02)
 - [Batch at 2026-04-30 15:07:26](#batch-2026-04-30-15-07-26)
 - [Batch at 2026-04-30 13:20:28](#batch-2026-04-30-13-20-28)
-- [Batch at 2026-04-30 11:21:59](#batch-2026-04-30-11-21-59)
+
+<h3 id='batch-2026-04-30-20-51-27'>🕐 Batch at 2026-04-30 20:51:27</h3>
+
+📊 **Total jobs in this batch: 11**
+
+**Per company:**
+- Motorola Solutions, Inc: 1 job
+- Applied Materials: 2 jobs
+- BAH: 1 job
+- Databricks: 1 job
+- NVIDIA: 2 jobs
+- Walmart: 4 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>California Southern Remote Work, More...</td>
+      <td>ECH Application Specialist - US Remote</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/California-Southern-Remote-Work/ECH-Application-Specialist---US-Remote_R64053'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Albany,NY</td>
+      <td>Albany, NY Global Technical Learning Center Technical Trainer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AlbanyNY/Albany--NY-Global-Technical-Learning-Center-Technical-Trainer_R2618890'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Application Engineer IV</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Application-Engineer-IV_R2618298'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer_R0239118'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Databricks</b></td>
+      <td>United States</td>
+      <td>Specialist Solutions Architect - Cloud Infrastructure & Platform</td>
+      <td><a href='https://databricks.com/company/careers/open-positions/job?gh_jid=8525037002'>Apply</a></td>
+      <td>Apr 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>ASIC Clocks Verification Engineer - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2013336'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Software Operations Business Analyst</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Operations-Business-Analyst_JR2016198'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) ID CHUBBUCK 01995 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ID-CHUBBUCK-01995-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2495828'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) LA WEST MONROE 02940 NEIGHBORHOOD MARKET</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-LA-WEST-MONROE-02940-NEIGHBORHOOD-MARKET/Pharmacy-Pre-Grad-Intern---WM_R-2493921'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX TOMBALL 05045 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-TOMBALL-05045-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2494828'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX TOMBALL 00703 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-TOMBALL-00703-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2494871'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-30-16-11-02'>🕐 Batch at 2026-04-30 16:11:02</h3>
 
@@ -69,7 +174,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-30-15-07-26'>🕐 Batch at 2026-04-30 15:07:26</h3>
 
 📊 **Total jobs in this batch: 14**
@@ -197,8 +301,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-30-13-20-28'>🕐 Batch at 2026-04-30 13:20:28</h3>
+---<h3 id='batch-2026-04-30-13-20-28'>🕐 Batch at 2026-04-30 13:20:28</h3>
 
 📊 **Total jobs in this batch: 22**
 
