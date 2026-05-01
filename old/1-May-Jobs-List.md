@@ -4,8 +4,92 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-01 08:08:05](#batch-2026-05-01-08-08-05)
 - [Batch at 2026-05-01 06:35:03](#batch-2026-05-01-06-35-03)
 - [Batch at 2026-05-01 04:17:57](#batch-2026-05-01-04-17-57)
+
+<h3 id='batch-2026-05-01-08-08-05'>🕐 Batch at 2026-05-01 08:08:05</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- Comcast : 3 jobs
+- General Motors LLC: 1 job
+- Natera : 1 job
+- Snorkel AI: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>VA - Reston, 11951 Freedom Dr Ste 900</td>
+      <td>Software Engineer-7979</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Software-Engineer-7979_R436522'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1701 John F Kennedy Blvd</td>
+      <td>Engineer 4, Software Development & Engineering-3724</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Engineer-4--Software-Development---Engineering-3724_R436409'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>VA - Reston, 11951 Freedom Dr Ste 900</td>
+      <td>Software Engineer-0774</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Software-Engineer-0774_R436402'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Software Engineer - Battery Energy Transfer ART</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer---Battery-Energy-Transfer-ART_JR-202608722'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Forward Deployed AI Solutions Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/5766365004'>Apply</a></td>
+      <td>Jan 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snorkel AI</b></td>
+      <td>Redwood City, CA (Hybrid)</td>
+      <td>Software Engineer —  Summer Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/snorkelai/jobs/5774350004'>Apply</a></td>
+      <td>May 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MN BAXTER 01654 WM SUPERCENTER</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MN-BAXTER-01654-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2491799-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Saint-Eustache, QC</td>
+      <td>(CAN) Caissier</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Saint-Eustache-QC/XMLNAME--CAN--Caissier_R-2496510'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-01-06-35-03'>🕐 Batch at 2026-05-01 06:35:03</h3>
 
@@ -43,7 +127,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-01-04-17-57'>🕐 Batch at 2026-05-01 04:17:57</h3>
 
 📊 **Total jobs in this batch: 2**
