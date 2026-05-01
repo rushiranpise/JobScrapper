@@ -4,10 +4,71 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-01 11:10:03](#batch-2026-05-01-11-10-03)
 - [Batch at 2026-05-01 09:13:03](#batch-2026-05-01-09-13-03)
 - [Batch at 2026-05-01 08:08:05](#batch-2026-05-01-08-08-05)
 - [Batch at 2026-05-01 06:35:03](#batch-2026-05-01-06-35-03)
-- [Batch at 2026-05-01 04:17:57](#batch-2026-05-01-04-17-57)
+
+<h3 id='batch-2026-05-01-11-10-03'>🕐 Batch at 2026-05-01 11:10:03</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- BAH: 1 job
+- General Motors LLC: 2 jobs
+- Morgan Stanley: 1 job
+- SRK Supplylogix LLC: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Applied Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Applied-Data-Scientist_R0239173'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Mountain View, California, United States of America</td>
+      <td>Software Engineer, Simulation Scalability - Sim RIM (Release and Incident Management) Focus</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer--Simulation-Scalability---Sim-RIM--Release-and-Incident-Management--Focus_JR-202605924'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Full Stack Developer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Full-Stack-Developer_JR-202609877'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>New York, New York, United States of America</td>
+      <td>Associate, Software Engineer</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Associate--Software-Engineer_JR021174'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, FL, Jacksonville</td>
+      <td>Delivery Professional - Bulk/Straight Truck (Cover driver)</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-FL-Jacksonville/Delivery-Professional---Bulk-Straight-Truck--Cover-driver-_JR0145121'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-01-09-13-03'>🕐 Batch at 2026-05-01 09:13:03</h3>
 
@@ -105,7 +166,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-01-08-08-05'>🕐 Batch at 2026-05-01 08:08:05</h3>
 
 📊 **Total jobs in this batch: 8**
@@ -187,8 +247,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-01-06-35-03'>🕐 Batch at 2026-05-01 06:35:03</h3>
+---<h3 id='batch-2026-05-01-06-35-03'>🕐 Batch at 2026-05-01 06:35:03</h3>
 
 📊 **Total jobs in this batch: 2**
 
