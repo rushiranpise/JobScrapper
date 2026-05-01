@@ -4,10 +4,62 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-04-30 23:48:00](#batch-2026-04-30-23-48-00)
 - [Batch at 2026-04-30 20:51:27](#batch-2026-04-30-20-51-27)
 - [Batch at 2026-04-30 16:11:02](#batch-2026-04-30-16-11-02)
 - [Batch at 2026-04-30 15:07:26](#batch-2026-04-30-15-07-26)
-- [Batch at 2026-04-30 13:20:28](#batch-2026-04-30-13-20-28)
+
+<h3 id='batch-2026-04-30-23-48-00'>🕐 Batch at 2026-04-30 23:48:00</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- Salesforce: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - Redwood City</td>
+      <td>Software Engineering SMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Redwood-City/Software-Engineering-SMTS_JR340228'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) UT TAYLORSVILLE 01686 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-UT-TAYLORSVILLE-01686-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2494881'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) OR SALEM 05368 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OR-SALEM-05368-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2495001'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) OR SALEM 05368 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OR-SALEM-05368-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2494981'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-04-30-20-51-27'>🕐 Batch at 2026-04-30 20:51:27</h3>
 
@@ -113,7 +165,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-04-30-16-11-02'>🕐 Batch at 2026-04-30 16:11:02</h3>
 
 📊 **Total jobs in this batch: 5**
@@ -173,8 +224,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-04-30-15-07-26'>🕐 Batch at 2026-04-30 15:07:26</h3>
+---<h3 id='batch-2026-04-30-15-07-26'>🕐 Batch at 2026-04-30 15:07:26</h3>
 
 📊 **Total jobs in this batch: 14**
 
