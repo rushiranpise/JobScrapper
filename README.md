@@ -4,10 +4,115 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-01 13:15:23](#batch-2026-05-01-13-15-23)
 - [Batch at 2026-05-01 11:10:03](#batch-2026-05-01-11-10-03)
 - [Batch at 2026-05-01 09:13:03](#batch-2026-05-01-09-13-03)
 - [Batch at 2026-05-01 08:08:05](#batch-2026-05-01-08-08-05)
-- [Batch at 2026-05-01 06:35:03](#batch-2026-05-01-06-35-03)
+
+<h3 id='batch-2026-05-01-13-15-23'>🕐 Batch at 2026-05-01 13:15:23</h3>
+
+📊 **Total jobs in this batch: 11**
+
+**Per company:**
+- BAH: 4 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- General Motors LLC: 1 job
+- genpt: 1 job
+- The Toro: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Millington, TN</td>
+      <td>Data Analyst, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Millington-TN/Data-Analyst--Mid_R0239211'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Wright Patterson AFB, OH</td>
+      <td>Modeling and Simulation Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wright-Patterson-AFB-OH/Modeling-and-Simulation-Software-Engineer_R0238585'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Charlottesville, VA</td>
+      <td>ServiceNow Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/ServiceNow-Developer_R0239190'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lorton, VA</td>
+      <td>Textile Materials Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Textile-Materials-Developer_R0239193-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA NC - Durham - Roche Drive</td>
+      <td>Quality Analytics Engineering Intern</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NC---Durham---Roche-Drive/Quality-Analytics-Engineering-Intern_R-544433'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Software Controls Engineer / Chassis Dynamics</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Controls-Engineer---Chassis-Dynamics_JR-202608806'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Inventory Data Analyst</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Inventory-Data-Analyst_R26_0000013130'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Orrville, OH</td>
+      <td>Co-Op, Engineering - Ventrac</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Orrville-OH/Co-Op--Engineering---Ventrac_JR16069'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) PA CRANBERRY TOWNSHIP 01770 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-PA-CRANBERRY-TOWNSHIP-01770-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2496623-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Lakewood, NY</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Lakewood-NY/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2442838-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Service Building CA SUNNYVALE Home Office</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III_R-2451418'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-01-11-10-03'>🕐 Batch at 2026-05-01 11:10:03</h3>
 
@@ -69,7 +174,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-01-09-13-03'>🕐 Batch at 2026-05-01 09:13:03</h3>
 
 📊 **Total jobs in this batch: 10**
@@ -165,8 +269,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-01-08-08-05'>🕐 Batch at 2026-05-01 08:08:05</h3>
+---<h3 id='batch-2026-05-01-08-08-05'>🕐 Batch at 2026-05-01 08:08:05</h3>
 
 📊 **Total jobs in this batch: 8**
 
