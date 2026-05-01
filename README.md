@@ -4,7 +4,45 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-01 06:35:03](#batch-2026-05-01-06-35-03)
 - [Batch at 2026-05-01 04:17:57](#batch-2026-05-01-04-17-57)
+
+<h3 id='batch-2026-05-01-06-35-03'>🕐 Batch at 2026-05-01 06:35:03</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Weaverville, NC</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Weaverville-NC/Pharmacy-Pre-Grad-Intern---WM_R-2496242-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Smyrna, DE</td>
+      <td>Fleet Development Facilitator ( Regional Training Center )</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Smyrna-DE/Fleet-Development-Facilitator_R-2467794'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-01-04-17-57'>🕐 Batch at 2026-05-01 04:17:57</h3>
 
@@ -43,4 +81,3 @@
 <table>
 
 ---
-
