@@ -4,10 +4,63 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-01 20:26:56](#batch-2026-05-01-20-26-56)
 - [Batch at 2026-05-01 17:02:43](#batch-2026-05-01-17-02-43)
 - [Batch at 2026-05-01 16:01:54](#batch-2026-05-01-16-01-54)
 - [Batch at 2026-05-01 15:04:08](#batch-2026-05-01-15-04-08)
-- [Batch at 2026-05-01 13:15:23](#batch-2026-05-01-13-15-23)
+
+<h3 id='batch-2026-05-01-20-26-56'>🕐 Batch at 2026-05-01 20:26:56</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- Motorola Solutions, Inc: 1 job
+- NVIDIA: 1 job
+- spacex: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Los Angeles, CA</td>
+      <td>Intern – Web Interface Software Engineer (2026)</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Los-Angeles-CA/Intern---Web-Interface-Software-Engineer--2026-_R64590'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>GPU Power Architect - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Power-Architect---New-College-Grad-2026_JR2017169'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Software Engineer, Continuous Integration (Starship)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8533859002?gh_jid=8533859002'>Apply</a></td>
+      <td>May 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, Continuous Integration (Starship)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8533853002?gh_jid=8533853002'>Apply</a></td>
+      <td>May 01, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-01-17-02-43'>🕐 Batch at 2026-05-01 17:02:43</h3>
 
@@ -38,7 +91,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-01-16-01-54'>🕐 Batch at 2026-05-01 16:01:54</h3>
 
 📊 **Total jobs in this batch: 5**
@@ -98,8 +150,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-01-15-04-08'>🕐 Batch at 2026-05-01 15:04:08</h3>
+---<h3 id='batch-2026-05-01-15-04-08'>🕐 Batch at 2026-05-01 15:04:08</h3>
 
 📊 **Total jobs in this batch: 13**
 
