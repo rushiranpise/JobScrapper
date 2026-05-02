@@ -4,10 +4,40 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-01 17:02:43](#batch-2026-05-01-17-02-43)
 - [Batch at 2026-05-01 16:01:54](#batch-2026-05-01-16-01-54)
 - [Batch at 2026-05-01 15:04:08](#batch-2026-05-01-15-04-08)
 - [Batch at 2026-05-01 13:15:23](#batch-2026-05-01-13-15-23)
-- [Batch at 2026-05-01 11:10:03](#batch-2026-05-01-11-10-03)
+
+<h3 id='batch-2026-05-01-17-02-43'>🕐 Batch at 2026-05-01 17:02:43</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- General Motors LLC: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Software Quality Assurance Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Quality-Assurance-Engineer_JR-202608103'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-01-16-01-54'>🕐 Batch at 2026-05-01 16:01:54</h3>
 
@@ -69,7 +99,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-01-15-04-08'>🕐 Batch at 2026-05-01 15:04:08</h3>
 
 📊 **Total jobs in this batch: 13**
@@ -186,8 +215,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-01-13-15-23'>🕐 Batch at 2026-05-01 13:15:23</h3>
+---<h3 id='batch-2026-05-01-13-15-23'>🕐 Batch at 2026-05-01 13:15:23</h3>
 
 📊 **Total jobs in this batch: 11**
 
