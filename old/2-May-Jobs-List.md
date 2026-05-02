@@ -4,7 +4,45 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-02 08:59:48](#batch-2026-05-02-08-59-48)
 - [Batch at 2026-05-02 01:29:58](#batch-2026-05-02-01-29-58)
+
+<h3 id='batch-2026-05-02-08-59-48'>🕐 Batch at 2026-05-02 08:59:48</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) IA DAVENPORT 01241 WM SUPERCENTER</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IA-DAVENPORT-01241-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2496923'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Val-D'Or, QC</td>
+      <td>Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Val-DOr-QC/Prpos-au-traitement-des-commandes-OMNI_R-2497661'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-02-01-29-58'>🕐 Batch at 2026-05-02 01:29:58</h3>
 
@@ -42,4 +80,3 @@
 <table>
 
 ---
-
