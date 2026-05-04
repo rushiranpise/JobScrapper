@@ -4,7 +4,52 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-04 05:00:36](#batch-2026-05-04-05-00-36)
 - [Batch at 2026-05-04 02:31:23](#batch-2026-05-04-02-31-23)
+
+<h3 id='batch-2026-05-04-05-00-36'>🕐 Batch at 2026-05-04 05:00:36</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office Building 10</td>
+      <td>(IND) Grad Intern - No Work Experience</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2485481'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office Building 11</td>
+      <td>(IND) Grad Intern - No Work Experience</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-11/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2498676'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office Building 10</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/Software-Engineer-III_R-2473952'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-04-02-31-23'>🕐 Batch at 2026-05-04 02:31:23</h3>
 
@@ -43,4 +88,3 @@
 <table>
 
 ---
-
