@@ -4,10 +4,154 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-04 13:27:25](#batch-2026-05-04-13-27-25)
 - [Batch at 2026-05-04 11:26:38](#batch-2026-05-04-11-26-38)
 - [Batch at 2026-05-04 09:59:02](#batch-2026-05-04-09-59-02)
 - [Batch at 2026-05-04 07:19:53](#batch-2026-05-04-07-19-53)
-- [Batch at 2026-05-04 05:00:36](#batch-2026-05-04-05-00-36)
+
+<h3 id='batch-2026-05-04-13-27-25'>🕐 Batch at 2026-05-04 13:27:25</h3>
+
+📊 **Total jobs in this batch: 16**
+
+**Per company:**
+- ASMLEXT1: 1 job
+- BAH: 1 job
+- CMU: 2 jobs
+- Comcast : 2 jobs
+- General Motors LLC: 2 jobs
+- genpt: 1 job
+- Penn Mutual: 1 job
+- SRK Supplylogix LLC: 1 job
+- Walmart: 3 jobs
+- Wyetech LLC: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>N Phoenix, AZ, USA</td>
+      <td>Field Applications Engineer - AZ</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/N-Phoenix-AZ-USA/Field-Applications-Engineer---AZ_J-00338453'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Open-Source Research Analyst, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0239282'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>AI/ML Vulnerability Analysis Intern</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/AI-ML-Vulnerability-Analysis-Intern_2023954'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Research Associate - School of Computer Science - MLD</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Research-Associate---School-of-Computer-Science---MLD_2024472'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1701 John F Kennedy Blvd</td>
+      <td>Engineer 3, Data Engineering</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Engineer-3--Data-Engineering_R435595'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1701 John F Kennedy Blvd</td>
+      <td>Engineer 2, Data Engineering</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Engineer-2--Data-Engineering_R435594'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Process Transformation Business Intelligence Data Analyst</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Process-Transformation-Business-Intelligence-Data-Analyst_JR-202609096'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Wyoming, Michigan, United States of America</td>
+      <td>Quality Engineer - Grand Rapids MI</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Wyoming-Michigan-United-States-of-America/Quality-Engineer---Grand-Rapids-MI_JR-202609763'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Systems Programmer II</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Systems-Programmer-I_R26_0000002279'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Penn Mutual</b></td>
+      <td>Remote - United States</td>
+      <td>Business Development Intern</td>
+      <td><a href='https://pennmutual.wd1.myworkdayjobs.com/en-US/_penn-careers/job/Remote---United-States/Business-Development-Intern_R-100585'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, MS, Olive Branch</td>
+      <td>Operations Trainer - Distribution Center</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-MS-Olive-Branch/Operations-Trainer---Distribution-Center_JR0146546'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2377346'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) AL DEMOPOLIS 00731 WM SUPERCENTER</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-AL-DEMOPOLIS-00731-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2495424-6'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Columbia, Maryland</td>
+      <td>Software Engineer 2</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/117282bc-d52b-4c79-bdc2-197c96e932e5'>Apply</a></td>
+      <td>2026-05-04 19:31:46</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Ft. Meade, Maryland</td>
+      <td>Software Engineer 4 (copy)</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/f47b77ce-dabe-4045-ad38-7d76d3f4e296'>Apply</a></td>
+      <td>2026-05-04 18:34:37</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>Data Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Data-Engineer-III_R-2473923'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-04-11-26-38'>🕐 Batch at 2026-05-04 11:26:38</h3>
 
@@ -204,7 +348,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-04-09-59-02'>🕐 Batch at 2026-05-04 09:59:02</h3>
 
 📊 **Total jobs in this batch: 23**
@@ -397,8 +540,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-04-07-19-53'>🕐 Batch at 2026-05-04 07:19:53</h3>
+---<h3 id='batch-2026-05-04-07-19-53'>🕐 Batch at 2026-05-04 07:19:53</h3>
 
 📊 **Total jobs in this batch: 17**
 
