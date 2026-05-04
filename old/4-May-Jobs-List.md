@@ -4,10 +4,86 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-04 15:13:35](#batch-2026-05-04-15-13-35)
 - [Batch at 2026-05-04 13:27:25](#batch-2026-05-04-13-27-25)
 - [Batch at 2026-05-04 11:26:38](#batch-2026-05-04-11-26-38)
 - [Batch at 2026-05-04 09:59:02](#batch-2026-05-04-09-59-02)
-- [Batch at 2026-05-04 07:19:53](#batch-2026-05-04-07-19-53)
+
+<h3 id='batch-2026-05-04-15-13-35'>🕐 Batch at 2026-05-04 15:13:35</h3>
+
+📊 **Total jobs in this batch: 7**
+
+**Per company:**
+- palantir: 1 job
+- Salesforce: 2 jobs
+- Walmart: 2 jobs
+- Xylem Services USA LLC: 1 job
+- yahoo: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>palantir</b></td>
+      <td>Honolulu, HI</td>
+      <td>Forward Deployed Infrastructure Engineer - US Government</td>
+      <td><a href='https://jobs.lever.co/palantir/0fccbe95-2520-4df3-8600-7897656c06a2'>Apply</a></td>
+      <td>2026-05-04 21:46:12</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Georgia - Atlanta</td>
+      <td>Business Development Representative – Data Foundation</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Georgia---Atlanta/Business-Development-Representative---Data-Foundation_JR341032'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Illinois - Chicago</td>
+      <td>Business Development Representative – Data Foundation</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois---Chicago/Business-Development-Representative---Data-Foundation_JR341034'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) OH LIMA 01330 WM SUPERCENTER</td>
+      <td>(USA) Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OH-LIMA-01330-WM-SUPERCENTER/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM_R-2499703-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Olathe, KS</td>
+      <td>Material Handler, Manufacturing (Starting at $23.00, Mon-Fri 4pm-12:30am, 2nd shift)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Olathe-KS/Material-Handler--Manufacturing--Starting-at--2300--Mon-Fri-4pm-12-30am--2nd-shift-_R-2499769'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Xylem Services USA LLC</b></td>
+      <td>Plymouth, Minnesota (Office)</td>
+      <td>Training Specialist</td>
+      <td><a href='https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Plymouth-Minnesota-Office/Training-Specialist_R48233'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>yahoo</b></td>
+      <td>United States of America</td>
+      <td>Software Dev Engineer I</td>
+      <td><a href='https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Software-Dev-Engineer-I_JR0026741'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-04-13-27-25'>🕐 Batch at 2026-05-04 13:27:25</h3>
 
@@ -152,7 +228,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-04-11-26-38'>🕐 Batch at 2026-05-04 11:26:38</h3>
 
 📊 **Total jobs in this batch: 23**
@@ -347,8 +422,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-04-09-59-02'>🕐 Batch at 2026-05-04 09:59:02</h3>
+---<h3 id='batch-2026-05-04-09-59-02'>🕐 Batch at 2026-05-04 09:59:02</h3>
 
 📊 **Total jobs in this batch: 23**
 

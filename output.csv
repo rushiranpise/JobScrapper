@@ -1,17 +1,8 @@
-company,title,location,postedOn,link,updatedOn
-ASMLEXT1,Field Applications Engineer - AZ,"N Phoenix, AZ, USA",Posted Today,https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/N-Phoenix-AZ-USA/Field-Applications-Engineer---AZ_J-00338453,
-BAH,"Open-Source Research Analyst, Junior","McLean, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0239282,
-CMU,AI/ML Vulnerability Analysis Intern,"Pittsburgh, PA",Posted Today,https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/AI-ML-Vulnerability-Analysis-Intern_2023954,
-CMU,Research Associate - School of Computer Science - MLD,"Pittsburgh, PA",Posted Today,https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Research-Associate---School-of-Computer-Science---MLD_2024472,
-Comcast ,"Engineer 3, Data Engineering","PA - Philadelphia, 1701 John F Kennedy Blvd",Posted Today,https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Engineer-3--Data-Engineering_R435595,
-Comcast ,"Engineer 2, Data Engineering","PA - Philadelphia, 1701 John F Kennedy Blvd",Posted Today,https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Engineer-2--Data-Engineering_R435594,
-General Motors LLC,Process Transformation Business Intelligence Data Analyst,"Warren, Michigan, United States of America",Posted Today,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Process-Transformation-Business-Intelligence-Data-Analyst_JR-202609096,
-General Motors LLC,Quality Engineer - Grand Rapids MI,"Wyoming, Michigan, United States of America",Posted Today,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Wyoming-Michigan-United-States-of-America/Quality-Engineer---Grand-Rapids-MI_JR-202609763,
-genpt,Systems Programmer II,"Birmingham, AL, USA",Posted Today,https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Systems-Programmer-I_R26_0000002279,
-Penn Mutual,Business Development Intern,Remote - United States,Posted Today,https://pennmutual.wd1.myworkdayjobs.com/en-US/_penn-careers/job/Remote---United-States/Business-Development-Intern_R-100585,
-SRK Supplylogix LLC,Operations Trainer - Distribution Center,"USA, MS, Olive Branch",Posted Today,https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-MS-Olive-Branch/Operations-Trainer---Distribution-Center_JR0146546,
-Walmart,Software Engineer III,"Bentonville, AR",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2377346,
-Walmart,(USA) Coach/Ops Mgr Trainee,(USA) AL DEMOPOLIS 00731 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-AL-DEMOPOLIS-00731-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2495424-6,
-Wyetech LLC,Software Engineer 2,"Columbia, Maryland",2026-05-04 19:31:46,https://jobs.lever.co/wyetechllc/117282bc-d52b-4c79-bdc2-197c96e932e5,N/A
-Wyetech LLC,Software Engineer 4 (copy),"Ft. Meade, Maryland",2026-05-04 18:34:37,https://jobs.lever.co/wyetechllc/f47b77ce-dabe-4045-ad38-7d76d3f4e296,N/A
-Walmart,Data Engineer III,IN KA BANGALORE Home Office PTPP1,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Data-Engineer-III_R-2473923,
+company,title,location,link,postedOn,updatedOn
+palantir,Forward Deployed Infrastructure Engineer - US Government,"Honolulu, HI",https://jobs.lever.co/palantir/0fccbe95-2520-4df3-8600-7897656c06a2,2026-05-04 21:46:12,N/A
+Salesforce,Business Development Representative – Data Foundation,Georgia - Atlanta,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Georgia---Atlanta/Business-Development-Representative---Data-Foundation_JR341032,Posted Today,
+Salesforce,Business Development Representative – Data Foundation,Illinois - Chicago,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois---Chicago/Business-Development-Representative---Data-Foundation_JR341034,Posted Today,
+Walmart,(USA) Pharmacy Pre-Grad Intern - WM,(USA) OH LIMA 01330 WM SUPERCENTER,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OH-LIMA-01330-WM-SUPERCENTER/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM_R-2499703-1,Posted Today,
+Walmart,"Material Handler, Manufacturing (Starting at $23.00, Mon-Fri 4pm-12:30am, 2nd shift)","Olathe, KS",https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Olathe-KS/Material-Handler--Manufacturing--Starting-at--2300--Mon-Fri-4pm-12-30am--2nd-shift-_R-2499769,Posted Today,
+Xylem Services USA LLC,Training Specialist,"Plymouth, Minnesota (Office)",https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Plymouth-Minnesota-Office/Training-Specialist_R48233,Posted Today,
+yahoo,Software Dev Engineer I,United States of America,https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Software-Dev-Engineer-I_JR0026741,Posted Today,
