@@ -4,10 +4,206 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-04 11:26:38](#batch-2026-05-04-11-26-38)
 - [Batch at 2026-05-04 09:59:02](#batch-2026-05-04-09-59-02)
 - [Batch at 2026-05-04 07:19:53](#batch-2026-05-04-07-19-53)
 - [Batch at 2026-05-04 05:00:36](#batch-2026-05-04-05-00-36)
-- [Batch at 2026-05-04 02:31:23](#batch-2026-05-04-02-31-23)
+
+<h3 id='batch-2026-05-04-11-26-38'>🕐 Batch at 2026-05-04 11:26:38</h3>
+
+📊 **Total jobs in this batch: 23**
+
+**Per company:**
+- Applied Materials: 2 jobs
+- ASMLEXT1: 1 job
+- BAH: 6 jobs
+- Citi: 3 jobs
+- Morgan Stanley: 1 job
+- Nike: 1 job
+- NVIDIA: 1 job
+- Reddit: 1 job
+- Sentry : 1 job
+- Snowflake: 1 job
+- State Street: 1 job
+- The Walt Disney Company: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Application Engineer IV</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Application-Engineer-IV_R2618363'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Application Engineer IV</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Application-Engineer-IV_R2618299'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>San Diego, CA, USA</td>
+      <td>National Instruments LabVIEW Developer</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/National-Instruments-LabVIEW-Developer_J-00338572-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Full Stack Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Full-Stack-Software-Engineer_R0239256'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Warner Robins, GA</td>
+      <td>Cloud Infrastructure Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warner-Robins-GA/Cloud-Infrastructure-Architect_R0239254'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Digital Transformation Specialist, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Digital-Transformation-Specialist--Junior_R0239204'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Honolulu, HI</td>
+      <td>Software Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Software-Data-Engineer_R0239249'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Warner Robins, GA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warner-Robins-GA/DevOps-Engineer_R0239203'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Honolulu, HI</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0239243'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Administrador de operaciones del mercado de capitales</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Administrador-de-operaciones-del-mercado-de-capitales_26954240'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Palo Alto California United States</td>
+      <td>Part-Time Teller (20 Hours), Palo Alto Main Branch</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Palo-Alto-California-United-States/Part-Time-Teller--20-Hours---Palo-Alto-Main-Branch_26960218'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX Analista KYC AML de cumplimiento</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Analista-KYC-AML-de-cumplimiento_26952142'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>Alpharetta, Georgia, United States of America</td>
+      <td>Associate, Software Engineer</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-Georgia-United-States-of-America/Associate--Software-Engineer_JR025726'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Gardena, California</td>
+      <td>Associate Material Handler</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Gardena-California/Associate-Material-Handler_R-83110'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Software Engineer— Robotics Platform</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Robotics-Platform_JR2017267'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Reddit</b></td>
+      <td>Remote - United States</td>
+      <td>Community Data Analyst </td>
+      <td><a href='https://job-boards.greenhouse.io/reddit/jobs/7534943'>Apply</a></td>
+      <td>Jan 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Sentry </b></td>
+      <td>Stevens Point, WI</td>
+      <td>Analytics Data Analyst</td>
+      <td><a href='https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Analytics-Data-Analyst_JR-142014'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-IL-Remote</td>
+      <td>Cloud Partner Solutions Engineer (AWS / Azure / Google Cloud)</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/c6737b02-5f22-489c-8565-659fd1e5051a'>Apply</a></td>
+      <td>Apr 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Boston, Massachusetts</td>
+      <td>PIC Internship - 2026</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/PIC-Internship---2026_R-789032'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>Pilot Captain</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Pilot-Captain_10146115-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Fairhope, AL</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Fairhope-AL/XMLNAME--USA--Front-End-Coach_R-2499111-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) OH SANDUSKY 01628 WM SUPERCENTER</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OH-SANDUSKY-01628-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2490421'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) OR SALEM 05368 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OR-SALEM-05368-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2496886'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-04-09-59-02'>🕐 Batch at 2026-05-04 09:59:02</h3>
 
@@ -202,7 +398,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-04-07-19-53'>🕐 Batch at 2026-05-04 07:19:53</h3>
 
 📊 **Total jobs in this batch: 17**
@@ -350,8 +545,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-04-05-00-36'>🕐 Batch at 2026-05-04 05:00:36</h3>
+---<h3 id='batch-2026-05-04-05-00-36'>🕐 Batch at 2026-05-04 05:00:36</h3>
 
 📊 **Total jobs in this batch: 3**
 
