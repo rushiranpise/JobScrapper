@@ -4,10 +4,118 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-04 20:47:42](#batch-2026-05-04-20-47-42)
 - [Batch at 2026-05-04 17:05:46](#batch-2026-05-04-17-05-46)
 - [Batch at 2026-05-04 15:13:35](#batch-2026-05-04-15-13-35)
 - [Batch at 2026-05-04 13:27:25](#batch-2026-05-04-13-27-25)
-- [Batch at 2026-05-04 11:26:38](#batch-2026-05-04-11-26-38)
+
+<h3 id='batch-2026-05-04-20-47-42'>🕐 Batch at 2026-05-04 20:47:42</h3>
+
+📊 **Total jobs in this batch: 11**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Applied Materials: 1 job
+- Chime: 1 job
+- Citi: 1 job
+- General Motors LLC: 2 jobs
+- Merck & Co.: 1 job
+- OKX: 2 jobs
+- spacex: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Product Data Engineer </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5057159007?gh_jid=5057159007'>Apply</a></td>
+      <td>May 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Hillsboro,OR</td>
+      <td>Product Line Management III - CMP SBU AIx Focal</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/HillsboroOR/Product-Line-Management-III---CMP-SBU-AIx-Focal_R2616761'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Chime</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Software Engineer, Deposits & Insights</td>
+      <td><a href='https://boards.greenhouse.io/chime/jobs/8523547002?gh_jid=8523547002'>Apply</a></td>
+      <td>May 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Sydney New South Wales Australia</td>
+      <td>Summer Analyst Program – Capital Markets - Summer Analyst, Sydney Australia (APAC) - 2026</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sydney-New-South-Wales-Australia/Summer-Analyst-Program---Equity-Capital-Markets---Summer-Analyst--Sydney-Australia--APAC----2026_26952015'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Vehicle Energy Model and Toolchain Development Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Vehicle-Energy-Model-and-Toolchain-Development-Engineer_JR-202607483'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>Machine Learning Engineer, AI Inference Solutions (University Grad)</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Merck & Co.</b></td>
+      <td>AUS - New South Wales - Macquarie Park</td>
+      <td>Business Analyst – Automation, Analytics & AI</td>
+      <td><a href='https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/AUS---New-South-Wales---Macquarie-Park/Business-Analyst---Automation--Analytics---AI_R394954-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OKX</b></td>
+      <td>United States (US)</td>
+      <td>Software Engineer Mobile (Android)</td>
+      <td><a href='https://job-boards.greenhouse.io/okx/jobs/7724266003'>Apply</a></td>
+      <td>May 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>OKX</b></td>
+      <td>United States (US)</td>
+      <td>Software Engineer Mobile (iOS)</td>
+      <td><a href='https://job-boards.greenhouse.io/okx/jobs/7719264003'>Apply</a></td>
+      <td>May 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>CNC Programmer, NX CAM (Starlink) - Level 4/5</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8534992002?gh_jid=8534992002'>Apply</a></td>
+      <td>May 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer - Learned Trajectory Machine Learning Engineer</td>
+      <td><a href='https://jobs.lever.co/zoox/9176aa65-14e3-4f9d-98f9-e755e9777d67'>Apply</a></td>
+      <td>2024-11-07 18:13:17</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-04-17-05-46'>🕐 Batch at 2026-05-04 17:05:46</h3>
 
@@ -76,7 +184,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-04-15-13-35'>🕐 Batch at 2026-05-04 15:13:35</h3>
 
 📊 **Total jobs in this batch: 7**
@@ -151,8 +258,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-04-13-27-25'>🕐 Batch at 2026-05-04 13:27:25</h3>
+---<h3 id='batch-2026-05-04-13-27-25'>🕐 Batch at 2026-05-04 13:27:25</h3>
 
 📊 **Total jobs in this batch: 16**
 
