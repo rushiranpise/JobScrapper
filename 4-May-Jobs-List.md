@@ -4,10 +4,92 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-04 23:28:42](#batch-2026-05-04-23-28-42)
 - [Batch at 2026-05-04 20:47:42](#batch-2026-05-04-20-47-42)
 - [Batch at 2026-05-04 17:05:46](#batch-2026-05-04-17-05-46)
 - [Batch at 2026-05-04 15:13:35](#batch-2026-05-04-15-13-35)
-- [Batch at 2026-05-04 13:27:25](#batch-2026-05-04-13-27-25)
+
+<h3 id='batch-2026-05-04-23-28-42'>🕐 Batch at 2026-05-04 23:28:42</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- Anduril Industries: 1 job
+- athenahealth : 1 job
+- BAH: 1 job
+- Walmart: 5 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Canberra, Australian Capital Territory, Australia</td>
+      <td>Mission Software Engineer - Connected Warfare</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5128654007?gh_jid=5128654007'>Apply</a></td>
+      <td>May 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>athenahealth </b></td>
+      <td>Boston MA</td>
+      <td>Software Engineer, Medications</td>
+      <td><a href='https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Software-Engineer--Medications_R14978'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Albuquerque, NM</td>
+      <td>Cloud Application Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/Cloud-Application-Architect_R0231038'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office Building 10</td>
+      <td>(IND) Grad Intern - No Work Experience</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2485482'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN TN CHENNAI Home Office Capita Land</td>
+      <td>(IND) Grad Intern - No Work Experience</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2486878'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>(IND) Grad Intern - No Work Experience</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2485489'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>(IND) Grad Intern - No Work Experience</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2485486'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MO KIRKSVILLE 00189 WM SUPERCENTER</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MO-KIRKSVILLE-00189-WM-SUPERCENTER/Front-End-Coach_R-2497197-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-04-20-47-42'>🕐 Batch at 2026-05-04 20:47:42</h3>
 
@@ -116,7 +198,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-04-17-05-46'>🕐 Batch at 2026-05-04 17:05:46</h3>
 
 📊 **Total jobs in this batch: 6**
@@ -183,8 +264,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-04-15-13-35'>🕐 Batch at 2026-05-04 15:13:35</h3>
+---<h3 id='batch-2026-05-04-15-13-35'>🕐 Batch at 2026-05-04 15:13:35</h3>
 
 📊 **Total jobs in this batch: 7**
 
