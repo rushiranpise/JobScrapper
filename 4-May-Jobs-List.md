@@ -4,10 +4,78 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-04 17:05:46](#batch-2026-05-04-17-05-46)
 - [Batch at 2026-05-04 15:13:35](#batch-2026-05-04-15-13-35)
 - [Batch at 2026-05-04 13:27:25](#batch-2026-05-04-13-27-25)
 - [Batch at 2026-05-04 11:26:38](#batch-2026-05-04-11-26-38)
-- [Batch at 2026-05-04 09:59:02](#batch-2026-05-04-09-59-02)
+
+<h3 id='batch-2026-05-04-17-05-46'>🕐 Batch at 2026-05-04 17:05:46</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- BAH: 1 job
+- Reddit: 1 job
+- spacex: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Power Platform Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Power-Platform-Developer_R0239295'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Reddit</b></td>
+      <td>Remote - United States</td>
+      <td>iOS Software Engineer, Contributions</td>
+      <td><a href='https://job-boards.greenhouse.io/reddit/jobs/7891749'>Apply</a></td>
+      <td>May 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Vandenberg, CA</td>
+      <td>IT Network Infrastructure Technician</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8535133002?gh_jid=8535133002'>Apply</a></td>
+      <td>May 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) CA LA HABRA 03248 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CA-LA-HABRA-03248-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2499860-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 03074 WM SUPERCENTER</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-03074-WM-SUPERCENTER/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2499957'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) IN BLUFFTON 02819 WM SUPERCENTER</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IN-BLUFFTON-02819-WM-SUPERCENTER/Front-End-Coach_R-2499877-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-04-15-13-35'>🕐 Batch at 2026-05-04 15:13:35</h3>
 
@@ -84,7 +152,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-04-13-27-25'>🕐 Batch at 2026-05-04 13:27:25</h3>
 
 📊 **Total jobs in this batch: 16**
@@ -227,8 +294,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-04-11-26-38'>🕐 Batch at 2026-05-04 11:26:38</h3>
+---<h3 id='batch-2026-05-04-11-26-38'>🕐 Batch at 2026-05-04 11:26:38</h3>
 
 📊 **Total jobs in this batch: 23**
 
