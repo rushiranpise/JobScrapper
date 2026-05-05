@@ -4,10 +4,191 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-05 13:20:09](#batch-2026-05-05-13-20-09)
 - [Batch at 2026-05-05 11:23:01](#batch-2026-05-05-11-23-01)
 - [Batch at 2026-05-05 09:35:35](#batch-2026-05-05-09-35-35)
 - [Batch at 2026-05-05 04:26:05](#batch-2026-05-05-04-26-05)
-- [Batch at 2026-05-05 02:17:12](#batch-2026-05-05-02-17-12)
+
+<h3 id='batch-2026-05-05-13-20-09'>🕐 Batch at 2026-05-05 13:20:09</h3>
+
+📊 **Total jobs in this batch: 21**
+
+**Per company:**
+- Applied Materials: 1 job
+- BAH: 9 jobs
+- BorgWarner: 2 jobs
+- Intel Corporation: 1 job
+- MOOG: 1 job
+- Remitly: 1 job
+- Sentry : 1 job
+- Stripe: 1 job
+- The Walt Disney Company: 1 job
+- Warner Bros: 1 job
+- Wyetech LLC: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Summer 2026 Industrial Engineering Intern- Bachelor's (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Summer-2026-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2619056-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Camp H.M. Smith, HI</td>
+      <td>Data Engineer and Application Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-HM-Smith-HI/Data-Engineer-and-Application-Developer_R0239378'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Diego, CA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/DevOps-Engineer_R0233968'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Camp H.M. Smith, HI</td>
+      <td>Data Engineer and Application Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-HM-Smith-HI/Data-Engineer-and-Application-Developer_R0239377'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Camp H.M. Smith, HI</td>
+      <td>Data Engineer and Application Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-HM-Smith-HI/Data-Engineer-and-Application-Developer_R0239376'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Data-Engineer_R0239370'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Data-Engineer_R0239369'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Bremerton, WA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bremerton-WA/Data-Engineer_R0239368'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Bremerton, WA</td>
+      <td>Maritime Systems Trainer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bremerton-WA/Maritime-Systems-Trainer_R0239359'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lexington Park, MD</td>
+      <td>Data Visualization Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/Data-Visualization-Analyst_R0232783'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Dixon - Illinois - USA</td>
+      <td>Physical Flow Material Handler Split Shift (9am-5:15 pm)</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Dixon---Illinois---USA/Physical-Flow-Material-Handler-Split-Shift--9am-5-15-pm-_R2026-1713'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Dixon - Illinois - USA</td>
+      <td>1st shift Physical Flow Material Handler</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Dixon---Illinois---USA/XMLNAME-1st-shift-Physical-Flow-Material-Handler_R2026-1714'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Ocotillo Technology Fabrication Process Engineering Graduate Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Ocotillo-Technology-Fabrication-Process-Engineering-Graduate-Intern_JR0281621'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Engineering_R-26-17597'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Remitly</b></td>
+      <td>Seattle, Washington United States</td>
+      <td>Software Development Engineer II, Post Submit Experience</td>
+      <td><a href='https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-II--Post-Submit-Experience_R_106194'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Sentry </b></td>
+      <td>Irvine, CA</td>
+      <td>Middle Market Underwriting Specialist</td>
+      <td><a href='https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Irvine-CA/Middle-Market-Underwriting-Specialist_JR-142007-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>San Francisco, California </td>
+      <td>Software Engineer IC-02</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=7895344'>Apply</a></td>
+      <td>May 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>New York, NY, USA</td>
+      <td>Software Engineer - DevOps Mobile</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Software-Engineer---DevOps-Mobile_10143241'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Warner Bros</b></td>
+      <td>UT Salt Lake City 175 East 400 South</td>
+      <td>Advanced Software Engineer</td>
+      <td><a href='https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/UT-Salt-Lake-City-175-East-400-South/Advanced-Software-Engineer_R000105189-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Linthicum Heights, Maryland</td>
+      <td>Software Engineer 2</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/6d5dde09-4525-40e9-8a28-8591fe4ca1eb'>Apply</a></td>
+      <td>2026-05-05 19:41:13</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Integration Engineer</td>
+      <td><a href='https://jobs.lever.co/zoox/2aa94106-52ac-4f67-871b-1140f8644ea4'>Apply</a></td>
+      <td>2026-05-05 19:48:58</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-05-11-23-01'>🕐 Batch at 2026-05-05 11:23:01</h3>
 
@@ -161,7 +342,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-05-09-35-35'>🕐 Batch at 2026-05-05 09:35:35</h3>
 
 📊 **Total jobs in this batch: 43**
@@ -505,8 +685,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-05-04-26-05'>🕐 Batch at 2026-05-05 04:26:05</h3>
+---<h3 id='batch-2026-05-05-04-26-05'>🕐 Batch at 2026-05-05 04:26:05</h3>
 
 📊 **Total jobs in this batch: 1**
 
