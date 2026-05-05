@@ -4,10 +4,172 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-05 15:12:00](#batch-2026-05-05-15-12-00)
 - [Batch at 2026-05-05 13:20:09](#batch-2026-05-05-13-20-09)
 - [Batch at 2026-05-05 11:23:01](#batch-2026-05-05-11-23-01)
 - [Batch at 2026-05-05 09:35:35](#batch-2026-05-05-09-35-35)
-- [Batch at 2026-05-05 04:26:05](#batch-2026-05-05-04-26-05)
+
+<h3 id='batch-2026-05-05-15-12-00'>🕐 Batch at 2026-05-05 15:12:00</h3>
+
+📊 **Total jobs in this batch: 18**
+
+**Per company:**
+- Appian : 1 job
+- Motorola Solutions, Inc: 1 job
+- Allstate: 1 job
+- Samsung Electronics America, Inc: 1 job
+- Applied Materials: 1 job
+- BAH: 4 jobs
+- Citi: 1 job
+- nVent: 1 job
+- NVIDIA: 1 job
+- Roblox: 1 job
+- Salesforce: 1 job
+- SoFi: 1 job
+- The Walt Disney Company: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Appian </b></td>
+      <td>McLean, Virginia</td>
+      <td>Associate Product Owner (2026 Graduates)</td>
+      <td><a href='https://job-boards.greenhouse.io/appian/jobs/7884204'>Apply</a></td>
+      <td>May 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Texas Remote Work, More...</td>
+      <td>Business Data Analyst - SaaS</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Texas-Remote-Work/Business-Data-Analyst---SaaS_R64689-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - IL (Remote)</td>
+      <td>Full Stack Product Engineer (Java)</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---IL-Remote/Full-Stack-Product-Engineer--Java-_R29285-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>645 Clyde Avenue, Mountain View, CA, USA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Software-Engineer_R116921'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Hudson,MA</td>
+      <td>Process Engineer II, New College Grad - Adv Degree (Cambridge, MA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/HudsonMA/Process-Engineer-II--New-College-Grad---Adv-Degree--Cambridge--MA-_R2610394'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Full Stack Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Full-Stack-Developer_R0239385'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Backend Integration & Platform Application Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Backend-Integration---Platform-Application-Engineer_R0239388'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Full Stack Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Full-Stack-Developer_R0239384'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/DevOps-Engineer_R0239387'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>New York New York United States</td>
+      <td>Product Developer - Spread Products</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Product-Developer---Spread-Products_26960421'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Solon, OH, US</td>
+      <td>Mfg Material Handler</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Solon-OH-US/Mfg-Material-Handler_R21755'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Machine Learning Applications and Compiler Engineer, LPX - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016939'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>San Mateo, CA, United States</td>
+      <td>Software Engineer, Communication Safety</td>
+      <td><a href='https://careers.roblox.com/jobs/7888723?gh_jid=7888723'>Apply</a></td>
+      <td>May 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Washington - Bellevue</td>
+      <td>Software Engineering SMTS/MTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-SMTS-MTS_JR341247'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SoFi</b></td>
+      <td>WA - Seattle, CA - San Francisco HQ</td>
+      <td>Software Engineer, Member Growth</td>
+      <td><a href='https://sofi.com/careers/job/7712688003?gh_jid=7712688003'>Apply</a></td>
+      <td>May 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Washington, DC, USA</td>
+      <td>Data Platforms Analyst (National Geographic)</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Washington-DC-USA/Data-Platforms-Analyst--National-Geographic-_10149626'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) CA CERRITOS 02082 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern California - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CA-CERRITOS-02082-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern-California---WM_R-2499394-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) CA LA HABRA 03248 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern California - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CA-LA-HABRA-03248-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern-California---WM_R-2499444-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-05-13-20-09'>🕐 Batch at 2026-05-05 13:20:09</h3>
 
@@ -189,7 +351,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-05-11-23-01'>🕐 Batch at 2026-05-05 11:23:01</h3>
 
 📊 **Total jobs in this batch: 17**
@@ -341,8 +502,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-05-09-35-35'>🕐 Batch at 2026-05-05 09:35:35</h3>
+---<h3 id='batch-2026-05-05-09-35-35'>🕐 Batch at 2026-05-05 09:35:35</h3>
 
 📊 **Total jobs in this batch: 43**
 
