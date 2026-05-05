@@ -4,9 +4,163 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-05 11:23:01](#batch-2026-05-05-11-23-01)
 - [Batch at 2026-05-05 09:35:35](#batch-2026-05-05-09-35-35)
 - [Batch at 2026-05-05 04:26:05](#batch-2026-05-05-04-26-05)
 - [Batch at 2026-05-05 02:17:12](#batch-2026-05-05-02-17-12)
+
+<h3 id='batch-2026-05-05-11-23-01'>🕐 Batch at 2026-05-05 11:23:01</h3>
+
+📊 **Total jobs in this batch: 17**
+
+**Per company:**
+- Anduril Industries: 1 job
+- BAH: 3 jobs
+- BorgWarner: 1 job
+- careers: 1 job
+- Morgan Stanley: 1 job
+- Pendo: 1 job
+- terex: 1 job
+- The Toro: 1 job
+- Vast: 1 job
+- Wyetech LLC: 2 jobs
+- Walmart: 3 jobs
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Software Engineer, Rapid Integration and Test</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5129324007?gh_jid=5129324007'>Apply</a></td>
+      <td>May 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Belvoir, VA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Data-Engineer_R0239353'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Infrastructure and Network Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Infrastructure-and-Network-Architect_R0239363'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Aurora, CO</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0239343'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Kokomo Technical Center - Indiana - USA</td>
+      <td>Power Switch Tooling Studies Intern</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Power-Switch-Tooling-Studies-Intern_R2026-1712'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>careers</b></td>
+      <td>Chandler-HQ, AZ USA</td>
+      <td>Summer PNT Intern Chandler</td>
+      <td><a href='https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Chandler-HQ-AZ-USA/Summer-PNT-Intern-Chandler_260004588-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>New York, New York, United States of America</td>
+      <td>Market Risk Analytics Associate, Stress Testing and AI Integration</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Market-Risk-Analytics-Associate--Stress-Testing-and-AI-Integration_PT-JR025318'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pendo</b></td>
+      <td>New York, NY</td>
+      <td>AI Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/pendo/jobs/8533491002'>Apply</a></td>
+      <td>May 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>US-CT Norwalk</td>
+      <td>Treasury & Investor Relations Intern</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/US-CT-Norwalk/Treasury---Investor-Relations-Intern_REQ-12756-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Orrville, OH</td>
+      <td>Co-Op, Engineering - Ventrac</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Orrville-OH/Co-Op--Engineering---Ventrac_JR16070'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Vast</b></td>
+      <td>Long Beach, California, United States</td>
+      <td>Training Operations Coordinator</td>
+      <td><a href='https://boards.greenhouse.io/vast/jobs/4678876006?gh_jid=4678876006'>Apply</a></td>
+      <td>May 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Linthicum Heights, Maryland</td>
+      <td>Software Engineer 1 (API)</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/9e0faa12-3b6a-4186-aa91-87b9a90e9de8'>Apply</a></td>
+      <td>2026-05-05 17:20:12</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Ft. Meade, Maryland</td>
+      <td>Software Engineer 3</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/65b65a21-08a0-40d1-bec4-e7a21f9f67b4'>Apply</a></td>
+      <td>2026-05-05 17:30:01</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) AL DAPHNE 00934 WM SUPERCENTER</td>
+      <td>(USA) Coach/Ops Mgr Trainee-1</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-AL-DAPHNE-00934-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee-1_R-2499694-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) IA IOWA CITY 01721 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IA-IOWA-CITY-01721-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2499624'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) GA BUFORD 01314 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-GA-BUFORD-01314-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2500177'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer - Site Reliability Engineering</td>
+      <td><a href='https://jobs.lever.co/zoox/357b4f2a-1dd8-4a53-8d39-9c898cdc2d79'>Apply</a></td>
+      <td>2026-05-04 22:07:38</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-05-09-35-35'>🕐 Batch at 2026-05-05 09:35:35</h3>
 
@@ -352,7 +506,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-05-04-26-05'>🕐 Batch at 2026-05-05 04:26:05</h3>
 
 📊 **Total jobs in this batch: 1**
@@ -381,8 +534,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-05-02-17-12'>🕐 Batch at 2026-05-05 02:17:12</h3>
+---<h3 id='batch-2026-05-05-02-17-12'>🕐 Batch at 2026-05-05 02:17:12</h3>
 
 📊 **Total jobs in this batch: 3**
 
