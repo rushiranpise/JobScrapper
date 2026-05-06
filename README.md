@@ -4,10 +4,95 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-05 17:01:34](#batch-2026-05-05-17-01-34)
 - [Batch at 2026-05-05 15:12:00](#batch-2026-05-05-15-12-00)
 - [Batch at 2026-05-05 13:20:09](#batch-2026-05-05-13-20-09)
 - [Batch at 2026-05-05 11:23:01](#batch-2026-05-05-11-23-01)
-- [Batch at 2026-05-05 09:35:35](#batch-2026-05-05-09-35-35)
+
+<h3 id='batch-2026-05-05-17-01-34'>🕐 Batch at 2026-05-05 17:01:34</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- Airbnb: 1 job
+- flir: 1 job
+- Lumafield: 1 job
+- Ocado Group: 1 job
+- PlayStation Global: 1 job
+- spacex: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Airbnb</b></td>
+      <td>United States</td>
+      <td>Software Engineer, Infrastructure</td>
+      <td><a href='https://careers.airbnb.com/positions/7822704?gh_jid=7822704'>Apply</a></td>
+      <td>Apr 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Camarillo, CA</td>
+      <td>Quality Engineering Intern</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Camarillo-CA/Quality-Engineering-Intern_REQ34261'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Lumafield</b></td>
+      <td>San Francisco, CA</td>
+      <td>Backend Software Engineer</td>
+      <td><a href='https://jobs.lever.co/lumafield/a162ca4e-4beb-4f6f-94ac-44e327e481b0'>Apply</a></td>
+      <td>2026-05-05 23:52:52</td>
+    </tr>
+    <tr>
+      <td><b>Ocado Group</b></td>
+      <td>Melbourne, Australia</td>
+      <td>Regional HSE Business Partner & Training Coordinator - APAC</td>
+      <td><a href='https://careers.ocadogroup.com/jobs/details?gh_jid=4857118101&gh_jid=4857118101'>Apply</a></td>
+      <td>May 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Mateo, CA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5985241004'>Apply</a></td>
+      <td>May 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>IT Network Infrastructure Specialist</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8536387002?gh_jid=8536387002'>Apply</a></td>
+      <td>May 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Sunnyvale, CA</td>
+      <td>Software Engineer II - Sam's Club</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-II---Sam-s-Club_R-2499959'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) AZ FLAGSTAFF 04252 WM SUPERCENTER</td>
+      <td>((USA) Coach/Ops Mgr Trainee)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-AZ-FLAGSTAFF-04252-WM-SUPERCENTER/XMLNAME---USA--Coach-Ops-Mgr-Trainee-_R-2500681'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-05-15-12-00'>🕐 Batch at 2026-05-05 15:12:00</h3>
 
@@ -170,7 +255,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-05-13-20-09'>🕐 Batch at 2026-05-05 13:20:09</h3>
 
 📊 **Total jobs in this batch: 21**
@@ -350,8 +434,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-05-11-23-01'>🕐 Batch at 2026-05-05 11:23:01</h3>
+---<h3 id='batch-2026-05-05-11-23-01'>🕐 Batch at 2026-05-05 11:23:01</h3>
 
 📊 **Total jobs in this batch: 17**
 
