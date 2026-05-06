@@ -4,10 +4,95 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-06 11:29:16](#batch-2026-05-06-11-29-16)
 - [Batch at 2026-05-06 09:54:55](#batch-2026-05-06-09-54-55)
 - [Batch at 2026-05-06 07:32:14](#batch-2026-05-06-07-32-14)
 - [Batch at 2026-05-06 04:59:24](#batch-2026-05-06-04-59-24)
-- [Batch at 2026-05-06 02:33:52](#batch-2026-05-06-02-33-52)
+
+<h3 id='batch-2026-05-06-11-29-16'>🕐 Batch at 2026-05-06 11:29:16</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- Anduril Industries: 1 job
+- BAH: 2 jobs
+- Micron: 1 job
+- MKSCareersUniversity: 1 job
+- NVIDIA: 1 job
+- State Street: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Business Operations, International</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5022011007?gh_jid=5022011007'>Apply</a></td>
+      <td>May 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0239444'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Cloud Marketplace Solutions Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cloud-Marketplace-Solutions-Engineer_R0239258'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - ID1</td>
+      <td>New College Grad - Pathfinding Device Integration Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/New-College-Grad---Pathfinding-Device-Integration-Engineer_JR100382'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MKSCareersUniversity</b></td>
+      <td>Rochester, NY</td>
+      <td>2026 Summer & Fall Electrical Compliance Co-op</td>
+      <td><a href='https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Rochester-NY/XMLNAME-2026-Summer---Fall-Electrical-Compliance-Co-op_R14780'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Software Engineering Intern, AI Tools - Fall 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Tools---Fall-2026_JR2016805'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Burlington Massachusetts</td>
+      <td>Software Engineer I, Officer</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Software-Engineer-I--Officer_R-789697'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN TN CHENNAI Home Office RMZ Millenia Biz Park</td>
+      <td>(IND) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-RMZ-Millenia-Biz-Park/XMLNAME--IND--Software-Engineer-III_R-2470219'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-06-09-54-55'>🕐 Batch at 2026-05-06 09:54:55</h3>
 
@@ -161,7 +246,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-06-07-32-14'>🕐 Batch at 2026-05-06 07:32:14</h3>
 
 📊 **Total jobs in this batch: 10**
@@ -259,8 +343,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-06-04-59-24'>🕐 Batch at 2026-05-06 04:59:24</h3>
+---<h3 id='batch-2026-05-06-04-59-24'>🕐 Batch at 2026-05-06 04:59:24</h3>
 
 📊 **Total jobs in this batch: 1**
 
