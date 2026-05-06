@@ -4,9 +4,163 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-06 09:54:55](#batch-2026-05-06-09-54-55)
 - [Batch at 2026-05-06 07:32:14](#batch-2026-05-06-07-32-14)
 - [Batch at 2026-05-06 04:59:24](#batch-2026-05-06-04-59-24)
 - [Batch at 2026-05-06 02:33:52](#batch-2026-05-06-02-33-52)
+
+<h3 id='batch-2026-05-06-09-54-55'>🕐 Batch at 2026-05-06 09:54:55</h3>
+
+📊 **Total jobs in this batch: 17**
+
+**Per company:**
+- Applied Intuition: 1 job
+- Applied Materials: 1 job
+- BAH: 5 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- BorgWarner: 1 job
+- MKSCareersUniversity: 1 job
+- Morgan Stanley: 1 job
+- Otis: 1 job
+- Salesforce: 1 job
+- SRK Supplylogix LLC: 1 job
+- Warner Bros: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Intuition</b></td>
+      <td>Ann Arbor, Michigan, United States</td>
+      <td>Software Engineer - Planning (Sampling / Search)</td>
+      <td><a href='https://boards.greenhouse.io/appliedintuition/jobs/4537237005?gh_jid=4537237005'>Apply</a></td>
+      <td>Mar 07, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Process Engineer II- New College Grad</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Process-Engineer-II--New-College-Grad_R2619220'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0239427'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>North Charleston, SC</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/North-Charleston-SC/DevOps-Engineer_R0239395'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Open-Source Research Analyst, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0239417'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/DevOps-Engineer_R0239406'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0239396'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA GA - Covington BMD</td>
+      <td>Analyst III, Acute Urology Data & Analytics</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-GA---Covington-BMD/Analyst-III--Acute-Urology-Data---Analytics_R-540015-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Hendersonville - North Carolina - USA</td>
+      <td>Prototype / Production ME Technician (Industrial Solutions) - Grade G ($29.50 - $36.61)</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Hendersonville---North-Carolina---USA/Prototype---Production-ME-Technician--Industrial-Solutions----Grade-G---2950----3661-_R2026-1756'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MKSCareersUniversity</b></td>
+      <td>Rochester, NY</td>
+      <td>2026 Fall Electrical/Computer Engineering Co-Op</td>
+      <td><a href='https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Rochester-NY/XMLNAME-2026-Summer---Fall-Electrical-Computer-Engineering-Co-Op_R14678'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>New York, New York, United States of America</td>
+      <td>Associate, Software Engineer</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Associate--Software-Engineer_JR019004'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Otis</b></td>
+      <td>Moises De León 22, 1º (Poligono X), 24006 LEON, Spain</td>
+      <td>INTERN (H/M) COMERCIAL OTIS LEON</td>
+      <td><a href='https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/Moises-De-Len-22-1-Poligono-X-24006-LEON-Spain/INTERN--H-M--COMERCIAL-OTIS-LEON_20158973'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Texas - Dallas</td>
+      <td>Software Engineering MTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Texas---Dallas/Software-Engineering-MTS_JR339061'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, CO, Denver</td>
+      <td>Data Coordinator</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-CO-Denver/Data-Coordinator_JR0146378-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Warner Bros</b></td>
+      <td>CA San Francisco 153 Kearny Street</td>
+      <td>Programmer 1, App Programming (Temporary)</td>
+      <td><a href='https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/CA-San-Francisco-153-Kearny-Street/Programmer-1--App-Programming--Temporary-_R000105188'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>(IND) Grad Intern - No Work Experience</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2486846'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) VA CHESAPEAKE 01682 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-VA-CHESAPEAKE-01682-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2500656-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-06-07-32-14'>🕐 Batch at 2026-05-06 07:32:14</h3>
 
@@ -106,7 +260,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-06-04-59-24'>🕐 Batch at 2026-05-06 04:59:24</h3>
 
 📊 **Total jobs in this batch: 1**
@@ -135,8 +288,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-06-02-33-52'>🕐 Batch at 2026-05-06 02:33:52</h3>
+---<h3 id='batch-2026-05-06-02-33-52'>🕐 Batch at 2026-05-06 02:33:52</h3>
 
 📊 **Total jobs in this batch: 1**
 
