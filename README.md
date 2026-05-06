@@ -4,10 +4,48 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-06 16:10:04](#batch-2026-05-06-16-10-04)
 - [Batch at 2026-05-06 15:07:38](#batch-2026-05-06-15-07-38)
 - [Batch at 2026-05-06 13:35:04](#batch-2026-05-06-13-35-04)
 - [Batch at 2026-05-06 11:29:16](#batch-2026-05-06-11-29-16)
-- [Batch at 2026-05-06 09:54:55](#batch-2026-05-06-09-54-55)
+
+<h3 id='batch-2026-05-06-16-10-04'>🕐 Batch at 2026-05-06 16:10:04</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- Citi: 1 job
+- Scale AI: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Tampa Florida United States</td>
+      <td>Java Backend Software Developer - Officer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Java-Backend-Software-Developer---Officer_26960063-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Scale AI</b></td>
+      <td>United States</td>
+      <td>SACC DC 2026 - Job Application</td>
+      <td><a href='https://job-boards.greenhouse.io/scaleai/jobs/4691292005'>Apply</a></td>
+      <td>May 05, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-06-15-07-38'>🕐 Batch at 2026-05-06 15:07:38</h3>
 
@@ -78,7 +116,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-06-13-35-04'>🕐 Batch at 2026-05-06 13:35:04</h3>
 
 📊 **Total jobs in this batch: 23**
@@ -272,8 +309,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-06-11-29-16'>🕐 Batch at 2026-05-06 11:29:16</h3>
+---<h3 id='batch-2026-05-06-11-29-16'>🕐 Batch at 2026-05-06 11:29:16</h3>
 
 📊 **Total jobs in this batch: 8**
 
