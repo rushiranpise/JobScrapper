@@ -4,10 +4,84 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-05 20:39:05](#batch-2026-05-05-20-39-05)
 - [Batch at 2026-05-05 17:01:34](#batch-2026-05-05-17-01-34)
 - [Batch at 2026-05-05 15:12:00](#batch-2026-05-05-15-12-00)
 - [Batch at 2026-05-05 13:20:09](#batch-2026-05-05-13-20-09)
-- [Batch at 2026-05-05 11:23:01](#batch-2026-05-05-11-23-01)
+
+<h3 id='batch-2026-05-05-20-39-05'>🕐 Batch at 2026-05-05 20:39:05</h3>
+
+📊 **Total jobs in this batch: 7**
+
+**Per company:**
+- ALTEN Technology USA: 3 jobs
+- spacex: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>North Reading, MA</td>
+      <td>Software Development Engineer (Automation & Operational Excellence)</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5130028007'>Apply</a></td>
+      <td>May 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>North Reading, MA</td>
+      <td>Software Engineer – Data Pipelines / ETL / MLOps</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5130033007'>Apply</a></td>
+      <td>May 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>North Reading, MA</td>
+      <td>Software Simulation Engineer (AI + Infrastructure)</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5130022007'>Apply</a></td>
+      <td>May 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Welding Technical Trainer, GTAW (Starship)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8537003002?gh_jid=8537003002'>Apply</a></td>
+      <td>May 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) IN AUBURN 01570 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IN-AUBURN-01570-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2497006'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) FL ST PETERSBURG 01536 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-FL-ST-PETERSBURG-01536-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2500816'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Colorado Springs, CO</td>
+      <td>(USA) Systems and Infrastructure Engineer II</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Colorado-Springs-CO/XMLNAME--USA--Systems-and-Infrastructure-Engineer-II_R-2492614'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-05-17-01-34'>🕐 Batch at 2026-05-05 17:01:34</h3>
 
@@ -93,7 +167,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-05-15-12-00'>🕐 Batch at 2026-05-05 15:12:00</h3>
 
 📊 **Total jobs in this batch: 18**
@@ -254,8 +327,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-05-13-20-09'>🕐 Batch at 2026-05-05 13:20:09</h3>
+---<h3 id='batch-2026-05-05-13-20-09'>🕐 Batch at 2026-05-05 13:20:09</h3>
 
 📊 **Total jobs in this batch: 21**
 
