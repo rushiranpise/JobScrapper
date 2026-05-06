@@ -4,10 +4,205 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-06 13:35:04](#batch-2026-05-06-13-35-04)
 - [Batch at 2026-05-06 11:29:16](#batch-2026-05-06-11-29-16)
 - [Batch at 2026-05-06 09:54:55](#batch-2026-05-06-09-54-55)
 - [Batch at 2026-05-06 07:32:14](#batch-2026-05-06-07-32-14)
-- [Batch at 2026-05-06 04:59:24](#batch-2026-05-06-04-59-24)
+
+<h3 id='batch-2026-05-06-13-35-04'>🕐 Batch at 2026-05-06 13:35:04</h3>
+
+📊 **Total jobs in this batch: 23**
+
+**Per company:**
+- Archer 56: 1 job
+- Applied Materials: 2 jobs
+- Aurora: 1 job
+- BAH: 4 jobs
+- Brink: 1 job
+- Clear: 1 job
+- Comcast : 1 job
+- Intel Corporation: 1 job
+- Merck & Co.: 1 job
+- Remitly: 1 job
+- USAA: 1 job
+- Walmart: 8 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Archer 56</b></td>
+      <td>San Jose, California, United States</td>
+      <td>Data Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/archer56/jobs/7593968003'>Apply</a></td>
+      <td>Jan 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Phoenix,AZ</td>
+      <td>Digital Tools Application Engineer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/PhoenixAZ/Digital-Tools-Application-Engineer_R2618608'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Data Scientist/Analytics V</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist-Analytics-V_R2618356'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Aurora</b></td>
+      <td>Mountain View, California</td>
+      <td>Software Engineer, Planner Architecture</td>
+      <td><a href='https://aurora.tech/jobs/8309046002?gh_jid=8309046002'>Apply</a></td>
+      <td>May 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Colorado Springs, CO</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Colorado-Springs-CO/Software-Engineer_R0239474'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Melbourne, FL</td>
+      <td>Power BI Data Visualization Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Melbourne-FL/Power-BI-Data-Visualization-Specialist_R0239466'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0239681'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0239679'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Brink</b></td>
+      <td>Oakland CA</td>
+      <td>CDL Driver</td>
+      <td><a href='https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Oakland-CA/CDL-Driver_R73578'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Clear</b></td>
+      <td>New York, New York, United States</td>
+      <td>Software Engineer, Infrastructure </td>
+      <td><a href='https://job-boards.greenhouse.io/clear/jobs/7901600'>Apply</a></td>
+      <td>May 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>NJ - Mount Laurel, 1800 Bishops Gate</td>
+      <td>Agentic AI Test Engineer</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/NJ---Mount-Laurel-1800-Bishops-Gate/Agentic-AI-Test-Engineer_R436458'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Software Application Development Engineer Grade</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Application-Development-Engineer-Grade_JR0283627'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Merck & Co.</b></td>
+      <td>USA - California - San Diego (W. Bernardo Dr.)</td>
+      <td>VENCE Field Application Specialist</td>
+      <td><a href='https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---California---San-Diego-W-Bernardo-Dr/VENCE-Field-Application-Specialist_R395973'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Remitly</b></td>
+      <td>Seattle, Washington United States</td>
+      <td>Software Engineer II, Pricing Platform Team</td>
+      <td><a href='https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Engineer-II--Pricing-Platform-Team_R_106205'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>USAA</b></td>
+      <td>Charlotte, NC - CENTS</td>
+      <td>Data Scientist I</td>
+      <td><a href='https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Charlotte-NC---CENTS/Data-Scientist-I_R0117435'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Henderson, TX</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Henderson-TX/Front-End-Coach_R-2500519'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 03646 WM SUPERCENTER</td>
+      <td>(CAN)  Associé, saisonnier</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-03646-WM-SUPERCENTER/XMLNAME--CAN---Associ--saisonnier_R-2502045'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) SC GOOSE CREEK 02928 WM SUPERCENTER</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-SC-GOOSE-CREEK-02928-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2498732-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2462147'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 03646 WM SUPERCENTER</td>
+      <td>(CAN) Caissier</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-03646-WM-SUPERCENTER/XMLNAME--CAN--Caissier_R-2501944'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Data Scientist III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Data-Scientist-III_R-2478690'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) AR SPRINGDALE 04108 WM SUPERCENTER</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-AR-SPRINGDALE-04108-WM-SUPERCENTER/Front-End-Coach_R-2498544'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>(IND) Grad Intern - No Work Experience</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2486847'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-06-11-29-16'>🕐 Batch at 2026-05-06 11:29:16</h3>
 
@@ -93,7 +288,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-06-09-54-55'>🕐 Batch at 2026-05-06 09:54:55</h3>
 
 📊 **Total jobs in this batch: 17**
@@ -245,8 +439,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-06-07-32-14'>🕐 Batch at 2026-05-06 07:32:14</h3>
+---<h3 id='batch-2026-05-06-07-32-14'>🕐 Batch at 2026-05-06 07:32:14</h3>
 
 📊 **Total jobs in this batch: 10**
 
