@@ -4,10 +4,80 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-06 15:07:38](#batch-2026-05-06-15-07-38)
 - [Batch at 2026-05-06 13:35:04](#batch-2026-05-06-13-35-04)
 - [Batch at 2026-05-06 11:29:16](#batch-2026-05-06-11-29-16)
 - [Batch at 2026-05-06 09:54:55](#batch-2026-05-06-09-54-55)
-- [Batch at 2026-05-06 07:32:14](#batch-2026-05-06-07-32-14)
+
+<h3 id='batch-2026-05-06-15-07-38'>🕐 Batch at 2026-05-06 15:07:38</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- BAH: 1 job
+- Hotspot: 1 job
+- Lumafield: 1 job
+- Snorkel AI: 1 job
+- The Walt Disney Company: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Research and Training Coordinator</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Research-and-Training-Coordinator_JR59711'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Melbourne, FL</td>
+      <td>Azure Cloud Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Melbourne-FL/Azure-Cloud-Engineer_R0239471'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Hotspot</b></td>
+      <td>Remote - USA</td>
+      <td>AI Engineer (AIMS Martek)</td>
+      <td><a href='https://www.hubspot.com/careers/jobs/7453272?gh_jid=7453272'>Apply</a></td>
+      <td>Mar 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Lumafield</b></td>
+      <td>San Francisco, CA</td>
+      <td>QA Test Engineer, Cloud Software</td>
+      <td><a href='https://jobs.lever.co/lumafield/cfbbe063-85a1-4e9e-9a9d-18062aca6760'>Apply</a></td>
+      <td>2026-02-19 23:30:42</td>
+    </tr>
+    <tr>
+      <td><b>Snorkel AI</b></td>
+      <td>Redwood City, CA (Hybrid); San Francisco, CA (Hybrid)</td>
+      <td>AI Advocate, Open-Source & Research</td>
+      <td><a href='https://job-boards.greenhouse.io/snorkelai/jobs/5990014004'>Apply</a></td>
+      <td>May 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Orlando, FL, USA</td>
+      <td>Associate Costume Buyer (Internal Assignment / Project Hire)</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Associate-Costume-Buyer--Internal-Assignment---Project-Hire-_10149719-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-06-13-35-04'>🕐 Batch at 2026-05-06 13:35:04</h3>
 
@@ -203,7 +273,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-06-11-29-16'>🕐 Batch at 2026-05-06 11:29:16</h3>
 
 📊 **Total jobs in this batch: 8**
@@ -287,8 +356,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-06-09-54-55'>🕐 Batch at 2026-05-06 09:54:55</h3>
+---<h3 id='batch-2026-05-06-09-54-55'>🕐 Batch at 2026-05-06 09:54:55</h3>
 
 📊 **Total jobs in this batch: 17**
 
