@@ -4,10 +4,146 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-07 15:12:17](#batch-2026-05-07-15-12-17)
 - [Batch at 2026-05-07 13:27:09](#batch-2026-05-07-13-27-09)
 - [Batch at 2026-05-07 11:37:01](#batch-2026-05-07-11-37-01)
 - [Batch at 2026-05-07 10:03:16](#batch-2026-05-07-10-03-16)
-- [Batch at 2026-05-07 07:30:50](#batch-2026-05-07-07-30-50)
+
+<h3 id='batch-2026-05-07-15-12-17'>🕐 Batch at 2026-05-07 15:12:17</h3>
+
+📊 **Total jobs in this batch: 15**
+
+**Per company:**
+- Anduril Industries: 2 jobs
+- BAH: 2 jobs
+- Broadcom : 1 job
+- Children's Hospital Medical Center: 1 job
+- Citi: 4 jobs
+- HRL Laboratories: 1 job
+- nVent: 1 job
+- Salesforce: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Boston, Massachusetts, United States</td>
+      <td>Robotics Software Engineer, Maritime</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5091916007?gh_jid=5091916007'>Apply</a></td>
+      <td>Mar 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Quincy, Massachusetts, United States</td>
+      <td>Robotics Software Engineer, Maritime</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5047315007?gh_jid=5047315007'>Apply</a></td>
+      <td>Feb 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Quantico, VA</td>
+      <td>eLearning Environment Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/eLearning-Environment-Developer_R0239623'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Charlottesville, VA</td>
+      <td>Full Stack Software Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/Full-Stack-Software-Developer_R0239613'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-CA Irvine Alton Parkway Bldg 1</td>
+      <td>R&D Applications Engineer, Emulex Connectivity Division (ECD)</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-1/Software-Program-Manager--Emulex-Connectivity-Division--ECD-_R026001'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Children's Hospital Medical Center</b></td>
+      <td>South Campus</td>
+      <td>Athletic Trainer (Outreach)</td>
+      <td><a href='https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/South-Campus/Athletic-Trainer--Outreach-_JR221057'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>New York New York United States</td>
+      <td>Junior Generative AI Application Developer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Junior-Generative-AI-Application-Developer_26962250'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Tampa Florida United States</td>
+      <td>Junior Generative AI Application Developer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Junior-Generative-AI-Application-Developer_26962392'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Irving Texas United States</td>
+      <td>Junior Generative AI Application Developer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Junior-Generative-AI-Application-Developer_26962476'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Jersey City New Jersey United States</td>
+      <td>Junior Generative AI Application Developer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Junior-Generative-AI-Application-Developer_26962487'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>HRL Laboratories</b></td>
+      <td>Malibu, CA</td>
+      <td>Modeling Intern - Doctorate</td>
+      <td><a href='https://jobs.lever.co/dodmg/63f16a4f-7d1a-42f4-9f06-0c83b3e45a7e'>Apply</a></td>
+      <td>2026-05-07 21:07:24</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Anoka, MN, US</td>
+      <td>Quality Programmer Engineering Technician - 1st Shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Quality-Programmer-Engineering-Technician---1st-Shift_R21778'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Texas - Houston Metro - Remote</td>
+      <td>Success Architect (Internal Only)</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Texas---Houston-Metro---Remote/Success-Architect--Internal-Only-_JR338717-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Monroe, WA</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Monroe-WA/Front-End-Coach_R-2497059-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) WA SPOKANE 04394 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-WA-SPOKANE-04394-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2503080-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-07-13-27-09'>🕐 Batch at 2026-05-07 13:27:09</h3>
 
@@ -86,7 +222,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-07-11-37-01'>🕐 Batch at 2026-05-07 11:37:01</h3>
 
 📊 **Total jobs in this batch: 13**
@@ -208,8 +343,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-07-10-03-16'>🕐 Batch at 2026-05-07 10:03:16</h3>
+---<h3 id='batch-2026-05-07-10-03-16'>🕐 Batch at 2026-05-07 10:03:16</h3>
 
 📊 **Total jobs in this batch: 16**
 

@@ -1,8 +1,16 @@
-company,title,location,postedOn,link
-Applied Materials,Software Engineer II,"Benicia,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/BeniciaCA/Software-Engineer-II_R2618677
-BAH,DevSecOps Mission-Systems Software Engineer,"Rome, NY",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/DevSecOps-Mission-Systems-Software-Engineer_R0239594
-genpt,BI Data Analyst,"Birmingham, AL, USA",Posted Today,https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/BI-Data-Analyst_R26_0000013539-1
-Micron,(New College Grad) Change Management Engineer,"Boise, ID - Main Site",Posted Today,https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/XMLNAME--New-College-Grad--Change-Management-Engineer_JR95844
-MOOG,"Intern, Operations","Torrance, CA",Posted Today,https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Intern--Operations_R-25-14451
-NVIDIA,"Solutions Architect, OEM AI Factory Infrastructure","US, CA, Santa Clara",Posted Today,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solutions-Architect--OEM-AI-Factory-Infrastructure_JR2017294
-Walmart,Pharmacy Grad Intern (Hrly),(USA) UT CENTERVILLE 03366 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-UT-CENTERVILLE-03366-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2502200
+company,title,location,link,postedOn,updatedOn
+Anduril Industries,"Robotics Software Engineer, Maritime","Boston, Massachusetts, United States",https://boards.greenhouse.io/andurilindustries/jobs/5091916007?gh_jid=5091916007,2026-03-27T12:39:16-04:00,2026-05-07T16:46:27-04:00
+Anduril Industries,"Robotics Software Engineer, Maritime","Quincy, Massachusetts, United States",https://boards.greenhouse.io/andurilindustries/jobs/5047315007?gh_jid=5047315007,2026-02-09T15:59:36-05:00,2026-05-07T16:46:24-04:00
+BAH,eLearning Environment Developer,"Quantico, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/eLearning-Environment-Developer_R0239623,Posted Today,
+BAH,Full Stack Software Developer,"Charlottesville, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/Full-Stack-Software-Developer_R0239613,Posted Today,
+Broadcom ,"R&D Applications Engineer, Emulex Connectivity Division (ECD)",USA-CA Irvine Alton Parkway Bldg 1,https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-1/Software-Program-Manager--Emulex-Connectivity-Division--ECD-_R026001,Posted Today,
+Children's Hospital Medical Center,Athletic Trainer (Outreach),South Campus,https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/South-Campus/Athletic-Trainer--Outreach-_JR221057,Posted Today,
+Citi,Junior Generative AI Application Developer,New York New York United States,https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Junior-Generative-AI-Application-Developer_26962250,Posted Today,
+Citi,Junior Generative AI Application Developer,Tampa Florida United States,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Junior-Generative-AI-Application-Developer_26962392,Posted Today,
+Citi,Junior Generative AI Application Developer,Irving Texas United States,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Junior-Generative-AI-Application-Developer_26962476,Posted Today,
+Citi,Junior Generative AI Application Developer,Jersey City New Jersey United States,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Junior-Generative-AI-Application-Developer_26962487,Posted Today,
+HRL Laboratories,Modeling Intern - Doctorate,"Malibu, CA",https://jobs.lever.co/dodmg/63f16a4f-7d1a-42f4-9f06-0c83b3e45a7e,2026-05-07 21:07:24,N/A
+nVent,Quality Programmer Engineering Technician - 1st Shift,"Anoka, MN, US",https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Quality-Programmer-Engineering-Technician---1st-Shift_R21778,Posted Today,
+Salesforce,Success Architect (Internal Only),Texas - Houston Metro - Remote,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Texas---Houston-Metro---Remote/Success-Architect--Internal-Only-_JR338717-1,Posted Today,
+Walmart,Front End Coach,"Monroe, WA",https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Monroe-WA/Front-End-Coach_R-2497059-1,Posted Today,
+Walmart,Pharmacy Grad Intern (Hrly),(USA) WA SPOKANE 04394 WM SUPERCENTER,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-WA-SPOKANE-04394-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2503080-1,Posted Today,
