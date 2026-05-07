@@ -4,9 +4,133 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-07 11:37:01](#batch-2026-05-07-11-37-01)
 - [Batch at 2026-05-07 10:03:16](#batch-2026-05-07-10-03-16)
 - [Batch at 2026-05-07 07:30:50](#batch-2026-05-07-07-30-50)
 - [Batch at 2026-05-07 04:58:23](#batch-2026-05-07-04-58-23)
+
+<h3 id='batch-2026-05-07-11-37-01'>🕐 Batch at 2026-05-07 11:37:01</h3>
+
+📊 **Total jobs in this batch: 13**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- BAH: 2 jobs
+- Citi: 1 job
+- CMU: 1 job
+- Core Weave: 1 job
+- Comcast : 1 job
+- LexisNexis Risk Solutions: 1 job
+- Morgan Stanley: 1 job
+- The Toro: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Auburn Hills, Michigan, United States</td>
+      <td>Hardware Engineer: Junior Level</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5131906007'>Apply</a></td>
+      <td>May 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0239389'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lexington Park, MD</td>
+      <td>Software Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/Software-Engineer--Mid_R0239562'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Jersey City New Jersey United States</td>
+      <td>Python Application Developer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Python-Application-Developer_26953936-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Summer Research Intern - College of Engineering - Electrical and Computer Engineering</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Summer-Research-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024522'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA</td>
+      <td>Software Engineer, Performance & Benchmarking</td>
+      <td><a href='https://coreweave.com/careers/job?4666463006&board=coreweave&gh_jid=4666463006'>Apply</a></td>
+      <td>May 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1701 John F Kennedy Blvd</td>
+      <td>Comcast Market & Competitive Insights Co-op</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Market---Competitive-Insights-Co-op_R436576'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>LexisNexis Risk Solutions</b></td>
+      <td>Alpharetta, GA</td>
+      <td>Dir Software Engineering</td>
+      <td><a href='https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Dir-Software-Engineering_R111891'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>New York, New York, United States of America</td>
+      <td>Intern</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Intern_JR036201-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>El Paso, TX</td>
+      <td>Material Handler I - The Toro Company</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/El-Paso-TX/Material-Handler-I---The-Toro-Company_JR15999'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Robinson, TX</td>
+      <td>Material Handler, Manufacturing (Friday-Sunday, 6:00am-6:30pm) - $24.50/hr.</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Robinson-TX/Material-Handler--Manufacturing--Friday-Sunday--6-00am-6-30pm-----2450-hr_R-2503051'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) OH NAPOLEON 01416 WM SUPERCENTER</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OH-NAPOLEON-01416-WM-SUPERCENTER/Front-End-Coach_R-2503021'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Respect Building CA SUNNYVALE Home Office</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III_R-2492725-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-07-10-03-16'>🕐 Batch at 2026-05-07 10:03:16</h3>
 
@@ -150,7 +274,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-07-07-30-50'>🕐 Batch at 2026-05-07 07:30:50</h3>
 
 📊 **Total jobs in this batch: 12**
@@ -264,8 +387,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-07-04-58-23'>🕐 Batch at 2026-05-07 04:58:23</h3>
+---<h3 id='batch-2026-05-07-04-58-23'>🕐 Batch at 2026-05-07 04:58:23</h3>
 
 📊 **Total jobs in this batch: 1**
 
