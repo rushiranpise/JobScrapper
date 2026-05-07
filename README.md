@@ -4,10 +4,87 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-06 20:39:31](#batch-2026-05-06-20-39-31)
 - [Batch at 2026-05-06 16:10:04](#batch-2026-05-06-16-10-04)
 - [Batch at 2026-05-06 15:07:38](#batch-2026-05-06-15-07-38)
 - [Batch at 2026-05-06 13:35:04](#batch-2026-05-06-13-35-04)
-- [Batch at 2026-05-06 11:29:16](#batch-2026-05-06-11-29-16)
+
+<h3 id='batch-2026-05-06-20-39-31'>🕐 Batch at 2026-05-06 20:39:31</h3>
+
+📊 **Total jobs in this batch: 7**
+
+**Per company:**
+- Anduril Industries: 2 jobs
+- Archer 56: 1 job
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- Citi: 1 job
+- NVIDIA: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Robotics Software Engineer, Maritime</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5051580007?gh_jid=5051580007'>Apply</a></td>
+      <td>Feb 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Software Systems Test Engineer, Space</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/4992181007?gh_jid=4992181007'>Apply</a></td>
+      <td>Dec 01, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Archer 56</b></td>
+      <td>San Jose, California, United States</td>
+      <td>AI Research Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/archer56/jobs/7589559003'>Apply</a></td>
+      <td>Jan 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Muskogee County</td>
+      <td>Certified Medication Aide</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Muskogee-County/Certified-Medication-Aide_JR59715'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Irving Texas United States</td>
+      <td>Application Support Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Application-Support-Analyst_26958360'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Groveport, OH</td>
+      <td>(USA) Continuous Skills Development Trainer</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Groveport-OH/XMLNAME--USA--Continuous-Skills-Development-Trainer_R-2502141'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-06-16-10-04'>🕐 Batch at 2026-05-06 16:10:04</h3>
 
@@ -46,7 +123,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-06-15-07-38'>🕐 Batch at 2026-05-06 15:07:38</h3>
 
 📊 **Total jobs in this batch: 6**
@@ -115,8 +191,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-06-13-35-04'>🕐 Batch at 2026-05-06 13:35:04</h3>
+---<h3 id='batch-2026-05-06-13-35-04'>🕐 Batch at 2026-05-06 13:35:04</h3>
 
 📊 **Total jobs in this batch: 23**
 
