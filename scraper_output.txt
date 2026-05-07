@@ -1,8 +1,8 @@
 
-✅ Scraped 12 new jobs. Output saved to 'output.csv'.
-📦 Appended 12 jobs to 'output_old.csv'
+✅ Scraped 16 new jobs. Output saved to 'output.csv'.
+📦 Appended 16 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"Addepar","title":"Full Stack Software Engineer - Alts & Data Management","location":"New York, NY","link":"https:\/\/job-boards.greenhouse.io\/addepar1\/jobs\/8538666002","postedOn":"2026-05-07T09:00:15-04:00","updatedOn":"2026-05-07T09:00:15-04:00"},{"company":"Comcast ","title":"Comcast Reporting Analyst Co-op","location":"PA - Philadelphia, 1701 John F Kennedy Blvd","link":"https:\/\/comcast.wd5.myworkdayjobs.com\/en-US\/Comcast_Careers\/job\/PA---Philadelphia-1701-John-F-Kennedy-Blvd\/Comcast-Reporting-Analyst-Co-op_R436182","postedOn":"Posted Today","updatedOn":null},{"company":"Comcast ","title":"Comcast Information Systems Co-op","location":"PA - Philadelphia, 1701 John F Kennedy Blvd","link":"https:\/\/comcast.wd5.myworkdayjobs.com\/en-US\/Comcast_Careers\/job\/PA---Philadelphia-1701-John-F-Kennedy-Blvd\/Comcast-Information-Systems-Co-op_R436257","postedOn":"Posted Today","updatedOn":null},{"company":"General Motors LLC","title":"Biobehavioral Human-Machine Teaming & AI Researcher","location":"Warren, Michigan, United States of America","link":"https:\/\/generalmotors.wd5.myworkdayjobs.com\/en-US\/Careers_GM\/job\/Warren-Michigan-United-States-of-America\/Biobehavioral-Human-Machine-Teaming---AI-Researcher_JR-202609310-1","postedOn":"Posted Today","updatedOn":null},{"company":"Lightricks","title":"Visual Generative AI Solutions Specialist","location":"Jerusalem","link":"https:\/\/careers.lightricks.com\/position?gh_jid=8539197002&gh_jid=8539197002","postedOn":"2026-05-07T08:55:38-04:00","updatedOn":"2026-05-07T08:55:38-04:00"},{"company":"LexisNexis Risk Solutions","title":"Data Scientist","location":"Remote - USA - Nationwide","link":"https:\/\/relx.wd3.myworkdayjobs.com\/en-US\/RiskSolutions\/job\/Remote---USA---Nationwide\/Data-Scientist_R111919","postedOn":"Posted Today","updatedOn":null},{"company":"Merck & Co.","title":"Business Analyst \u2013 Automation, Analytics & AI","location":"USA - New Jersey - Rahway","link":"https:\/\/msd.wd5.myworkdayjobs.com\/en-US\/SearchJobs\/job\/USA---New-Jersey---Rahway\/Business-Analyst---Automation--Analytics---AI_R397049-2","postedOn":"Posted Today","updatedOn":null},{"company":"Stripe","title":"Risk & Control Health Data Analyst","location":"US-Remote","link":"https:\/\/stripe.com\/jobs\/search?gh_jid=7577621","postedOn":"2026-01-30T16:26:10-05:00","updatedOn":"2026-05-07T08:29:01-04:00"},{"company":"The Toro","title":"Painter, B Shift - BOSS Snowplow","location":"Iron Mountain, MI","link":"https:\/\/ttc.wd1.myworkdayjobs.com\/en-US\/Toro_External_Careers\/job\/Iron-Mountain-MI\/Painter--B-Shift---BOSS-Snowplow_JR16100","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"(CAN) Pr\u00e9pos\u00e9 au traitement des commandes OMNI","location":"(CAN) QC VILLE DE QUEBEC 03646 WM SUPERCENTER","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/CAN-QC-VILLE-DE-QUEBEC-03646-WM-SUPERCENTER\/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2502660","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"(USA) Service Shop Entry Technician - PLAINVIEW, TX (1ST SHIFT)","location":"US TX PLAINVIEW 06712 MAINTENANCE TRUCKING","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/US-TX-PLAINVIEW-06712-MAINTENANCE-TRUCKING\/XMLNAME--USA--Service-Shop-Entry-Technician---PLAINVIEW--TX--1ST-SHIFT-_R-2502595","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"(CAN) Pr\u00e9pos\u00e9 au traitement des commandes OMNI","location":"Saint-Eustache, QC","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/Saint-Eustache-QC\/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2502600","postedOn":"Posted Today","updatedOn":null}]
+[{"company":"566 DEPARTMENT OF TOURISM AND RECREATION","title":"Seasonal Laborer - Quartz Mountain State Park Lodge","location":"Kiowa County","link":"https:\/\/okgov.wd1.myworkdayjobs.com\/en-US\/okgovjobs\/job\/Kiowa-County\/Seasonal-Laborer---Quartz-Mountain-State-Park-Lodge_JR59732","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Software Engineer, Mid","location":"Lexington Park, MD","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Lexington-Park-MD\/Software-Engineer--Mid_R0239566","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Analysis & Exploitation Trainer","location":"Fayetteville, NC","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Fayetteville-NC\/Analysis---Exploitation-Trainer_R0239511","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Multi-Domain Operations Trainer","location":"Fort Polk, LA","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Fort-Polk-LA\/Multi-Domain-Operations-Trainer_R0239548","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Meteorological Data Management Engineer","location":"McLean, VA","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/McLean-VA\/Meteorological-Data-Management-Engineer_R0239545-1","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Data Scientist, Mid","location":"Arlington, VA","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Arlington-VA\/Data-Scientist--Mid_R0239482","postedOn":"Posted Today","updatedOn":null},{"company":"Comcast ","title":"Engineer 4, Software Development & Engineering-5252","location":"VA - Reston, 11951 Freedom Dr Ste 900","link":"https:\/\/comcast.wd5.myworkdayjobs.com\/en-US\/Comcast_Careers\/job\/VA---Reston-11951-Freedom-Dr-Ste-900\/Engineer-4--Software-Development---Engineering-5252_R437015","postedOn":"Posted Today","updatedOn":null},{"company":"Comcast ","title":"Engineer 3, Software Development & Engineering-6225","location":"PA - Philadelphia, 1701 John F Kennedy Blvd","link":"https:\/\/comcast.wd5.myworkdayjobs.com\/en-US\/Comcast_Careers\/job\/PA---Philadelphia-1701-John-F-Kennedy-Blvd\/Engineer-3--Software-Development---Engineering-6225_R437098","postedOn":"Posted Today","updatedOn":null},{"company":"Comcast ","title":"Engineer, Software Development & Engineering-9783","location":"PA - West Chester, 1354 Boot Rd","link":"https:\/\/comcast.wd5.myworkdayjobs.com\/en-US\/Comcast_Careers\/job\/PA---West-Chester-1354-Boot-Rd\/Engineer--Software-Development---Engineering-9783_R436421","postedOn":"Posted Today","updatedOn":null},{"company":"Dematic Corp. (ILD-US)","title":"Project Management Intern","location":"Grand Rapids, MI, United States","link":"https:\/\/kiongroup.wd3.myworkdayjobs.com\/en-US\/KIONGroup\/job\/Grand-Rapids-MI-United-States\/Project-Management-Intern_JR-0091928-1","postedOn":"Posted Today","updatedOn":null},{"company":"Gelber Group","title":"Trading Internship - Boston Summer 2026","location":"Boston, Massachusetts, United States","link":"https:\/\/job-boards.greenhouse.io\/gelbergroup\/jobs\/4679858006","postedOn":"2026-05-07T11:28:24-04:00","updatedOn":"2026-05-07T11:28:24-04:00"},{"company":"Intel Corporation","title":"Software Application Development Engineer","location":"US, California, Folsom","link":"https:\/\/intel.wd1.myworkdayjobs.com\/en-US\/External\/job\/US-California-Folsom\/Software-Application-Development-Engineer_JR0283642","postedOn":"Posted Today","updatedOn":null},{"company":"searchLFN","title":"Software Quality Engineer II","location":"Schaumburg, IL 60173","link":"https:\/\/lifefitness.wd1.myworkdayjobs.com\/en-US\/searchLFN\/job\/Schaumburg-IL-60173\/Software-Quality-Engineer-II_JR-024953","postedOn":"Posted Today","updatedOn":null},{"company":"Warner Bros","title":"Developer, System Development","location":"Mexico City, Paseo de las Palmas No.425-701","link":"https:\/\/warnerbros.wd5.myworkdayjobs.com\/en-US\/global\/job\/Mexico-City-Paseo-de-las-Palmas-No425-701\/Developer--System-Development_R000105246","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"(USA) Front End Coach","location":"(USA) VA CHESAPEAKE 03644 WM SUPERCENTER","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/USA-VA-CHESAPEAKE-03644-WM-SUPERCENTER\/XMLNAME--USA--Front-End-Coach_R-2502903-1","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"Software Engineer III - Full Stack","location":"Bentonville, AR","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/Bentonville-AR\/Software-Engineer-III---Full-Stack_R-2344746-1","postedOn":"Posted Today","updatedOn":null}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
@@ -10,46 +10,25 @@ ERRORS_START
 [ERROR] Ambrook: Lever API failed: https://api.lever.co/v0/postings/ambrook?mode=json - 404
 [ERROR] Amidon Heavy Industries: Ashby API failed - HTTP 404: Not Found
 [ERROR] Magna Services of America, Inc: Invalid Workday URL
-[ERROR] Adobe: Workday API failed: HTTP 502 - <html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>cloudflare</center>
-</body>
-</html>
-
+[ERROR] Applied Materials: Workday API failed: HTTP 520 - <!DOCTYPE html>
 [ERROR] boomi: Greenhouse API failed: 404
-[ERROR] Broadcom : Workday API failed: HTTP 502 - <html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>cloudflare</center>
-</body>
-</html>
-
 [ERROR] Canonical: Greenhouse API failed: 404
 [ERROR] Cdata: Greenhouse API failed: 404
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"DD8CE0MOVKUEVH","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"120603MOVQ8MSC","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Children's Hospital Medical Center: Workday API failed: HTTP 520 - <!DOCTYPE html>
 [ERROR] Clever: Could not extract Lever company name
-[ERROR] BorgWarner: Workday API failed: HTTP 502 - <html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>cloudflare</center>
-</body>
-</html>
-
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
 [ERROR] Coinbase: Greenhouse API failed: 404
 [ERROR] Dapper Labs: Lever API failed: https://api.lever.co/v0/postings/axiomzen?mode=json - 404
 [ERROR] Demandbase : Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
-[ERROR] Citi: Workday API failed: HTTP 520 - <!DOCTYPE html>
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"08820BMOVKVJJS","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Early  Warning: Workday API failed: HTTP 520 - <!DOCTYPE html>
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"5DAF10MOVQ9R66","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
-[ERROR] Ciena: Workday API failed: HTTP 502 - <html>
+[ERROR] Funnel: Breezy API failed: 403
+[ERROR] Cohesity: Workday API failed: HTTP 502 - <html>
 <head><title>502 Bad Gateway</title></head>
 <body>
 <center><h1>502 Bad Gateway</h1></center>
@@ -57,8 +36,7 @@ ERRORS_START
 </body>
 </html>
 
-[ERROR] Funnel: Breezy API failed: 403
-[ERROR] flir: Workday API failed: HTTP 502 - <html>
+[ERROR] CMU: Workday API failed: HTTP 502 - <html>
 <head><title>502 Bad Gateway</title></head>
 <body>
 <center><h1>502 Bad Gateway</h1></center>
@@ -67,14 +45,6 @@ ERRORS_START
 </html>
 
 [ERROR] Grammarly : Greenhouse API failed: 404
-[ERROR] f5jobs: Workday API failed: HTTP 502 - <html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>cloudflare</center>
-</body>
-</html>
-
 [ERROR] Groq: Greenhouse API failed: 404
 [ERROR] Handshake: Greenhouse API failed: 404
 [ERROR] Illumio: Greenhouse API failed: 404
@@ -83,53 +53,29 @@ ERRORS_START
 [ERROR] Kobie: Greenhouse API failed: 404
 [ERROR] Kodiak Robotics: Lever API failed: https://api.lever.co/v0/postings/kodiak?mode=json - 404
 [ERROR] Modernizing Medicine: Greenhouse API failed: 404
-[ERROR] JDA: Workday API failed: HTTP 502 - <html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>cloudflare</center>
-</body>
-</html>
-
-[ERROR] Notion: Greenhouse API failed: 404
 [ERROR] netflix: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Notion: Greenhouse API failed: 404
 [ERROR] Perplexity AI: Greenhouse API failed: 404
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"AA49CAMOVKXXKB","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] MOOG: Workday API failed: HTTP 502 - <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"E96679MOVQC9Z9","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Relativity Space: Greenhouse API failed: 404
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
-[ERROR] Rakuten : Workday API failed: HTTP 502 - <html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>cloudflare</center>
-</body>
-</html>
-
 [ERROR] Skydio: Greenhouse API failed: 404
 [ERROR] Snap: Invalid Workday URL
-[ERROR] Robert Half : Workday API failed: HTTP 502 - <html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>cloudflare</center>
-</body>
-</html>
-
-[ERROR] searchLFN: Workday API failed: HTTP 502 - <html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>cloudflare</center>
-</body>
-</html>
-
+[ERROR] search: Workday API failed: HTTP 520 - <!DOCTYPE html>
 [ERROR] Stitch Fix : Greenhouse API failed: 404
-[ERROR] Sentry : Workday API failed: HTTP 520 - <!DOCTYPE html>
 [ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] Simons Foundation: Workday API failed: HTTP 502 - <html>
+[ERROR] Sony AI America Inc: Workday API failed: HTTP 502 - <html>
 <head><title>502 Bad Gateway</title></head>
 <body>
 <center><h1>502 Bad Gateway</h1></center>
@@ -137,6 +83,8 @@ ERRORS_START
 </body>
 </html>
 
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"0CF950MOVQEK1V","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"5C8CF4MOVQEK32","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Solera: Workday API failed: HTTP 502 - <html>
 <head><title>502 Bad Gateway</title></head>
 <body>
@@ -145,26 +93,14 @@ ERRORS_START
 </body>
 </html>
 
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"04C5A8MOVKZUL9","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"DE6022MOVKZX1P","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] TRM labs: Greenhouse API failed: 404
 [ERROR] Vimeo: Greenhouse API failed: 404
-[ERROR] USAA: Workday API failed: HTTP 520 - <!DOCTYPE html>
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"626D61MOVL0YPX","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Wiley Edge/mthree: Workday API failed: HTTP 502 - <html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>cloudflare</center>
-</body>
-</html>
-
-[ERROR] Xylem Services USA LLC: Workday API failed: HTTP 520 - <!DOCTYPE html>
-[ERROR] Warner Bros: Workday API failed: HTTP 502 - <html>
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"106B36MOVQFGXF","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Zoom: Workday API failed: HTTP 502 - <html>
 <head><title>502 Bad Gateway</title></head>
 <body>
 <center><h1>502 Bad Gateway</h1></center>
