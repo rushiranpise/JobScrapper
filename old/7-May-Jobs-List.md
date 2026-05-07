@@ -4,10 +4,88 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-07 13:27:09](#batch-2026-05-07-13-27-09)
 - [Batch at 2026-05-07 11:37:01](#batch-2026-05-07-11-37-01)
 - [Batch at 2026-05-07 10:03:16](#batch-2026-05-07-10-03-16)
 - [Batch at 2026-05-07 07:30:50](#batch-2026-05-07-07-30-50)
-- [Batch at 2026-05-07 04:58:23](#batch-2026-05-07-04-58-23)
+
+<h3 id='batch-2026-05-07-13-27-09'>🕐 Batch at 2026-05-07 13:27:09</h3>
+
+📊 **Total jobs in this batch: 7**
+
+**Per company:**
+- Applied Materials: 1 job
+- BAH: 1 job
+- genpt: 1 job
+- Micron: 1 job
+- MOOG: 1 job
+- NVIDIA: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Benicia,CA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/BeniciaCA/Software-Engineer-II_R2618677'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Rome, NY</td>
+      <td>DevSecOps Mission-Systems Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/DevSecOps-Mission-Systems-Software-Engineer_R0239594'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>BI Data Analyst</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/BI-Data-Analyst_R26_0000013539-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>(New College Grad) Change Management Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/XMLNAME--New-College-Grad--Change-Management-Engineer_JR95844'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Torrance, CA</td>
+      <td>Intern, Operations</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Intern--Operations_R-25-14451'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Solutions Architect, OEM AI Factory Infrastructure</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solutions-Architect--OEM-AI-Factory-Infrastructure_JR2017294'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) UT CENTERVILLE 03366 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-UT-CENTERVILLE-03366-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2502200'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-07-11-37-01'>🕐 Batch at 2026-05-07 11:37:01</h3>
 
@@ -131,7 +209,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-07-10-03-16'>🕐 Batch at 2026-05-07 10:03:16</h3>
 
 📊 **Total jobs in this batch: 16**
@@ -273,8 +350,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-07-07-30-50'>🕐 Batch at 2026-05-07 07:30:50</h3>
+---<h3 id='batch-2026-05-07-07-30-50'>🕐 Batch at 2026-05-07 07:30:50</h3>
 
 📊 **Total jobs in this batch: 12**
 
