@@ -4,10 +4,63 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-07 17:04:24](#batch-2026-05-07-17-04-24)
 - [Batch at 2026-05-07 15:12:17](#batch-2026-05-07-15-12-17)
 - [Batch at 2026-05-07 13:27:09](#batch-2026-05-07-13-27-09)
 - [Batch at 2026-05-07 11:37:01](#batch-2026-05-07-11-37-01)
-- [Batch at 2026-05-07 10:03:16](#batch-2026-05-07-10-03-16)
+
+<h3 id='batch-2026-05-07-17-04-24'>🕐 Batch at 2026-05-07 17:04:24</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- Anduril Industries: 2 jobs
+- BAH: 1 job
+- spacex: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>People Data Analytics Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/4859842007?gh_jid=4859842007'>Apply</a></td>
+      <td>Sep 16, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Boston, Massachusetts, United States</td>
+      <td>People Data Analytics Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/4918732007?gh_jid=4918732007'>Apply</a></td>
+      <td>Sep 24, 2025</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>Business & Office Management Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Business---Office-Management-Intern_R0239648'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>CMM Programmer - Level 4/5</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8540257002?gh_jid=8540257002'>Apply</a></td>
+      <td>May 07, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-07-15-12-17'>🕐 Batch at 2026-05-07 15:12:17</h3>
 
@@ -144,7 +197,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-07-13-27-09'>🕐 Batch at 2026-05-07 13:27:09</h3>
 
 📊 **Total jobs in this batch: 7**
@@ -221,8 +273,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-07-11-37-01'>🕐 Batch at 2026-05-07 11:37:01</h3>
+---<h3 id='batch-2026-05-07-11-37-01'>🕐 Batch at 2026-05-07 11:37:01</h3>
 
 📊 **Total jobs in this batch: 13**
 
