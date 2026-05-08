@@ -4,8 +4,162 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-08 10:31:44](#batch-2026-05-08-10-31-44)
 - [Batch at 2026-05-08 08:53:41](#batch-2026-05-08-08-53-41)
 - [Batch at 2026-05-08 07:07:21](#batch-2026-05-08-07-07-21)
+
+<h3 id='batch-2026-05-08-10-31-44'>🕐 Batch at 2026-05-08 10:31:44</h3>
+
+📊 **Total jobs in this batch: 17**
+
+**Per company:**
+- Addepar: 1 job
+- Appian : 1 job
+- Anduril Industries: 1 job
+- BAH: 1 job
+- Children's Hospital Medical Center: 1 job
+- Citi: 2 jobs
+- GOAT : 1 job
+- MongoDB: 1 job
+- MOOG: 1 job
+- NVIDIA: 1 job
+- Snowflake: 4 jobs
+- spacex: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Addepar</b></td>
+      <td>Remote, USA</td>
+      <td>Software Engineer - Workflow Platform</td>
+      <td><a href='https://job-boards.greenhouse.io/addepar1/jobs/8539659002'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Appian </b></td>
+      <td>McLean, Virginia</td>
+      <td>Solution Architect - AI</td>
+      <td><a href='https://job-boards.greenhouse.io/appian/jobs/7908503'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Law Enforcement Liaison Specialist</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5056348007?gh_jid=5056348007'>Apply</a></td>
+      <td>Feb 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Honolulu, HI</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0237400'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Children's Hospital Medical Center</b></td>
+      <td>Burnet Campus</td>
+      <td>Student Co-Op for McCracken Lab</td>
+      <td><a href='https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Burnet-Campus/Student-Co-Op-for-McCracken-Lab_JR221072'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Tampa Florida United States</td>
+      <td>Apps Dev Intmd Programmer Analyst - Officer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Apps-Dev-Intmd-Programmer-Analyst---Officer_26956703'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Rutherford New Jersey United States</td>
+      <td>Apps Dev Intmd Programmer Analyst - Officer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Rutherford-New-Jersey-United-States/Apps-Dev-Intmd-Programmer-Analyst---Officer_26952705-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>GOAT </b></td>
+      <td>Fontana, California, United States</td>
+      <td>Product Handler (Fulfillment) </td>
+      <td><a href='https://job-boards.greenhouse.io/goatgroup/jobs/4693838005'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>MongoDB</b></td>
+      <td>New York City</td>
+      <td>Software Engineer, Developer Productivity</td>
+      <td><a href='https://www.mongodb.com/careers/job/?gh_jid=7851388'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Santa Barbara, CA</td>
+      <td>Intern, Software Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Santa-Barbara-CA/Intern--Software-Engineering_R-26-17553'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Remote</td>
+      <td>Software Engineer, NVIDIA OpenShell</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Software-Engineer--NVIDIA-OpenShell_JR2017604'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Software Engineer Intern (AI/ML) - Fall 2026 </td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/be659b54-08a1-4acf-b86c-f003ef6343ea'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Software Engineer Intern (Core Engineering) - Fall 2026 </td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/4f34aefa-681b-4aa8-a0ea-28ce56c9f1a5'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Software Engineer Intern (Database Engineering) - Fall 2026</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/fd76a37f-868d-467b-a256-0b6746b9e961'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Software Engineer Intern (Infrastructure Automation) - Fall 2026 </td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/bbdee8bd-443c-456f-a4f0-1b363d843310'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Chiller Specialist (Chilled Water/Data Center) - Level 4/5 </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8541119002?gh_jid=8541119002'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>HVAC Specialist (Chilled Water/Data Center) - Level 4/5 </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8540414002?gh_jid=8540414002'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-08-08-53-41'>🕐 Batch at 2026-05-08 08:53:41</h3>
 
@@ -194,7 +348,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-08-07-07-21'>🕐 Batch at 2026-05-08 07:07:21</h3>
 
 📊 **Total jobs in this batch: 8**
