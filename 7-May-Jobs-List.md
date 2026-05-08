@@ -4,10 +4,64 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-07 23:08:09](#batch-2026-05-07-23-08-09)
 - [Batch at 2026-05-07 20:43:55](#batch-2026-05-07-20-43-55)
 - [Batch at 2026-05-07 17:04:24](#batch-2026-05-07-17-04-24)
 - [Batch at 2026-05-07 15:12:17](#batch-2026-05-07-15-12-17)
-- [Batch at 2026-05-07 13:27:09](#batch-2026-05-07-13-27-09)
+
+<h3 id='batch-2026-05-07-23-08-09'>🕐 Batch at 2026-05-07 23:08:09</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- MOOG: 1 job
+- OpenAI: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Internal Services Coordinator</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Internal-Services-Coordinator_JR59773'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Vilnius, LT</td>
+      <td>SOFTWARE QA ENGINEER (MANUAL)</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Vilnius-LT/Eng-II--R-D-Sftwr-V-V-Engrng_R-26-17619'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenAI</b></td>
+      <td>Sydney, Australia</td>
+      <td>AI Deployment Engineer, Codex | Sydney</td>
+      <td><a href='https://jobs.ashbyhq.com/openai/d8665fa8-89f3-4414-824d-3a3fcc883de5'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Software-Engineer-III_R-2463528'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-07-20-43-55'>🕐 Batch at 2026-05-07 20:43:55</h3>
 
@@ -77,7 +131,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-07-17-04-24'>🕐 Batch at 2026-05-07 17:04:24</h3>
 
 📊 **Total jobs in this batch: 4**
@@ -129,8 +182,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-07-15-12-17'>🕐 Batch at 2026-05-07 15:12:17</h3>
+---<h3 id='batch-2026-05-07-15-12-17'>🕐 Batch at 2026-05-07 15:12:17</h3>
 
 📊 **Total jobs in this batch: 15**
 
