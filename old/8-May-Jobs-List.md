@@ -4,9 +4,126 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-08 12:33:23](#batch-2026-05-08-12-33-23)
 - [Batch at 2026-05-08 10:31:44](#batch-2026-05-08-10-31-44)
 - [Batch at 2026-05-08 08:53:41](#batch-2026-05-08-08-53-41)
 - [Batch at 2026-05-08 07:07:21](#batch-2026-05-08-07-07-21)
+
+<h3 id='batch-2026-05-08-12-33-23'>🕐 Batch at 2026-05-08 12:33:23</h3>
+
+📊 **Total jobs in this batch: 12**
+
+**Per company:**
+- Addepar: 1 job
+- Concentrix: 1 job
+- Dematic Corp. (ILD-US): 1 job
+- flir: 1 job
+- GE Healthcare: 2 jobs
+- OpenEye: 1 job
+- Otis: 1 job
+- Samsun Gresearchamericainternship: 1 job
+- Stripe: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Addepar</b></td>
+      <td>New York, NY</td>
+      <td>Backend Software Engineer - Precompute </td>
+      <td><a href='https://job-boards.greenhouse.io/addepar1/jobs/8539734002'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>Omaha, NE 68122</td>
+      <td>Software Development Engineer in Test (SDET) with Python Experience</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/Omaha-NE-68122/Software-Development-Engineer-in-Test--SDET--with-Python-Experience_R1729057-5'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Dematic Corp. (ILD-US)</b></td>
+      <td>Grand Rapids, MI, United States</td>
+      <td>Software Engineering Intern</td>
+      <td><a href='https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0090781-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Chestnut Ridge, NY</td>
+      <td>Manufacturing Engineering Intern</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Chestnut-Ridge-NY/Manufacturing-Engineering-Intern_REQ34674'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>GE Healthcare</b></td>
+      <td>Florence SC USA</td>
+      <td>Material Handler 2nd shift</td>
+      <td><a href='https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Florence-SC-USA/Material-Handler-2nd-shift_R4040815-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>GE Healthcare</b></td>
+      <td>Florence SC USA</td>
+      <td>Material Handler- 2nd Shift</td>
+      <td><a href='https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Florence-SC-USA/Material-Handler--2nd-Shift_R4040813-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenEye</b></td>
+      <td>Tysons, Virginia</td>
+      <td>Software Engineer II - Mobile</td>
+      <td><a href='https://job-boards.greenhouse.io/alarmcom/jobs/8538618002'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Otis</b></td>
+      <td>OT999: 1CP - Farmington, CT One Carrier Place, Farmington, CT, 06032 USA</td>
+      <td>Entry Level Software Engineer</td>
+      <td><a href='https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT999-1CP---Farmington-CT-One-Carrier-Place-Farmington-CT-06032-USA/Entry-Level-Software-Engineer_20156951'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Samsun Gresearchamericainternship</b></td>
+      <td>665 Clyde Avenue, Mountain View,  CA, USA</td>
+      <td>2026 Fall Intern, ML/NLP Research</td>
+      <td><a href='https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8541339002'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>Seattle, WA</td>
+      <td>Software Engineer, Balance Abstraction</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=7908923'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2433909'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX LEWISVILLE 06381 SAM'S CLUB</td>
+      <td>Part-Time Pre Grad Intern - Sam's Club Pharmacy</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-LEWISVILLE-06381-SAMS-CLUB/Part-Time-Pre-Grad-Intern---Sam-s-Club-Pharmacy_R-2504435'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-08-10-31-44'>🕐 Batch at 2026-05-08 10:31:44</h3>
 
@@ -160,7 +277,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-08-08-53-41'>🕐 Batch at 2026-05-08 08:53:41</h3>
 
 📊 **Total jobs in this batch: 22**
@@ -347,8 +463,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-08-07-07-21'>🕐 Batch at 2026-05-08 07:07:21</h3>
+---<h3 id='batch-2026-05-08-07-07-21'>🕐 Batch at 2026-05-08 07:07:21</h3>
 
 📊 **Total jobs in this batch: 8**
 
