@@ -4,10 +4,76 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-08 16:07:21](#batch-2026-05-08-16-07-21)
 - [Batch at 2026-05-08 14:14:03](#batch-2026-05-08-14-14-03)
 - [Batch at 2026-05-08 12:33:23](#batch-2026-05-08-12-33-23)
 - [Batch at 2026-05-08 10:31:44](#batch-2026-05-08-10-31-44)
-- [Batch at 2026-05-08 08:53:41](#batch-2026-05-08-08-53-41)
+
+<h3 id='batch-2026-05-08-16-07-21'>🕐 Batch at 2026-05-08 16:07:21</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- Affirm : 1 job
+- Walmart: 5 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>Software Engineer II, Backend (Merchant Advocacy)</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/7708925003'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Val-D'Or, QC</td>
+      <td>Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Val-DOr-QC/Prpos-au-traitement-des-commandes-OMNI_R-2505033'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) WA VANCOUVER 03145 NEIGHBORHOOD MARKET</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-WA-VANCOUVER-03145-NEIGHBORHOOD-MARKET/Pharmacy-Pre-Grad-Intern---WM_R-2504764-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) OR BEAVERTON 05993 NEIGHBORHOOD MARKET</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OR-BEAVERTON-05993-NEIGHBORHOOD-MARKET/Pharmacy-Pre-Grad-Intern---WM_R-2504826'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) WA BELLEVUE 03098 NEIGHBORHOOD MARKET</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-WA-BELLEVUE-03098-NEIGHBORHOOD-MARKET/Pharmacy-Pre-Grad-Intern---WM_R-2504831-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) OR MILWAUKIE 03144 NEIGHBORHOOD MARKET</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OR-MILWAUKIE-03144-NEIGHBORHOOD-MARKET/Pharmacy-Pre-Grad-Intern---WM_R-2504853-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-08-14-14-03'>🕐 Batch at 2026-05-08 14:14:03</h3>
 
@@ -125,7 +191,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-08-12-33-23'>🕐 Batch at 2026-05-08 12:33:23</h3>
 
 📊 **Total jobs in this batch: 12**
@@ -240,8 +305,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-08-10-31-44'>🕐 Batch at 2026-05-08 10:31:44</h3>
+---<h3 id='batch-2026-05-08-10-31-44'>🕐 Batch at 2026-05-08 10:31:44</h3>
 
 📊 **Total jobs in this batch: 17**
 
