@@ -4,10 +4,127 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-08 14:14:03](#batch-2026-05-08-14-14-03)
 - [Batch at 2026-05-08 12:33:23](#batch-2026-05-08-12-33-23)
 - [Batch at 2026-05-08 10:31:44](#batch-2026-05-08-10-31-44)
 - [Batch at 2026-05-08 08:53:41](#batch-2026-05-08-08-53-41)
-- [Batch at 2026-05-08 07:07:21](#batch-2026-05-08-07-07-21)
+
+<h3 id='batch-2026-05-08-14-14-03'>🕐 Batch at 2026-05-08 14:14:03</h3>
+
+📊 **Total jobs in this batch: 12**
+
+**Per company:**
+- Airbnb: 1 job
+- Appian : 1 job
+- BAH: 1 job
+- Citi: 1 job
+- Comcast : 1 job
+- Dematic Corp. (ILD-US): 1 job
+- spacex: 1 job
+- Vermont Information Processing: 1 job
+- Walmart: 2 jobs
+- Xylem Services USA LLC: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Airbnb</b></td>
+      <td>United States</td>
+      <td>Data Scientist, Platform - Martech</td>
+      <td><a href='https://careers.airbnb.com/positions/7904127?gh_jid=7904127'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Appian </b></td>
+      <td>McLean, Virginia</td>
+      <td>Government Relations Intern (Students)</td>
+      <td><a href='https://job-boards.greenhouse.io/appian/jobs/7909114'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Engineer_R0239684'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Houston Texas United States</td>
+      <td>Natural Gas Quantitative Developer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Houston-Texas-United-States/Natural-Gas-Quantitative-Developer_26962845'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1701 John F Kennedy Blvd</td>
+      <td>Comcast Content & Partnerships Intern</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Content---Partnerships-Intern_R437194'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Dematic Corp. (ILD-US)</b></td>
+      <td>Atlanta, GA, United States</td>
+      <td>HR Generalist Intern</td>
+      <td><a href='https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Atlanta-GA-United-States/HR-Generalist-Intern_JR-0090183-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>New Graduate Engineer, Electrical - Satellites (Starlink) </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8541336002?gh_jid=8541336002'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Vermont Information Processing</b></td>
+      <td>Colchester, Vermont, United States</td>
+      <td>Infant and Toddler Teacher</td>
+      <td><a href='https://job-boards.greenhouse.io/vipvermontinformationprocessing2/jobs/5133300007'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NE KEARNEY 00598 WM SUPERCENTER</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NE-KEARNEY-00598-WM-SUPERCENTER/Front-End-Coach_R-2504298-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Medina, OH</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Medina-OH/XMLNAME--USA--Front-End-Coach_R-2504800-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Xylem Services USA LLC</b></td>
+      <td>Charlotte, North Carolina</td>
+      <td>Network Engineering & Troubleshooting Intern</td>
+      <td><a href='https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Charlotte-North-Carolina/Network-Engineering---Troubleshooting-Intern_R45325'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>PT Student Worker-AI Driven trouble shooting Robot</td>
+      <td><a href='https://jobs.lever.co/zoox/0bb2dd41-e6a9-41a5-bafc-8a438f0a7cca'>Apply</a></td>
+      <td>2026-04-17 21:25:54</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-08-12-33-23'>🕐 Batch at 2026-05-08 12:33:23</h3>
 
@@ -124,7 +241,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-08-10-31-44'>🕐 Batch at 2026-05-08 10:31:44</h3>
 
 📊 **Total jobs in this batch: 17**
@@ -276,8 +392,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-08-08-53-41'>🕐 Batch at 2026-05-08 08:53:41</h3>
+---<h3 id='batch-2026-05-08-08-53-41'>🕐 Batch at 2026-05-08 08:53:41</h3>
 
 📊 **Total jobs in this batch: 22**
 
