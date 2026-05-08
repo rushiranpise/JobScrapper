@@ -4,10 +4,79 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-07 20:43:55](#batch-2026-05-07-20-43-55)
 - [Batch at 2026-05-07 17:04:24](#batch-2026-05-07-17-04-24)
 - [Batch at 2026-05-07 15:12:17](#batch-2026-05-07-15-12-17)
 - [Batch at 2026-05-07 13:27:09](#batch-2026-05-07-13-27-09)
-- [Batch at 2026-05-07 11:37:01](#batch-2026-05-07-11-37-01)
+
+<h3 id='batch-2026-05-07-20-43-55'>🕐 Batch at 2026-05-07 20:43:55</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- Databricks: 1 job
+- NVIDIA: 1 job
+- Salesforce: 1 job
+- spacex: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Databricks</b></td>
+      <td>United States</td>
+      <td>Specialist Solutions Architect - AI/ML</td>
+      <td><a href='https://databricks.com/company/careers/open-positions/job?gh_jid=8002207002'>Apply</a></td>
+      <td>May 16, 2025</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, MA, Westford</td>
+      <td>GPU Verification Engineer - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2017593'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - Redwood City</td>
+      <td>Software Engineer (Backend) - MTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Redwood-City/Software-Engineering---Backend----MTS_JR340716'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Full Stack Software Engineer, Data (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8540435002?gh_jid=8540435002'>Apply</a></td>
+      <td>May 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Tampa, FL</td>
+      <td>(USA) Continuous Skills Development Trainer</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Tampa-FL/XMLNAME--USA--Continuous-Skills-Development-Trainer_R-2503545'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Val-D'Or, QC</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Val-DOr-QC/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2503509'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-07-17-04-24'>🕐 Batch at 2026-05-07 17:04:24</h3>
 
@@ -61,7 +130,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-07-15-12-17'>🕐 Batch at 2026-05-07 15:12:17</h3>
 
 📊 **Total jobs in this batch: 15**
@@ -196,8 +264,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-07-13-27-09'>🕐 Batch at 2026-05-07 13:27:09</h3>
+---<h3 id='batch-2026-05-07-13-27-09'>🕐 Batch at 2026-05-07 13:27:09</h3>
 
 📊 **Total jobs in this batch: 7**
 
