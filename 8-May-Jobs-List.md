@@ -4,10 +4,99 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-08 21:33:10](#batch-2026-05-08-21-33-10)
 - [Batch at 2026-05-08 17:12:41](#batch-2026-05-08-17-12-41)
 - [Batch at 2026-05-08 16:07:21](#batch-2026-05-08-16-07-21)
 - [Batch at 2026-05-08 14:14:03](#batch-2026-05-08-14-14-03)
-- [Batch at 2026-05-08 12:33:23](#batch-2026-05-08-12-33-23)
+
+<h3 id='batch-2026-05-08-21-33-10'>🕐 Batch at 2026-05-08 21:33:10</h3>
+
+📊 **Total jobs in this batch: 9**
+
+**Per company:**
+- IXL Learning: 5 jobs
+- tp-link: 1 job
+- The Walt Disney Company: 2 jobs
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>IXL Learning</b></td>
+      <td>San Mateo, CA</td>
+      <td>Front-End Software Engineer, IXL Product</td>
+      <td><a href='https://www.ixl.com/company/jobs?gh_jid=8542260002'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>IXL Learning</b></td>
+      <td>San Mateo, CA</td>
+      <td>Software Engineer, Core Technology</td>
+      <td><a href='https://www.ixl.com/company/jobs?gh_jid=8542234002'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>IXL Learning</b></td>
+      <td>San Mateo, CA</td>
+      <td>Software Engineer, Dictionary.com</td>
+      <td><a href='https://www.ixl.com/company/jobs?gh_jid=8542250002'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>IXL Learning</b></td>
+      <td>San Mateo, CA</td>
+      <td>Software Engineer, Education.com</td>
+      <td><a href='https://www.ixl.com/company/jobs?gh_jid=8542243002'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>IXL Learning</b></td>
+      <td>San Mateo, CA</td>
+      <td>Software Engineer, Rosetta Stone</td>
+      <td><a href='https://www.ixl.com/company/jobs?gh_jid=8542241002'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>tp-link</b></td>
+      <td>Irvine, California</td>
+      <td>Cloud Engineer - Frontend Engineer</td>
+      <td><a href='https://apply.workable.com/tp-link-usa-corp/j/3F741E060B/'>Apply</a></td>
+      <td>May 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>New York, NY, USA</td>
+      <td>Nightline Production Intern, Fall 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Nightline-Production-Intern--Fall-2026_10149595'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>New York, NY, USA</td>
+      <td>Good Morning America Production Intern, Fall 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Good-Morning-America-Production-Intern--Fall-2026_10149592'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TN SPRINGFIELD 00304 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TN-SPRINGFIELD-00304-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2503483-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-08-17-12-41'>🕐 Batch at 2026-05-08 17:12:41</h3>
 
@@ -46,7 +135,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-08-16-07-21'>🕐 Batch at 2026-05-08 16:07:21</h3>
 
 📊 **Total jobs in this batch: 6**
@@ -111,8 +199,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-08-14-14-03'>🕐 Batch at 2026-05-08 14:14:03</h3>
+---<h3 id='batch-2026-05-08-14-14-03'>🕐 Batch at 2026-05-08 14:14:03</h3>
 
 📊 **Total jobs in this batch: 12**
 
