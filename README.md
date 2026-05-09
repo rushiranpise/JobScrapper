@@ -4,10 +4,48 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-08 17:12:41](#batch-2026-05-08-17-12-41)
 - [Batch at 2026-05-08 16:07:21](#batch-2026-05-08-16-07-21)
 - [Batch at 2026-05-08 14:14:03](#batch-2026-05-08-14-14-03)
 - [Batch at 2026-05-08 12:33:23](#batch-2026-05-08-12-33-23)
-- [Batch at 2026-05-08 10:31:44](#batch-2026-05-08-10-31-44)
+
+<h3 id='batch-2026-05-08-17-12-41'>🕐 Batch at 2026-05-08 17:12:41</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Data Product Enablement Specialist </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5088628007?gh_jid=5088628007'>Apply</a></td>
+      <td>May 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) WI DELAFIELD 01678 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-WI-DELAFIELD-01678-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2504639-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-08-16-07-21'>🕐 Batch at 2026-05-08 16:07:21</h3>
 
@@ -74,7 +112,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-08-14-14-03'>🕐 Batch at 2026-05-08 14:14:03</h3>
 
 📊 **Total jobs in this batch: 12**
@@ -190,8 +227,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-08-12-33-23'>🕐 Batch at 2026-05-08 12:33:23</h3>
+---<h3 id='batch-2026-05-08-12-33-23'>🕐 Batch at 2026-05-08 12:33:23</h3>
 
 📊 **Total jobs in this batch: 12**
 
