@@ -4,10 +4,102 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-11 16:06:47](#batch-2026-05-11-16-06-47)
 - [Batch at 2026-05-11 14:33:52](#batch-2026-05-11-14-33-52)
 - [Batch at 2026-05-11 13:08:01](#batch-2026-05-11-13-08-01)
 - [Batch at 2026-05-11 11:06:53](#batch-2026-05-11-11-06-53)
-- [Batch at 2026-05-11 08:27:01](#batch-2026-05-11-08-27-01)
+
+<h3 id='batch-2026-05-11-16-06-47'>🕐 Batch at 2026-05-11 16:06:47</h3>
+
+📊 **Total jobs in this batch: 9**
+
+**Per company:**
+- Motorola Solutions, Inc: 1 job
+- General Motors LLC: 1 job
+- PlayStation Global: 2 jobs
+- Rescale : 1 job
+- SoFi: 1 job
+- The Walt Disney Company: 1 job
+- Zoox: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Illinois, US Offsite, More...</td>
+      <td>Solution Architect - Emergency Call Handling</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Illinois-US-Offsite/Solution-Architect---Emergency-Call-Handling_R64448'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Data Analyst</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Analyst_JR-202610671-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Mateo, CA</td>
+      <td>Software Development Engineer in Test Contractor (SDET Contractor)</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5993055004'>Apply</a></td>
+      <td>May 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Mateo, CA</td>
+      <td>Software Quality Engineer Contractor (SQE Contractor)</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5993063004'>Apply</a></td>
+      <td>May 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Rescale </b></td>
+      <td>Remote (United States)</td>
+      <td>Applications Engineers, Agentic Workflows</td>
+      <td><a href='https://jobs.ashbyhq.com/rescale/5c035308-cc3b-4cd4-bd9d-9fb4624f1bfd'>Apply</a></td>
+      <td>May 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SoFi</b></td>
+      <td>WA - Seattle; CA - San Francisco </td>
+      <td>Software Engineer, Streaming and Workflows</td>
+      <td><a href='https://sofi.com/careers/job/7731537003?gh_jid=7731537003'>Apply</a></td>
+      <td>May 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/San-Francisco-CA-USA/Software-Engineer-II_10149634-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer, Vehicle Experience</td>
+      <td><a href='https://jobs.lever.co/zoox/50dcb67f-cb53-43ec-8ac4-fbd9d435fb59'>Apply</a></td>
+      <td>2026-05-11 22:22:04</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Sustaining Engineer, Body & Closure Systems</td>
+      <td><a href='https://jobs.lever.co/zoox/58c22597-aa00-4285-8816-6cedadd9684d'>Apply</a></td>
+      <td>2026-05-11 22:44:55</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-11-14-33-52'>🕐 Batch at 2026-05-11 14:33:52</h3>
 
@@ -128,7 +220,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-11-13-08-01'>🕐 Batch at 2026-05-11 13:08:01</h3>
 
 📊 **Total jobs in this batch: 22**
@@ -317,8 +408,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-11-11-06-53'>🕐 Batch at 2026-05-11 11:06:53</h3>
+---<h3 id='batch-2026-05-11-11-06-53'>🕐 Batch at 2026-05-11 11:06:53</h3>
 
 📊 **Total jobs in this batch: 37**
 
