@@ -1,8 +1,8 @@
 
-✅ Scraped 2 new jobs. Output saved to 'output.csv'.
-📦 Appended 2 jobs to 'output_old.csv'
+✅ Scraped 7 new jobs. Output saved to 'output.csv'.
+📦 Appended 7 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"NVIDIA","title":"Software Engineer, Networking","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/Software-Engineer--Networking_JR2016798","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"GPU System and Scheduling Architect - New College Grad 2026","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/GPU-System-and-Scheduling-Architect---New-College-Grad-2026_JR2016691-1","postedOn":"Posted Today","updatedOn":null}]
+[{"company":"OpenAI","title":"AI Deployment Engineer, Startups","location":"Sydney, Australia","link":"https:\/\/jobs.ashbyhq.com\/openai\/348f768c-5c08-427c-b77a-30a1ff53100c","postedOn":"2026-05-11T04:18:59.904+00:00","updatedOn":null},{"company":"Sigma\u00a0","title":"Software Engineer - Compiler ","location":"New York City, NY","link":"https:\/\/job-boards.greenhouse.io\/sigmacomputing\/jobs\/7729930003","postedOn":"2026-05-11T02:13:47-04:00","updatedOn":"2026-05-11T02:13:47-04:00"},{"company":"Sigma\u00a0","title":"Software Engineer - Compiler ","location":"San Francisco, CA","link":"https:\/\/job-boards.greenhouse.io\/sigmacomputing\/jobs\/7729929003","postedOn":"2026-05-11T02:13:08-04:00","updatedOn":"2026-05-11T02:13:08-04:00"},{"company":"Sigma\u00a0","title":"Software Engineer - SDET","location":"San francisco, CA","link":"https:\/\/job-boards.greenhouse.io\/sigmacomputing\/jobs\/7729923003","postedOn":"2026-05-11T02:09:55-04:00","updatedOn":"2026-05-11T02:09:55-04:00"},{"company":"Walmart","title":"SOFTWARE ENGINEER III","location":"IN KA BANGALORE Home Office Building 10","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/IN-KA-BANGALORE-Home-Office-Building-10\/SOFTWARE-ENGINEER-III_R-2470250","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"Software Engineer III","location":"IN KA BANGALORE Home Office PTPP1","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/IN-KA-BANGALORE-Home-Office-PTPP1\/Software-Engineer-III_R-2465939","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"(IND) Software Engineer III - Full Stack","location":"IN KA BANGALORE Home Office PTPP2","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/IN-KA-BANGALORE-Home-Office-PTPP2\/XMLNAME--IND--Software-Engineer-III---Full-Stack_R-2435391","postedOn":"Posted Yesterday","updatedOn":null}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
@@ -14,7 +14,7 @@ ERRORS_START
 [ERROR] Canonical: Greenhouse API failed: 404
 [ERROR] Cdata: Greenhouse API failed: 404
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"D966BFMP0O9LGC","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"0A2816MP0WM3CZ","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Clever: Could not extract Lever company name
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
 [ERROR] Coinbase: Greenhouse API failed: 404
@@ -22,7 +22,7 @@ ERRORS_START
 [ERROR] Demandbase : Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"CC42ADMP0OAKQ7","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"3CD421MP0WN6PF","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
 [ERROR] Funnel: Breezy API failed: 403
 [ERROR] Grammarly : Greenhouse API failed: 404
@@ -39,7 +39,7 @@ ERRORS_START
 [ERROR] Perplexity AI: Greenhouse API failed: 404
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"5FAC1EMP0OCVQI","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"455D63MP0WPFHS","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Relativity Space: Greenhouse API failed: 404
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
 [ERROR] Skydio: Greenhouse API failed: 404
@@ -47,13 +47,13 @@ ERRORS_START
 [ERROR] Stitch Fix : Greenhouse API failed: 404
 [ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"A20D46MP0OESYB","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"0346ADMP0OEW7I","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"589F32MP0WR6A2","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"5FC5EFMP0WR8QG","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] TRM labs: Greenhouse API failed: 404
 [ERROR] Vimeo: Greenhouse API failed: 404
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"1B4F31MP0OFQE4","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"A38FB3MP0WS3Q4","httpStatus":422,"message":"","messageParams":{}}
 ERRORS_END
