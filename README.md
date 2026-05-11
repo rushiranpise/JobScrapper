@@ -4,9 +4,200 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-11 13:08:01](#batch-2026-05-11-13-08-01)
 - [Batch at 2026-05-11 11:06:53](#batch-2026-05-11-11-06-53)
 - [Batch at 2026-05-11 08:27:01](#batch-2026-05-11-08-27-01)
 - [Batch at 2026-05-11 00:59:30](#batch-2026-05-11-00-59-30)
+
+<h3 id='batch-2026-05-11-13-08-01'>🕐 Batch at 2026-05-11 13:08:01</h3>
+
+📊 **Total jobs in this batch: 22**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Applied Materials: 2 jobs
+- BAH: 3 jobs
+- Bank of Montreal: 1 job
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- Citi: 1 job
+- genpt: 1 job
+- nVent: 2 jobs
+- Reddit: 1 job
+- Salesforce: 1 job
+- spacex: 1 job
+- Workday: 1 job
+- Wyetech LLC: 1 job
+- Walmart: 5 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Robotics Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5121816007?gh_jid=5121816007'>Apply</a></td>
+      <td>May 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Gloucester,MA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/Software-Engineer-II_R2619175'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Summer 2026 Computer Vision & ML Intern- Master's/PhD (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Summer-2026-Computer-Vision---ML-Intern--Master-s-PhD--Santa-Clara--CA-_R2619341-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Criminal Justice Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Analyst_R0231932'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Open-Source Research Analyst, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0239787'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Open-Source Research Analyst, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0239786'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>Chicago, IL, USA</td>
+      <td>Machine Learning Intern, Fall 2026 (Internship) - 4 months</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA UT - Salt Lake City BAS</td>
+      <td>R&D Engineering Intern (Hybrid) - Salt Lake City, UT</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Salt-Lake-City-BAS/R-D-Engineering-Intern--Hybrid----Salt-Lake-City--UT_R-544751'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Irving Texas United States</td>
+      <td>Angular Developer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Applications-Development-Intermediate-Programmer-Analyst_26948091'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Atlanta, GA, USA</td>
+      <td>Autotech Technical Trainer</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA-USA/Autotech-Technical-Trainer_R25_0000041689'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>New Berlin, WI, US</td>
+      <td>Logistics Material Handler - 1st Shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/New-Berlin-WI-US/Logistics-Material-Handler---1st-Shift_R21770'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>New Berlin, WI, US</td>
+      <td>Logistics Material Handler - 2nd Shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/New-Berlin-WI-US/Logistics-Material-Handler---2nd-Shift_R21771'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Reddit</b></td>
+      <td>Remote - United States</td>
+      <td>iOS Software Engineer, Contributions</td>
+      <td><a href='https://job-boards.greenhouse.io/reddit/jobs/7896378'>Apply</a></td>
+      <td>May 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Business Development Representative – Data Foundation</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Business-Development-Representative---Data-Foundation_JR342138'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Tax Analyst, International</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8542170002?gh_jid=8542170002'>Apply</a></td>
+      <td>May 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA, GA, Atlanta</td>
+      <td>Software Development Engineer - Evisort AI</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-GA-Atlanta/Software-Engineer_JR-0106716'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Ft. Meade, Maryland</td>
+      <td>Software Engineer 1</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/0829b20b-e835-4188-8147-4c233a7911c9'>Apply</a></td>
+      <td>2026-05-11 20:00:50</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) WA SPOKANE 02549 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-WA-SPOKANE-02549-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2503618-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) WA SPOKANE VALLEY 05883 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-WA-SPOKANE-VALLEY-05883-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2503625-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) ID HAYDEN 03511 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ID-HAYDEN-03511-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2503632-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MS GREENWOOD 00716 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MS-GREENWOOD-00716-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2506237-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NY WATKINS GLEN 03221 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NY-WATKINS-GLEN-03221-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2504703'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-11-11-06-53'>🕐 Batch at 2026-05-11 11:06:53</h3>
 
@@ -308,7 +499,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-11-08-27-01'>🕐 Batch at 2026-05-11 08:27:01</h3>
 
 📊 **Total jobs in this batch: 16**
@@ -452,8 +642,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-11-00-59-30'>🕐 Batch at 2026-05-11 00:59:30</h3>
+---<h3 id='batch-2026-05-11-00-59-30'>🕐 Batch at 2026-05-11 00:59:30</h3>
 
 📊 **Total jobs in this batch: 7**
 
