@@ -4,8 +4,310 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-11 11:06:53](#batch-2026-05-11-11-06-53)
 - [Batch at 2026-05-11 08:27:01](#batch-2026-05-11-08-27-01)
 - [Batch at 2026-05-11 00:59:30](#batch-2026-05-11-00-59-30)
+
+<h3 id='batch-2026-05-11-11-06-53'>🕐 Batch at 2026-05-11 11:06:53</h3>
+
+📊 **Total jobs in this batch: 37**
+
+**Per company:**
+- Anduril Industries: 2 jobs
+- Samsung Electronics America, Inc: 4 jobs
+- Applied Materials: 1 job
+- BAH: 8 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- Concentrix: 1 job
+- genpt: 1 job
+- LaunchDarkly : 1 job
+- Merck & Co.: 1 job
+- KLA: 1 job
+- Micron: 2 jobs
+- MOOG: 1 job
+- OpenEye: 1 job
+- Salesforce: 1 job
+- Scoutm Otors: 1 job
+- Snowflake: 1 job
+- SRK Supplylogix LLC: 1 job
+- terex: 1 job
+- The Walt Disney Company: 1 job
+- Walmart: 6 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Seattle, Washington, United States</td>
+      <td>Multinational Digital Infrastructure - Full Stack SW Eng. (US)</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5134069007?gh_jid=5134069007'>Apply</a></td>
+      <td>May 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Quonset, Rhode Island, United States</td>
+      <td>Multinational Digital Infrastructure - Full Stack SW Eng. (US)</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5134065007?gh_jid=5134065007'>Apply</a></td>
+      <td>May 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>284 Mawsons Way Newberry, SC, USA</td>
+      <td>Warehouse Automation Engineer Intern</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/284-Mawsons-Way-Newberry-SC-USA/Warehouse-Automation-Engineer-Intern_R116940'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>284 Mawsons Way Newberry, SC, USA</td>
+      <td>EHS Safety Intern</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/284-Mawsons-Way-Newberry-SC-USA/EHS-Safety-Intern_R116834'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>284 Mawsons Way Newberry, SC, USA</td>
+      <td>Logistics Automation Engineer Intern</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/284-Mawsons-Way-Newberry-SC-USA/Logistics-Automation-Engineer-Intern_R116942'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>284 Mawsons Way Newberry, SC, USA</td>
+      <td>EHS Environmental Intern</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/284-Mawsons-Way-Newberry-SC-USA/EHS-Environmental-Intern_R116836'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Material Coordinator/Handler III</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Coordinator-Handler-III_R2619457'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>AI/ML Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/AI-ML-Engineer--Mid_R0238610'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0239767'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>University, Software Developer Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Software-Developer-Intern_R0239759'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lorton, VA</td>
+      <td>Multi-Platform Mobile Application Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Multi-Platform-Mobile-Application-Developer_R0239972'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Edgewood, MD</td>
+      <td>Digital Content Producer, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Edgewood-MD/Digital-Content-Producer--Junior_R0239762'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>University, Software Engineer Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0239757'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>University, Systems Engineer Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Systems-Engineer-Intern_R0239755'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Rome, NY</td>
+      <td>AI/ML Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/AI-ML-Software-Engineer_R0239541'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA UT - Sandy</td>
+      <td>Engineering Intern</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Engineering-Intern_R-545240'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>ESP Barcelona - C/ de la Selva de Mar, 129</td>
+      <td>Geospatial Developer (English -speaking) - On-site GM01</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/ESP-Barcelona---C-de-la-Selva-de-Mar-129/Geospatial-Developer--English--speaking----On-site-GM01_R1727851'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Dallas, TX, USA</td>
+      <td>CDL Regional Driver</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Dallas-TX-USA/CDL-Regional-Driver_R26_0000014803-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>LaunchDarkly </b></td>
+      <td>Remote - US</td>
+      <td>Solutions Architect, AI </td>
+      <td><a href='https://job-boards.greenhouse.io/launchdarkly/jobs/7615560003'>Apply</a></td>
+      <td>Feb 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Merck & Co.</b></td>
+      <td>USA - Pennsylvania - North Wales (Upper Gwynedd)</td>
+      <td>GPM Data Analyst (Hybrid - Upper Gwynedd, PA)</td>
+      <td><a href='https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/GPM-Data-Analyst--Hybrid---Upper-Gwynedd--PA-_R396315'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Ann Arbor, MI</td>
+      <td>High Performance Compute (HPC) Software Engineer – HPC SW Systems</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/High-Performance-Compute--HPC--Software-Engineer---HPC-SW-Systems_2636307'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>IT Software Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/IT-Software-Engineer_JR101306-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Materials Planning Engineer - Front End US Expansion</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Materials-Planning-Engineer---Front-End-US-Expansion_JR100759'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Software Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Software-Engineering_R-26-17709'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenEye</b></td>
+      <td>Centennial, Colorado</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://job-boards.greenhouse.io/alarmcom/jobs/8505983002'>Apply</a></td>
+      <td>May 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Georgia - Atlanta</td>
+      <td>Junior/Mid DevOps Engineer</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Georgia---Atlanta/Junior-Mid-DevOps-Engineer_JR341653'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Scoutm Otors</b></td>
+      <td>Blythewood, South Carolina, United States</td>
+      <td>Specialist, Field Monitoring - Technical Field Data</td>
+      <td><a href='https://job-boards.greenhouse.io/scoutmotors/jobs/5094672007'>Apply</a></td>
+      <td>May 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Software Engineer - Snowflake Postgres</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/19ff5740-e678-4f43-a6c6-29bab94fbc21'>Apply</a></td>
+      <td>May 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, OH, Columbus</td>
+      <td>CMM Technology Intern</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern_JR0139548-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>USA, CA, San Diego</td>
+      <td>Software Business Analyst II</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/USA-CA-San-Diego/Software-Business-Analyst-II_REQ-12834'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>Data Analyst</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Data-Analyst_10149991'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) IA DAVENPORT 05115 WM SUPERCENTER</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IA-DAVENPORT-05115-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2505357-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) OK BARTLESVILLE 00041 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OK-BARTLESVILLE-00041-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2506372'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Pekin, IL</td>
+      <td>(USA) Pharmacy Pre-Grad Intern - WM #603</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Pekin-IL/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM--603_R-2504812-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Shreveport, LA</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Shreveport-LA/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2459806-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX TYLER 02688 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-TYLER-02688-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2501234'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) OH BOWLING GREEN 01913 WM SUPERCENTER</td>
+      <td>(USA) Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OH-BOWLING-GREEN-01913-WM-SUPERCENTER/XMLNAME--USA--Pharmacy-Grad-Intern--Hrly-_R-2498964-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-11-08-27-01'>🕐 Batch at 2026-05-11 08:27:01</h3>
 
@@ -151,7 +453,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-11-00-59-30'>🕐 Batch at 2026-05-11 00:59:30</h3>
 
 📊 **Total jobs in this batch: 7**
