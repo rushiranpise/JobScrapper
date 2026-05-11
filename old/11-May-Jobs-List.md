@@ -4,10 +4,130 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-11 14:33:52](#batch-2026-05-11-14-33-52)
 - [Batch at 2026-05-11 13:08:01](#batch-2026-05-11-13-08-01)
 - [Batch at 2026-05-11 11:06:53](#batch-2026-05-11-11-06-53)
 - [Batch at 2026-05-11 08:27:01](#batch-2026-05-11-08-27-01)
-- [Batch at 2026-05-11 00:59:30](#batch-2026-05-11-00-59-30)
+
+<h3 id='batch-2026-05-11-14-33-52'>🕐 Batch at 2026-05-11 14:33:52</h3>
+
+📊 **Total jobs in this batch: 13**
+
+**Per company:**
+- Motorola Solutions, Inc: 2 jobs
+- BAH: 2 jobs
+- Morgan Stanley: 1 job
+- SharkNinja: 2 jobs
+- terex: 1 job
+- Waymo: 1 job
+- Walmart: 4 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Texas Remote Work, More...</td>
+      <td>Application Specialist</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Texas-Remote-Work/Application-Specialist_R64478'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Texas Remote Work</td>
+      <td>AI Application Specialist</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Texas-Remote-Work/AI-Application-Specialist_R64508'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Development-Engineer_R0237888'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Charlottesville, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/Data-Scientist_R0239845'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>New York, New York, United States of America</td>
+      <td>AI Transformation & Change Management - Fund Services - Analyst</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/AI-Transformation---Change-Management---Fund-Services---Analyst_JR036982'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SharkNinja</b></td>
+      <td>Needham, MA, United States</td>
+      <td>Associate Product Developer - Legacy Corded </td>
+      <td><a href='https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4675885006'>Apply</a></td>
+      <td>Apr 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SharkNinja</b></td>
+      <td>United States</td>
+      <td>Product Developer - Outdoor</td>
+      <td><a href='https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4680516006'>Apply</a></td>
+      <td>May 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>USA, SD, Watertown</td>
+      <td>Training Specialist, Watertown SD</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/USA-SD-Watertown/Manufacturing-Training-Specialist_REQ-11571'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Fleet Campaigns PgM  </td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7851886'>Apply</a></td>
+      <td>Apr 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Salaberry-De-Valleyfield, QC</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Salaberry-De-Valleyfield-QC/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2507068'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NC CLINTON 02580 WM SUPERCENTER</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NC-CLINTON-02580-WM-SUPERCENTER/Front-End-Coach_R-2506769'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) PA WASHINGTON 01739 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-PA-WASHINGTON-01739-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2505079'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) LA COVINGTON 00541 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-LA-COVINGTON-00541-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2505256-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-11-13-08-01'>🕐 Batch at 2026-05-11 13:08:01</h3>
 
@@ -198,7 +318,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-11-11-06-53'>🕐 Batch at 2026-05-11 11:06:53</h3>
 
 📊 **Total jobs in this batch: 37**
@@ -498,8 +617,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-11-08-27-01'>🕐 Batch at 2026-05-11 08:27:01</h3>
+---<h3 id='batch-2026-05-11-08-27-01'>🕐 Batch at 2026-05-11 08:27:01</h3>
 
 📊 **Total jobs in this batch: 16**
 

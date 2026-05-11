@@ -1,23 +1,14 @@
-company,title,location,link,postedOn,updatedOn
-Anduril Industries,Robotics Software Engineer,"Costa Mesa, California, United States",https://boards.greenhouse.io/andurilindustries/jobs/5121816007?gh_jid=5121816007,2026-05-11T15:48:52-04:00,2026-05-11T15:48:52-04:00
-Applied Materials,Software Engineer II,"Gloucester,MA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/Software-Engineer-II_R2619175,Posted Today,
-Applied Materials,"Summer 2026 Computer Vision & ML Intern- Master's/PhD (Santa Clara, CA)","Santa Clara,CA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Summer-2026-Computer-Vision---ML-Intern--Master-s-PhD--Santa-Clara--CA-_R2619341-1,Posted Today,
-BAH,Criminal Justice Data Analyst,"Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Analyst_R0231932,Posted Today,
-BAH,"Open-Source Research Analyst, Junior","McLean, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0239787,Posted Today,
-BAH,"Open-Source Research Analyst, Junior","McLean, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0239786,Posted Today,
-Bank of Montreal,"Machine Learning Intern, Fall 2026 (Internship) - 4 months","Chicago, IL, USA",https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372-1,Posted Today,
-Becton Dickinson’s Integrated Diagnostics Systems,"R&D Engineering Intern (Hybrid) - Salt Lake City, UT",USA UT - Salt Lake City BAS,https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Salt-Lake-City-BAS/R-D-Engineering-Intern--Hybrid----Salt-Lake-City--UT_R-544751,Posted Today,
-Citi,Angular Developer,Irving Texas United States,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Applications-Development-Intermediate-Programmer-Analyst_26948091,Posted Today,
-genpt,Autotech Technical Trainer,"Atlanta, GA, USA",https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA-USA/Autotech-Technical-Trainer_R25_0000041689,Posted Today,
-nVent,Logistics Material Handler - 1st Shift,"New Berlin, WI, US",https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/New-Berlin-WI-US/Logistics-Material-Handler---1st-Shift_R21770,Posted Today,
-nVent,Logistics Material Handler - 2nd Shift,"New Berlin, WI, US",https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/New-Berlin-WI-US/Logistics-Material-Handler---2nd-Shift_R21771,Posted Today,
-Reddit,"iOS Software Engineer, Contributions",Remote - United States,https://job-boards.greenhouse.io/reddit/jobs/7896378,2026-05-11T15:42:53-04:00,2026-05-11T15:42:53-04:00
-Salesforce,Business Development Representative – Data Foundation,California - San Francisco,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Business-Development-Representative---Data-Foundation_JR342138,Posted Today,
-spacex,"Tax Analyst, International","Hawthorne, CA",https://boards.greenhouse.io/spacex/jobs/8542170002?gh_jid=8542170002,2026-05-11T15:03:26-04:00,2026-05-11T15:03:26-04:00
-Workday,Software Development Engineer - Evisort AI,"USA, GA, Atlanta",https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-GA-Atlanta/Software-Engineer_JR-0106716,Posted Today,
-Wyetech LLC,Software Engineer 1,"Ft. Meade, Maryland",https://jobs.lever.co/wyetechllc/0829b20b-e835-4188-8147-4c233a7911c9,2026-05-11 20:00:50,N/A
-Walmart,Pharmacy Pre-Grad Intern - WM,(USA) WA SPOKANE 02549 WM SUPERCENTER,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-WA-SPOKANE-02549-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2503618-1,Posted Today,
-Walmart,Pharmacy Pre-Grad Intern - WM,(USA) WA SPOKANE VALLEY 05883 WM SUPERCENTER,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-WA-SPOKANE-VALLEY-05883-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2503625-2,Posted Today,
-Walmart,Pharmacy Pre-Grad Intern - WM,(USA) ID HAYDEN 03511 WM SUPERCENTER,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ID-HAYDEN-03511-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2503632-1,Posted Today,
-Walmart,Pharmacy Grad Intern (Hrly),(USA) MS GREENWOOD 00716 WM SUPERCENTER,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MS-GREENWOOD-00716-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2506237-1,Posted Today,
-Walmart,Pharmacy Pre-Grad Intern - WM,(USA) NY WATKINS GLEN 03221 WM SUPERCENTER,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NY-WATKINS-GLEN-03221-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2504703,Posted Today,
+company,title,location,postedOn,link,updatedOn
+"Motorola Solutions, Inc",Application Specialist,"Texas Remote Work, More...",Posted Today,https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Texas-Remote-Work/Application-Specialist_R64478,
+"Motorola Solutions, Inc",AI Application Specialist,Texas Remote Work,Posted Today,https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Texas-Remote-Work/AI-Application-Specialist_R64508,
+BAH,Software Development Engineer,"McLean, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Development-Engineer_R0237888,
+BAH,Data Scientist,"Charlottesville, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/Data-Scientist_R0239845,
+Morgan Stanley,AI Transformation & Change Management - Fund Services - Analyst,"New York, New York, United States of America",Posted Today,https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/AI-Transformation---Change-Management---Fund-Services---Analyst_JR036982,
+SharkNinja,Associate Product Developer - Legacy Corded ,"Needham, MA, United States",2026-04-27T17:01:44-04:00,https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4675885006,2026-05-11T16:20:12-04:00
+SharkNinja,Product Developer - Outdoor,United States,2026-05-11T17:06:11-04:00,https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4680516006,2026-05-11T17:27:53-04:00
+terex,"Training Specialist, Watertown SD","USA, SD, Watertown",Posted Today,https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/USA-SD-Watertown/Manufacturing-Training-Specialist_REQ-11571,
+Waymo,Fleet Campaigns PgM  ,"San Francisco, CA, USA",2026-04-30T14:25:55-04:00,https://careers.withwaymo.com/jobs?gh_jid=7851886,2026-05-11T16:08:45-04:00
+Walmart,(CAN) Préposé au traitement des commandes OMNI,"Salaberry-De-Valleyfield, QC",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Salaberry-De-Valleyfield-QC/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2507068,
+Walmart,Front End Coach,(USA) NC CLINTON 02580 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NC-CLINTON-02580-WM-SUPERCENTER/Front-End-Coach_R-2506769,
+Walmart,Pharmacy Grad Intern (Hrly),(USA) PA WASHINGTON 01739 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-PA-WASHINGTON-01739-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2505079,
+Walmart,(USA) Front End Coach,(USA) LA COVINGTON 00541 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-LA-COVINGTON-00541-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2505256-1,
