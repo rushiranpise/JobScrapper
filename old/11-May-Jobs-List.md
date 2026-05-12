@@ -4,10 +4,95 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-11 21:46:07](#batch-2026-05-11-21-46-07)
 - [Batch at 2026-05-11 16:06:47](#batch-2026-05-11-16-06-47)
 - [Batch at 2026-05-11 14:33:52](#batch-2026-05-11-14-33-52)
 - [Batch at 2026-05-11 13:08:01](#batch-2026-05-11-13-08-01)
-- [Batch at 2026-05-11 11:06:53](#batch-2026-05-11-11-06-53)
+
+<h3 id='batch-2026-05-11-21-46-07'>🕐 Batch at 2026-05-11 21:46:07</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- genpt: 1 job
+- KLA: 1 job
+- NVIDIA: 2 jobs
+- Snowflake: 1 job
+- spacex: 1 job
+- Waymo: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Chullora, New South Wales, Australia</td>
+      <td>Data Scientist</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Chullora-New-South-Wales-Australia/Data-Scientist_R26_0000013236'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Boise, ID</td>
+      <td>Regional Development Applications Engineer</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Boise-ID/Regional-Development-Applications-Engineer_2636593'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Data Center Engineering and Operations EHS Engineer</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Center-Engineering-and-Operations-EHS-Engineer_JR2017469'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, OR, Hillsboro</td>
+      <td>Systems Software Engineer - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-WA-Bellevue</td>
+      <td>Software Engineer - Workspaces </td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/b3418869-2cbf-4bb0-9286-e25852dc1506'>Apply</a></td>
+      <td>May 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Data Center Administrator</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8544410002?gh_jid=8544410002'>Apply</a></td>
+      <td>May 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, United States </td>
+      <td>Software Engineer, Marketplace ML Platform</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7905693'>Apply</a></td>
+      <td>May 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer - Driving Behavior</td>
+      <td><a href='https://jobs.lever.co/zoox/71a2b465-11fb-49fa-b5f8-29757bc6bba6'>Apply</a></td>
+      <td>2026-05-12 00:19:59</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-11-16-06-47'>🕐 Batch at 2026-05-11 16:06:47</h3>
 
@@ -100,7 +185,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-11-14-33-52'>🕐 Batch at 2026-05-11 14:33:52</h3>
 
 📊 **Total jobs in this batch: 13**
@@ -219,8 +303,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-11-13-08-01'>🕐 Batch at 2026-05-11 13:08:01</h3>
+---<h3 id='batch-2026-05-11-13-08-01'>🕐 Batch at 2026-05-11 13:08:01</h3>
 
 📊 **Total jobs in this batch: 22**
 
