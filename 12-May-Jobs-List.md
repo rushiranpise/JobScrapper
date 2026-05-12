@@ -4,9 +4,161 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-12 09:30:48](#batch-2026-05-12-09-30-48)
 - [Batch at 2026-05-12 06:15:03](#batch-2026-05-12-06-15-03)
 - [Batch at 2026-05-12 03:43:19](#batch-2026-05-12-03-43-19)
 - [Batch at 2026-05-12 00:52:58](#batch-2026-05-12-00-52-58)
+
+<h3 id='batch-2026-05-12-09-30-48'>🕐 Batch at 2026-05-12 09:30:48</h3>
+
+📊 **Total jobs in this batch: 17**
+
+**Per company:**
+- 2k: 1 job
+- BAH: 1 job
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- CMU: 1 job
+- genpt: 1 job
+- homedepot: 1 job
+- MOOG: 2 jobs
+- Reddit: 1 job
+- Walmart: 7 jobs
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>2k</b></td>
+      <td>Novato, California, United States</td>
+      <td>AI Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/2k/jobs/7685393003'>Apply</a></td>
+      <td>May 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Belvoir, VA</td>
+      <td>Cloud Infrastructure Support Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Cloud-Infrastructure-Support-Engineer_R0239849'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA GA - Covington BMD</td>
+      <td>Quality Engineering Co-Op</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-GA---Covington-BMD/Quality-Engineering-Co-Op_R-545268'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>RF Cyber Lab Intern</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/RF-Cyber-Lab-Intern_2024547'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Software-Engineer-III_R26_0000015486-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>TEXAS - VIRTUAL - TX01</td>
+      <td>Software Engineer 2 (REMOTE)</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/TEXAS---VIRTUAL---TX01/Software-Engineer-2--REMOTE-_Req177494-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Software Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Software-Engineering_R-26-17769'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Artificial Intelligence</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-26-17563'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Reddit</b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/reddit/jobs/7871453'>Apply</a></td>
+      <td>May 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Batesville, MS</td>
+      <td>Pharmacy Pre-Grad Intern - WM - Batesville, MS</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Batesville-MS/Pharmacy-Pre-Grad-Intern---WM_R-2349643'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) FL NAPLES 03417 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-FL-NAPLES-03417-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2502168'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX LUBBOCK 00861 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-LUBBOCK-00861-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2505080'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX ABILENE 00535 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-ABILENE-00535-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2505048'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) DC WASHINGTON 03035 WM SUPERCENTER</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-DC-WASHINGTON-03035-WM-SUPERCENTER/Front-End-Coach_R-2507431-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) VA ALEXANDRIA 02194 WAL-MART</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-VA-ALEXANDRIA-02194-WAL-MART/Pharmacy-Pre-Grad-Intern---WM_R-2503415'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) GA COLUMBUS 01311 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-GA-COLUMBUS-01311-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2507269'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Development Engineer in Test, Product Software</td>
+      <td><a href='https://jobs.lever.co/zoox/25e3889e-1dfa-4f8c-ab27-f6e17604164f'>Apply</a></td>
+      <td>2026-05-12 16:14:47</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-12-06-15-03'>🕐 Batch at 2026-05-12 06:15:03</h3>
 
@@ -75,7 +227,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-12-03-43-19'>🕐 Batch at 2026-05-12 03:43:19</h3>
 
 📊 **Total jobs in this batch: 1**
@@ -104,8 +255,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-12-00-52-58'>🕐 Batch at 2026-05-12 00:52:58</h3>
+---<h3 id='batch-2026-05-12-00-52-58'>🕐 Batch at 2026-05-12 00:52:58</h3>
 
 📊 **Total jobs in this batch: 5**
 
