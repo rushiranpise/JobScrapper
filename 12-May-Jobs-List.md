@@ -4,8 +4,77 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-12 06:15:03](#batch-2026-05-12-06-15-03)
 - [Batch at 2026-05-12 03:43:19](#batch-2026-05-12-03-43-19)
 - [Batch at 2026-05-12 00:52:58](#batch-2026-05-12-00-52-58)
+
+<h3 id='batch-2026-05-12-06-15-03'>🕐 Batch at 2026-05-12 06:15:03</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- MOOG: 1 job
+- State Street: 2 jobs
+- terex: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Blacksburg, VA</td>
+      <td>Material Handler</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Blacksburg-VA/Material-Handler_R-26-17726'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Boston, Massachusetts</td>
+      <td>Application, Infrastructure & Service Management, Officer</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Application--Infrastructure---Service-Management--Officer_R-789493'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Quincy, Massachusetts</td>
+      <td>Software Engineering & Development</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Software-Engineering---Development_R-790022'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>USA, IN, Fort Wayne</td>
+      <td>Pre-D Assembler / CDL Driver</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/USA-IN-Fort-Wayne/Pre-D-Assembler---CDL-Driver_REQ-12915'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) OR WEST LINN 05994 NEIGHBORHOOD MARKET</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OR-WEST-LINN-05994-NEIGHBORHOOD-MARKET/Pharmacy-Grad-Intern--Hrly-_R-2504773-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) OR MILWAUKIE 03144 NEIGHBORHOOD MARKET</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OR-MILWAUKIE-03144-NEIGHBORHOOD-MARKET/Pharmacy-Grad-Intern--Hrly-_R-2504843-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-12-03-43-19'>🕐 Batch at 2026-05-12 03:43:19</h3>
 
@@ -36,7 +105,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-12-00-52-58'>🕐 Batch at 2026-05-12 00:52:58</h3>
 
 📊 **Total jobs in this batch: 5**

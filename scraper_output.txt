@@ -1,8 +1,8 @@
 
-✅ Scraped 1 new jobs. Output saved to 'output.csv'.
-📦 Appended 1 jobs to 'output_old.csv'
+✅ Scraped 6 new jobs. Output saved to 'output.csv'.
+📦 Appended 6 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"Concentrix","title":"Cloud Solution Architect \u2013 Infrastructure \u2013 MECM (aka SCCM)\/Intune (M,F,D)","location":"DEU Work-at-Home Dusseldorf","link":"https:\/\/cnx.wd1.myworkdayjobs.com\/en-US\/external_global\/job\/DEU-Work-at-Home-Dusseldorf\/Job-Posting-Title-Cloud-Solution-Architect---Infrastructure---MECM--aka-SCCM--Intune--M-F-D-_R1729191-1","postedOn":"Posted Today","updatedOn":null}]
+[{"company":"MOOG","title":"Material Handler","location":"Blacksburg, VA","link":"https:\/\/moog.wd5.myworkdayjobs.com\/en-US\/MOOG_External_Career_Site\/job\/Blacksburg-VA\/Material-Handler_R-26-17726","postedOn":"Posted Today","updatedOn":null},{"company":"State Street","title":"Application, Infrastructure & Service Management, Officer","location":"Boston, Massachusetts","link":"https:\/\/statestreet.wd1.myworkdayjobs.com\/en-US\/Global\/job\/Boston-Massachusetts\/Application--Infrastructure---Service-Management--Officer_R-789493","postedOn":"Posted Today","updatedOn":null},{"company":"State Street","title":"Software Engineering & Development","location":"Quincy, Massachusetts","link":"https:\/\/statestreet.wd1.myworkdayjobs.com\/en-US\/Global\/job\/Quincy-Massachusetts\/Software-Engineering---Development_R-790022","postedOn":"Posted Today","updatedOn":null},{"company":"terex","title":"Pre-D Assembler \/ CDL Driver","location":"USA, IN, Fort Wayne","link":"https:\/\/terex.wd1.myworkdayjobs.com\/en-US\/terexcareers\/job\/USA-IN-Fort-Wayne\/Pre-D-Assembler---CDL-Driver_REQ-12915","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"Pharmacy Grad Intern (Hrly)","location":"(USA) OR WEST LINN 05994 NEIGHBORHOOD MARKET","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/USA-OR-WEST-LINN-05994-NEIGHBORHOOD-MARKET\/Pharmacy-Grad-Intern--Hrly-_R-2504773-1","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"Pharmacy Grad Intern (Hrly)","location":"(USA) OR MILWAUKIE 03144 NEIGHBORHOOD MARKET","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/USA-OR-MILWAUKIE-03144-NEIGHBORHOOD-MARKET\/Pharmacy-Grad-Intern--Hrly-_R-2504843-1","postedOn":"Posted Today","updatedOn":null}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
@@ -14,7 +14,7 @@ ERRORS_START
 [ERROR] Canonical: Greenhouse API failed: 404
 [ERROR] Cdata: Greenhouse API failed: 404
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"A177A6MP2HWTUN","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"184D5BMP2NAX0W","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Clever: Could not extract Lever company name
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
 [ERROR] Coinbase: Greenhouse API failed: 404
@@ -22,8 +22,8 @@ ERRORS_START
 [ERROR] Demandbase : Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
 [ERROR] EliseAI : Greenhouse API failed: 404
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"FD6DE0MP2NC3M4","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"583DB6MP2HXRNA","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Funnel: Breezy API failed: 403
 [ERROR] Grammarly : Greenhouse API failed: 404
 [ERROR] Groq: Greenhouse API failed: 404
@@ -39,7 +39,7 @@ ERRORS_START
 [ERROR] Perplexity AI: Greenhouse API failed: 404
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"267AD9MP2HZZV5","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"49EA58MP2NEKNN","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Raptor Maps: Lever API failed: https://api.lever.co/v0/postings/RaptorMaps?mode=json - 404
 [ERROR] Relativity Space: Greenhouse API failed: 404
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
@@ -48,13 +48,13 @@ ERRORS_START
 [ERROR] Stitch Fix : Greenhouse API failed: 404
 [ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"589F32MP2I1PAO","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"41ED5BMP2I1RE1","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"C2B81CMP2NGM3Y","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"9CAF9FMP2NGPB8","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] TRM labs: Greenhouse API failed: 404
 [ERROR] Vimeo: Greenhouse API failed: 404
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"56D6F5MP2I2O9M","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"9B7170MP2NHOXP","httpStatus":422,"message":"","messageParams":{}}
 ERRORS_END
