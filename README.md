@@ -4,10 +4,188 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-12 13:54:54](#batch-2026-05-12-13-54-54)
 - [Batch at 2026-05-12 12:07:17](#batch-2026-05-12-12-07-17)
 - [Batch at 2026-05-12 09:30:48](#batch-2026-05-12-09-30-48)
 - [Batch at 2026-05-12 06:15:03](#batch-2026-05-12-06-15-03)
-- [Batch at 2026-05-12 03:43:19](#batch-2026-05-12-03-43-19)
+
+<h3 id='batch-2026-05-12-13-54-54'>🕐 Batch at 2026-05-12 13:54:54</h3>
+
+📊 **Total jobs in this batch: 20**
+
+**Per company:**
+- Samsung Electronics America, Inc: 1 job
+- BAH: 1 job
+- cadence: 1 job
+- flir: 1 job
+- General Atlantic: 1 job
+- Glean: 2 jobs
+- genpt: 1 job
+- Neuralink: 1 job
+- NVIDIA: 1 job
+- Remitly: 1 job
+- Scoutm Otors: 1 job
+- SharkNinja: 1 job
+- The Toro: 1 job
+- The Walt Disney Company: 1 job
+- Waymo: 1 job
+- Walmart: 4 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>645 Clyde Avenue, Mountain View, CA, USA</td>
+      <td>Engineer III, Machine Learning Software</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Engineer-III--Machine-Learning-Software_R117114'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>International Agreements Management Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/International-Agreements-Management-Specialist_R0239921-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>cadence</b></td>
+      <td>AUSTIN</td>
+      <td>Product Engineer Intern</td>
+      <td><a href='https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Product-Engineer-Intern_R54702'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - West Lafayette, IN</td>
+      <td>Material Handler</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---West-Lafayette-IN/Material-Handler_REQ31493'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Atlantic</b></td>
+      <td>New York - Park Avenue</td>
+      <td>Associate, Capital Solutions - Actis</td>
+      <td><a href='https://job-boards.greenhouse.io/generalatlantic/jobs/5994510004'>Apply</a></td>
+      <td>May 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Glean</b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer, University Grad</td>
+      <td><a href='https://job-boards.greenhouse.io/gleanwork/jobs/4694748005'>Apply</a></td>
+      <td>May 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Glean</b></td>
+      <td>Mountain View, CA</td>
+      <td>Software Engineer, University Grad</td>
+      <td><a href='https://job-boards.greenhouse.io/gleanwork/jobs/4592324005'>Apply</a></td>
+      <td>Sep 03, 2025</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Seneca, SC, USA</td>
+      <td>Store Counter Trainee (Part Time)</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Seneca-SC-USA/Store-Counter-Trainee--Part-Time-_R26_0000014216-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Neuralink</b></td>
+      <td>Fremont, California, United States</td>
+      <td>Machine Learning Engineer Intern</td>
+      <td><a href='https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003'>Apply</a></td>
+      <td>May 30, 2025</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Signal and Power Integrity Engineer - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Signal-and-Power-Integrity-Engineer---New-College-Grad-2026_JR2017741'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Remitly</b></td>
+      <td>Seattle, Washington United States</td>
+      <td>Software Development Engineer I, Trust Orchestration Platform</td>
+      <td><a href='https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I--Trust-Orchestration-Platform_R_106144'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Scoutm Otors</b></td>
+      <td>Blythewood, South Carolina, United States</td>
+      <td>Specialist, Container Management</td>
+      <td><a href='https://job-boards.greenhouse.io/scoutmotors/jobs/5135044007'>Apply</a></td>
+      <td>May 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SharkNinja</b></td>
+      <td>Needham, MA, United States</td>
+      <td>Applied AI & Analytics Associate Opportunities</td>
+      <td><a href='https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4680287006'>Apply</a></td>
+      <td>May 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Iron Mountain, MI</td>
+      <td>Painter, B Shift - BOSS Snowplow</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Iron-Mountain-MI/Painter--B-Shift---BOSS-Snowplow_JR16146'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Lake Buena Vista, FL, USA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Data-Scientist_10147956-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA; San Francisco, CA, USA</td>
+      <td>Applied Scientist / MLE,  Perception Modeling</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7446279'>Apply</a></td>
+      <td>Dec 05, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Sunnyvale, CA</td>
+      <td>2025 Intern Conversion: 2026 FT Software Engineer II - Sunnyvale, CA</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/XMLNAME-2025-Intern-Conversion--2026-FT-Software-Engineer-II---Sunnyvale--CA_R-2250550-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) PA WEST MIFFLIN 02281 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-PA-WEST-MIFFLIN-02281-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2507879'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Olathe, KS</td>
+      <td>(USA) Material Handler, Manufacturing (Mon - Fri 4:00PM - 12:30AM)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Olathe-KS/XMLNAME--USA--Material-Handler--Manufacturing--Mon---Fri-4-00PM---12-30AM-_R-2508102-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) PA TAYLOR 04276 WM SUPERCENTER</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-PA-TAYLOR-04276-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2507910-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-12-12-07-17'>🕐 Batch at 2026-05-12 12:07:17</h3>
 
@@ -181,7 +359,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-12-09-30-48'>🕐 Batch at 2026-05-12 09:30:48</h3>
 
 📊 **Total jobs in this batch: 17**
@@ -331,8 +508,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-12-06-15-03'>🕐 Batch at 2026-05-12 06:15:03</h3>
+---<h3 id='batch-2026-05-12-06-15-03'>🕐 Batch at 2026-05-12 06:15:03</h3>
 
 📊 **Total jobs in this batch: 6**
 
