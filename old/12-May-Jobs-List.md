@@ -4,7 +4,38 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-12 03:43:19](#batch-2026-05-12-03-43-19)
 - [Batch at 2026-05-12 00:52:58](#batch-2026-05-12-00-52-58)
+
+<h3 id='batch-2026-05-12-03-43-19'>🕐 Batch at 2026-05-12 03:43:19</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Concentrix: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>DEU Work-at-Home Dusseldorf</td>
+      <td>Cloud Solution Architect – Infrastructure – MECM (aka SCCM)/Intune (M,F,D)</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/DEU-Work-at-Home-Dusseldorf/Job-Posting-Title-Cloud-Solution-Architect---Infrastructure---MECM--aka-SCCM--Intune--M-F-D-_R1729191-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-12-00-52-58'>🕐 Batch at 2026-05-12 00:52:58</h3>
 
@@ -67,4 +98,3 @@
 <table>
 
 ---
-
