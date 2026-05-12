@@ -4,10 +4,183 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-12 12:07:17](#batch-2026-05-12-12-07-17)
 - [Batch at 2026-05-12 09:30:48](#batch-2026-05-12-09-30-48)
 - [Batch at 2026-05-12 06:15:03](#batch-2026-05-12-06-15-03)
 - [Batch at 2026-05-12 03:43:19](#batch-2026-05-12-03-43-19)
-- [Batch at 2026-05-12 00:52:58](#batch-2026-05-12-00-52-58)
+
+<h3 id='batch-2026-05-12-12-07-17'>🕐 Batch at 2026-05-12 12:07:17</h3>
+
+📊 **Total jobs in this batch: 20**
+
+**Per company:**
+- Motorola Solutions, Inc: 1 job
+- BAH: 2 jobs
+- Comcast : 2 jobs
+- General Motors LLC: 1 job
+- Micron: 2 jobs
+- MOOG: 1 job
+- The Toro: 1 job
+- Travellers: 1 job
+- Waymo: 4 jobs
+- Walmart: 3 jobs
+- Zoox: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Orlando, FL</td>
+      <td>Field Upgrade Specialist - Orlando, Florida</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Orlando-FL/Field-Upgrade-Specialist---Orlando--Florida_R64209'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>MacDill AFB, FL</td>
+      <td>Data Analyst, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/MacDill-AFB-FL/Data-Analyst--Mid_R0239894'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>Dismounted and Direct Action EOD Trainer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Dismounted-and-Direct-Action-EOD-Trainer_R0239886'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>DC - Washington, 1325 G ST NW STE 300</td>
+      <td>Development Engineer in Test (SDET) – ML & LLM Systems</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/DC---Washington-1325-G-ST-NW-STE-300/Job-Posting-Title-Software-Development-Engineer-in-Test--SDET----ML---LLM-Systems_R436515'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>DC - Washington, 1325 G ST NW STE 300</td>
+      <td>Software Development Engineer in Test (SDET) – ML & LLM Systems</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/DC---Washington-1325-G-ST-NW-STE-300/Software-Development-Engineer-in-Test--SDET----ML---LLM-Systems_R436514'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Executive Administrative Assistant - Global Sustainability</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Executive-Administrative-Assistant---Global-Sustainability_JR-202610479'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - ID1</td>
+      <td>Yield Enhancement Failure Analysis Lab SEM & ETM Process Technician (Idaho Fab 1)</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Year-End-Failure-Analysis-Lab-SEM---ETM-Process-Technician--Idaho-Fab-1-_JR88928'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - ID1</td>
+      <td>Yield Enhancement Electrical Failure Analysis Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Yield-Enhancement-Electrical-Failure-Analysis-Engineer_JR100908'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Torrance, CA</td>
+      <td>Intern, Material & Process Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Intern--Material---Process-Engineering_R-25-13768'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Iron Mountain, MI</td>
+      <td>Painter, B Shift - BOSS Snowplow</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Iron-Mountain-MI/Painter--B-Shift---BOSS-Snowplow_JR16147'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Travellers</b></td>
+      <td>CT - Hartford</td>
+      <td>InVest Intern</td>
+      <td><a href='https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/InVest-Intern_R-50588'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, United States</td>
+      <td>Software Engineer, Booking</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7905695'>Apply</a></td>
+      <td>May 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, United States  </td>
+      <td>Software Engineer, Marketplace Pricing</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7905643'>Apply</a></td>
+      <td>May 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA; San Francisco, CA, USA</td>
+      <td>Software Reliability Engineer </td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7908814'>Apply</a></td>
+      <td>May 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA; San Fransisco, CA, USA</td>
+      <td>Software Reliability Engineer, Waymo Fleet </td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7908882'>Apply</a></td>
+      <td>May 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bryan, TX</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bryan-TX/Pharmacy-Pre-Grad-Intern---WM_R-2450253'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) SC LEXINGTON 04521 WM SUPERCENTER</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-SC-LEXINGTON-04521-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2507162'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Ballinger, TX</td>
+      <td>Pharmacy Grad Intern (Hrly)- $25,000 Sign on bonus (2026 Grad Intern Bonus Program)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Ballinger-TX/Pharmacy-Grad-Intern--Hrly----25-000-Sign-on-bonus--2026-Grad-Intern-Bonus-Program-_R-2349079'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer - Planner Frameworks Pipeline</td>
+      <td><a href='https://jobs.lever.co/zoox/e725749e-88f7-48e0-8e4c-8a4a3289b905'>Apply</a></td>
+      <td>2026-05-12 00:51:40</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Sustaining Engineer, Powertrain & Thermal Systems</td>
+      <td><a href='https://jobs.lever.co/zoox/b13095a0-c3a1-4750-923d-4f3f19c581fc'>Apply</a></td>
+      <td>2026-05-12 16:56:23</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-12-09-30-48'>🕐 Batch at 2026-05-12 09:30:48</h3>
 
@@ -159,7 +332,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-12-06-15-03'>🕐 Batch at 2026-05-12 06:15:03</h3>
 
 📊 **Total jobs in this batch: 6**
@@ -226,8 +398,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-12-03-43-19'>🕐 Batch at 2026-05-12 03:43:19</h3>
+---<h3 id='batch-2026-05-12-03-43-19'>🕐 Batch at 2026-05-12 03:43:19</h3>
 
 📊 **Total jobs in this batch: 1**
 
