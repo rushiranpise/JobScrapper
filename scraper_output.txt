@@ -1,20 +1,20 @@
 
-✅ Scraped 8 new jobs. Output saved to 'output.csv'.
-📦 Appended 8 jobs to 'output_old.csv'
+✅ Scraped 5 new jobs. Output saved to 'output.csv'.
+📦 Appended 5 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"genpt","title":"Data Scientist","location":"Chullora, New South Wales, Australia","link":"https:\/\/genpt.wd1.myworkdayjobs.com\/en-US\/Careers\/job\/Chullora-New-South-Wales-Australia\/Data-Scientist_R26_0000013236","postedOn":"Posted Today","updatedOn":null},{"company":"KLA","title":"Regional Development Applications Engineer","location":"Boise, ID","link":"https:\/\/kla.wd1.myworkdayjobs.com\/en-US\/Search\/job\/Boise-ID\/Regional-Development-Applications-Engineer_2636593","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"Data Center Engineering and Operations EHS Engineer","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/Data-Center-Engineering-and-Operations-EHS-Engineer_JR2017469","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"Systems Software Engineer - New College Grad 2026","location":"US, OR, Hillsboro","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-OR-Hillsboro\/Systems-Software-Engineer---New-College-Grad-2026_JR2017083","postedOn":"Posted Today","updatedOn":null},{"company":"Snowflake","title":"Software Engineer - Workspaces ","location":"US-WA-Bellevue","link":"https:\/\/jobs.ashbyhq.com\/snowflake\/b3418869-2cbf-4bb0-9286-e25852dc1506","postedOn":"2026-05-05T22:38:56.562+00:00","updatedOn":null},{"company":"spacex","title":"Data Center Administrator","location":"Hawthorne, CA","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8544410002?gh_jid=8544410002","postedOn":"2026-05-11T19:27:31-04:00","updatedOn":"2026-05-11T19:27:31-04:00"},{"company":"Waymo","title":"Software Engineer, Marketplace ML Platform","location":"Mountain View, CA, United States ","link":"https:\/\/careers.withwaymo.com\/jobs?gh_jid=7905693","postedOn":"2026-05-12T00:19:28-04:00","updatedOn":"2026-05-12T00:19:28-04:00"},{"company":"Zoox","title":"Software Engineer - Driving Behavior","location":"Foster City, CA","link":"https:\/\/jobs.lever.co\/zoox\/71a2b465-11fb-49fa-b5f8-29757bc6bba6","postedOn":"2026-05-12 00:19:59","updatedOn":"N\/A"}]
+[{"company":"CrowdStrike, Inc","title":"PhD Intern, Falcon NG-SIEM Search (Aarhus, Denmark)","location":"Denmark - Aarhus","link":"https:\/\/crowdstrike.wd5.myworkdayjobs.com\/en-US\/crowdstrikecareers\/job\/Denmark---Aarhus\/Engineering-Student-Programmer--Engine-Team-_R26090","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Mixed Reality Software Engineer, Mid","location":"Bremerton, WA","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Bremerton-WA\/Mixed-Reality-Software-Engineer--Mid_R0233853","postedOn":"Posted Today","updatedOn":null},{"company":"Snowflake","title":"Cloud Infrastructure Engineer - Jira","location":"IN-Pune","link":"https:\/\/jobs.ashbyhq.com\/snowflake\/5b423b9b-24d5-4e82-ac67-1a63292f472e","postedOn":"2026-05-12T04:45:28.765+00:00","updatedOn":null},{"company":"The Walt Disney Company","title":"Alternance \u2013 Analyste Data & Exp\u00e9rience Digitale (F\/H\/NB)","location":"Marne la Vallee Cedex 4, France","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Marne-la-Vallee-Cedex-4-France\/Alternance---Analyste-Data---Exprience-Digitale--F-H-NB-_10150791","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"Software Engineer III","location":"IN KA BANGALORE Home Office PTPP1","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/IN-KA-BANGALORE-Home-Office-PTPP1\/Software-Engineer-III_R-2471900-1","postedOn":"Posted Today","updatedOn":null}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
+[ERROR] Magna Services of America, Inc: Invalid Workday URL
 [ERROR] Altera: Ashby API failed - HTTP 404: Not Found
 [ERROR] Ambrook: Lever API failed: https://api.lever.co/v0/postings/ambrook?mode=json - 404
 [ERROR] Amidon Heavy Industries: Ashby API failed - HTTP 404: Not Found
-[ERROR] Magna Services of America, Inc: Invalid Workday URL
 [ERROR] boomi: Greenhouse API failed: 404
 [ERROR] Canonical: Greenhouse API failed: 404
 [ERROR] Cdata: Greenhouse API failed: 404
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"C7F67DMP255GSY","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"4807F7MP2BTFPE","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Clever: Could not extract Lever company name
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
 [ERROR] Coinbase: Greenhouse API failed: 404
@@ -22,8 +22,8 @@ ERRORS_START
 [ERROR] Demandbase : Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"0A2816MP256BZL","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"366804MP2BUDDF","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Funnel: Breezy API failed: 403
 [ERROR] Grammarly : Greenhouse API failed: 404
 [ERROR] Groq: Greenhouse API failed: 404
@@ -39,7 +39,7 @@ ERRORS_START
 [ERROR] Perplexity AI: Greenhouse API failed: 404
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"4C3BB7MP258LBL","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"D966BFMP2BWQN6","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Raptor Maps: Lever API failed: https://api.lever.co/v0/postings/RaptorMaps?mode=json - 404
 [ERROR] Relativity Space: Greenhouse API failed: 404
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
@@ -48,13 +48,13 @@ ERRORS_START
 [ERROR] Stitch Fix : Greenhouse API failed: 404
 [ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"C6B1EAMP25A9WN","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"4C9512MP25ACGW","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"C6044FMP2BYFB1","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"DCA368MP2BYI3Y","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] TRM labs: Greenhouse API failed: 404
 [ERROR] Vimeo: Greenhouse API failed: 404
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"1D4AB7MP25B852","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"7A493BMP2BZDPR","httpStatus":422,"message":"","messageParams":{}}
 ERRORS_END
