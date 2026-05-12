@@ -4,10 +4,112 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-12 15:22:40](#batch-2026-05-12-15-22-40)
 - [Batch at 2026-05-12 13:54:54](#batch-2026-05-12-13-54-54)
 - [Batch at 2026-05-12 12:07:17](#batch-2026-05-12-12-07-17)
 - [Batch at 2026-05-12 09:30:48](#batch-2026-05-12-09-30-48)
-- [Batch at 2026-05-12 06:15:03](#batch-2026-05-12-06-15-03)
+
+<h3 id='batch-2026-05-12-15-22-40'>🕐 Batch at 2026-05-12 15:22:40</h3>
+
+📊 **Total jobs in this batch: 10**
+
+**Per company:**
+- Affirm : 1 job
+- BAH: 1 job
+- homedepot: 1 job
+- NVIDIA: 1 job
+- OpenEye: 1 job
+- Salesforce: 1 job
+- spacex: 1 job
+- SRK Supplylogix LLC: 1 job
+- Twilio: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>Analyst II, Full Stack</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/7533759003'>Apply</a></td>
+      <td>Nov 28, 2025</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Springfield, VA</td>
+      <td>Data Visualization Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Visualization-Specialist_R0234198'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>GLOBAL CUSTOM COMMERCE/BLINDS OFFICE, HOUSTON - 2140</td>
+      <td>Software Developer</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/GLOBAL-CUSTOM-COMMERCEBLINDS-OFFICE-HOUSTON---2140/Software-Developer_Req180286'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>DFT Engineer - New College Grad</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DFT-Engineer---New-College-Grad_JR2016865'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenEye</b></td>
+      <td>Tysons, Virginia</td>
+      <td>Human Resources Operations Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/alarmcom/jobs/8499262002'>Apply</a></td>
+      <td>May 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Software Engineering SMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR342120'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Engineer, Hardware Test & Automation (Optical Payloads)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8545930002?gh_jid=8545930002'>Apply</a></td>
+      <td>May 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, KY, Erlanger</td>
+      <td>Material Handler Specialist- Warehouse</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-KY-Erlanger/Material-Handler-Specialist--Warehouse_JR0147267'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Twilio</b></td>
+      <td>Remote - US</td>
+      <td>Developer Educator, Video (Developer Ecosystem)</td>
+      <td><a href='https://job-boards.greenhouse.io/twilio/jobs/7520542'>Apply</a></td>
+      <td>Jan 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Data Analyst II- eDiscovery</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Data-Analyst-II--eDiscovery_R-2503382'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-12-13-54-54'>🕐 Batch at 2026-05-12 13:54:54</h3>
 
@@ -186,7 +288,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-12-12-07-17'>🕐 Batch at 2026-05-12 12:07:17</h3>
 
 📊 **Total jobs in this batch: 20**
@@ -358,8 +459,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-12-09-30-48'>🕐 Batch at 2026-05-12 09:30:48</h3>
+---<h3 id='batch-2026-05-12-09-30-48'>🕐 Batch at 2026-05-12 09:30:48</h3>
 
 📊 **Total jobs in this batch: 17**
 
