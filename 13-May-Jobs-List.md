@@ -4,10 +4,115 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-13 13:58:52](#batch-2026-05-13-13-58-52)
 - [Batch at 2026-05-13 12:06:52](#batch-2026-05-13-12-06-52)
 - [Batch at 2026-05-13 09:30:06](#batch-2026-05-13-09-30-06)
 - [Batch at 2026-05-13 06:23:56](#batch-2026-05-13-06-23-56)
-- [Batch at 2026-05-13 03:40:19](#batch-2026-05-13-03-40-19)
+
+<h3 id='batch-2026-05-13-13-58-52'>🕐 Batch at 2026-05-13 13:58:52</h3>
+
+📊 **Total jobs in this batch: 11**
+
+**Per company:**
+- Motorola Solutions, Inc: 2 jobs
+- General Motors LLC: 1 job
+- Intel Corporation: 1 job
+- The Walt Disney Company: 1 job
+- Walmart: 5 jobs
+- Zoom: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Schaumburg, IL</td>
+      <td>Data Scientist</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Data-Scientist_R64936'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Salt Lake City, UT (UT17)</td>
+      <td>Jr. Data Engineer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Salt-Lake-City-UT-UT17/Jr-Data-Engineer_R63972'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Chassis Controls MIL Developer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Chassis-Controls-MIL-Developer_JR-202605553'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Data Scientist</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Data-Scientist_JR0283787'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>KGO-TV (ABC7) Community Engagement Intern, Fall 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/San-Francisco-CA-USA/KGO-TV--ABC7--Community-Engagement-Intern--Fall-2026_10138038'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MS BROOKHAVEN 00816 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MS-BROOKHAVEN-00816-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2507157'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) SC GREENVILLE 04452 NEIGHBORHOOD MARKET</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-SC-GREENVILLE-04452-NEIGHBORHOOD-MARKET/Pharmacy-Pre-Grad-Intern---WM_R-2509283'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Louisa, KY</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Louisa-KY/XMLNAME--USA--Front-End-Coach_R-2500194-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>New Orleans, LA</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/New-Orleans-LA/Pharmacy-Pre-Grad-Intern---WM_R-2329127'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Transitional Office AR BENTONVILLE Home Office</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Transitional-Office-AR-BENTONVILLE-Home-Office/Software-Engineer-III_R-2453218'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoom</b></td>
+      <td>Seattle (WA)</td>
+      <td>Intern - AI Product Management, Agentic Workflows</td>
+      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Seattle-WA/Intern---AI-Product-Management--Agentic-Workflows_R18582'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-13-12-06-52'>🕐 Batch at 2026-05-13 12:06:52</h3>
 
@@ -168,7 +273,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-13-09-30-06'>🕐 Batch at 2026-05-13 09:30:06</h3>
 
 📊 **Total jobs in this batch: 27**
@@ -395,8 +499,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-13-06-23-56'>🕐 Batch at 2026-05-13 06:23:56</h3>
+---<h3 id='batch-2026-05-13-06-23-56'>🕐 Batch at 2026-05-13 06:23:56</h3>
 
 📊 **Total jobs in this batch: 7**
 

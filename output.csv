@@ -1,19 +1,12 @@
-company,title,location,link,postedOn,updatedOn
-Addepar,Product Enablement Trainer,"Remote, USA",https://job-boards.greenhouse.io/addepar1/jobs/8546280002,2026-05-13T13:26:37-04:00,2026-05-13T13:26:37-04:00
-Airbnb,Audiovisual Infrastructure Engineer,"San Francisco, CA",https://careers.airbnb.com/positions/7917632?gh_jid=7917632,2026-05-13T13:15:51-04:00,2026-05-13T13:15:51-04:00
-Anduril Industries,Software Engineer,"Boston, Massachusetts, United States",https://boards.greenhouse.io/andurilindustries/jobs/5136753007?gh_jid=5136753007,2026-05-13T12:23:08-04:00,2026-05-13T12:23:08-04:00
-"Motorola Solutions, Inc",Global Services Data & Business Analyst (Hybrid),"Chicago, IL",https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Global-Services-Data---Business-Analyst--Hybrid-_R63775-1,Posted Today,
-BAH,Software Development Engineer,"McLean, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Development-Engineer_R0237886,Posted Today,
-BAH,C# Software Engineer,"Albuquerque, NM",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/C--Software-Engineer_R0240008,Posted Today,
-BAH,"University, Software Developer Intern","Fayetteville, NC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Software-Developer-Intern_R0239999,Posted Today,
-BAH,"University, Software Developer Intern","Fayetteville, NC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Software-Developer-Intern_R0240000,Posted Today,
-BAH,CNO Developer,"Annapolis Junction, MD",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/CNO-Developer_R0239988,Posted Today,
-Comcast ,"Back-End Python Developer (Django)- Chicago, IL","CO - Englewood, 183 Inverness Dr West",https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Back-End-Python-Developer--Django---Chicago--IL_R436926,Posted Today,
-genpt,BI Data Analyst,"Cedar Rapids, IA, USA",https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Cedar-Rapids-IA-USA/Inventory-Data-Analyst_R25_0000037936,Posted Today,
-MOOG,"Intern, Manufacturing Engineer","Buffalo, NY",https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Manufacturing-Engineer_R-26-17801,Posted Today,
-Perpay,Data Engineer,"Philadelphia, Pennsylvania, United States",https://job-boards.greenhouse.io/perpay/jobs/4089104007,2026-05-13T14:51:02-04:00,2026-05-13T14:54:36-04:00
-Twitch,Software Engineer I,"San Francisco, CA",https://job-boards.greenhouse.io/twitch/jobs/8367555002,2026-05-13T12:41:17-04:00,2026-05-13T12:41:17-04:00
-Waymo,"Software Engineer, Pin Infra","Mountain View, California",https://careers.withwaymo.com/jobs?gh_jid=7902131,2026-05-13T14:31:04-04:00,2026-05-13T14:58:42-04:00
-Walmart,Pharmacy Pre-Grad Intern - WM,(USA) NY WATKINS GLEN 03221 WM SUPERCENTER,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NY-WATKINS-GLEN-03221-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2508576,Posted Today,
-Walmart,Pharmacy Grad Intern (Hrly),(USA) TN DUNLAP 04226 WM SUPERCENTER,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TN-DUNLAP-04226-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2508748,Posted Today,
-Walmart,"(USA) Material Handler, Manufacturing (Starting pay $23.00, 12p-6p Wed, Thu-Sat 6a-6p)","Olathe, KS",https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Olathe-KS/XMLNAME--USA--Material-Handler--Manufacturing--Starting-pay--2300--12p-6p-Wed--Thu-Sat-6a-6p-_R-2509032-1,Posted Today,
+company,title,location,postedOn,link
+"Motorola Solutions, Inc",Data Scientist,"Schaumburg, IL",Posted Today,https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Data-Scientist_R64936
+"Motorola Solutions, Inc",Jr. Data Engineer,"Salt Lake City, UT (UT17)",Posted Today,https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Salt-Lake-City-UT-UT17/Jr-Data-Engineer_R63972
+General Motors LLC,Chassis Controls MIL Developer,"Milford, Michigan, United States of America",Posted Today,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Chassis-Controls-MIL-Developer_JR-202605553
+Intel Corporation,Data Scientist,"US, Arizona, Phoenix",Posted Today,https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Data-Scientist_JR0283787
+The Walt Disney Company,"KGO-TV (ABC7) Community Engagement Intern, Fall 2026","San Francisco, CA, USA",Posted Today,https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/San-Francisco-CA-USA/KGO-TV--ABC7--Community-Engagement-Intern--Fall-2026_10138038
+Walmart,Pharmacy Pre-Grad Intern - WM,(USA) MS BROOKHAVEN 00816 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MS-BROOKHAVEN-00816-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2507157
+Walmart,Pharmacy Pre-Grad Intern - WM,(USA) SC GREENVILLE 04452 NEIGHBORHOOD MARKET,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-SC-GREENVILLE-04452-NEIGHBORHOOD-MARKET/Pharmacy-Pre-Grad-Intern---WM_R-2509283
+Walmart,(USA) Front End Coach,"Louisa, KY",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Louisa-KY/XMLNAME--USA--Front-End-Coach_R-2500194-2
+Walmart,Pharmacy Pre-Grad Intern - WM,"New Orleans, LA",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/New-Orleans-LA/Pharmacy-Pre-Grad-Intern---WM_R-2329127
+Walmart,Software Engineer III,(USA) Transitional Office AR BENTONVILLE Home Office,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Transitional-Office-AR-BENTONVILLE-Home-Office/Software-Engineer-III_R-2453218
+Zoom,"Intern - AI Product Management, Agentic Workflows",Seattle (WA),,https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Seattle-WA/Intern---AI-Product-Management--Agentic-Workflows_R18582
