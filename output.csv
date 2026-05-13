@@ -1,12 +1,13 @@
-company,title,location,postedOn,link
-"Motorola Solutions, Inc",Data Scientist,"Schaumburg, IL",Posted Today,https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Data-Scientist_R64936
-"Motorola Solutions, Inc",Jr. Data Engineer,"Salt Lake City, UT (UT17)",Posted Today,https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Salt-Lake-City-UT-UT17/Jr-Data-Engineer_R63972
-General Motors LLC,Chassis Controls MIL Developer,"Milford, Michigan, United States of America",Posted Today,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Chassis-Controls-MIL-Developer_JR-202605553
-Intel Corporation,Data Scientist,"US, Arizona, Phoenix",Posted Today,https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Data-Scientist_JR0283787
-The Walt Disney Company,"KGO-TV (ABC7) Community Engagement Intern, Fall 2026","San Francisco, CA, USA",Posted Today,https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/San-Francisco-CA-USA/KGO-TV--ABC7--Community-Engagement-Intern--Fall-2026_10138038
-Walmart,Pharmacy Pre-Grad Intern - WM,(USA) MS BROOKHAVEN 00816 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MS-BROOKHAVEN-00816-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2507157
-Walmart,Pharmacy Pre-Grad Intern - WM,(USA) SC GREENVILLE 04452 NEIGHBORHOOD MARKET,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-SC-GREENVILLE-04452-NEIGHBORHOOD-MARKET/Pharmacy-Pre-Grad-Intern---WM_R-2509283
-Walmart,(USA) Front End Coach,"Louisa, KY",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Louisa-KY/XMLNAME--USA--Front-End-Coach_R-2500194-2
-Walmart,Pharmacy Pre-Grad Intern - WM,"New Orleans, LA",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/New-Orleans-LA/Pharmacy-Pre-Grad-Intern---WM_R-2329127
-Walmart,Software Engineer III,(USA) Transitional Office AR BENTONVILLE Home Office,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Transitional-Office-AR-BENTONVILLE-Home-Office/Software-Engineer-III_R-2453218
-Zoom,"Intern - AI Product Management, Agentic Workflows",Seattle (WA),,https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Seattle-WA/Intern---AI-Product-Management--Agentic-Workflows_R18582
+company,title,location,postedOn,link,updatedOn
+Applied Materials,"Process Engineer New College Grad - Doctorate Degree (Santa Clara, CA)","Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Process-Engineer-New-College-Grad---Doctorate-Degree--Santa-Clara--CA-_R2612843,
+Applied Materials,Material Coordinator/Handler II,"Austin,TX",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Coordinator-Handler-II_R2619544,
+BAH,Software Engineer,"Beavercreek, OH",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Software-Engineer_R0240073,
+Comcast ,Infrastructure Engineer XLabs,"CO - Centennial, 4100 E Dry Creek Rd",Posted Today,https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/CO---Centennial-4100-E-Dry-Creek-Rd/Network-Systems-Engineer-III--MSO---HFC---DAA-_R436031,
+PlayStation Global,Software Engineer II,"United States, San Diego, CA",2026-05-13T18:03:38-04:00,https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5995645004,2026-05-13T18:03:38-04:00
+Pure storage,Data Center Operations Technician,"Dallas, Texas",2026-05-13T17:38:33-04:00,https://job-boards.greenhouse.io/purestorage/jobs/7680359,2026-05-13T17:38:33-04:00
+Truveta,HR Summer Intern,"Seattle, WA",2026-05-13T17:34:58-04:00,https://job-boards.greenhouse.io/truveta/jobs/5995832004,2026-05-13T17:34:58-04:00
+Walmart,Pharmacy Pre-Grad Intern - WM,(USA) SC MOUNT PLEASANT 04384 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-SC-MOUNT-PLEASANT-04384-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2508482,
+Walmart,(CAN) Préposé au traitement des commandes OMNI,"Cap-De-La-Madeleine, QC",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Cap-De-La-Madeleine-QC/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2509556,
+Zoox,AV Safety Data Reporting Engineer,"Foster City, CA",2025-09-16 01:22:08,https://jobs.lever.co/zoox/e36cc53e-5bd5-43b9-9a90-ec9b7c6abda9,N/A
+Walmart,(CAN) Préposé au traitement des commandes OMNI,(CAN) QC VILLE DE QUEBEC 03646 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-03646-WM-SUPERCENTER/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2509150,
+Walmart,Pharmacy Grad Intern (Hrly),(USA) TX PLANO 02926 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-PLANO-02926-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2508679,

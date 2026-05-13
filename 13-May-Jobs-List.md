@@ -4,10 +4,124 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-13 15:24:46](#batch-2026-05-13-15-24-46)
 - [Batch at 2026-05-13 13:58:52](#batch-2026-05-13-13-58-52)
 - [Batch at 2026-05-13 12:06:52](#batch-2026-05-13-12-06-52)
 - [Batch at 2026-05-13 09:30:06](#batch-2026-05-13-09-30-06)
-- [Batch at 2026-05-13 06:23:56](#batch-2026-05-13-06-23-56)
+
+<h3 id='batch-2026-05-13-15-24-46'>🕐 Batch at 2026-05-13 15:24:46</h3>
+
+📊 **Total jobs in this batch: 12**
+
+**Per company:**
+- Applied Materials: 2 jobs
+- BAH: 1 job
+- Comcast : 1 job
+- PlayStation Global: 1 job
+- Pure storage: 1 job
+- Truveta: 1 job
+- Walmart: 4 jobs
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Process Engineer New College Grad - Doctorate Degree (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Process-Engineer-New-College-Grad---Doctorate-Degree--Santa-Clara--CA-_R2612843'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Material Coordinator/Handler II</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Coordinator-Handler-II_R2619544'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Software-Engineer_R0240073'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>CO - Centennial, 4100 E Dry Creek Rd</td>
+      <td>Infrastructure Engineer XLabs</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/CO---Centennial-4100-E-Dry-Creek-Rd/Network-Systems-Engineer-III--MSO---HFC---DAA-_R436031'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Diego, CA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5995645004'>Apply</a></td>
+      <td>May 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Pure storage</b></td>
+      <td>Dallas, Texas</td>
+      <td>Data Center Operations Technician</td>
+      <td><a href='https://job-boards.greenhouse.io/purestorage/jobs/7680359'>Apply</a></td>
+      <td>May 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Truveta</b></td>
+      <td>Seattle, WA</td>
+      <td>HR Summer Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/truveta/jobs/5995832004'>Apply</a></td>
+      <td>May 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) SC MOUNT PLEASANT 04384 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-SC-MOUNT-PLEASANT-04384-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2508482'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Cap-De-La-Madeleine, QC</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Cap-De-La-Madeleine-QC/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2509556'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>AV Safety Data Reporting Engineer</td>
+      <td><a href='https://jobs.lever.co/zoox/e36cc53e-5bd5-43b9-9a90-ec9b7c6abda9'>Apply</a></td>
+      <td>2025-09-16 01:22:08</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 03646 WM SUPERCENTER</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-03646-WM-SUPERCENTER/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2509150'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX PLANO 02926 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-PLANO-02926-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2508679'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-13-13-58-52'>🕐 Batch at 2026-05-13 13:58:52</h3>
 
@@ -113,7 +227,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-13-12-06-52'>🕐 Batch at 2026-05-13 12:06:52</h3>
 
 📊 **Total jobs in this batch: 18**
@@ -272,8 +385,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-13-09-30-06'>🕐 Batch at 2026-05-13 09:30:06</h3>
+---<h3 id='batch-2026-05-13-09-30-06'>🕐 Batch at 2026-05-13 09:30:06</h3>
 
 📊 **Total jobs in this batch: 27**
 
