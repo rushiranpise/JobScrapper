@@ -4,10 +4,170 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-13 12:06:52](#batch-2026-05-13-12-06-52)
 - [Batch at 2026-05-13 09:30:06](#batch-2026-05-13-09-30-06)
 - [Batch at 2026-05-13 06:23:56](#batch-2026-05-13-06-23-56)
 - [Batch at 2026-05-13 03:40:19](#batch-2026-05-13-03-40-19)
-- [Batch at 2026-05-13 01:00:34](#batch-2026-05-13-01-00-34)
+
+<h3 id='batch-2026-05-13-12-06-52'>🕐 Batch at 2026-05-13 12:06:52</h3>
+
+📊 **Total jobs in this batch: 18**
+
+**Per company:**
+- Addepar: 1 job
+- Airbnb: 1 job
+- Anduril Industries: 1 job
+- Motorola Solutions, Inc: 1 job
+- BAH: 5 jobs
+- Comcast : 1 job
+- genpt: 1 job
+- MOOG: 1 job
+- Perpay: 1 job
+- Twitch: 1 job
+- Waymo: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Addepar</b></td>
+      <td>Remote, USA</td>
+      <td>Product Enablement Trainer</td>
+      <td><a href='https://job-boards.greenhouse.io/addepar1/jobs/8546280002'>Apply</a></td>
+      <td>May 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Airbnb</b></td>
+      <td>San Francisco, CA</td>
+      <td>Audiovisual Infrastructure Engineer</td>
+      <td><a href='https://careers.airbnb.com/positions/7917632?gh_jid=7917632'>Apply</a></td>
+      <td>May 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Boston, Massachusetts, United States</td>
+      <td>Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5136753007?gh_jid=5136753007'>Apply</a></td>
+      <td>May 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Chicago, IL</td>
+      <td>Global Services Data & Business Analyst (Hybrid)</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Global-Services-Data---Business-Analyst--Hybrid-_R63775-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Development-Engineer_R0237886'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Albuquerque, NM</td>
+      <td>C# Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/C--Software-Engineer_R0240008'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>University, Software Developer Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Software-Developer-Intern_R0239999'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>University, Software Developer Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Software-Developer-Intern_R0240000'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Annapolis Junction, MD</td>
+      <td>CNO Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/CNO-Developer_R0239988'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>CO - Englewood, 183 Inverness Dr West</td>
+      <td>Back-End Python Developer (Django)- Chicago, IL</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Back-End-Python-Developer--Django---Chicago--IL_R436926'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Cedar Rapids, IA, USA</td>
+      <td>BI Data Analyst</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Cedar-Rapids-IA-USA/Inventory-Data-Analyst_R25_0000037936'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Manufacturing Engineer</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Manufacturing-Engineer_R-26-17801'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Perpay</b></td>
+      <td>Philadelphia, Pennsylvania, United States</td>
+      <td>Data Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/perpay/jobs/4089104007'>Apply</a></td>
+      <td>May 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Twitch</b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer I</td>
+      <td><a href='https://job-boards.greenhouse.io/twitch/jobs/8367555002'>Apply</a></td>
+      <td>May 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, California</td>
+      <td>Software Engineer, Pin Infra</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7902131'>Apply</a></td>
+      <td>May 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NY WATKINS GLEN 03221 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NY-WATKINS-GLEN-03221-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2508576'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TN DUNLAP 04226 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TN-DUNLAP-04226-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2508748'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Olathe, KS</td>
+      <td>(USA) Material Handler, Manufacturing (Starting pay $23.00, 12p-6p Wed, Thu-Sat 6a-6p)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Olathe-KS/XMLNAME--USA--Material-Handler--Manufacturing--Starting-pay--2300--12p-6p-Wed--Thu-Sat-6a-6p-_R-2509032-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-13-09-30-06'>🕐 Batch at 2026-05-13 09:30:06</h3>
 
@@ -236,7 +396,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-13-06-23-56'>🕐 Batch at 2026-05-13 06:23:56</h3>
 
 📊 **Total jobs in this batch: 7**
@@ -311,8 +470,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-13-03-40-19'>🕐 Batch at 2026-05-13 03:40:19</h3>
+---<h3 id='batch-2026-05-13-03-40-19'>🕐 Batch at 2026-05-13 03:40:19</h3>
 
 📊 **Total jobs in this batch: 1**
 
