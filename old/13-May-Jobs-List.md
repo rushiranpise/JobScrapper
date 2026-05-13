@@ -4,7 +4,38 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-13 03:40:19](#batch-2026-05-13-03-40-19)
 - [Batch at 2026-05-13 01:00:34](#batch-2026-05-13-01-00-34)
+
+<h3 id='batch-2026-05-13-03-40-19'>🕐 Batch at 2026-05-13 03:40:19</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- MKSCareersUniversity: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>MKSCareersUniversity</b></td>
+      <td>Belarus Minsk</td>
+      <td>Software Engineer (Intern)</td>
+      <td><a href='https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Belarus-Minsk/Software-Engineer--Intern-_R18605-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-13-01-00-34'>🕐 Batch at 2026-05-13 01:00:34</h3>
 
@@ -51,4 +82,3 @@
 <table>
 
 ---
-
