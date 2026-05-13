@@ -4,10 +4,64 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-12 21:57:35](#batch-2026-05-12-21-57-35)
 - [Batch at 2026-05-12 17:11:32](#batch-2026-05-12-17-11-32)
 - [Batch at 2026-05-12 15:22:40](#batch-2026-05-12-15-22-40)
 - [Batch at 2026-05-12 13:54:54](#batch-2026-05-12-13-54-54)
-- [Batch at 2026-05-12 12:07:17](#batch-2026-05-12-12-07-17)
+
+<h3 id='batch-2026-05-12-21-57-35'>🕐 Batch at 2026-05-12 21:57:35</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- GE Healthcare: 1 job
+- NVIDIA: 1 job
+- State Street: 1 job
+- The Toro: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>GE Healthcare</b></td>
+      <td>AUS08-01-Sydney-241 O'Riordan Street, 8F</td>
+      <td>Graduate Services Trainee</td>
+      <td><a href='https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/AUS08-01-Sydney-241-ORiordan-Street-8F/Graduate-Services-Trainee_R4041001-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>System Software Engineer - GPU</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GPU_JR2017734'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Clifton, New Jersey</td>
+      <td>State Street - Alpha Data Services – Data Analyst Internship - Summer 2026</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Clifton-New-Jersey/State-Street---Alpha-Data-Services---Data-Analyst-Internship---Summer-2026_R-790095'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Tomah, WI</td>
+      <td>Material Handler, 2nd Shift - The Toro Company</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Tomah-WI/Material-Handler--2nd-Shift---The-Toro-Company_JR15864-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-12-17-11-32'>🕐 Batch at 2026-05-12 17:11:32</h3>
 
@@ -142,7 +196,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-12-15-22-40'>🕐 Batch at 2026-05-12 15:22:40</h3>
 
 📊 **Total jobs in this batch: 10**
@@ -243,8 +296,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-12-13-54-54'>🕐 Batch at 2026-05-12 13:54:54</h3>
+---<h3 id='batch-2026-05-12-13-54-54'>🕐 Batch at 2026-05-12 13:54:54</h3>
 
 📊 **Total jobs in this batch: 20**
 
