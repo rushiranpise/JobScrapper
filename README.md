@@ -4,10 +4,144 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-12 17:11:32](#batch-2026-05-12-17-11-32)
 - [Batch at 2026-05-12 15:22:40](#batch-2026-05-12-15-22-40)
 - [Batch at 2026-05-12 13:54:54](#batch-2026-05-12-13-54-54)
 - [Batch at 2026-05-12 12:07:17](#batch-2026-05-12-12-07-17)
-- [Batch at 2026-05-12 09:30:48](#batch-2026-05-12-09-30-48)
+
+<h3 id='batch-2026-05-12-17-11-32'>🕐 Batch at 2026-05-12 17:11:32</h3>
+
+📊 **Total jobs in this batch: 15**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- ASMLEXT1: 1 job
+- Citi: 1 job
+- Glean: 8 jobs
+- Micron: 1 job
+- The Walt Disney Company: 2 jobs
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Foster City, California, United States</td>
+      <td>Energy Data Engineer/Analyst</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5136116007'>Apply</a></td>
+      <td>May 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Hillsboro, OR, USA</td>
+      <td>Field Applications Engineer - Oregon</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Hillsboro-OR-USA/Field-Applications-Engineer---Oregon_J-00341425'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Houston Texas United States</td>
+      <td>Commodities Middle Office Analyst Hybrid</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Houston-Texas-United-States/Commodities-Middle-Office-Analyst-Hybrid_26962310'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Glean</b></td>
+      <td>Mountain View, California</td>
+      <td>Machine Learning Engineer, AI Assistant & Autonomous AI Agents</td>
+      <td><a href='https://job-boards.greenhouse.io/gleanwork/jobs/4605215005'>Apply</a></td>
+      <td>Sep 04, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Glean</b></td>
+      <td>Mountain View, CA</td>
+      <td>Machine Learning Engineer, Enterprise Brain</td>
+      <td><a href='https://job-boards.greenhouse.io/gleanwork/jobs/4632997005'>Apply</a></td>
+      <td>Nov 26, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Glean</b></td>
+      <td>Mountain View, California</td>
+      <td>Software Engineer, Agentic Runtime </td>
+      <td><a href='https://job-boards.greenhouse.io/gleanwork/jobs/4616929005'>Apply</a></td>
+      <td>Oct 08, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Glean</b></td>
+      <td>Mountain View, California</td>
+      <td>Software Engineer, Backend</td>
+      <td><a href='https://job-boards.greenhouse.io/gleanwork/jobs/4581643005'>Apply</a></td>
+      <td>Jun 30, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Glean</b></td>
+      <td>Mountain View, California</td>
+      <td>Software Engineer, Billing & Revenue Platform</td>
+      <td><a href='https://job-boards.greenhouse.io/gleanwork/jobs/4675862005'>Apply</a></td>
+      <td>Mar 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Glean</b></td>
+      <td>San Francisco, California</td>
+      <td>Software Engineer, Data Foundations</td>
+      <td><a href='https://job-boards.greenhouse.io/gleanwork/jobs/4637208005'>Apply</a></td>
+      <td>Dec 08, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Glean</b></td>
+      <td>Mountain View, California</td>
+      <td>Software Engineer, Developer Productivity </td>
+      <td><a href='https://job-boards.greenhouse.io/gleanwork/jobs/4614706005'>Apply</a></td>
+      <td>Oct 02, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Glean</b></td>
+      <td>Mountain View, California</td>
+      <td>Software Engineer, Platform</td>
+      <td><a href='https://job-boards.greenhouse.io/gleanwork/jobs/4636739005'>Apply</a></td>
+      <td>Dec 08, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Longmont, CO</td>
+      <td>Quality Technician - SSD RMA Failure Analysis</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Longmont-CO/Quality-Technician---SSD-RMA-Failure-Analysis_JR99499'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>New York, NY, USA</td>
+      <td>ABC News Live First Hour Production Intern, Fall 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/ABC-News-Live-First-Hour-Production-Intern--Fall-2026_10138601'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>The Woodlands, TX, USA</td>
+      <td>Network Origination Operator I (Master Control Operator) -Project Hire- Woodlands TX</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/The-Woodlands-TX-USA/Network-Origination-Operator-I--Master-Control-Operator---Project-Hire--Woodlands-TX_10147178'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Sunnyvale, CA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-II_R-2506984'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-12-15-22-40'>🕐 Batch at 2026-05-12 15:22:40</h3>
 
@@ -110,7 +244,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-12-13-54-54'>🕐 Batch at 2026-05-12 13:54:54</h3>
 
 📊 **Total jobs in this batch: 20**
@@ -287,8 +420,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-12-12-07-17'>🕐 Batch at 2026-05-12 12:07:17</h3>
+---<h3 id='batch-2026-05-12-12-07-17'>🕐 Batch at 2026-05-12 12:07:17</h3>
 
 📊 **Total jobs in this batch: 20**
 

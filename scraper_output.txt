@@ -1,44 +1,29 @@
 
-✅ Scraped 10 new jobs. Output saved to 'output.csv'.
-📦 Appended 10 jobs to 'output_old.csv'
+✅ Scraped 15 new jobs. Output saved to 'output.csv'.
+📦 Appended 15 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"Affirm\u00a0","title":"Analyst II, Full Stack","location":"Remote US","link":"https:\/\/job-boards.greenhouse.io\/affirm\/jobs\/7533759003","postedOn":"2025-11-28T05:48:47-05:00","updatedOn":"2026-05-12T17:54:34-04:00"},{"company":"BAH","title":"Data Visualization Specialist","location":"Springfield, VA","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Springfield-VA\/Data-Visualization-Specialist_R0234198","postedOn":"Posted Today","updatedOn":null},{"company":"homedepot","title":"Software Developer","location":"GLOBAL CUSTOM COMMERCE\/BLINDS OFFICE, HOUSTON - 2140","link":"https:\/\/homedepot.wd5.myworkdayjobs.com\/en-US\/CareerDepot\/job\/GLOBAL-CUSTOM-COMMERCEBLINDS-OFFICE-HOUSTON---2140\/Software-Developer_Req180286","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"DFT Engineer - New College Grad","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/DFT-Engineer---New-College-Grad_JR2016865","postedOn":"Posted Today","updatedOn":null},{"company":"OpenEye","title":"Human Resources Operations Intern","location":"Tysons, Virginia","link":"https:\/\/job-boards.greenhouse.io\/alarmcom\/jobs\/8499262002","postedOn":"2026-05-12T17:55:09-04:00","updatedOn":"2026-05-12T17:55:09-04:00"},{"company":"Salesforce","title":"Software Engineering SMTS","location":"California - San Francisco","link":"https:\/\/salesforce.wd12.myworkdayjobs.com\/en-US\/External_Career_Site\/job\/California---San-Francisco\/Software-Engineering-SMTS_JR342120","postedOn":"Posted Today","updatedOn":null},{"company":"spacex","title":"Software Engineer, Hardware Test & Automation (Optical Payloads)","location":"Redmond, WA","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8545930002?gh_jid=8545930002","postedOn":"2026-05-12T18:02:29-04:00","updatedOn":"2026-05-12T18:02:29-04:00"},{"company":"SRK Supplylogix LLC","title":"Material Handler Specialist- Warehouse","location":"USA, KY, Erlanger","link":"https:\/\/mckesson.wd3.myworkdayjobs.com\/en-US\/External_Careers\/job\/USA-KY-Erlanger\/Material-Handler-Specialist--Warehouse_JR0147267","postedOn":"Posted Today","updatedOn":null},{"company":"Twilio","title":"Developer Educator, Video (Developer Ecosystem)","location":"Remote - US","link":"https:\/\/job-boards.greenhouse.io\/twilio\/jobs\/7520542","postedOn":"2026-01-13T16:53:36-05:00","updatedOn":"2026-05-12T17:32:49-04:00"},{"company":"Walmart","title":"Data Analyst II- eDiscovery","location":"Bentonville, AR","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/Bentonville-AR\/Data-Analyst-II--eDiscovery_R-2503382","postedOn":"Posted Today","updatedOn":null}]
+[{"company":"ALTEN Technology USA","title":"Energy Data Engineer\/Analyst","location":"Foster City, California, United States","link":"https:\/\/job-boards.greenhouse.io\/altentechnologyusa\/jobs\/5136116007","postedOn":"2026-05-12T18:57:35-04:00","updatedOn":"2026-05-12T18:57:35-04:00"},{"company":"ASMLEXT1","title":"Field Applications Engineer - Oregon","location":"Hillsboro, OR, USA","link":"https:\/\/asml.wd3.myworkdayjobs.com\/en-US\/ASMLEXT1\/job\/Hillsboro-OR-USA\/Field-Applications-Engineer---Oregon_J-00341425","postedOn":"Posted Today","updatedOn":null},{"company":"Citi","title":"Commodities Middle Office Analyst Hybrid","location":"Houston Texas United States","link":"https:\/\/citi.wd5.myworkdayjobs.com\/en-US\/2\/job\/Houston-Texas-United-States\/Commodities-Middle-Office-Analyst-Hybrid_26962310","postedOn":"Posted Today","updatedOn":null},{"company":"Glean","title":"Machine Learning Engineer, AI Assistant & Autonomous AI Agents","location":"Mountain View, California","link":"https:\/\/job-boards.greenhouse.io\/gleanwork\/jobs\/4605215005","postedOn":"2025-09-04T10:50:59-04:00","updatedOn":"2026-05-12T18:17:37-04:00"},{"company":"Glean","title":"Machine Learning Engineer, Enterprise Brain","location":"Mountain View, CA","link":"https:\/\/job-boards.greenhouse.io\/gleanwork\/jobs\/4632997005","postedOn":"2025-11-26T12:59:01-05:00","updatedOn":"2026-05-12T19:31:23-04:00"},{"company":"Glean","title":"Software Engineer, Agentic Runtime ","location":"Mountain View, California","link":"https:\/\/job-boards.greenhouse.io\/gleanwork\/jobs\/4616929005","postedOn":"2025-10-08T10:11:40-04:00","updatedOn":"2026-05-12T18:20:38-04:00"},{"company":"Glean","title":"Software Engineer, Backend","location":"Mountain View, California","link":"https:\/\/job-boards.greenhouse.io\/gleanwork\/jobs\/4581643005","postedOn":"2025-06-30T18:50:28-04:00","updatedOn":"2026-05-12T18:21:36-04:00"},{"company":"Glean","title":"Software Engineer, Billing & Revenue Platform","location":"Mountain View, California","link":"https:\/\/job-boards.greenhouse.io\/gleanwork\/jobs\/4675862005","postedOn":"2026-03-24T14:49:24-04:00","updatedOn":"2026-05-12T18:22:01-04:00"},{"company":"Glean","title":"Software Engineer, Data Foundations","location":"San Francisco, California","link":"https:\/\/job-boards.greenhouse.io\/gleanwork\/jobs\/4637208005","postedOn":"2025-12-08T11:56:06-05:00","updatedOn":"2026-05-12T18:23:24-04:00"},{"company":"Glean","title":"Software Engineer, Developer Productivity ","location":"Mountain View, California","link":"https:\/\/job-boards.greenhouse.io\/gleanwork\/jobs\/4614706005","postedOn":"2025-10-02T15:05:37-04:00","updatedOn":"2026-05-12T18:23:47-04:00"},{"company":"Glean","title":"Software Engineer, Platform","location":"Mountain View, California","link":"https:\/\/job-boards.greenhouse.io\/gleanwork\/jobs\/4636739005","postedOn":"2025-12-08T11:58:36-05:00","updatedOn":"2026-05-12T18:25:13-04:00"},{"company":"Micron","title":"Quality Technician - SSD RMA Failure Analysis","location":"Longmont, CO","link":"https:\/\/micron.wd1.myworkdayjobs.com\/en-US\/External\/job\/Longmont-CO\/Quality-Technician---SSD-RMA-Failure-Analysis_JR99499","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"ABC News Live First Hour Production Intern, Fall 2026","location":"New York, NY, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/New-York-NY-USA\/ABC-News-Live-First-Hour-Production-Intern--Fall-2026_10138601","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"Network Origination Operator I (Master Control Operator) -Project Hire- Woodlands TX","location":"The Woodlands, TX, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/The-Woodlands-TX-USA\/Network-Origination-Operator-I--Master-Control-Operator---Project-Hire--Woodlands-TX_10147178","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"Software Engineer II","location":"Sunnyvale, CA","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/Sunnyvale-CA\/Software-Engineer-II_R-2506984","postedOn":"Posted Today","updatedOn":null}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
-[ERROR] Ambrook: Lever API failed: https://api.lever.co/v0/postings/ambrook?mode=json - 404
 [ERROR] Altera: Ashby API failed - HTTP 404: Not Found
+[ERROR] Ambrook: Lever API failed: https://api.lever.co/v0/postings/ambrook?mode=json - 404
 [ERROR] Amidon Heavy Industries: Ashby API failed - HTTP 404: Not Found
 [ERROR] Magna Services of America, Inc: Invalid Workday URL
 [ERROR] boomi: Greenhouse API failed: 404
 [ERROR] Canonical: Greenhouse API failed: 404
-[ERROR] Cdata: Greenhouse API failed: 404
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"4697CCMP36W41X","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"921C48MP3ARRHK","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Cdata: Greenhouse API failed: 404
 [ERROR] Clever: Could not extract Lever company name
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
 [ERROR] Coinbase: Greenhouse API failed: 404
-[ERROR] Calix: Workday API failed: HTTP 502 - <html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>cloudflare</center>
-</body>
-</html>
-
 [ERROR] Dapper Labs: Lever API failed: https://api.lever.co/v0/postings/axiomzen?mode=json - 404
 [ERROR] Demandbase : Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
-[ERROR] Circle: Workday API failed: HTTP 502 - <html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>cloudflare</center>
-</body>
-</html>
-
+[ERROR] Ciena: Workday API failed: HTTP 520 - <!DOCTYPE html>
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"45D8BAMP36X17F","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"522FF2MP3ASMDZ","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
 [ERROR] Funnel: Breezy API failed: 403
 [ERROR] Grammarly : Greenhouse API failed: 404
@@ -50,37 +35,27 @@ ERRORS_START
 [ERROR] Kobie: Greenhouse API failed: 404
 [ERROR] Kodiak Robotics: Lever API failed: https://api.lever.co/v0/postings/kodiak?mode=json - 404
 [ERROR] Modernizing Medicine: Greenhouse API failed: 404
-[ERROR] netflix: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Notion: Greenhouse API failed: 404
+[ERROR] netflix: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Perplexity AI: Greenhouse API failed: 404
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"9C19C0MP36ZFOE","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"0929F0MP3AV524","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Raptor Maps: Lever API failed: https://api.lever.co/v0/postings/RaptorMaps?mode=json - 404
 [ERROR] Relativity Space: Greenhouse API failed: 404
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
 [ERROR] Skydio: Greenhouse API failed: 404
-[ERROR] Sentry : Workday API failed: HTTP 403 - <!DOCTYPE html>
-[ERROR] Simons Foundation: Workday API failed: HTTP 403 - <!DOCTYPE html>
-[ERROR] searchLFN: Workday API failed: HTTP 403 - <!DOCTYPE html>
-[ERROR] Shipt : Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] Snap: Invalid Workday URL
 [ERROR] Stitch Fix : Greenhouse API failed: 404
 [ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] State Street: Workday API failed: HTTP 403 - <!DOCTYPE html>
-[ERROR] The Toro: Workday API failed: HTTP 403 - <!DOCTYPE html>
-[ERROR] Sony AI America Inc: Workday API failed: HTTP 403 - <!DOCTYPE html>
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"00B088MP370YAU","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"F26174MP370ZO2","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"337A77MP3AWYTK","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"0A6F77MP3AX1PH","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] TRM labs: Greenhouse API failed: 404
-[ERROR] terex: Workday API failed: HTTP 403 - <!DOCTYPE html>
-[ERROR] Tricentis : Workday API failed: HTTP 403 - <!DOCTYPE html>
-[ERROR] USAA: Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] Vimeo: Greenhouse API failed: 404
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"159F78MP371SYB","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"32D155MP3AXWQ6","httpStatus":422,"message":"","messageParams":{}}
 ERRORS_END
