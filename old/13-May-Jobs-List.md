@@ -4,10 +4,72 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-13 17:12:09](#batch-2026-05-13-17-12-09)
 - [Batch at 2026-05-13 15:24:46](#batch-2026-05-13-15-24-46)
 - [Batch at 2026-05-13 13:58:52](#batch-2026-05-13-13-58-52)
 - [Batch at 2026-05-13 12:06:52](#batch-2026-05-13-12-06-52)
-- [Batch at 2026-05-13 09:30:06](#batch-2026-05-13-09-30-06)
+
+<h3 id='batch-2026-05-13-17-12-09'>🕐 Batch at 2026-05-13 17:12:09</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- Affirm : 1 job
+- Applied Materials: 1 job
+- BAH: 1 job
+- NVIDIA: 1 job
+- Twitch: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>Analyst I, Full Stack</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/7726627003'>Apply</a></td>
+      <td>May 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>2026 Data Engineer New College Grad- Bachelor's/Master's (Austin, TX)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/XMLNAME-2026-Data-Engineer-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2619452-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0240060'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Systems Software Engineer Intern, Metropolis - Fall 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer-Intern--Metropolis---Fall-2026_JR2018016'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Twitch</b></td>
+      <td>Seattle, WA</td>
+      <td>Software Engineer I</td>
+      <td><a href='https://job-boards.greenhouse.io/twitch/jobs/8548960002'>Apply</a></td>
+      <td>May 13, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-13-15-24-46'>🕐 Batch at 2026-05-13 15:24:46</h3>
 
@@ -122,7 +184,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-13-13-58-52'>🕐 Batch at 2026-05-13 13:58:52</h3>
 
 📊 **Total jobs in this batch: 11**
@@ -226,8 +287,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-13-12-06-52'>🕐 Batch at 2026-05-13 12:06:52</h3>
+---<h3 id='batch-2026-05-13-12-06-52'>🕐 Batch at 2026-05-13 12:06:52</h3>
 
 📊 **Total jobs in this batch: 18**
 
