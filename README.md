@@ -4,7 +4,46 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-14 03:30:57](#batch-2026-05-14-03-30-57)
 - [Batch at 2026-05-14 00:53:55](#batch-2026-05-14-00-53-55)
+
+<h3 id='batch-2026-05-14-03-30-57'>🕐 Batch at 2026-05-14 03:30:57</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- Otis: 1 job
+- State Street: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Otis</b></td>
+      <td>CASSINA DE' PECCHI, Cassina De' Pecchi, Italy</td>
+      <td>INTERN PROCUREMENT SPECIALIST</td>
+      <td><a href='https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/CASSINA-DE-PECCHI-Cassina-De-Pecchi-Italy/INTERN-PROCUREMENT-SPECIALIST_20158115'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Quincy, Massachusetts</td>
+      <td>Software Engineering & Development</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Software-Engineering---Development_R-790270'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-14-00-53-55'>🕐 Batch at 2026-05-14 00:53:55</h3>
 
@@ -58,4 +97,3 @@
 <table>
 
 ---
-
