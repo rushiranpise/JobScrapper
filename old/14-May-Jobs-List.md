@@ -4,10 +4,101 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-14 14:22:34](#batch-2026-05-14-14-22-34)
 - [Batch at 2026-05-14 13:00:43](#batch-2026-05-14-13-00-43)
 - [Batch at 2026-05-14 11:04:46](#batch-2026-05-14-11-04-46)
 - [Batch at 2026-05-14 08:30:40](#batch-2026-05-14-08-30-40)
-- [Batch at 2026-05-14 05:35:59](#batch-2026-05-14-05-35-59)
+
+<h3 id='batch-2026-05-14-14-22-34'>🕐 Batch at 2026-05-14 14:22:34</h3>
+
+📊 **Total jobs in this batch: 9**
+
+**Per company:**
+- BAH: 4 jobs
+- Neuralink: 1 job
+- Ramp: 1 job
+- Samsara: 1 job
+- Snowflake: 1 job
+- Xylem Services USA LLC: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Springfield, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist--Mid_R0240176'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Atlanta, GA</td>
+      <td>Database Administrator</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Database-Administrator_R0240167'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Honolulu, HI</td>
+      <td>Application Systems Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Application-Systems-Engineer_R0240161'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Alexandria, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist--Mid_R0240173'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Neuralink</b></td>
+      <td>Fremont, California, United States</td>
+      <td>Neuroengineer Intern</td>
+      <td><a href='https://boards.greenhouse.io/neuralink/jobs/7483748003?gh_jid=7483748003'>Apply</a></td>
+      <td>Sep 30, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Ramp</b></td>
+      <td>New York, NY (HQ)</td>
+      <td>AML Operations Analyst, Compliance Operator</td>
+      <td><a href='https://jobs.ashbyhq.com/ramp/16fb536d-fe10-4ea7-8956-d6d0cbddd6f5'>Apply</a></td>
+      <td>May 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Samsara</b></td>
+      <td>Remote - US</td>
+      <td>Specialist Seller - Enterprise Select AI Products</td>
+      <td><a href='https://www.samsara.com/company/careers/roles/7922805?gh_jid=7922805'>Apply</a></td>
+      <td>May 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-NC-Remote</td>
+      <td>Data Platform Architect, Postgres</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/eef762a3-04d3-4787-9468-845cbc067069'>Apply</a></td>
+      <td>May 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Xylem Services USA LLC</b></td>
+      <td>Morrisville, North Carolina (Office)</td>
+      <td>Data Engineer</td>
+      <td><a href='https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Morrisville-North-Carolina-Office/Data-Engineer_R46633'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-14-13-00-43'>🕐 Batch at 2026-05-14 13:00:43</h3>
 
@@ -144,7 +235,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-14-11-04-46'>🕐 Batch at 2026-05-14 11:04:46</h3>
 
 📊 **Total jobs in this batch: 20**
@@ -316,8 +406,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-14-08-30-40'>🕐 Batch at 2026-05-14 08:30:40</h3>
+---<h3 id='batch-2026-05-14-08-30-40'>🕐 Batch at 2026-05-14 08:30:40</h3>
 
 📊 **Total jobs in this batch: 9**
 
