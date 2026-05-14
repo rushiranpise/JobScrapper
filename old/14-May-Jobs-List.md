@@ -4,8 +4,39 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-14 05:35:59](#batch-2026-05-14-05-35-59)
 - [Batch at 2026-05-14 03:30:57](#batch-2026-05-14-03-30-57)
 - [Batch at 2026-05-14 00:53:55](#batch-2026-05-14-00-53-55)
+
+<h3 id='batch-2026-05-14-05-35-59'>🕐 Batch at 2026-05-14 05:35:59</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- WEX: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>WEX</b></td>
+      <td>US - Remote</td>
+      <td>Fraud / Credit Data Scientist, Risk Solutions</td>
+      <td><a href='https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Fraud---Credit-Data-Scientist--Risk-Solutions_R21716'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-14-03-30-57'>🕐 Batch at 2026-05-14 03:30:57</h3>
 
@@ -44,7 +75,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-14-00-53-55'>🕐 Batch at 2026-05-14 00:53:55</h3>
 
 📊 **Total jobs in this batch: 4**
