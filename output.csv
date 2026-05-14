@@ -1,10 +1,21 @@
-company,title,location,link,postedOn,updatedOn
-Anduril Industries,Early Career Software Engineer,"Seattle, Washington, United States",https://boards.greenhouse.io/andurilindustries/jobs/4824364007?gh_jid=4824364007,2025-08-11T13:40:51-04:00,2026-05-14T10:20:04-04:00
-BAH,AI Solution Architect,"Nellis AFB, NV",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Nellis-AFB-NV/AI-Solution-Architect_R0240093,Posted Today,
-BAH,Cyber Data Analyst,"Chantilly, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Cyber-Data-Analyst_R0239992,Posted Today,
-BAH,"Program Analyst, Junior","Lexington Park, MD",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/Program-Analyst--Junior_R0239311,Posted Today,
-General Motors LLC,Software Engineer - Chassis Controls,"Warren, Michigan, United States of America",https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Engineer---Chassis-Controls_JR-202522564,Posted Today,
-General Motors LLC,Software Release Engineer,Remote - United States,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Remote---United-States/Software-Release-Engineer_JR-202605478,Posted Today,
-MOOG,"Intern, Quality Engineering","Buffalo, NY",https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Quality-Engineering_R-26-17816,Posted Today,
-terex,Production Configurator & Programmer,US-MI Durand,https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/US-MI-Durand/Production-Configurator---Programmer_REQ-12871,Posted Today,
-The Walt Disney Company,World Safety Assurance (WSA)- Technical- Project Hire/Internal Assignment,"Lake Buena Vista, FL, USA",https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/World-Safety-Assurance--WSA---Technical--Project-Hire-Internal-Assignment_10149924,Posted Today,
+company,title,location,postedOn,link,updatedOn
+BAH,Data Engineer,"Ford Island, HI",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ford-Island-HI/Data-Engineer_R0240138,
+BAH,Human Capital Data Analyst,"Chantilly, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Human-Capital-Data-Analyst_R0234223,
+BAH,Data Engineer,"Honolulu, HI",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0240103,
+BAH,AI Solution Architect,"Nellis AFB, NV",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Nellis-AFB-NV/AI-Solution-Architect_R0240085,
+BAH,TAK UMS Software Developer,"Lorton, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/UxS-Software-Developer_R0239591,
+careers,Early Careers Rotational Program - R&D Engineer (AI),"Colorado Springs, CO USA",Posted Today,https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Colorado-Springs-CO-USA/Early-Careers-Rotational-Program---R-D-Engineer--AI-_250003816-1,
+Concentrix,Site Reliability Engineer / DevOps Engineer,"USA, GA, Work-at-Home",Posted Today,https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/USA-GA-Work-at-Home/Site-Reliability-Engineer---DevOps-Engineer_R1730735,
+f5jobs,Solutions Engineer — AI & Data Science Specialist,Field-VA,Posted Today,https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Field-VA/Solutions-Engineer---AI---Data-Science-Specialist_RP1036564,
+genpt,Material Handler I,"Salt Lake City, UT, USA",Posted Today,https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Salt-Lake-City-UT-USA/Material-Handler-I_R26_0000015839,
+genpt,Cloud Engineer II,"Birmingham, AL, USA",Posted Today,https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Cloud-Engineer-I_R25_0000038435,
+genpt,Software Engineer I,"Birmingham, AL, USA",Posted Today,https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Software-Engineer-I_R26_0000010997,
+Logic gate,Software Engineer Frontend,Remote - United States,2026-05-14T13:56:05-04:00,https://job-boards.greenhouse.io/logicgate/jobs/4694721005,2026-05-14T13:56:05-04:00
+Micron,Software Engineer,"Boise, ID - Main Site",Posted Today,https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Software-Engineer_JR101832,
+Morgan Stanley,Data Engineer - Financial Crimes - Associate,"New York, New York, United States of America",Posted Today,https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Data-Engineer---Financial-Crimes---Associate_PT-JR035703,
+Morgan Stanley,DB2 Database Administrator (P3),"Alpharetta, Georgia, United States of America",Posted Today,https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-Georgia-United-States-of-America/DB2-Database-Administrator--P3-_PT-JR037059,
+NT Concepts,Java API Developer ,"Herndon, VA",2026-05-14T11:42:31-04:00,https://job-boards.greenhouse.io/ntconcepts/jobs/5996316004,2026-05-14T11:42:31-04:00
+The Walt Disney Company,"Operational Technology Network Engineer, Technical Infrastructure","Glendale, CA, USA",Posted Today,https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Operational-Technology-Network-Engineer--Technical-Infrastructure_10151059,
+Walmart,Pharmacy Grad Intern (Hrly),(USA) SC CAMDEN 00634 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-SC-CAMDEN-00634-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2510044,
+Walmart,Pharmacy Grad Intern (Hrly),(USA) PA BRADFORD 03514 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-PA-BRADFORD-03514-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2509794,
+Walmart,(USA) Pharmacy Pre-Grad Intern - WM,(USA) OH NAPOLEON 01416 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OH-NAPOLEON-01416-WM-SUPERCENTER/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM_R-2507505-1,
