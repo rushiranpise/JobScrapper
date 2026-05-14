@@ -4,10 +4,63 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-13 21:56:37](#batch-2026-05-13-21-56-37)
 - [Batch at 2026-05-13 17:12:09](#batch-2026-05-13-17-12-09)
 - [Batch at 2026-05-13 15:24:46](#batch-2026-05-13-15-24-46)
 - [Batch at 2026-05-13 13:58:52](#batch-2026-05-13-13-58-52)
-- [Batch at 2026-05-13 12:06:52](#batch-2026-05-13-12-06-52)
+
+<h3 id='batch-2026-05-13-21-56-37'>🕐 Batch at 2026-05-13 21:56:37</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- Affirm : 1 job
+- Motorola Solutions, Inc: 1 job
+- Intel Corporation: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>Analyst II, Full Stack</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/7726632003'>Apply</a></td>
+      <td>May 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Reston, VA  (VA58)</td>
+      <td>Junior Field Applications Engineer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Reston-VA--VA58/Junior-Field-Applications-Engineer_R64415'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Software Technician</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Technician_JR0283735'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Software Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Engineer_JR0283729'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-13-17-12-09'>🕐 Batch at 2026-05-13 17:12:09</h3>
 
@@ -70,7 +123,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-13-15-24-46'>🕐 Batch at 2026-05-13 15:24:46</h3>
 
 📊 **Total jobs in this batch: 12**
@@ -183,8 +235,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-13-13-58-52'>🕐 Batch at 2026-05-13 13:58:52</h3>
+---<h3 id='batch-2026-05-13-13-58-52'>🕐 Batch at 2026-05-13 13:58:52</h3>
 
 📊 **Total jobs in this batch: 11**
 
