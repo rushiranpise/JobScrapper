@@ -1,10 +1,6 @@
-company,title,location,postedOn,link,updatedOn
-BAH,"Data Scientist, Mid","Springfield, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist--Mid_R0240176,
-BAH,Database Administrator,"Atlanta, GA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Database-Administrator_R0240167,
-BAH,Application Systems Engineer,"Honolulu, HI",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Application-Systems-Engineer_R0240161,
-BAH,"Data Scientist, Mid","Alexandria, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist--Mid_R0240173,
-Neuralink,Neuroengineer Intern,"Fremont, California, United States",2025-09-30T15:43:48-04:00,https://boards.greenhouse.io/neuralink/jobs/7483748003?gh_jid=7483748003,2026-05-14T16:42:57-04:00
-Ramp,"AML Operations Analyst, Compliance Operator","New York, NY (HQ)",2026-05-14T20:36:57.732+00:00,https://jobs.ashbyhq.com/ramp/16fb536d-fe10-4ea7-8956-d6d0cbddd6f5,
-Samsara,Specialist Seller - Enterprise Select AI Products,Remote - US,2026-05-14T14:08:02-04:00,https://www.samsara.com/company/careers/roles/7922805?gh_jid=7922805,2026-05-14T16:13:48-04:00
-Snowflake,"Data Platform Architect, Postgres",US-NC-Remote,2026-05-14T21:00:53.139+00:00,https://jobs.ashbyhq.com/snowflake/eef762a3-04d3-4787-9468-845cbc067069,
-Xylem Services USA LLC,Data Engineer,"Morrisville, North Carolina (Office)",Posted Today,https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Morrisville-North-Carolina-Office/Data-Engineer_R46633,
+company,title,location,link,postedOn,updatedOn
+Affirm ,"Analyst II, Full Stack",Remote US,https://job-boards.greenhouse.io/affirm/jobs/7666190003,2026-03-30T13:52:02-04:00,2026-05-14T18:36:34-04:00
+Datadog,People Systems Developer,"Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA",https://careers.datadoghq.com/detail/7874990/?gh_jid=7874990,2026-05-14T17:37:33-04:00,2026-05-14T17:43:58-04:00
+Formlabs,Hardware Systems Integration Intern (Fall 2026),"Somerville, MA",https://careers.formlabs.com/job/7927471/apply/?gh_jid=7927471,2026-05-14T18:08:15-04:00,2026-05-14T18:08:15-04:00
+KLA,Software Engineer - Test Automation,"Milpitas, CA",https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineer---Test-Automation_2636542,Posted Today,
+The Walt Disney Company,Software Engineer II,"Seattle, WA, USA",https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-II_10150611,Posted Today,

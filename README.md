@@ -4,10 +4,72 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-14 16:08:44](#batch-2026-05-14-16-08-44)
 - [Batch at 2026-05-14 14:22:34](#batch-2026-05-14-14-22-34)
 - [Batch at 2026-05-14 13:00:43](#batch-2026-05-14-13-00-43)
 - [Batch at 2026-05-14 11:04:46](#batch-2026-05-14-11-04-46)
-- [Batch at 2026-05-14 08:30:40](#batch-2026-05-14-08-30-40)
+
+<h3 id='batch-2026-05-14-16-08-44'>🕐 Batch at 2026-05-14 16:08:44</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- Affirm : 1 job
+- Datadog: 1 job
+- Formlabs: 1 job
+- KLA: 1 job
+- The Walt Disney Company: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>Analyst II, Full Stack</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/7666190003'>Apply</a></td>
+      <td>Mar 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Datadog</b></td>
+      <td>Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA</td>
+      <td>People Systems Developer</td>
+      <td><a href='https://careers.datadoghq.com/detail/7874990/?gh_jid=7874990'>Apply</a></td>
+      <td>May 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Hardware Systems Integration Intern (Fall 2026)</td>
+      <td><a href='https://careers.formlabs.com/job/7927471/apply/?gh_jid=7927471'>Apply</a></td>
+      <td>May 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Software Engineer - Test Automation</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineer---Test-Automation_2636542'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Seattle, WA, USA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-II_10150611'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-14-14-22-34'>🕐 Batch at 2026-05-14 14:22:34</h3>
 
@@ -99,7 +161,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-14-13-00-43'>🕐 Batch at 2026-05-14 13:00:43</h3>
 
 📊 **Total jobs in this batch: 15**
@@ -234,8 +295,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-14-11-04-46'>🕐 Batch at 2026-05-14 11:04:46</h3>
+---<h3 id='batch-2026-05-14-11-04-46'>🕐 Batch at 2026-05-14 11:04:46</h3>
 
 📊 **Total jobs in this batch: 20**
 
