@@ -4,10 +4,146 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-14 13:00:43](#batch-2026-05-14-13-00-43)
 - [Batch at 2026-05-14 11:04:46](#batch-2026-05-14-11-04-46)
 - [Batch at 2026-05-14 08:30:40](#batch-2026-05-14-08-30-40)
 - [Batch at 2026-05-14 05:35:59](#batch-2026-05-14-05-35-59)
-- [Batch at 2026-05-14 03:30:57](#batch-2026-05-14-03-30-57)
+
+<h3 id='batch-2026-05-14-13-00-43'>🕐 Batch at 2026-05-14 13:00:43</h3>
+
+📊 **Total jobs in this batch: 15**
+
+**Per company:**
+- Brink: 2 jobs
+- Clear: 1 job
+- Gecko Robotics: 1 job
+- genpt: 1 job
+- palantir: 3 jobs
+- sumup: 1 job
+- The Toro: 2 jobs
+- Toast: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Brink</b></td>
+      <td>Buffalo, NY (B0090)</td>
+      <td>Trainer</td>
+      <td><a href='https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Buffalo-NY-B0090/Trainer_R73987'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Brink</b></td>
+      <td>Syracuse, NY (B0720)</td>
+      <td>Trainer</td>
+      <td><a href='https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Syracuse-NY-B0720/Trainer_R73986'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Clear</b></td>
+      <td>New York, New York, United States</td>
+      <td>Software Development Engineer, Fullstack</td>
+      <td><a href='https://job-boards.greenhouse.io/clear/jobs/7926837'>Apply</a></td>
+      <td>May 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Gecko Robotics</b></td>
+      <td>New York City</td>
+      <td>Software Engineer | 3D Visualization Platform</td>
+      <td><a href='https://jobs.ashbyhq.com/gecko-robotics/f1dc5c24-f814-40bf-af02-f5c460ea97f3'>Apply</a></td>
+      <td>May 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Beckley, WV, USA</td>
+      <td>Store Counter Trainee</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Beckley-WV-USA/Store-Counter-Trainee_R26_0000015769'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>palantir</b></td>
+      <td>Washington, D.C.</td>
+      <td>Year at Palantir - Forward Deployed Software Engineer, Internship - USG</td>
+      <td><a href='https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019'>Apply</a></td>
+      <td>2026-04-23 21:17:05</td>
+    </tr>
+    <tr>
+      <td><b>palantir</b></td>
+      <td>New York, NY</td>
+      <td>Year at Palantir - Forward Deployed Software Engineer, Internship - USG</td>
+      <td><a href='https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333'>Apply</a></td>
+      <td>2026-03-20 19:05:22</td>
+    </tr>
+    <tr>
+      <td><b>palantir</b></td>
+      <td>New York, NY</td>
+      <td>Year at Palantir - Software Engineer, Internship</td>
+      <td><a href='https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329'>Apply</a></td>
+      <td>2026-03-20 19:07:35</td>
+    </tr>
+    <tr>
+      <td><b>sumup</b></td>
+      <td>Boulder, Colorado, United States</td>
+      <td>Data Analytics Engineer</td>
+      <td><a href='https://sumup.com/careers/positions/8529492002?gh_jid=8529492002'>Apply</a></td>
+      <td>May 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>West Salem, OH</td>
+      <td>Material Handler - American Augers</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/West-Salem-OH/Material-Handler---American-Augers_JR16186-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Orrville, OH</td>
+      <td>Product Training Specialist II - Ventrac</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Orrville-OH/Product-Training-Specialist-II---Ventrac_JR16124'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Toast</b></td>
+      <td>Remote - USA</td>
+      <td>International FinTech Counsel</td>
+      <td><a href='https://careers.toasttab.com/jobs?gh_jid=7926993'>Apply</a></td>
+      <td>May 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Software-Engineer-III_R-2437189'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MD WESTMINSTER 01867 WAL-MART</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MD-WESTMINSTER-01867-WAL-MART/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2510446'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Data Analyst II</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Data-Analyst-II_R-2406056'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-14-11-04-46'>🕐 Batch at 2026-05-14 11:04:46</h3>
 
@@ -181,7 +317,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-14-08-30-40'>🕐 Batch at 2026-05-14 08:30:40</h3>
 
 📊 **Total jobs in this batch: 9**
@@ -271,8 +406,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-14-05-35-59'>🕐 Batch at 2026-05-14 05:35:59</h3>
+---<h3 id='batch-2026-05-14-05-35-59'>🕐 Batch at 2026-05-14 05:35:59</h3>
 
 📊 **Total jobs in this batch: 1**
 
