@@ -4,10 +4,101 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-15 14:14:22](#batch-2026-05-15-14-14-22)
 - [Batch at 2026-05-15 12:52:10](#batch-2026-05-15-12-52-10)
 - [Batch at 2026-05-15 10:51:39](#batch-2026-05-15-10-51-39)
 - [Batch at 2026-05-15 08:29:20](#batch-2026-05-15-08-29-20)
-- [Batch at 2026-05-15 06:05:24](#batch-2026-05-15-06-05-24)
+
+<h3 id='batch-2026-05-15-14-14-22'>🕐 Batch at 2026-05-15 14:14:22</h3>
+
+📊 **Total jobs in this batch: 9**
+
+**Per company:**
+- BAH: 2 jobs
+- spacex: 1 job
+- Toast: 1 job
+- Warner Bros: 1 job
+- Walmart: 3 jobs
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Buckley AFB, CO</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Buckley-AFB-CO/Data-Scientist_R0234099'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Diego, CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Software-Engineer_R0240278'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Cape Canaveral, FL</td>
+      <td>Data & Control Systems Engineer</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8552660002?gh_jid=8552660002'>Apply</a></td>
+      <td>May 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Toast</b></td>
+      <td>Boston, MA</td>
+      <td>GTM Engineer: Data Infrastructure & AI Intelligence</td>
+      <td><a href='https://careers.toasttab.com/jobs?gh_jid=7931361'>Apply</a></td>
+      <td>May 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Warner Bros</b></td>
+      <td>GA Atlanta 1050 Techwood Drive NW</td>
+      <td>NCAA Digital Post Grad, Live Streaming</td>
+      <td><a href='https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/GA-Atlanta-1050-Techwood-Drive-NW/NCAA-Digital-Post-Grad--Live-Streaming_R000104537-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX SAN ANTONIO 05245 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-SAN-ANTONIO-05245-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2511854'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Software Engineer III - Full Stack</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Software-Engineer-III---Full-Stack_R-2460199'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX SAN ANTONIO 05145 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-SAN-ANTONIO-05145-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2511866'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>San Diego, CA</td>
+      <td>Software Engineer - Ride and Fleet Services</td>
+      <td><a href='https://jobs.lever.co/zoox/2783987b-5ab8-4447-a9e4-77745439e7ba'>Apply</a></td>
+      <td>2026-05-12 03:43:11</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-15-12-52-10'>🕐 Batch at 2026-05-15 12:52:10</h3>
 
@@ -160,7 +251,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-15-10-51-39'>🕐 Batch at 2026-05-15 10:51:39</h3>
 
 📊 **Total jobs in this batch: 22**
@@ -346,8 +436,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-15-08-29-20'>🕐 Batch at 2026-05-15 08:29:20</h3>
+---<h3 id='batch-2026-05-15-08-29-20'>🕐 Batch at 2026-05-15 08:29:20</h3>
 
 📊 **Total jobs in this batch: 11**
 
