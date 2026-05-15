@@ -4,10 +4,101 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-15 16:07:10](#batch-2026-05-15-16-07-10)
 - [Batch at 2026-05-15 14:14:22](#batch-2026-05-15-14-14-22)
 - [Batch at 2026-05-15 12:52:10](#batch-2026-05-15-12-52-10)
 - [Batch at 2026-05-15 10:51:39](#batch-2026-05-15-10-51-39)
-- [Batch at 2026-05-15 08:29:20](#batch-2026-05-15-08-29-20)
+
+<h3 id='batch-2026-05-15-16-07-10'>🕐 Batch at 2026-05-15 16:07:10</h3>
+
+📊 **Total jobs in this batch: 9**
+
+**Per company:**
+- BAH: 1 job
+- cadence: 1 job
+- Roblox: 1 job
+- spacex: 2 jobs
+- SRK Supplylogix LLC: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Education & Training Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Education---Training-Analyst_R0240286'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>cadence</b></td>
+      <td>AUSTIN</td>
+      <td>Software Intern</td>
+      <td><a href='https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Software-Intern_R54747-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>San Mateo, CA, United States</td>
+      <td>[2026] Software Engineer, Game Developer</td>
+      <td><a href='https://careers.roblox.com/jobs/7557910?gh_jid=7557910'>Apply</a></td>
+      <td>May 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>McGregor, TX</td>
+      <td>Data & Control Systems Technician</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8552428002?gh_jid=8552428002'>Apply</a></td>
+      <td>May 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Full Stack Software Engineer, Data</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8553026002?gh_jid=8553026002'>Apply</a></td>
+      <td>May 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, TX, Austin</td>
+      <td>Site Regulatory/ Data Coordinator</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Austin/Site-Regulatory--Data-Coordinator_JR0147103-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) CO CENTENNIAL 03313 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CO-CENTENNIAL-03313-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2512295-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) SD BROOKINGS 01538 WM SUPERCENTER</td>
+      <td>(USA) Pharmacy Pre-Grad Intern - WM-2</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-SD-BROOKINGS-01538-WM-SUPERCENTER/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM-2_R-2511313'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Software-Engineer-III_R-2437035'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-15-14-14-22'>🕐 Batch at 2026-05-15 14:14:22</h3>
 
@@ -99,7 +190,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-15-12-52-10'>🕐 Batch at 2026-05-15 12:52:10</h3>
 
 📊 **Total jobs in this batch: 17**
@@ -250,8 +340,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-15-10-51-39'>🕐 Batch at 2026-05-15 10:51:39</h3>
+---<h3 id='batch-2026-05-15-10-51-39'>🕐 Batch at 2026-05-15 10:51:39</h3>
 
 📊 **Total jobs in this batch: 22**
 
