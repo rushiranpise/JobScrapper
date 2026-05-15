@@ -4,10 +4,162 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-15 12:52:10](#batch-2026-05-15-12-52-10)
 - [Batch at 2026-05-15 10:51:39](#batch-2026-05-15-10-51-39)
 - [Batch at 2026-05-15 08:29:20](#batch-2026-05-15-08-29-20)
 - [Batch at 2026-05-15 06:05:24](#batch-2026-05-15-06-05-24)
-- [Batch at 2026-05-15 03:37:20](#batch-2026-05-15-03-37-20)
+
+<h3 id='batch-2026-05-15-12-52-10'>🕐 Batch at 2026-05-15 12:52:10</h3>
+
+📊 **Total jobs in this batch: 17**
+
+**Per company:**
+- CrowdStrike, Inc: 1 job
+- Applied Materials: 1 job
+- BAH: 3 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- General Motors LLC: 1 job
+- genpt: 3 jobs
+- homedepot: 1 job
+- Snowflake: 1 job
+- The Walt Disney Company: 1 job
+- Walmart: 3 jobs
+- Zscaler: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Remote, CA</td>
+      <td>Data Engineer, Go To Market (Remote)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-CA/Data-Engineer--Go-To-Market--Remote-_R28755'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>2026 Summer Optical Intern (Adv Degree) - Santa Clara, CA</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Optical-Intern--Adv-Degree----Santa-Clara--CA_R2619822'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>Full Stack Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Full-Stack-Software-Engineer_R0240275'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Langley AFB, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/Data-Scientist_R0240273'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0240272'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA PA - Zelienople</td>
+      <td>Global Service Process and Systems Intern</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-PA---Zelienople/Global-Service-Process-and-Systems-Intern_R-545713'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Business Intelligence Data Analyst - GPSC</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Business-Intelligence-Data-Analyst---GPSC_JR-202610962'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Poway, CA, USA</td>
+      <td>Engineering Intern</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Poway-CA-USA/Engineering-Intern_R26_0000016181'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Anaheim, CA, USA</td>
+      <td>Engineering Intern</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Anaheim-CA-USA/Engineering-Intern_R26_0000016178'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Plano, TX, USA</td>
+      <td>Engineering Intern</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Plano-TX-USA/Engineering-Intern_R26_0000016171'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>GEORGIA - VIRTUAL - GA01</td>
+      <td>Software Engineer (Remote)</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer--Remote-_Req180516'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Software Engineer, Data Governance</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/d8816f3f-89d6-4434-bc24-eaf4169c1d95'>Apply</a></td>
+      <td>May 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>New York, NY, USA</td>
+      <td>ABC News “What You Need To Know” Production Intern, Fall 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/ABC-News--What-You-Need-To-Know--Production-Intern--Fall-2026_10149594'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Software-Engineer-III_R-2408628'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) AR HEBER SPGS 00281 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-AR-HEBER-SPGS-00281-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2511725-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zscaler</b></td>
+      <td>Remote - Virginia, USA; San Jose, California, USA</td>
+      <td>Professional Services - SkillBridge Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/zscaler/jobs/5041747007'>Apply</a></td>
+      <td>Mar 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MO ROLLA 00101 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MO-ROLLA-00101-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2511341'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-15-10-51-39'>🕐 Batch at 2026-05-15 10:51:39</h3>
 
@@ -195,7 +347,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-15-08-29-20'>🕐 Batch at 2026-05-15 08:29:20</h3>
 
 📊 **Total jobs in this batch: 11**
@@ -301,8 +452,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-15-06-05-24'>🕐 Batch at 2026-05-15 06:05:24</h3>
+---<h3 id='batch-2026-05-15-06-05-24'>🕐 Batch at 2026-05-15 06:05:24</h3>
 
 📊 **Total jobs in this batch: 4**
 
