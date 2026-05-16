@@ -1,10 +1,6 @@
-company,title,location,link,postedOn,updatedOn
-Clear,Forward Deployed AI Engineer,"New York, NY, United States ",https://job-boards.greenhouse.io/clear/jobs/7927496,2026-05-15T19:51:55-04:00,2026-05-15T19:51:55-04:00
-Clear,Forward Deployed AI Engineer II,"New York, NY, United States ",https://job-boards.greenhouse.io/clear/jobs/7927498,2026-05-15T19:55:14-04:00,2026-05-15T19:55:14-04:00
-DoorDash ,"Software Engineer, Infrastructure - Autonomy & Robotics","San Francisco, CA",https://job-boards.greenhouse.io/doordashusa/jobs/7919150,2026-05-15T19:04:21-04:00,2026-05-15T19:04:21-04:00
-DoorDash ,"Software Engineer, Machine Learning - Credit & Refund Optimization","San Francisco, CA; Sunnyvale, CA; Seattle, WA",https://job-boards.greenhouse.io/doordashusa/jobs/7932109,2026-05-15T19:19:36-04:00,2026-05-15T19:19:36-04:00
-Natera ,DevOps Engineer,US Remote,https://job-boards.greenhouse.io/natera/jobs/5990785004,2026-05-15T19:07:13-04:00,2026-05-15T19:07:13-04:00
-Neuralink,IT Systems Administrator Intern,"Austin, Texas, United States; Fremont, California, United States",https://boards.greenhouse.io/neuralink/jobs/7736276003?gh_jid=7736276003,2026-05-15T19:15:03-04:00,2026-05-15T19:15:03-04:00
-Scale AI,"Forward Deployed AI Engineer, Enterprise ","San Francisco, CA; New York, NY",https://job-boards.greenhouse.io/scaleai/jobs/4694861005,2026-05-15T19:50:50-04:00,2026-05-15T19:50:50-04:00
-spacex,"Full Stack Software Engineer, Data","Starbase, TX",https://boards.greenhouse.io/spacex/jobs/8553080002?gh_jid=8553080002,2026-05-15T20:03:53-04:00,2026-05-15T20:03:53-04:00
-ZipRecruiter,"Software Engineer,  Tech Ops","Los Angeles, CA",https://job-boards.greenhouse.io/ziprecruiter/jobs/7927670,2026-05-15T19:30:54-04:00,2026-05-15T19:30:54-04:00
+company,title,location,postedOn,link
+Intel Corporation,DTCO Data Engineer,"US, Texas, Austin",Posted Today,https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/DTCO-Data-Engineer_JR0284161-1
+Walmart,(CAN) Préposé au traitement des commandes OMNI,(CAN) QC VILLE DE QUEBEC 01201 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-01201-WM-SUPERCENTER/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2512341
+Walmart,(CAN) Préposé au traitement des commandes OMNI,(CAN) QC VILLE DE QUEBEC 01201 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-01201-WM-SUPERCENTER/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2512345
+Walmart,(USA) Coach/Ops Mgr Trainee,"Hernando, MS",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Hernando-MS/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2510305
+Walmart,(USA) Coach/Ops Mgr Trainee,(USA) TN FRANKLIN 00272 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TN-FRANKLIN-00272-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2512233

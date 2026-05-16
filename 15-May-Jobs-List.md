@@ -4,10 +4,69 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-15 21:38:04](#batch-2026-05-15-21-38-04)
 - [Batch at 2026-05-15 17:09:30](#batch-2026-05-15-17-09-30)
 - [Batch at 2026-05-15 16:07:10](#batch-2026-05-15-16-07-10)
 - [Batch at 2026-05-15 14:14:22](#batch-2026-05-15-14-14-22)
-- [Batch at 2026-05-15 12:52:10](#batch-2026-05-15-12-52-10)
+
+<h3 id='batch-2026-05-15-21-38-04'>🕐 Batch at 2026-05-15 21:38:04</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- Intel Corporation: 1 job
+- Walmart: 4 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Texas, Austin</td>
+      <td>DTCO Data Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/DTCO-Data-Engineer_JR0284161-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 01201 WM SUPERCENTER</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-01201-WM-SUPERCENTER/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2512341'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 01201 WM SUPERCENTER</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-01201-WM-SUPERCENTER/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2512345'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Hernando, MS</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Hernando-MS/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2510305'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TN FRANKLIN 00272 WM SUPERCENTER</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TN-FRANKLIN-00272-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2512233'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-15-17-09-30'>🕐 Batch at 2026-05-15 17:09:30</h3>
 
@@ -100,7 +159,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-15-16-07-10'>🕐 Batch at 2026-05-15 16:07:10</h3>
 
 📊 **Total jobs in this batch: 9**
@@ -190,8 +248,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-15-14-14-22'>🕐 Batch at 2026-05-15 14:14:22</h3>
+---<h3 id='batch-2026-05-15-14-14-22'>🕐 Batch at 2026-05-15 14:14:22</h3>
 
 📊 **Total jobs in this batch: 9**
 
