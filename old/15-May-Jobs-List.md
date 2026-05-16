@@ -4,10 +4,102 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-15 17:09:30](#batch-2026-05-15-17-09-30)
 - [Batch at 2026-05-15 16:07:10](#batch-2026-05-15-16-07-10)
 - [Batch at 2026-05-15 14:14:22](#batch-2026-05-15-14-14-22)
 - [Batch at 2026-05-15 12:52:10](#batch-2026-05-15-12-52-10)
-- [Batch at 2026-05-15 10:51:39](#batch-2026-05-15-10-51-39)
+
+<h3 id='batch-2026-05-15-17-09-30'>🕐 Batch at 2026-05-15 17:09:30</h3>
+
+📊 **Total jobs in this batch: 9**
+
+**Per company:**
+- Clear: 2 jobs
+- DoorDash : 2 jobs
+- Natera : 1 job
+- Neuralink: 1 job
+- Scale AI: 1 job
+- spacex: 1 job
+- ZipRecruiter: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Clear</b></td>
+      <td>New York, NY, United States </td>
+      <td>Forward Deployed AI Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/clear/jobs/7927496'>Apply</a></td>
+      <td>May 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Clear</b></td>
+      <td>New York, NY, United States </td>
+      <td>Forward Deployed AI Engineer II</td>
+      <td><a href='https://job-boards.greenhouse.io/clear/jobs/7927498'>Apply</a></td>
+      <td>May 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer, Infrastructure - Autonomy & Robotics</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/7919150'>Apply</a></td>
+      <td>May 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>San Francisco, CA; Sunnyvale, CA; Seattle, WA</td>
+      <td>Software Engineer, Machine Learning - Credit & Refund Optimization</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/7932109'>Apply</a></td>
+      <td>May 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/5990785004'>Apply</a></td>
+      <td>May 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Neuralink</b></td>
+      <td>Austin, Texas, United States; Fremont, California, United States</td>
+      <td>IT Systems Administrator Intern</td>
+      <td><a href='https://boards.greenhouse.io/neuralink/jobs/7736276003?gh_jid=7736276003'>Apply</a></td>
+      <td>May 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Scale AI</b></td>
+      <td>San Francisco, CA; New York, NY</td>
+      <td>Forward Deployed AI Engineer, Enterprise </td>
+      <td><a href='https://job-boards.greenhouse.io/scaleai/jobs/4694861005'>Apply</a></td>
+      <td>May 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Full Stack Software Engineer, Data</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8553080002?gh_jid=8553080002'>Apply</a></td>
+      <td>May 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ZipRecruiter</b></td>
+      <td>Los Angeles, CA</td>
+      <td>Software Engineer,  Tech Ops</td>
+      <td><a href='https://job-boards.greenhouse.io/ziprecruiter/jobs/7927670'>Apply</a></td>
+      <td>May 15, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-15-16-07-10'>🕐 Batch at 2026-05-15 16:07:10</h3>
 
@@ -99,7 +191,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-15-14-14-22'>🕐 Batch at 2026-05-15 14:14:22</h3>
 
 📊 **Total jobs in this batch: 9**
@@ -189,8 +280,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-15-12-52-10'>🕐 Batch at 2026-05-15 12:52:10</h3>
+---<h3 id='batch-2026-05-15-12-52-10'>🕐 Batch at 2026-05-15 12:52:10</h3>
 
 📊 **Total jobs in this batch: 17**
 
