@@ -4,7 +4,38 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-17 06:34:51](#batch-2026-05-17-06-34-51)
 - [Batch at 2026-05-17 00:41:36](#batch-2026-05-17-00-41-36)
+
+<h3 id='batch-2026-05-17-06-34-51'>🕐 Batch at 2026-05-17 06:34:51</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Val-D'Or, QC</td>
+      <td>Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Val-DOr-QC/Prpos-au-traitement-des-commandes-OMNI_R-2513065'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-17-00-41-36'>🕐 Batch at 2026-05-17 00:41:36</h3>
 
@@ -35,4 +66,3 @@
 <table>
 
 ---
-
