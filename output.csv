@@ -1,6 +1,2 @@
-company,title,location,postedOn,link
-Intel Corporation,DTCO Data Engineer,"US, Texas, Austin",Posted Today,https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/DTCO-Data-Engineer_JR0284161-1
-Walmart,(CAN) Préposé au traitement des commandes OMNI,(CAN) QC VILLE DE QUEBEC 01201 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-01201-WM-SUPERCENTER/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2512341
-Walmart,(CAN) Préposé au traitement des commandes OMNI,(CAN) QC VILLE DE QUEBEC 01201 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-01201-WM-SUPERCENTER/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2512345
-Walmart,(USA) Coach/Ops Mgr Trainee,"Hernando, MS",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Hernando-MS/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2510305
-Walmart,(USA) Coach/Ops Mgr Trainee,(USA) TN FRANKLIN 00272 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TN-FRANKLIN-00272-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2512233
+company,title,location,link,postedOn,updatedOn
+PlayStation Global,Data Center Operations Engineer II ,"United States, Manassas, VA",https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5842555004,2026-05-17T03:28:00-04:00,2026-05-17T03:32:41-04:00
