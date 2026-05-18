@@ -4,9 +4,219 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-18 12:03:01](#batch-2026-05-18-12-03-01)
 - [Batch at 2026-05-18 09:36:41](#batch-2026-05-18-09-36-41)
 - [Batch at 2026-05-18 05:43:42](#batch-2026-05-18-05-43-42)
 - [Batch at 2026-05-18 01:54:45](#batch-2026-05-18-01-54-45)
+
+<h3 id='batch-2026-05-18-12-03-01'>🕐 Batch at 2026-05-18 12:03:01</h3>
+
+📊 **Total jobs in this batch: 25**
+
+**Per company:**
+- Anduril Industries: 1 job
+- BAH: 1 job
+- Citi: 2 jobs
+- GE Healthcare: 1 job
+- Gemini: 1 job
+- Natera : 1 job
+- Penn Mutual: 1 job
+- Pinterest: 2 jobs
+- Scoutm Otors: 1 job
+- The Toro: 1 job
+- Waymo: 3 jobs
+- Walmart: 10 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Software Engineer, Discovery</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/4975955007?gh_jid=4975955007'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dahlgren, VA</td>
+      <td>Software Developer, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dahlgren-VA/Software-Developer--Junior_R0240338'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Irving Texas United States</td>
+      <td>Apps Dev Intmd Programmer Analyst - Irving (Hybrid)</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Apps-Dev-Intmd-Programmer-Analyst---Irving--Hybrid-_26964195'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex Analista KYC AML de cumplimiento</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-KYC-AML-de-cumplimiento_26961950'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>GE Healthcare</b></td>
+      <td>WA07-01-Bellevue-1100-112th Avenue NE</td>
+      <td>AI Scientist</td>
+      <td><a href='https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/WA07-01-Bellevue-1100-112th-Avenue-NE/AI-Scientist_R4025439'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Gemini</b></td>
+      <td>New York, New York</td>
+      <td>Office Services Intern (Summer 2026)</td>
+      <td><a href='https://boards.greenhouse.io/embed/job_app?for=gemini&token=7921816&gh_jid=7921816'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Clinical Data Review Asst - Temp</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/5991114004'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Penn Mutual</b></td>
+      <td>Remote - United States</td>
+      <td>Financial Management Co-op</td>
+      <td><a href='https://pennmutual.wd1.myworkdayjobs.com/en-US/_penn-careers/job/Remote---United-States/Financial-Management-Co-op_R-100595'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pinterest</b></td>
+      <td>San Francisco, CA, US; Remote, US</td>
+      <td>Data Scientist II, Experimentation</td>
+      <td><a href='https://www.pinterestcareers.com/jobs/?gh_jid=7896291'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Pinterest</b></td>
+      <td>San Francisco, CA, US; Remote, US</td>
+      <td>Data Scientist II, Infrastructure</td>
+      <td><a href='https://www.pinterestcareers.com/jobs/?gh_jid=7816424'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Scoutm Otors</b></td>
+      <td>Blythewood, South Carolina, United States</td>
+      <td>Analyst, Process Engineer - Paint Shop</td>
+      <td><a href='https://job-boards.greenhouse.io/scoutmotors/jobs/5135062007'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Orrville, OH</td>
+      <td>Paint Line - Ventrac</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Orrville-OH/Paint-Line---Ventrac_JR16180'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>San Francisco, CA; Mountain  View, CA</td>
+      <td>Software Engineer, Fleet Monitoring</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7939542'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA; San Francisco, CA, USA</td>
+      <td>Software Engineer, Logs Infrastructure</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7901924'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>San Francisco, CA; Mountain View, CA</td>
+      <td>Software Engineer Weather Monitoring</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7939376'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>(USA) Software Engineer II</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Software-Engineer-II_R-2427160-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Service Building CA SUNNYVALE Home Office</td>
+      <td>Software Engineer III - Mobile</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III---Mobile_R-2484558-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Software-Engineer-III_R-2425828-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) GA SAVANNAH 00605 WM SUPERCENTER</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-GA-SAVANNAH-00605-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2511930'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) AZ PHOENIX 04232 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-AZ-PHOENIX-04232-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2513185-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Hula Building Bentonville AR Home Office</td>
+      <td>Associate Merchant - Spray Paint & Interior Stains</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Hula-Building-Bentonville-AR-Home-Office/Associate-Merchant---Spray-Paint---Interior-Stains_R-2512243'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) VA ALEXANDRIA 05753 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-VA-ALEXANDRIA-05753-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2511712'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) VA ALEXANDRIA 02258 WAL-MART</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-VA-ALEXANDRIA-02258-WAL-MART/Pharmacy-Pre-Grad-Intern---WM_R-2511721'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) OK BROKEN ARROW 04655 NEIGHBORHOOD MARKET</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OK-BROKEN-ARROW-04655-NEIGHBORHOOD-MARKET/Pharmacy-Pre-Grad-Intern---WM_R-2513595'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) FL JACKSONVILLE 01083 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-FL-JACKSONVILLE-01083-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2513496-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-18-09-36-41'>🕐 Batch at 2026-05-18 09:36:41</h3>
 
@@ -220,7 +430,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-18-05-43-42'>🕐 Batch at 2026-05-18 05:43:42</h3>
 
 📊 **Total jobs in this batch: 3**
@@ -263,8 +472,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-18-01-54-45'>🕐 Batch at 2026-05-18 01:54:45</h3>
+---<h3 id='batch-2026-05-18-01-54-45'>🕐 Batch at 2026-05-18 01:54:45</h3>
 
 📊 **Total jobs in this batch: 2**
 
