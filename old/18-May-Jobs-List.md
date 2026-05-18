@@ -4,10 +4,140 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-18 13:35:50](#batch-2026-05-18-13-35-50)
 - [Batch at 2026-05-18 12:03:01](#batch-2026-05-18-12-03-01)
 - [Batch at 2026-05-18 09:36:41](#batch-2026-05-18-09-36-41)
 - [Batch at 2026-05-18 05:43:42](#batch-2026-05-18-05-43-42)
-- [Batch at 2026-05-18 01:54:45](#batch-2026-05-18-01-54-45)
+
+<h3 id='batch-2026-05-18-13-35-50'>🕐 Batch at 2026-05-18 13:35:50</h3>
+
+📊 **Total jobs in this batch: 14**
+
+**Per company:**
+- Allstate: 1 job
+- BAH: 3 jobs
+- Citi: 1 job
+- Jump Trading: 1 job
+- Samsara: 1 job
+- Scale AI: 1 job
+- searchLFN: 1 job
+- The Walt Disney Company: 1 job
+- Voya: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>TX - Fort Worth</td>
+      <td>Property Adjuster - Inside (Trainee) - Hybrid - Dallas Fort Worth, TX</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/TX---Fort-Worth/Property-Adjuster---Inside--Trainee----Hybrid---Dallas-Fort-Worth--TX_R28995'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>MacDill AFB, FL</td>
+      <td>Cloud Computing Application Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/MacDill-AFB-FL/Cloud-Computing-Application-Architect_R0240403'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer_R0239313'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Diego, CA</td>
+      <td>Cross Domain Solution Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Cross-Domain-Solution-Engineer_R0240393'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Getzville New York United States</td>
+      <td>Transaction Capture Associate Analyst Middle Office Hybrid</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Transaction-Capture-Associate-Analyst-Middle-Office-Hybrid_26962238'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Jump Trading</b></td>
+      <td>Chicago, New York</td>
+      <td>AI Infrastructure Engineer</td>
+      <td><a href='https://www.jumptrading.com/hr/job?gh_jid=7926586'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Samsara</b></td>
+      <td>Remote - US</td>
+      <td>AI / Computer Vision (IC)</td>
+      <td><a href='https://www.samsara.com/company/careers/roles/7266629?gh_jid=7266629'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Scale AI</b></td>
+      <td>San Francisco, CA; New York, NY</td>
+      <td>Research Scientist, Safety Post Training</td>
+      <td><a href='https://job-boards.greenhouse.io/scaleai/jobs/4696595005'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>searchLFN</b></td>
+      <td>Ramsey, MN</td>
+      <td>Materials Handler III - 2nd Shift ATO</td>
+      <td><a href='https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Ramsey-MN/Materials-Handler-III---2nd-Shift-ATO_JR-024983'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>New York, NY, USA</td>
+      <td>Data Engineer II</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Data-Engineer-II_10150383-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Voya</b></td>
+      <td>Hartford, CT</td>
+      <td>Data Scientist</td>
+      <td><a href='https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Hartford-CT/Data-Scientist_JR0032692'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Fort Wayne, IN</td>
+      <td>(USA) Material Handler, Manufacturing-Award-(06:30am-7:00pm Sat-Mon)$23.00/hr.</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Fort-Wayne-IN/XMLNAME--USA--Material-Handler--Manufacturing-Award--06-30am-7-00pm-Sat-Mon--2300-hr_R-2514141'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) FL LYNN HAVEN 01032 WM SUPERCENTER</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-FL-LYNN-HAVEN-01032-WM-SUPERCENTER/Front-End-Coach_R-2513892-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) PA CLARION 02540 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-PA-CLARION-02540-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2513929-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-18-12-03-01'>🕐 Batch at 2026-05-18 12:03:01</h3>
 
@@ -217,7 +347,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-18-09-36-41'>🕐 Batch at 2026-05-18 09:36:41</h3>
 
 📊 **Total jobs in this batch: 25**
@@ -429,8 +558,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-18-05-43-42'>🕐 Batch at 2026-05-18 05:43:42</h3>
+---<h3 id='batch-2026-05-18-05-43-42'>🕐 Batch at 2026-05-18 05:43:42</h3>
 
 📊 **Total jobs in this batch: 3**
 
