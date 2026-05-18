@@ -4,7 +4,52 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-18 05:43:42](#batch-2026-05-18-05-43-42)
 - [Batch at 2026-05-18 01:54:45](#batch-2026-05-18-01-54-45)
+
+<h3 id='batch-2026-05-18-05-43-42'>🕐 Batch at 2026-05-18 05:43:42</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Wyetech LLC: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 2</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/0946fdef-cd3b-450d-8823-0db433b89e3c'>Apply</a></td>
+      <td>2026-05-18 09:55:28</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 2</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/7a13b433-d925-40b3-a546-eed6868d3a26'>Apply</a></td>
+      <td>2026-05-18 10:01:33</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 2</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/7c262f96-cdde-4b67-8e7f-e4eaed588a6c'>Apply</a></td>
+      <td>2026-05-18 09:49:55</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-18-01-54-45'>🕐 Batch at 2026-05-18 01:54:45</h3>
 
@@ -43,4 +88,3 @@
 <table>
 
 ---
-
