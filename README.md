@@ -4,10 +4,124 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-18 15:14:29](#batch-2026-05-18-15-14-29)
 - [Batch at 2026-05-18 13:35:50](#batch-2026-05-18-13-35-50)
 - [Batch at 2026-05-18 12:03:01](#batch-2026-05-18-12-03-01)
 - [Batch at 2026-05-18 09:36:41](#batch-2026-05-18-09-36-41)
-- [Batch at 2026-05-18 05:43:42](#batch-2026-05-18-05-43-42)
+
+<h3 id='batch-2026-05-18-15-14-29'>🕐 Batch at 2026-05-18 15:14:29</h3>
+
+📊 **Total jobs in this batch: 12**
+
+**Per company:**
+- Addepar: 1 job
+- ALTEN Technology USA: 1 job
+- Motorola Solutions, Inc: 2 jobs
+- Databricks: 2 jobs
+- genpt: 2 jobs
+- MOOG: 1 job
+- One: 1 job
+- Zoom: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Addepar</b></td>
+      <td>New York, NY</td>
+      <td>Backend Software Engineer - Calculation Engines</td>
+      <td><a href='https://job-boards.greenhouse.io/addepar1/jobs/8552200002'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Palo Alto, California, United States</td>
+      <td>Fullstack Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5140758007'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Illinois, US Offsite, More...</td>
+      <td>Solution Architect - Emergency Call Handling</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Illinois-US-Offsite/Solution-Architect---Emergency-Call-Handling_R64047'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Illinois, US Offsite, More...</td>
+      <td>Federal Solution Architect - Emergency Call Handling</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Illinois-US-Offsite/Federal-Solution-Architect---Emergency-Call-Handling_R64302'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Databricks</b></td>
+      <td>United States</td>
+      <td>Specialist Solutions Architect - AI/ML</td>
+      <td><a href='https://databricks.com/company/careers/open-positions/job?gh_jid=8544533002'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Databricks</b></td>
+      <td>United States</td>
+      <td>Specialist Solutions Architect - Data Warehouse</td>
+      <td><a href='https://databricks.com/company/careers/open-positions/job?gh_jid=8555703002'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Louisville, KY, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Louisville-KY-USA/Material-Handler-I_R26_0000016390'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Salt Lake City, UT, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Salt-Lake-City-UT-USA/Material-Handler-I_R26_0000016389'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Engineering_R-26-16991'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>One</b></td>
+      <td>United States (Remote)</td>
+      <td>Forward Deployed Engineer (AI and Automation)</td>
+      <td><a href='https://jobs.ashbyhq.com/oneapp/a85bb5aa-9683-4d67-84e5-5d3e4bacda59'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zoom</b></td>
+      <td>San Jose (CA)</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/Software-Development-Engineer_R19180'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>Zoom</b></td>
+      <td>San Jose (CA)</td>
+      <td>Software Engineer</td>
+      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/Software-Engineer_R19178'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-18-13-35-50'>🕐 Batch at 2026-05-18 13:35:50</h3>
 
@@ -138,7 +252,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-18-12-03-01'>🕐 Batch at 2026-05-18 12:03:01</h3>
 
 📊 **Total jobs in this batch: 25**
@@ -346,8 +459,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-18-09-36-41'>🕐 Batch at 2026-05-18 09:36:41</h3>
+---<h3 id='batch-2026-05-18-09-36-41'>🕐 Batch at 2026-05-18 09:36:41</h3>
 
 📊 **Total jobs in this batch: 25**
 
