@@ -4,7 +4,53 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-19 05:51:16](#batch-2026-05-19-05-51-16)
 - [Batch at 2026-05-19 03:00:47](#batch-2026-05-19-03-00-47)
+
+<h3 id='batch-2026-05-19-05-51-16'>🕐 Batch at 2026-05-19 05:51:16</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- State Street: 2 jobs
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Boston, Massachusetts</td>
+      <td>Database Administrator-Application, Infrastructure & Service Management</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Database-Administrator-Application--Infrastructure---Service-Management_R-790804'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Boston, Massachusetts</td>
+      <td>Software Engineering & Development</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Software-Engineering---Development_R-790800'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Software-Engineer-III_R-2442801'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-19-03-00-47'>🕐 Batch at 2026-05-19 03:00:47</h3>
 
@@ -51,4 +97,3 @@
 <table>
 
 ---
-
