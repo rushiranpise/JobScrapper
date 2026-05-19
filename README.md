@@ -4,10 +4,177 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-19 14:31:00](#batch-2026-05-19-14-31-00)
 - [Batch at 2026-05-19 12:12:47](#batch-2026-05-19-12-12-47)
 - [Batch at 2026-05-19 09:32:23](#batch-2026-05-19-09-32-23)
 - [Batch at 2026-05-19 05:51:16](#batch-2026-05-19-05-51-16)
-- [Batch at 2026-05-19 03:00:47](#batch-2026-05-19-03-00-47)
+
+<h3 id='batch-2026-05-19-14-31-00'>🕐 Batch at 2026-05-19 14:31:00</h3>
+
+📊 **Total jobs in this batch: 19**
+
+**Per company:**
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- Allstate: 1 job
+- Applied Materials: 1 job
+- BAH: 6 jobs
+- careers: 1 job
+- Comcast : 1 job
+- Datamaxis: 1 job
+- Morgan Stanley: 1 job
+- Salesforce: 1 job
+- spacex: 1 job
+- Waymo: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Kiowa County</td>
+      <td>Seasonal Desk Clerk - Quartz Mountain State Park Lodge</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Kiowa-County/Seasonal-Desk-Clerk---Quartz-Mountain-State-Park-Lodge_JR60253-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - NY (Remote)</td>
+      <td>Field Auto Appraiser - Brooklyn, NY</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---NY-Remote/Field-Auto-Appraiser---Brooklyn--NY_R30528'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>2026 New College Grad - Computational Chemist / Materials Scientist (Machine Learning – Reactive MLIPs) - Doctorate Degree</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Computational-Physicist---Fluid-Thermal-Modeling--AI-ML-New-College-Grad---Doctorate-Degree--Santa-Clara--Ca-_R2612849'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Product Engineering Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Product-Engineering-Intern_R0240660'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Belvoir, VA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Data-Engineer_R0240530'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Engineer_R0240538'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>O'Fallon, IL</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/OFallon-IL/Data-Engineer_R0240529'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Open-Source Research Analyst, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0240526'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Annapolis Junction, MD</td>
+      <td>Software Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Software-Developer_R0240465'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>careers</b></td>
+      <td>Paeonian Springs, VA USA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Paeonian-Springs-VA-USA/Software-Engineer_260004273-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1701 John F Kennedy Blvd</td>
+      <td>Comcast Content & Partnerships Intern</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Content---Partnerships-Intern_R437422'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Datamaxis</b></td>
+      <td>Farmington Hills, MI</td>
+      <td>Software Developer</td>
+      <td><a href='https://datamaxis.breezy.hr/p/deeb3bfe4f65-software-developer'>Apply</a></td>
+      <td>May 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>Houston, Texas, United States of America</td>
+      <td>Graduate Petroleum Engineer – Houston, Texas</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/Houston-Texas-United-States-of-America/Graduate-Petroleum-Engineer---Houston--Texas_JR037513-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Washington - Bellevue</td>
+      <td>Software Engineering PMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-PMTS_JR342570'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer (Components)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8557032002?gh_jid=8557032002'>Apply</a></td>
+      <td>May 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA; San Francisco, CA, USA</td>
+      <td>Software Engineer, ML Inference, Simulation Infrastructure</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7353876'>Apply</a></td>
+      <td>Nov 03, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) GA WARNER ROBINS 00840 NEIGHBORHOOD MARKET</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-GA-WARNER-ROBINS-00840-NEIGHBORHOOD-MARKET/Pharmacy-Grad-Intern--Hrly-_R-2514181'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) KY WILLIAMSBURG 01048 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-KY-WILLIAMSBURG-01048-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2513864'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MI SANDUSKY 03632 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MI-SANDUSKY-03632-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2514352'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-19-12-12-47'>🕐 Batch at 2026-05-19 12:12:47</h3>
 
@@ -191,7 +358,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-19-09-32-23'>🕐 Batch at 2026-05-19 09:32:23</h3>
 
 📊 **Total jobs in this batch: 21**
@@ -373,8 +539,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-19-05-51-16'>🕐 Batch at 2026-05-19 05:51:16</h3>
+---<h3 id='batch-2026-05-19-05-51-16'>🕐 Batch at 2026-05-19 05:51:16</h3>
 
 📊 **Total jobs in this batch: 3**
 
