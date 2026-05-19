@@ -4,10 +4,72 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-19 16:14:01](#batch-2026-05-19-16-14-01)
 - [Batch at 2026-05-19 14:31:00](#batch-2026-05-19-14-31-00)
 - [Batch at 2026-05-19 12:12:47](#batch-2026-05-19-12-12-47)
 - [Batch at 2026-05-19 09:32:23](#batch-2026-05-19-09-32-23)
-- [Batch at 2026-05-19 05:51:16](#batch-2026-05-19-05-51-16)
+
+<h3 id='batch-2026-05-19-16-14-01'>🕐 Batch at 2026-05-19 16:14:01</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- BAH: 1 job
+- Chime: 1 job
+- Nextdoor: 1 job
+- NVIDIA: 1 job
+- Waymo: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Data-Scientist_R0240352'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Chime</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Software Engineer, Lending</td>
+      <td><a href='https://boards.greenhouse.io/chime/jobs/8535338002?gh_jid=8535338002'>Apply</a></td>
+      <td>May 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Nextdoor</b></td>
+      <td>US Remote</td>
+      <td>Data Scientist - Search</td>
+      <td><a href='https://about.nextdoor.com/careers-list/?gh_jid=7944202'>Apply</a></td>
+      <td>May 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Remote</td>
+      <td>Quantum Research Scientist Intern - Fall 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, United States; San Francisco, CA, United States</td>
+      <td>Software Engineer, Fleet Orchestration Core</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7901957'>Apply</a></td>
+      <td>May 19, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-19-14-31-00'>🕐 Batch at 2026-05-19 14:31:00</h3>
 
@@ -175,7 +237,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-19-12-12-47'>🕐 Batch at 2026-05-19 12:12:47</h3>
 
 📊 **Total jobs in this batch: 21**
@@ -357,8 +418,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-19-09-32-23'>🕐 Batch at 2026-05-19 09:32:23</h3>
+---<h3 id='batch-2026-05-19-09-32-23'>🕐 Batch at 2026-05-19 09:32:23</h3>
 
 📊 **Total jobs in this batch: 21**
 
