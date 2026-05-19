@@ -4,10 +4,77 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-18 22:12:56](#batch-2026-05-18-22-12-56)
 - [Batch at 2026-05-18 17:20:21](#batch-2026-05-18-17-20-21)
 - [Batch at 2026-05-18 15:14:29](#batch-2026-05-18-15-14-29)
 - [Batch at 2026-05-18 13:35:50](#batch-2026-05-18-13-35-50)
-- [Batch at 2026-05-18 12:03:01](#batch-2026-05-18-12-03-01)
+
+<h3 id='batch-2026-05-18-22-12-56'>🕐 Batch at 2026-05-18 22:12:56</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- NVIDIA: 1 job
+- PlusAI: 4 jobs
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Quantum Research Scientist Intern - Fall 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlusAI</b></td>
+      <td>Santa Clara, CA</td>
+      <td>Machine Learning Engineer Intern</td>
+      <td><a href='https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40'>Apply</a></td>
+      <td>2026-05-15 02:14:03</td>
+    </tr>
+    <tr>
+      <td><b>PlusAI</b></td>
+      <td>Santa Clara, CA</td>
+      <td>Simulation Engineer Intern</td>
+      <td><a href='https://jobs.lever.co/plus-2/a58986e8-c9a0-4ca3-a8f1-6abec1e88464'>Apply</a></td>
+      <td>2026-05-15 02:28:20</td>
+    </tr>
+    <tr>
+      <td><b>PlusAI</b></td>
+      <td>Santa Clara, CA</td>
+      <td>Software Engineer Intern - Data</td>
+      <td><a href='https://jobs.lever.co/plus-2/012a2134-8a6a-4982-8f25-f906178a24e4'>Apply</a></td>
+      <td>2026-05-15 02:02:15</td>
+    </tr>
+    <tr>
+      <td><b>PlusAI</b></td>
+      <td>Santa Clara, CA</td>
+      <td>Software Engineer Intern - Data Infrastructure and Tools</td>
+      <td><a href='https://jobs.lever.co/plus-2/06b808df-85a1-4ddd-863c-3e1cbe61eda9'>Apply</a></td>
+      <td>2026-05-15 01:51:57</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN TN CHENNAI Home Office Capita Land</td>
+      <td>SOFTWARE ENGINEER III - IOS</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/SOFTWARE-ENGINEER-III---IOS_R-2455371'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-18-17-20-21'>🕐 Batch at 2026-05-18 17:20:21</h3>
 
@@ -129,7 +196,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-18-15-14-29'>🕐 Batch at 2026-05-18 15:14:29</h3>
 
 📊 **Total jobs in this batch: 12**
@@ -242,8 +308,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-18-13-35-50'>🕐 Batch at 2026-05-18 13:35:50</h3>
+---<h3 id='batch-2026-05-18-13-35-50'>🕐 Batch at 2026-05-18 13:35:50</h3>
 
 📊 **Total jobs in this batch: 14**
 
