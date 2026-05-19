@@ -4,10 +4,131 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-18 17:20:21](#batch-2026-05-18-17-20-21)
 - [Batch at 2026-05-18 15:14:29](#batch-2026-05-18-15-14-29)
 - [Batch at 2026-05-18 13:35:50](#batch-2026-05-18-13-35-50)
 - [Batch at 2026-05-18 12:03:01](#batch-2026-05-18-12-03-01)
-- [Batch at 2026-05-18 09:36:41](#batch-2026-05-18-09-36-41)
+
+<h3 id='batch-2026-05-18-17-20-21'>🕐 Batch at 2026-05-18 17:20:21</h3>
+
+📊 **Total jobs in this batch: 13**
+
+**Per company:**
+- Applied Materials: 1 job
+- Anduril Industries: 4 jobs
+- Esri: 2 jobs
+- genpt: 2 jobs
+- IXL Learning: 1 job
+- PlusAI: 1 job
+- SoFi: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Process Engineer New College Grad - Masters Degree (Santa Clara, Ca)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Process-Engineer-New-College-Grad---Masters-Degree--Santa-Clara--Ca-_R2619067'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Boston, Massachusetts, United States</td>
+      <td>Software Engineer </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5140974007?gh_jid=5140974007'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Atlanta, Georgia, United States</td>
+      <td>Software Engineer </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5140969007?gh_jid=5140969007'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Software Engineer </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5046465007?gh_jid=5046465007'>Apply</a></td>
+      <td>Feb 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Seattle, Washington, United States</td>
+      <td>Software Engineer </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5140975007?gh_jid=5140975007'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Application Developer – Game Engine/XR</td>
+      <td><a href='https://www.esri.com/careers/5133530007?gh_jid=5133530007'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Material Handler</td>
+      <td><a href='https://www.esri.com/careers/5140921007?gh_jid=5140921007'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Latham, NY, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Latham-NY-USA/Material-Handler-I_R26_0000016393'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Louisville, KY, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Louisville-KY-USA/Material-Handler-I_R26_0000016391'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>IXL Learning</b></td>
+      <td>San Mateo, CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://www.ixl.com/company/jobs?gh_jid=8542254002'>Apply</a></td>
+      <td>May 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>PlusAI</b></td>
+      <td>Santa Clara, CA</td>
+      <td>Machine Learning Infrastructure Engineer Intern</td>
+      <td><a href='https://jobs.lever.co/plus-2/30dd9b9b-48c8-4777-97f6-8edb30db12e4'>Apply</a></td>
+      <td>2026-05-15 02:23:09</td>
+    </tr>
+    <tr>
+      <td><b>SoFi</b></td>
+      <td>Charlotte, North Carolina</td>
+      <td>Post Closing Specialist (Servicing Boarding & Trailing Docs Focus)</td>
+      <td><a href='https://sofi.com/careers/job/7702238003?gh_jid=7702238003'>Apply</a></td>
+      <td>Apr 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>La Pocatiere, QC</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/La-Pocatiere-QC/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2514407'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-18-15-14-29'>🕐 Batch at 2026-05-18 15:14:29</h3>
 
@@ -122,7 +243,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-18-13-35-50'>🕐 Batch at 2026-05-18 13:35:50</h3>
 
 📊 **Total jobs in this batch: 14**
@@ -251,8 +371,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-18-12-03-01'>🕐 Batch at 2026-05-18 12:03:01</h3>
+---<h3 id='batch-2026-05-18-12-03-01'>🕐 Batch at 2026-05-18 12:03:01</h3>
 
 📊 **Total jobs in this batch: 25**
 

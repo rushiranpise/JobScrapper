@@ -1,20 +1,20 @@
 
-✅ Scraped 12 new jobs. Output saved to 'output.csv'.
-📦 Appended 12 jobs to 'output_old.csv'
+✅ Scraped 13 new jobs. Output saved to 'output.csv'.
+📦 Appended 13 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"Addepar","title":"Backend Software Engineer - Calculation Engines","location":"New York, NY","link":"https:\/\/job-boards.greenhouse.io\/addepar1\/jobs\/8552200002","postedOn":"2026-05-18T17:18:24-04:00","updatedOn":"2026-05-18T17:18:24-04:00"},{"company":"ALTEN Technology USA","title":"Fullstack Engineer","location":"Palo Alto, California, United States","link":"https:\/\/job-boards.greenhouse.io\/altentechnologyusa\/jobs\/5140758007","postedOn":"2026-05-18T17:08:44-04:00","updatedOn":"2026-05-18T17:08:44-04:00"},{"company":"Motorola Solutions, Inc","title":"Solution Architect - Emergency Call Handling","location":"Illinois, US Offsite, More...","link":"https:\/\/motorolasolutions.wd5.myworkdayjobs.com\/en-US\/Careers\/job\/Illinois-US-Offsite\/Solution-Architect---Emergency-Call-Handling_R64047","postedOn":"Posted Today","updatedOn":null},{"company":"Motorola Solutions, Inc","title":"Federal Solution Architect - Emergency Call Handling","location":"Illinois, US Offsite, More...","link":"https:\/\/motorolasolutions.wd5.myworkdayjobs.com\/en-US\/Careers\/job\/Illinois-US-Offsite\/Federal-Solution-Architect---Emergency-Call-Handling_R64302","postedOn":"Posted Today","updatedOn":null},{"company":"Databricks","title":"Specialist Solutions Architect - AI\/ML","location":"United States","link":"https:\/\/databricks.com\/company\/careers\/open-positions\/job?gh_jid=8544533002","postedOn":"2026-05-18T17:57:18-04:00","updatedOn":"2026-05-18T17:57:18-04:00"},{"company":"Databricks","title":"Specialist Solutions Architect - Data Warehouse","location":"United States","link":"https:\/\/databricks.com\/company\/careers\/open-positions\/job?gh_jid=8555703002","postedOn":"2026-05-18T18:06:30-04:00","updatedOn":"2026-05-18T18:06:30-04:00"},{"company":"genpt","title":"Material Handler I","location":"Louisville, KY, USA","link":"https:\/\/genpt.wd1.myworkdayjobs.com\/en-US\/Careers\/job\/Louisville-KY-USA\/Material-Handler-I_R26_0000016390","postedOn":"Posted Today","updatedOn":null},{"company":"genpt","title":"Material Handler I","location":"Salt Lake City, UT, USA","link":"https:\/\/genpt.wd1.myworkdayjobs.com\/en-US\/Careers\/job\/Salt-Lake-City-UT-USA\/Material-Handler-I_R26_0000016389","postedOn":"Posted Today","updatedOn":null},{"company":"MOOG","title":"Intern, Engineering","location":"Buffalo, NY","link":"https:\/\/moog.wd5.myworkdayjobs.com\/en-US\/MOOG_External_Career_Site\/job\/Buffalo-NY\/Intern--Engineering_R-26-16991","postedOn":"Posted Today","updatedOn":null},{"company":"One","title":"Forward Deployed Engineer (AI and Automation)","location":"United States (Remote)","link":"https:\/\/jobs.ashbyhq.com\/oneapp\/a85bb5aa-9683-4d67-84e5-5d3e4bacda59","postedOn":"2026-05-18T21:20:11.267+00:00","updatedOn":null},{"company":"Zoom","title":"Software Development Engineer","location":"San Jose (CA)","link":"https:\/\/zoom.wd5.myworkdayjobs.com\/en-US\/Zoom\/job\/San-Jose-CA\/Software-Development-Engineer_R19180","postedOn":"","updatedOn":null},{"company":"Zoom","title":"Software Engineer","location":"San Jose (CA)","link":"https:\/\/zoom.wd5.myworkdayjobs.com\/en-US\/Zoom\/job\/San-Jose-CA\/Software-Engineer_R19178","postedOn":"","updatedOn":null}]
+[{"company":"Applied Materials","title":"Process Engineer New College Grad - Masters Degree (Santa Clara, Ca)","location":"Santa Clara,CA","link":"https:\/\/amat.wd1.myworkdayjobs.com\/en-US\/External\/job\/Santa-ClaraCA\/Process-Engineer-New-College-Grad---Masters-Degree--Santa-Clara--Ca-_R2619067","postedOn":"Posted Today","updatedOn":null},{"company":"Anduril Industries","title":"Software Engineer ","location":"Boston, Massachusetts, United States","link":"https:\/\/boards.greenhouse.io\/andurilindustries\/jobs\/5140974007?gh_jid=5140974007","postedOn":"2026-05-18T20:01:50-04:00","updatedOn":"2026-05-18T20:02:56-04:00"},{"company":"Anduril Industries","title":"Software Engineer ","location":"Atlanta, Georgia, United States","link":"https:\/\/boards.greenhouse.io\/andurilindustries\/jobs\/5140969007?gh_jid=5140969007","postedOn":"2026-05-18T19:58:16-04:00","updatedOn":"2026-05-18T20:03:33-04:00"},{"company":"Anduril Industries","title":"Software Engineer ","location":"Costa Mesa, California, United States","link":"https:\/\/boards.greenhouse.io\/andurilindustries\/jobs\/5046465007?gh_jid=5046465007","postedOn":"2026-02-08T16:05:48-05:00","updatedOn":"2026-05-18T20:04:03-04:00"},{"company":"Anduril Industries","title":"Software Engineer ","location":"Seattle, Washington, United States","link":"https:\/\/boards.greenhouse.io\/andurilindustries\/jobs\/5140975007?gh_jid=5140975007","postedOn":"2026-05-18T20:07:30-04:00","updatedOn":"2026-05-18T20:07:30-04:00"},{"company":"Esri","title":"Application Developer \u2013 Game Engine\/XR","location":"Redlands, CA","link":"https:\/\/www.esri.com\/careers\/5133530007?gh_jid=5133530007","postedOn":"2026-05-18T18:30:32-04:00","updatedOn":"2026-05-18T18:30:32-04:00"},{"company":"Esri","title":"Material Handler","location":"Redlands, CA","link":"https:\/\/www.esri.com\/careers\/5140921007?gh_jid=5140921007","postedOn":"2026-05-18T18:27:28-04:00","updatedOn":"2026-05-18T18:27:28-04:00"},{"company":"genpt","title":"Material Handler I","location":"Latham, NY, USA","link":"https:\/\/genpt.wd1.myworkdayjobs.com\/en-US\/Careers\/job\/Latham-NY-USA\/Material-Handler-I_R26_0000016393","postedOn":"Posted Today","updatedOn":null},{"company":"genpt","title":"Material Handler I","location":"Louisville, KY, USA","link":"https:\/\/genpt.wd1.myworkdayjobs.com\/en-US\/Careers\/job\/Louisville-KY-USA\/Material-Handler-I_R26_0000016391","postedOn":"Posted Today","updatedOn":null},{"company":"IXL Learning","title":"Software Engineer","location":"San Mateo, CA","link":"https:\/\/www.ixl.com\/company\/jobs?gh_jid=8542254002","postedOn":"2026-05-18T18:40:34-04:00","updatedOn":"2026-05-18T18:40:34-04:00"},{"company":"PlusAI","title":"Machine Learning Infrastructure Engineer Intern","location":"Santa Clara, CA","link":"https:\/\/jobs.lever.co\/plus-2\/30dd9b9b-48c8-4777-97f6-8edb30db12e4","postedOn":"2026-05-15 02:23:09","updatedOn":"N\/A"},{"company":"SoFi","title":"Post Closing Specialist (Servicing Boarding & Trailing Docs Focus)","location":"Charlotte, North Carolina","link":"https:\/\/sofi.com\/careers\/job\/7702238003?gh_jid=7702238003","postedOn":"2026-04-15T23:23:13-04:00","updatedOn":"2026-05-18T19:19:04-04:00"},{"company":"Walmart","title":"(CAN) Pr\u00e9pos\u00e9 au traitement des commandes OMNI","location":"La Pocatiere, QC","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/La-Pocatiere-QC\/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2514407","postedOn":"Posted Today","updatedOn":null}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
 [ERROR] Altera: Ashby API failed - HTTP 404: Not Found
-[ERROR] Ambrook: Lever API failed: https://api.lever.co/v0/postings/ambrook?mode=json - 404
 [ERROR] Amidon Heavy Industries: Ashby API failed - HTTP 404: Not Found
+[ERROR] Ambrook: Lever API failed: https://api.lever.co/v0/postings/ambrook?mode=json - 404
 [ERROR] Magna Services of America, Inc: Invalid Workday URL
 [ERROR] boomi: Greenhouse API failed: 404
 [ERROR] Canonical: Greenhouse API failed: 404
 [ERROR] Cdata: Greenhouse API failed: 404
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"B83154MPBR80LR","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"77E7D1MPBVPSV5","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Clever: Could not extract Lever company name
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
 [ERROR] Coinbase: Greenhouse API failed: 404
@@ -22,7 +22,7 @@ ERRORS_START
 [ERROR] Demandbase : Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"691C56MPBR93L6","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"0ECCCAMPBVQW84","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
 [ERROR] Funnel: Breezy API failed: 403
 [ERROR] Grammarly : Greenhouse API failed: 404
@@ -34,31 +34,36 @@ ERRORS_START
 [ERROR] Kobie: Greenhouse API failed: 404
 [ERROR] Kodiak Robotics: Lever API failed: https://api.lever.co/v0/postings/kodiak?mode=json - 404
 [ERROR] Modernizing Medicine: Greenhouse API failed: 404
-[ERROR] MOOG: Workday API failed: HTTP 520 - <!DOCTYPE html>
-[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"553CF3MPBRAQS4","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"553CF3MPBVSIX9","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Notion: Greenhouse API failed: 404
 [ERROR] Perplexity AI: Greenhouse API failed: 404
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"7F5165MPBRBESP","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"68D81FMPBVT9GY","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Raptor Maps: Lever API failed: https://api.lever.co/v0/postings/RaptorMaps?mode=json - 404
 [ERROR] Relativity Space: Greenhouse API failed: 404
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
-[ERROR] NVIDIAExternalCareerSite: Workday API failed: HTTP 500 - {"errorCode":"HTTP_500","errorCaseId":"17E10DMPBRBYOB","httpStatus":500,"message":"","messageParams":{}}
-[ERROR] NVIDIA: Workday API failed: HTTP 500 - {"errorCode":"HTTP_500","errorCaseId":"90EF48MPBRC9AS","httpStatus":500,"message":"","messageParams":{}}
 [ERROR] Skydio: Greenhouse API failed: 404
 [ERROR] Snap: Invalid Workday URL
 [ERROR] Stitch Fix : Greenhouse API failed: 404
 [ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
 [ERROR] Strong Holdim: Greenhouse API failed: 404
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"819BB3MPBRDH5Y","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"DE2B37MPBRDJUT","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"8176CAMPBVV64L","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"6E7473MPBVV8IB","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] TRM labs: Greenhouse API failed: 404
 [ERROR] Vimeo: Greenhouse API failed: 404
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"E402D1MPBRE978","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"553CF3MPBVW4T8","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] WEX: Workday API failed: HTTP 502 - <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+
 ERRORS_END
