@@ -4,10 +4,56 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-20 16:30:52](#batch-2026-05-20-16-30-52)
 - [Batch at 2026-05-20 15:07:29](#batch-2026-05-20-15-07-29)
 - [Batch at 2026-05-20 12:37:06](#batch-2026-05-20-12-37-06)
 - [Batch at 2026-05-20 10:03:40](#batch-2026-05-20-10-03-40)
-- [Batch at 2026-05-20 06:51:00](#batch-2026-05-20-06-51-00)
+
+<h3 id='batch-2026-05-20-16-30-52'>🕐 Batch at 2026-05-20 16:30:52</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Roblox: 1 job
+- Salesforce: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Broomfield, Colorado, United States; Fort Collins, Colorado, United States</td>
+      <td>Radar Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5143589007?gh_jid=5143589007'>Apply</a></td>
+      <td>May 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>San Mateo, CA, United States</td>
+      <td>Software Engineer, Core Services</td>
+      <td><a href='https://careers.roblox.com/jobs/7943533?gh_jid=7943533'>Apply</a></td>
+      <td>May 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Software Engineering LMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-LMTS_JR343226'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-20-15-07-29'>🕐 Batch at 2026-05-20 15:07:29</h3>
 
@@ -160,7 +206,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-20-12-37-06'>🕐 Batch at 2026-05-20 12:37:06</h3>
 
 📊 **Total jobs in this batch: 17**
@@ -312,8 +357,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-20-10-03-40'>🕐 Batch at 2026-05-20 10:03:40</h3>
+---<h3 id='batch-2026-05-20-10-03-40'>🕐 Batch at 2026-05-20 10:03:40</h3>
 
 📊 **Total jobs in this batch: 41**
 
