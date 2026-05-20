@@ -4,9 +4,163 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-20 12:37:06](#batch-2026-05-20-12-37-06)
 - [Batch at 2026-05-20 10:03:40](#batch-2026-05-20-10-03-40)
 - [Batch at 2026-05-20 06:51:00](#batch-2026-05-20-06-51-00)
 - [Batch at 2026-05-20 04:02:53](#batch-2026-05-20-04-02-53)
+
+<h3 id='batch-2026-05-20-12-37-06'>🕐 Batch at 2026-05-20 12:37:06</h3>
+
+📊 **Total jobs in this batch: 17**
+
+**Per company:**
+- Applied Materials: 1 job
+- BAH: 4 jobs
+- BorgWarner: 1 job
+- CMU: 1 job
+- General Motors LLC: 1 job
+- nVent: 1 job
+- NVIDIA: 1 job
+- Salesforce: 1 job
+- searchLFN: 1 job
+- spacex: 1 job
+- Twilio: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Material Handler II (O2)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Handler-II--O2-_R2619222'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>Agentic AI Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Agentic-AI-Developer_R0240718'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Atlanta, GA</td>
+      <td>Bioinformatics Training Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Bioinformatics-Training-Specialist_R0240610'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Full Stack Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Full-Stack-Software-Engineer_R0240598'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Camp Lejeune, NC</td>
+      <td>Azure Cloud Administrator</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Lejeune-NC/Azure-Cloud-Administrator_R0240587'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Arden - North Carolina - USA</td>
+      <td>Applications CAE Analyst</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/Applications-CAE-Analyst_R2026-1013'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>STEM Ambassador Intern - School of Computer Science</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/STEM-Ambassador-Intern---School-of-Computer-Science_2024538'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Calibration Engineer – Low Voltage Infrastructure</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Calibration-Engineer---Low-Voltage-Infrastructure_JR-202610631-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Chattanooga, TN, US</td>
+      <td>Painter - Industrial</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Chattanooga-TN-US/Painter---Industrial_R21968'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, NC, Durham</td>
+      <td>System Software Engineer – Data Center GPU Compute Diagnostics</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/System-Software-Engineer---Data-Center-GPU-Compute-Diagnostics_JR2018221-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - Redwood City</td>
+      <td>Software Engineer (Backend) - MTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Redwood-City/Software-Engineer--Backend----MTS_JR342796'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>searchLFN</b></td>
+      <td>Owatonna, MN</td>
+      <td>Material Handler - 1st Shift</td>
+      <td><a href='https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Owatonna-MN/Material-Handler---1st-Shift_JR-024989'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Flight Software Engineer (Starlink Mobile)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8556909002?gh_jid=8556909002'>Apply</a></td>
+      <td>May 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Twilio</b></td>
+      <td>Remote - US</td>
+      <td>Software Engineer (L3)</td>
+      <td><a href='https://job-boards.greenhouse.io/twilio/jobs/7926883'>Apply</a></td>
+      <td>May 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) PA WOODLAND 06727 MAINTENANCE TRUCKING</td>
+      <td>(USA) Service Shop Entry Technician - Woodland, PA</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-PA-WOODLAND-06727-MAINTENANCE-TRUCKING/XMLNAME--USA--Service-Shop-Entry-Technician---Woodland--PA_R-2516337'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 03074 WM SUPERCENTER</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-03074-WM-SUPERCENTER/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2515952'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>(USA) Data Scientist III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Data-Scientist-III_R-2380494'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-20-10-03-40'>🕐 Batch at 2026-05-20 10:03:40</h3>
 
@@ -330,7 +484,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-20-06-51-00'>🕐 Batch at 2026-05-20 06:51:00</h3>
 
 📊 **Total jobs in this batch: 6**
@@ -399,8 +552,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-20-04-02-53'>🕐 Batch at 2026-05-20 04:02:53</h3>
+---<h3 id='batch-2026-05-20-04-02-53'>🕐 Batch at 2026-05-20 04:02:53</h3>
 
 📊 **Total jobs in this batch: 4**
 
