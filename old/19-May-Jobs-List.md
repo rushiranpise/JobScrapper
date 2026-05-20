@@ -4,10 +4,93 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-19 21:03:21](#batch-2026-05-19-21-03-21)
 - [Batch at 2026-05-19 16:14:01](#batch-2026-05-19-16-14-01)
 - [Batch at 2026-05-19 14:31:00](#batch-2026-05-19-14-31-00)
 - [Batch at 2026-05-19 12:12:47](#batch-2026-05-19-12-12-47)
-- [Batch at 2026-05-19 09:32:23](#batch-2026-05-19-09-32-23)
+
+<h3 id='batch-2026-05-19-21-03-21'>🕐 Batch at 2026-05-19 21:03:21</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- Applied Materials: 1 job
+- BAH: 2 jobs
+- GE Healthcare: 1 job
+- Kaseya: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Albany,NY</td>
+      <td>Albany, NY Global Technical Learning Center Technical Trainer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AlbanyNY/Albany--NY-Global-Technical-Learning-Center-Technical-Trainer_R2618888'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>University - Financial Analyst Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Financial-Analyst-Intern_R0240664'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>University - Financial Analyst Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Financial-Analyst-Intern_R0228523'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>GE Healthcare</b></td>
+      <td>AUS11-01-Brisbane-520 Wickham St</td>
+      <td>Graduate Services Trainee</td>
+      <td><a href='https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/AUS11-01-Brisbane-520-Wickham-St/Graduate-Services-Trainee_R4041089-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Kaseya</b></td>
+      <td>Miami, FL</td>
+      <td>AI Innovation Analyst - Internal</td>
+      <td><a href='https://www.kaseya.com/careers/jobs/id/5989100004/?gh_jid=5989100004'>Apply</a></td>
+      <td>May 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Sam's Home Office AR Bentonville Home Office</td>
+      <td>(USA) Data Scientist III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Sams-Home-Office-AR-Bentonville-Home-Office/XMLNAME--USA--Data-Scientist-III_R-2511797'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Brawley, CA</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Brawley-CA/XMLNAME--USA--Front-End-Coach_R-2515430-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Pampa, TX</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Pampa-TX/Front-End-Coach_R-2514040-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-19-16-14-01'>🕐 Batch at 2026-05-19 16:14:01</h3>
 
@@ -70,7 +153,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-19-14-31-00'>🕐 Batch at 2026-05-19 14:31:00</h3>
 
 📊 **Total jobs in this batch: 19**
@@ -236,8 +318,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-19-12-12-47'>🕐 Batch at 2026-05-19 12:12:47</h3>
+---<h3 id='batch-2026-05-19-12-12-47'>🕐 Batch at 2026-05-19 12:12:47</h3>
 
 📊 **Total jobs in this batch: 21**
 
