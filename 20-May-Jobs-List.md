@@ -4,10 +4,162 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-20 15:07:29](#batch-2026-05-20-15-07-29)
 - [Batch at 2026-05-20 12:37:06](#batch-2026-05-20-12-37-06)
 - [Batch at 2026-05-20 10:03:40](#batch-2026-05-20-10-03-40)
 - [Batch at 2026-05-20 06:51:00](#batch-2026-05-20-06-51-00)
-- [Batch at 2026-05-20 04:02:53](#batch-2026-05-20-04-02-53)
+
+<h3 id='batch-2026-05-20-15-07-29'>🕐 Batch at 2026-05-20 15:07:29</h3>
+
+📊 **Total jobs in this batch: 17**
+
+**Per company:**
+- Allstate: 3 jobs
+- BAH: 1 job
+- Citi: 1 job
+- genpt: 1 job
+- Hyanni Sportresearch: 1 job
+- LaunchDarkly : 1 job
+- Micron: 1 job
+- spacex: 3 jobs
+- Stripe: 1 job
+- Xylem Services USA LLC: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - NY (Remote)</td>
+      <td>Field Auto Appraiser - Hempstead, NY</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---NY-Remote/Field-Auto-Appraiser---Hempstead--NY_R30524'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - CT (Remote)</td>
+      <td>Field Auto Appraiser - Danbury, CT</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---CT-Remote/Field-Auto-Appraiser---Danbury--CT_R30669'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - CT (Remote)</td>
+      <td>Field Auto Appraiser - Stonington, CT</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---CT-Remote/Field-Auto-Appraiser---Stonington--CT_R30666'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Atlanta, GA</td>
+      <td>Cloud Computing Application Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Cloud-Computing-Application-Architect_R0240340'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Redlands California United States</td>
+      <td>Part-Time Teller (20 Hours), Redlands Branch</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Redlands-California-United-States/Part-Time-Teller--20-Hours---Redlands-Branch_26965280-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Dallas, TX, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Dallas-TX-USA/Material-Handler-I_R26_0000016541'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Hyanni Sportresearch</b></td>
+      <td>Needham, MA</td>
+      <td>Software Engineer I</td>
+      <td><a href='https://job-boards.greenhouse.io/hyannisportresearch/jobs/7651606003'>Apply</a></td>
+      <td>Mar 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>LaunchDarkly </b></td>
+      <td>Remote - US</td>
+      <td>Full Stack Engineer, Experimentation</td>
+      <td><a href='https://job-boards.greenhouse.io/launchdarkly/jobs/7741981003'>Apply</a></td>
+      <td>May 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>AI Full Stack Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/AI-Full-Stack-Engineer_JR102226-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Engineer (Platform Team)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8558857002?gh_jid=8558857002'>Apply</a></td>
+      <td>May 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Sunnyvale, CA</td>
+      <td>Software Engineer (Platform Team)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8558858002?gh_jid=8558858002'>Apply</a></td>
+      <td>May 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Software Engineer (Platform Team)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8558859002?gh_jid=8558859002'>Apply</a></td>
+      <td>May 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>US remote</td>
+      <td>Product Counsel, Data Products</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=7930151'>Apply</a></td>
+      <td>May 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Xylem Services USA LLC</b></td>
+      <td>Covington, Louisiana</td>
+      <td>Electrical Engineering Intern</td>
+      <td><a href='https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Covington-Louisiana/Electrical-Engineering-Intern_R48438'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) LA PLAQUEMINE 00401 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-LA-PLAQUEMINE-00401-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2516645'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) CA PALM DESERT 05096 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CA-PALM-DESERT-05096-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2516714-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 01212 WM SUPERCENTER</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-01212-WM-SUPERCENTER/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2516615'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-20-12-37-06'>🕐 Batch at 2026-05-20 12:37:06</h3>
 
@@ -161,7 +313,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-20-10-03-40'>🕐 Batch at 2026-05-20 10:03:40</h3>
 
 📊 **Total jobs in this batch: 41**
@@ -483,8 +634,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-20-06-51-00'>🕐 Batch at 2026-05-20 06:51:00</h3>
+---<h3 id='batch-2026-05-20-06-51-00'>🕐 Batch at 2026-05-20 06:51:00</h3>
 
 📊 **Total jobs in this batch: 6**
 
