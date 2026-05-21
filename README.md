@@ -4,9 +4,244 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-21 12:08:58](#batch-2026-05-21-12-08-58)
 - [Batch at 2026-05-21 09:26:22](#batch-2026-05-21-09-26-22)
 - [Batch at 2026-05-21 05:26:12](#batch-2026-05-21-05-26-12)
 - [Batch at 2026-05-21 01:42:36](#batch-2026-05-21-01-42-36)
+
+<h3 id='batch-2026-05-21-12-08-58'>🕐 Batch at 2026-05-21 12:08:58</h3>
+
+📊 **Total jobs in this batch: 28**
+
+**Per company:**
+- BAH: 4 jobs
+- Dematic Corp. (ILD-US): 1 job
+- DigiCert: 1 job
+- flir: 1 job
+- General Motors LLC: 1 job
+- Neuralink: 2 jobs
+- Nextdoor: 1 job
+- nVent: 1 job
+- Okta: 1 job
+- NVIDIA: 1 job
+- Pure storage: 1 job
+- spacex: 3 jobs
+- SRK Supplylogix LLC: 1 job
+- Stripe: 1 job
+- Truveta: 1 job
+- Walmart: 7 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Delivery Operations AI Solution Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Delivery-Operations-AI-Solution-Architect_R0240708'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Human Capital Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Human-Capital-Specialist_R0240688'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>AI and ML Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/AI-and-ML-Software-Engineer_R0240684-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Pensacola, FL</td>
+      <td>SharePoint and Web Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Pensacola-FL/SharePoint-and-Web-Developer_R0240645'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Dematic Corp. (ILD-US)</b></td>
+      <td>Grand Rapids, MI, United States</td>
+      <td>AMR Systems Engineering Intern</td>
+      <td><a href='https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Grand-Rapids-MI-United-States/AMR-Systems-Engineering-Intern_JR-0089547-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>DigiCert</b></td>
+      <td>Lehi, Utah</td>
+      <td>Associate Software Engineer</td>
+      <td><a href='https://www.digicert.com/careers/?gh_jid=8559589002'>Apply</a></td>
+      <td>May 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Mountain View, CA</td>
+      <td>Manufacturing Engineer (Intern)</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Mountain-View-CA/Mechanical-Assembler_REQ29720'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Manufacturing Controls Engineer - Data Analytics</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Manufacturing-Controls-Engineer---Data-Analytics_JR-202608998-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Neuralink</b></td>
+      <td>Austin, Texas, United States; South San Francisco, California, United States</td>
+      <td>Software Engineer, ASIC</td>
+      <td><a href='https://boards.greenhouse.io/neuralink/jobs/7743087003?gh_jid=7743087003'>Apply</a></td>
+      <td>May 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Neuralink</b></td>
+      <td>Austin, Texas, United States; South San Francisco, California, United States</td>
+      <td>Software Engineer, CI/CD</td>
+      <td><a href='https://boards.greenhouse.io/neuralink/jobs/7743089003?gh_jid=7743089003'>Apply</a></td>
+      <td>May 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Nextdoor</b></td>
+      <td>US Remote</td>
+      <td>Data Scientist - Search</td>
+      <td><a href='https://about.nextdoor.com/careers-list/?gh_jid=7948362'>Apply</a></td>
+      <td>May 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Anoka, MN, US</td>
+      <td>Material Handler - 2nd Shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Material-Handler---2nd-Shift_R21986'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Okta</b></td>
+      <td>Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC</td>
+      <td>Forward Deployment Engineer, Okta for AI</td>
+      <td><a href='https://www.okta.com/company/careers/opportunity/7561888?gh_jid=7561888'>Apply</a></td>
+      <td>Jan 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Remote</td>
+      <td>Quantum Error Correction Research Scientist Intern - Fall 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pure storage</b></td>
+      <td>Dallas, Texas</td>
+      <td>DC Devops Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/purestorage/jobs/7944064'>Apply</a></td>
+      <td>May 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Engineer, Flight Software (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8551932002?gh_jid=8551932002'>Apply</a></td>
+      <td>May 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Software Engineer (Platform Team)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8560537002?gh_jid=8560537002'>Apply</a></td>
+      <td>May 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>Software Engineer (Platform Team)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8560546002?gh_jid=8560546002'>Apply</a></td>
+      <td>May 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, KY, Erlanger</td>
+      <td>Material Handler Specialist, Warehouse</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-KY-Erlanger/Material-Handler-Specialist--Warehouse_JR0147569-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>SF, SEA, NYC, Chicago, US Remote</td>
+      <td>Full Stack Engineer, Enterprise & Ecosystem</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=7767706'>Apply</a></td>
+      <td>May 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Truveta</b></td>
+      <td>Seattle, WA</td>
+      <td>Software Engineer - Backend Services</td>
+      <td><a href='https://job-boards.greenhouse.io/truveta/jobs/6002807004'>Apply</a></td>
+      <td>May 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX SAN ANGELO 07220 NEIGHBORHOOD MARKET</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-SAN-ANGELO-07220-NEIGHBORHOOD-MARKET/Pharmacy-Grad-Intern--Hrly-_R-2516295'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office Building 11</td>
+      <td>(IND) Grad Intern - No Work Experience</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-11/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2509924'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PW II</td>
+      <td>(IND) Grad Intern - No Work Experience</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PW-II/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2509921'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Callaway, FL</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Callaway-FL/XMLNAME--USA--Front-End-Coach_R-2517246-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NY NEW YORK 11582 HOME OFFICE</td>
+      <td>(USA) Data Analyst II</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NY-NEW-YORK-11582-HOME-OFFICE/XMLNAME--USA--Data-Analyst-II_R-2504580'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 01212 WM SUPERCENTER</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-01212-WM-SUPERCENTER/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2517155'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 01212 WM SUPERCENTER</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-01212-WM-SUPERCENTER/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2517152'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-21-09-26-22'>🕐 Batch at 2026-05-21 09:26:22</h3>
 
@@ -229,7 +464,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-21-05-26-12'>🕐 Batch at 2026-05-21 05:26:12</h3>
 
 📊 **Total jobs in this batch: 1**
@@ -258,8 +492,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-21-01-42-36'>🕐 Batch at 2026-05-21 01:42:36</h3>
+---<h3 id='batch-2026-05-21-01-42-36'>🕐 Batch at 2026-05-21 01:42:36</h3>
 
 📊 **Total jobs in this batch: 6**
 
