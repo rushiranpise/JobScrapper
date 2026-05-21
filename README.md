@@ -4,10 +4,78 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-21 15:30:43](#batch-2026-05-21-15-30-43)
 - [Batch at 2026-05-21 14:04:08](#batch-2026-05-21-14-04-08)
 - [Batch at 2026-05-21 12:08:58](#batch-2026-05-21-12-08-58)
 - [Batch at 2026-05-21 09:26:22](#batch-2026-05-21-09-26-22)
-- [Batch at 2026-05-21 05:26:12](#batch-2026-05-21-05-26-12)
+
+<h3 id='batch-2026-05-21-15-30-43'>🕐 Batch at 2026-05-21 15:30:43</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- genpt: 1 job
+- homedepot: 1 job
+- spacex: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Coopers Plains, Queensland, Australia</td>
+      <td>Delivery Driver - Repco Coopers Plains - Full Time</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Coopers-Plains-Queensland-Australia/Delivery-Driver---Repco-Coopers-Plains---Full-Time_R26_0000016596'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>OHIO - VIRTUAL - OH01</td>
+      <td>Measure Tech Full-Time Lorain, OH</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/OHIO---VIRTUAL---OH01/Measure-Tech-Lorain--OH_Req180962'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>GNC Software Engineer - Top Secret Clearance</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8560746002?gh_jid=8560746002'>Apply</a></td>
+      <td>May 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Sunnyvale, CA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-II_R-2516224'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office Building 10</td>
+      <td>(IND) Grad Intern - No Work Experience</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2509941'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>IN KA BANGALORE Home Office PTPP1</td>
+      <td>(IND) Grad Intern - No Work Experience</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2509937'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-21-14-04-08'>🕐 Batch at 2026-05-21 14:04:08</h3>
 
@@ -160,7 +228,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-21-12-08-58'>🕐 Batch at 2026-05-21 12:08:58</h3>
 
 📊 **Total jobs in this batch: 28**
@@ -393,8 +460,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-21-09-26-22'>🕐 Batch at 2026-05-21 09:26:22</h3>
+---<h3 id='batch-2026-05-21-09-26-22'>🕐 Batch at 2026-05-21 09:26:22</h3>
 
 📊 **Total jobs in this batch: 26**
 
