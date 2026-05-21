@@ -1,7 +1,2 @@
-company,title,location,link,postedOn,updatedOn
-Anduril Industries,"Ground Software Engineer, Space","Colorado Springs, Colorado, United States",https://boards.greenhouse.io/andurilindustries/jobs/5143734007?gh_jid=5143734007,2026-05-21T00:44:47-04:00,2026-05-21T00:44:47-04:00
-"CrowdStrike, Inc","Data Center Technician (Santa Clara, CA)","USA - Santa Clara, CA",https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Santa-Clara-CA/Data-Center-Technician--Santa-Clara--CA-_R28803,Posted Today,
-"Motorola Solutions, Inc",Software Engineering Documentation Specialist,"Illinois Remote Work, More...",https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Illinois-Remote-Work/Software-Engineering-Documentation-Specialist_R64316-1,Posted Today,
-Merck & Co.,Internship Clinical Trial Coordinator,AUS - New South Wales - Macquarie Park,https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/AUS---New-South-Wales---Macquarie-Park/Internship-Clinical-Trial-Coordinator_R398696-1,Posted Today,
-NVIDIA,Developer Advocate – Robotics and Physical AI,"US, CA, Santa Clara",https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Advocate---Robotics-and-Physical-AI_JR2018319,Posted Today,
-Walmart,Data Scientist III,"San Bruno, CA",https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/San-Bruno-CA/Data-Scientist-III_R-2481100-1,Posted Today,
+company,title,location,postedOn,link
+Salesforce,"Software Engineer II, Cloud Infrastructure - Slack",Virginia - Washington DC Metro - Remote,Posted Today,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Washington-DC-Metro---Remote/Software-Engineer-II--Cloud-Infrastructure---Slack_JR341727-1
