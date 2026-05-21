@@ -4,10 +4,201 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-20 21:10:15](#batch-2026-05-20-21-10-15)
 - [Batch at 2026-05-20 16:30:52](#batch-2026-05-20-16-30-52)
 - [Batch at 2026-05-20 15:07:29](#batch-2026-05-20-15-07-29)
 - [Batch at 2026-05-20 12:37:06](#batch-2026-05-20-12-37-06)
-- [Batch at 2026-05-20 10:03:40](#batch-2026-05-20-10-03-40)
+
+<h3 id='batch-2026-05-20-21-10-15'>🕐 Batch at 2026-05-20 21:10:15</h3>
+
+📊 **Total jobs in this batch: 23**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Motorola Solutions, Inc: 2 jobs
+- DoorDash : 1 job
+- Otis: 1 job
+- Remitly: 1 job
+- spacex: 4 jobs
+- Waymo: 1 job
+- Walmart: 12 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Waltham, Massachusetts, United States</td>
+      <td>GNC Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5143705007?gh_jid=5143705007'>Apply</a></td>
+      <td>May 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Ohio Remote Work, More...</td>
+      <td>Field Engineer - Emergency Call Handling</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Ohio-Remote-Work/Field-Engineer---Emergency-Call-Handling_R63976'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Colorado Remote Work, More...</td>
+      <td>Field Engineer - Emergency Call Handling</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Colorado-Remote-Work/Field-Engineer---Emergency-Call-Handling_R63977'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>New York, NY; San Francisco, CA; Sunnyvale, CA</td>
+      <td>Principle Software Engineer - Ads</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/7947255'>Apply</a></td>
+      <td>May 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Otis</b></td>
+      <td>OT541: TFP - Florence, SC 1500 Otis Way, Florence, SC, 29501 USA</td>
+      <td>Material Handler</td>
+      <td><a href='https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT541-TFP---Florence-SC-1500-Otis-Way-Florence-SC-29501-USA/Material-Handler_20159870'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Remitly</b></td>
+      <td>Seattle, Washington United States</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer_R_106300'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>AI Software Engineer (Vehicle Engineering)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8559015002?gh_jid=8559015002'>Apply</a></td>
+      <td>May 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>ML Surrogate Modeling Engineer (Vehicle Engineering)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8559035002?gh_jid=8559035002'>Apply</a></td>
+      <td>May 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>OS/Platform Software Engineer (Starlink)   </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8552882002?gh_jid=8552882002'>Apply</a></td>
+      <td>May 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, Engineering Simulation & Automation (Vehicle Engineering)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8559054002?gh_jid=8559054002'>Apply</a></td>
+      <td>May 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA USA;  San Francisco, CA USA;</td>
+      <td>Applied Research Scientist, Multi-Modal Perception (PhD New Grad)</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7948348'>Apply</a></td>
+      <td>May 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) AZ PHOENIX 04293 NEIGHBORHOOD MARKET</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-AZ-PHOENIX-04293-NEIGHBORHOOD-MARKET/Pharmacy-Pre-Grad-Intern---WM_R-2514333-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) CT PUTNAM 01980 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CT-PUTNAM-01980-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2504848'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) CT PUTNAM 01980 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CT-PUTNAM-01980-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2513839'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) AL AUBURN 04673 NEIGHBORHOOD MARKET</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-AL-AUBURN-04673-NEIGHBORHOOD-MARKET/Pharmacy-Pre-Grad-Intern---WM_R-2514624-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) CT TORRINGTON 02144 WAL-MART</td>
+      <td>(USA) Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CT-TORRINGTON-02144-WAL-MART/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM_R-2513861'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) CT TORRINGTON 02144 WAL-MART</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CT-TORRINGTON-02144-WAL-MART/Pharmacy-Pre-Grad-Intern---WM_R-2504887'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) CT HARTFORD 05095 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CT-HARTFORD-05095-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2504881'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) CT HARTFORD 05095 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CT-HARTFORD-05095-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2513825'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) CT BROOKLYN 05777 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CT-BROOKLYN-05777-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2513817'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) CT BROOKLYN 05777 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CT-BROOKLYN-05777-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2504861'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Hula Building Bentonville AR Home Office</td>
+      <td>Associate Merchant - Landscaping Materials</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Hula-Building-Bentonville-AR-Home-Office/Associate-Merchant---Landscaping-Materials_R-2448856'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) WI BELOIT 02532 WM SUPERCENTER</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-WI-BELOIT-02532-WM-SUPERCENTER/Front-End-Coach_R-2516602-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-20-16-30-52'>🕐 Batch at 2026-05-20 16:30:52</h3>
 
@@ -54,7 +245,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-20-15-07-29'>🕐 Batch at 2026-05-20 15:07:29</h3>
 
 📊 **Total jobs in this batch: 17**
@@ -205,8 +395,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-20-12-37-06'>🕐 Batch at 2026-05-20 12:37:06</h3>
+---<h3 id='batch-2026-05-20-12-37-06'>🕐 Batch at 2026-05-20 12:37:06</h3>
 
 📊 **Total jobs in this batch: 17**
 
