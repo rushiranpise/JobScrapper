@@ -4,8 +4,109 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-22 11:04:28](#batch-2026-05-22-11-04-28)
 - [Batch at 2026-05-22 08:58:26](#batch-2026-05-22-08-58-26)
 - [Batch at 2026-05-22 02:41:49](#batch-2026-05-22-02-41-49)
+
+<h3 id='batch-2026-05-22-11-04-28'>🕐 Batch at 2026-05-22 11:04:28</h3>
+
+📊 **Total jobs in this batch: 10**
+
+**Per company:**
+- Applied Intuition: 1 job
+- ASMLEXT1: 1 job
+- Micron: 1 job
+- OpenEye: 1 job
+- Quantinuum: 1 job
+- SoFi: 1 job
+- SRK Supplylogix LLC: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Intuition</b></td>
+      <td>Sunnyvale, California, United States</td>
+      <td>Data Quality Specialist</td>
+      <td><a href='https://boards.greenhouse.io/appliedintuition/jobs/4534294005?gh_jid=4534294005'>Apply</a></td>
+      <td>Feb 26, 2025</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Optical Fabrication Technician (CNC) CWW Back End Nights</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician--CNC--CWW-Back-End-Nights_J-00341340'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>New College Grad - DRAM Product Reliability Characterization Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---DRAM-Product-Reliability-Characterization-Engineer_JR100260'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenEye</b></td>
+      <td>Tysons, Virginia</td>
+      <td>Cloud Operations Support Associate</td>
+      <td><a href='https://job-boards.greenhouse.io/alarmcom/jobs/8549706002'>Apply</a></td>
+      <td>May 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Quantinuum</b></td>
+      <td>US Broomfield, CO</td>
+      <td>Advanced Software Engineer - 815</td>
+      <td><a href='https://jobs.eu.lever.co/quantinuum/b41e5669-fc0d-49a5-8a9f-7422568d257f'>Apply</a></td>
+      <td>2026-04-29 13:50:17</td>
+    </tr>
+    <tr>
+      <td><b>SoFi</b></td>
+      <td>United States</td>
+      <td>Mailroom Associate</td>
+      <td><a href='https://sofi.com/careers/job/7747028003?gh_jid=7747028003'>Apply</a></td>
+      <td>May 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, TN, Nashville</td>
+      <td>Data Coordinator</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TN-Nashville/Data-Coordinator_JR0147470-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Tampa, FL</td>
+      <td>Freight Handler</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Tampa-FL/Freight-Handler_R-2519001-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX PALMHURST 03320 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-PALMHURST-03320-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2517871'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NM ALBUQUERQUE 02924 WM SUPERCENTER</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NM-ALBUQUERQUE-02924-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2517928-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-22-08-58-26'>🕐 Batch at 2026-05-22 08:58:26</h3>
 
@@ -220,7 +321,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-22-02-41-49'>🕐 Batch at 2026-05-22 02:41:49</h3>
 
 📊 **Total jobs in this batch: 3**
