@@ -4,9 +4,109 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-22 13:01:07](#batch-2026-05-22-13-01-07)
 - [Batch at 2026-05-22 11:04:28](#batch-2026-05-22-11-04-28)
 - [Batch at 2026-05-22 08:58:26](#batch-2026-05-22-08-58-26)
 - [Batch at 2026-05-22 02:41:49](#batch-2026-05-22-02-41-49)
+
+<h3 id='batch-2026-05-22-13-01-07'>🕐 Batch at 2026-05-22 13:01:07</h3>
+
+📊 **Total jobs in this batch: 10**
+
+**Per company:**
+- BAH: 1 job
+- Broadcom : 1 job
+- Esri: 1 job
+- NVIDIA: 2 jobs
+- The Walt Disney Company: 1 job
+- Walmart: 3 jobs
+- Zipline: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Langley AFB, VA</td>
+      <td>DevSecOps Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/DevSecOps-Software-Engineer_R0240777'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-CA - Promontory D</td>
+      <td>R&D Engineer Software 4</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-D/R-D-Engineer-Software-4_R026077'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>DevOps Engineer II - AWS</td>
+      <td><a href='https://www.esri.com/careers/5140522007?gh_jid=5140522007'>Apply</a></td>
+      <td>May 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>PhD Software Engineering Intern, Decision Intelligence - Fall 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Remote</td>
+      <td>PhD Data Generation and User Simulation Research Intern — Fall 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Anaheim, CA, USA</td>
+      <td>Technical Project Specialist (Project Hire/Internal Assignment)</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Technical-Project-Specialist--Project-Hire-Internal-Assignment-_10149434'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Respect Building CA SUNNYVALE Home Office</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III_R-2459976'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Prestonsburg, KY</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Prestonsburg-KY/Front-End-Coach_R-2519241-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Rice Lake, WI</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Rice-Lake-WI/Pharmacy-Grad-Intern--Hrly-----2026-SIGN-ON-BONUS---_R-2350129'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Software Engineer – Marketplace Growth</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7747190003'>Apply</a></td>
+      <td>May 22, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-22-11-04-28'>🕐 Batch at 2026-05-22 11:04:28</h3>
 
@@ -107,7 +207,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-22-08-58-26'>🕐 Batch at 2026-05-22 08:58:26</h3>
 
 📊 **Total jobs in this batch: 26**
@@ -320,8 +419,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-22-02-41-49'>🕐 Batch at 2026-05-22 02:41:49</h3>
+---<h3 id='batch-2026-05-22-02-41-49'>🕐 Batch at 2026-05-22 02:41:49</h3>
 
 📊 **Total jobs in this batch: 3**
 
