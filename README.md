@@ -4,10 +4,78 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-22 14:23:24](#batch-2026-05-22-14-23-24)
 - [Batch at 2026-05-22 13:01:07](#batch-2026-05-22-13-01-07)
 - [Batch at 2026-05-22 11:04:28](#batch-2026-05-22-11-04-28)
 - [Batch at 2026-05-22 08:58:26](#batch-2026-05-22-08-58-26)
-- [Batch at 2026-05-22 02:41:49](#batch-2026-05-22-02-41-49)
+
+<h3 id='batch-2026-05-22-14-23-24'>🕐 Batch at 2026-05-22 14:23:24</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- NVIDIA: 1 job
+- PlayStation Global: 2 jobs
+- spacex: 2 jobs
+- Versana: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, TX, Austin</td>
+      <td>Verification and Validation Engineer - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Verification-and-Validation-Engineer---New-College-Grad-2026_JR2018584-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Mateo, CA</td>
+      <td>Software Engineer I</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5859292004'>Apply</a></td>
+      <td>May 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Diego, CA</td>
+      <td>Software Engineer I</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5859293004'>Apply</a></td>
+      <td>May 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Software Engineer, Flight Software (Starship)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8562284002?gh_jid=8562284002'>Apply</a></td>
+      <td>May 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, Flight Software (Starship)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8562450002?gh_jid=8562450002'>Apply</a></td>
+      <td>May 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Versana</b></td>
+      <td>New York, NY</td>
+      <td>Database Administrator</td>
+      <td><a href='https://jobs.lever.co/Versana/85cb959d-c03f-49e1-a607-d00a8a7a91ca'>Apply</a></td>
+      <td>2026-05-22 20:58:19</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-22-13-01-07'>🕐 Batch at 2026-05-22 13:01:07</h3>
 
@@ -107,7 +175,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-22-11-04-28'>🕐 Batch at 2026-05-22 11:04:28</h3>
 
 📊 **Total jobs in this batch: 10**
@@ -206,8 +273,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-22-08-58-26'>🕐 Batch at 2026-05-22 08:58:26</h3>
+---<h3 id='batch-2026-05-22-08-58-26'>🕐 Batch at 2026-05-22 08:58:26</h3>
 
 📊 **Total jobs in this batch: 26**
 
