@@ -4,10 +4,63 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-21 22:12:47](#batch-2026-05-21-22-12-47)
 - [Batch at 2026-05-21 17:14:39](#batch-2026-05-21-17-14-39)
 - [Batch at 2026-05-21 15:30:43](#batch-2026-05-21-15-30-43)
 - [Batch at 2026-05-21 14:04:08](#batch-2026-05-21-14-04-08)
-- [Batch at 2026-05-21 12:08:58](#batch-2026-05-21-12-08-58)
+
+<h3 id='batch-2026-05-21-22-12-47'>🕐 Batch at 2026-05-21 22:12:47</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- Citi: 1 job
+- Twitch: 2 jobs
+- Zip : 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Irving Texas United States</td>
+      <td>Assoc Infrastructure Analyst - Officer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Assoc-Infrastructure-Analyst---Officer_26962364'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Twitch</b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer, Creator Sponsorships</td>
+      <td><a href='https://job-boards.greenhouse.io/twitch/jobs/8559215002'>Apply</a></td>
+      <td>May 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Twitch</b></td>
+      <td>Seattle, WA</td>
+      <td>Software Engineer, Creator Sponsorships</td>
+      <td><a href='https://job-boards.greenhouse.io/twitch/jobs/8561592002'>Apply</a></td>
+      <td>May 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zip </b></td>
+      <td>Australia</td>
+      <td>AI Forward Deployed Engineer</td>
+      <td><a href='https://jobs.ashbyhq.com/zip/a3f2d82e-8e45-4b69-80ed-a9a1960816eb'>Apply</a></td>
+      <td>May 22, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-21-17-14-39'>🕐 Batch at 2026-05-21 17:14:39</h3>
 
@@ -101,7 +154,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-21-15-30-43'>🕐 Batch at 2026-05-21 15:30:43</h3>
 
 📊 **Total jobs in this batch: 6**
@@ -168,8 +220,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-21-14-04-08'>🕐 Batch at 2026-05-21 14:04:08</h3>
+---<h3 id='batch-2026-05-21-14-04-08'>🕐 Batch at 2026-05-21 14:04:08</h3>
 
 📊 **Total jobs in this batch: 17**
 
