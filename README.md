@@ -4,10 +4,103 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-21 17:14:39](#batch-2026-05-21-17-14-39)
 - [Batch at 2026-05-21 15:30:43](#batch-2026-05-21-15-30-43)
 - [Batch at 2026-05-21 14:04:08](#batch-2026-05-21-14-04-08)
 - [Batch at 2026-05-21 12:08:58](#batch-2026-05-21-12-08-58)
-- [Batch at 2026-05-21 09:26:22](#batch-2026-05-21-09-26-22)
+
+<h3 id='batch-2026-05-21-17-14-39'>🕐 Batch at 2026-05-21 17:14:39</h3>
+
+📊 **Total jobs in this batch: 9**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- cadence: 1 job
+- Reddit: 1 job
+- Snowflake: 1 job
+- Stripe: 2 jobs
+- The Walt Disney Company: 1 job
+- Walmart: 1 job
+- ZipRecruiter: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Mobile, Alabama, United States</td>
+      <td>Software Engineer- Logistics Systems </td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5047443007'>Apply</a></td>
+      <td>Feb 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>cadence</b></td>
+      <td>AUSTIN 03</td>
+      <td>Software Engineer I</td>
+      <td><a href='https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN-03/Software-Engineer-I_R53009-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Reddit</b></td>
+      <td>Remote - United States</td>
+      <td>Fullstack Software Engineer, Notifications Lifecycle</td>
+      <td><a href='https://job-boards.greenhouse.io/reddit/jobs/7895468'>Apply</a></td>
+      <td>May 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Software Engineer, Cortex AI Infrastructure</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/2db865d9-1b32-4f20-8091-de76c5d2b7f4'>Apply</a></td>
+      <td>May 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>New York, NY</td>
+      <td>Software Engineer</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=7926587'>Apply</a></td>
+      <td>May 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>New York, NY</td>
+      <td>Software Engineer IC-02 </td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=7926966'>Apply</a></td>
+      <td>May 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>Executive Assistant, Casting (Disney Entertainment Television)</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Executive-Assistant--Casting--Disney-Entertainment-Television-_10151124-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Sunnyvale, CA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-II_R-2505085'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ZipRecruiter</b></td>
+      <td>Santa Monica, CA</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://job-boards.greenhouse.io/ziprecruiter/jobs/7951866'>Apply</a></td>
+      <td>May 21, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-21-15-30-43'>🕐 Batch at 2026-05-21 15:30:43</h3>
 
@@ -76,7 +169,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-21-14-04-08'>🕐 Batch at 2026-05-21 14:04:08</h3>
 
 📊 **Total jobs in this batch: 17**
@@ -227,8 +319,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-21-12-08-58'>🕐 Batch at 2026-05-21 12:08:58</h3>
+---<h3 id='batch-2026-05-21-12-08-58'>🕐 Batch at 2026-05-21 12:08:58</h3>
 
 📊 **Total jobs in this batch: 28**
 
