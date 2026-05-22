@@ -4,10 +4,56 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-22 16:11:56](#batch-2026-05-22-16-11-56)
 - [Batch at 2026-05-22 14:23:24](#batch-2026-05-22-14-23-24)
 - [Batch at 2026-05-22 13:01:07](#batch-2026-05-22-13-01-07)
 - [Batch at 2026-05-22 11:04:28](#batch-2026-05-22-11-04-28)
-- [Batch at 2026-05-22 08:58:26](#batch-2026-05-22-08-58-26)
+
+<h3 id='batch-2026-05-22-16-11-56'>🕐 Batch at 2026-05-22 16:11:56</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- Anduril Industries: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Foster City, California, United States</td>
+      <td>Validation Engineer, Powertrain</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5145830007'>Apply</a></td>
+      <td>May 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Robotics Software Engineer, Behaviors </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5134999007?gh_jid=5134999007'>Apply</a></td>
+      <td>May 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) AZ MESA 03089 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-AZ-MESA-03089-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2519410-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-22-14-23-24'>🕐 Batch at 2026-05-22 14:23:24</h3>
 
@@ -76,7 +122,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-22-13-01-07'>🕐 Batch at 2026-05-22 13:01:07</h3>
 
 📊 **Total jobs in this batch: 10**
@@ -174,8 +219,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-22-11-04-28'>🕐 Batch at 2026-05-22 11:04:28</h3>
+---<h3 id='batch-2026-05-22-11-04-28'>🕐 Batch at 2026-05-22 11:04:28</h3>
 
 📊 **Total jobs in this batch: 10**
 
