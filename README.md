@@ -4,10 +4,47 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-22 20:43:42](#batch-2026-05-22-20-43-42)
 - [Batch at 2026-05-22 16:11:56](#batch-2026-05-22-16-11-56)
 - [Batch at 2026-05-22 14:23:24](#batch-2026-05-22-14-23-24)
 - [Batch at 2026-05-22 13:01:07](#batch-2026-05-22-13-01-07)
-- [Batch at 2026-05-22 11:04:28](#batch-2026-05-22-11-04-28)
+
+<h3 id='batch-2026-05-22-20-43-42'>🕐 Batch at 2026-05-22 20:43:42</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- Anduril Industries: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Robotics Software Engineer, Verification & Validation</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5083521007?gh_jid=5083521007'>Apply</a></td>
+      <td>May 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Colorado Springs, Colorado, United States</td>
+      <td>Software Engineer, Modeling and Simulation, Space</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5145750007?gh_jid=5145750007'>Apply</a></td>
+      <td>May 22, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-22-16-11-56'>🕐 Batch at 2026-05-22 16:11:56</h3>
 
@@ -54,7 +91,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-22-14-23-24'>🕐 Batch at 2026-05-22 14:23:24</h3>
 
 📊 **Total jobs in this batch: 6**
@@ -121,8 +157,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-22-13-01-07'>🕐 Batch at 2026-05-22 13:01:07</h3>
+---<h3 id='batch-2026-05-22-13-01-07'>🕐 Batch at 2026-05-22 13:01:07</h3>
 
 📊 **Total jobs in this batch: 10**
 
