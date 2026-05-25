@@ -4,8 +4,39 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-25 10:17:03](#batch-2026-05-25-10-17-03)
 - [Batch at 2026-05-25 07:19:46](#batch-2026-05-25-07-19-46)
 - [Batch at 2026-05-25 03:23:32](#batch-2026-05-25-03-23-32)
+
+<h3 id='batch-2026-05-25-10-17-03'>🕐 Batch at 2026-05-25 10:17:03</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Allstate: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>US - Remote</td>
+      <td>SailPoint IAM Engineer</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/SailPoint-IAM-Engineer_R30807'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-25-07-19-46'>🕐 Batch at 2026-05-25 07:19:46</h3>
 
@@ -52,7 +83,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-25-03-23-32'>🕐 Batch at 2026-05-25 03:23:32</h3>
 
 📊 **Total jobs in this batch: 1**
