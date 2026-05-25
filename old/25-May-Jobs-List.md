@@ -4,10 +4,40 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-25 16:15:56](#batch-2026-05-25-16-15-56)
 - [Batch at 2026-05-25 14:21:13](#batch-2026-05-25-14-21-13)
 - [Batch at 2026-05-25 12:53:29](#batch-2026-05-25-12-53-29)
 - [Batch at 2026-05-25 10:17:03](#batch-2026-05-25-10-17-03)
-- [Batch at 2026-05-25 07:19:46](#batch-2026-05-25-07-19-46)
+
+<h3 id='batch-2026-05-25-16-15-56'>🕐 Batch at 2026-05-25 16:15:56</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NY UNIONDALE 02583 WAL-MART</td>
+      <td>(USA) Pharmacy Pre-Grad Intern - WM 2583</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NY-UNIONDALE-02583-WAL-MART/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM-2583_R-2519690'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-25-14-21-13'>🕐 Batch at 2026-05-25 14:21:13</h3>
 
@@ -38,7 +68,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-25-12-53-29'>🕐 Batch at 2026-05-25 12:53:29</h3>
 
 📊 **Total jobs in this batch: 3**
@@ -83,8 +112,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-25-10-17-03'>🕐 Batch at 2026-05-25 10:17:03</h3>
+---<h3 id='batch-2026-05-25-10-17-03'>🕐 Batch at 2026-05-25 10:17:03</h3>
 
 📊 **Total jobs in this batch: 1**
 
