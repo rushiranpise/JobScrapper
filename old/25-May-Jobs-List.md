@@ -4,10 +4,40 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-25 14:21:13](#batch-2026-05-25-14-21-13)
 - [Batch at 2026-05-25 12:53:29](#batch-2026-05-25-12-53-29)
 - [Batch at 2026-05-25 10:17:03](#batch-2026-05-25-10-17-03)
 - [Batch at 2026-05-25 07:19:46](#batch-2026-05-25-07-19-46)
-- [Batch at 2026-05-25 03:23:32](#batch-2026-05-25-03-23-32)
+
+<h3 id='batch-2026-05-25-14-21-13'>🕐 Batch at 2026-05-25 14:21:13</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) IA IOWA CITY 01721 WM SUPERCENTER</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IA-IOWA-CITY-01721-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2519737-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-25-12-53-29'>🕐 Batch at 2026-05-25 12:53:29</h3>
 
@@ -54,7 +84,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-25-10-17-03'>🕐 Batch at 2026-05-25 10:17:03</h3>
 
 📊 **Total jobs in this batch: 1**
@@ -83,8 +112,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-25-07-19-46'>🕐 Batch at 2026-05-25 07:19:46</h3>
+---<h3 id='batch-2026-05-25-07-19-46'>🕐 Batch at 2026-05-25 07:19:46</h3>
 
 📊 **Total jobs in this batch: 3**
 
