@@ -4,9 +4,56 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-25 12:53:29](#batch-2026-05-25-12-53-29)
 - [Batch at 2026-05-25 10:17:03](#batch-2026-05-25-10-17-03)
 - [Batch at 2026-05-25 07:19:46](#batch-2026-05-25-07-19-46)
 - [Batch at 2026-05-25 03:23:32](#batch-2026-05-25-03-23-32)
+
+<h3 id='batch-2026-05-25-12-53-29'>🕐 Batch at 2026-05-25 12:53:29</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Citi: 1 job
+- Pinterest: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX - Data Platform Support Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX---Data-Platform-Support-Analyst_26957683'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pinterest</b></td>
+      <td>Toronto, ON, CA</td>
+      <td>Software Engineer II, Data</td>
+      <td><a href='https://www.pinterestcareers.com/jobs/?gh_jid=7901817'>Apply</a></td>
+      <td>May 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bolivar, MO</td>
+      <td>(USA) Coach/Ops Mgr Trainee)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bolivar-MO/XMLNAME--USA--Coach-Ops-Mgr-Trainee-_R-2516944'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-25-10-17-03'>🕐 Batch at 2026-05-25 10:17:03</h3>
 
@@ -37,7 +84,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-25-07-19-46'>🕐 Batch at 2026-05-25 07:19:46</h3>
 
 📊 **Total jobs in this batch: 3**
@@ -82,8 +128,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-25-03-23-32'>🕐 Batch at 2026-05-25 03:23:32</h3>
+---<h3 id='batch-2026-05-25-03-23-32'>🕐 Batch at 2026-05-25 03:23:32</h3>
 
 📊 **Total jobs in this batch: 1**
 
