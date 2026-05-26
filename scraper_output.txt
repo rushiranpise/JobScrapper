@@ -1,8 +1,8 @@
 
-✅ Scraped 19 new jobs. Output saved to 'output.csv'.
-📦 Appended 19 jobs to 'output_old.csv'
+✅ Scraped 6 new jobs. Output saved to 'output.csv'.
+📦 Appended 6 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"Applied Materials","title":"Software Engineer","location":"Santa Clara,CA","link":"https:\/\/amat.wd1.myworkdayjobs.com\/en-US\/External\/job\/Santa-ClaraCA\/Software-Engineer_R2618580","postedOn":"Posted Today","updatedOn":null},{"company":"Anduril Industries","title":"DevOps Engineer","location":"Reston, Virginia, United States","link":"https:\/\/boards.greenhouse.io\/andurilindustries\/jobs\/5146861007?gh_jid=5146861007","postedOn":"2026-05-26T16:05:50-04:00","updatedOn":"2026-05-26T16:05:50-04:00"},{"company":"BAH","title":"Electronic Warfare Software Engineer","location":"Beavercreek, OH","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Beavercreek-OH\/Electronic-Warfare-Software-Engineer_R0240910","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Software Engineer","location":"Rome, NY","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Rome-NY\/Software-Engineer_R0240881","postedOn":"Posted Today","updatedOn":null},{"company":"Chime","title":"AI Solutions Specialist","location":"Remote, USA","link":"https:\/\/boards.greenhouse.io\/chime\/jobs\/8535232002?gh_jid=8535232002","postedOn":"2026-05-26T16:06:59-04:00","updatedOn":"2026-05-26T16:06:59-04:00"},{"company":"Concentrix","title":"Infrastructure Analyst (FCC\/RF Licensing and RF Path)","location":"Omaha, NE 68179","link":"https:\/\/cnx.wd1.myworkdayjobs.com\/en-US\/external_global\/job\/Omaha-NE-68179\/Infrastructure-Analyst--FCC-RF-Licensing-and-RF-Path-_R1721188-5","postedOn":"Posted Today","updatedOn":null},{"company":"Fivetran","title":"Systems Engineer, Integrations (Data and Systems)","location":"Oakland, California, United States, AMER","link":"https:\/\/www.fivetran.com\/careers\/job?gh_jid=7668146003","postedOn":"2026-05-26T16:07:20-04:00","updatedOn":"2026-05-26T16:47:38-04:00"},{"company":"genpt","title":"Material Handler I","location":"Salt Lake City, UT, USA","link":"https:\/\/genpt.wd1.myworkdayjobs.com\/en-US\/Careers\/job\/Salt-Lake-City-UT-USA\/Material-Handler-I_R26_0000017117","postedOn":"Posted Today","updatedOn":null},{"company":"homedepot","title":"Digital Content Data Analyst","location":"NEW JERSEY - VIRTUAL - NJ01","link":"https:\/\/homedepot.wd5.myworkdayjobs.com\/en-US\/CareerDepot\/job\/NEW-JERSEY---VIRTUAL---NJ01\/Digital-Content-Data-Analyst_Req181320","postedOn":"Posted Today","updatedOn":null},{"company":"Intel Corporation","title":"Package Power Integrity Intern","location":"US, Arizona, Phoenix","link":"https:\/\/intel.wd1.myworkdayjobs.com\/en-US\/External\/job\/US-Arizona-Phoenix\/Package-Power-Integrity-Intern_JR0284242","postedOn":"Posted Today","updatedOn":null},{"company":"Parafin","title":"Data Scientist ","location":"San Francisco, CA","link":"https:\/\/jobs.ashbyhq.com\/parafin\/cb15e569-764f-4304-a2cd-41a11fe9e008","postedOn":"2026-05-26T20:59:11.760+00:00","updatedOn":null},{"company":"Remitly","title":"Fullstack Software Development Engineer II","location":"Seattle, Washington United States","link":"https:\/\/remitly.wd5.myworkdayjobs.com\/en-US\/Remitly_Careers\/job\/Seattle-Washington-United-States\/Fullstack-Software-Development-Engineer-II_R_106314","postedOn":"Posted Today","updatedOn":null},{"company":"Waymo","title":"Data Scientist","location":"Mountain View, California, USA; San Francisco, California, USA","link":"https:\/\/careers.withwaymo.com\/jobs?gh_jid=7455592","postedOn":"2025-12-17T16:52:25-05:00","updatedOn":"2026-05-26T15:44:10-04:00"},{"company":"Walmart","title":"Pharmacy Pre-Grad Intern - WM","location":"(USA) PA READING 01777 WM SUPERCENTER","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/USA-PA-READING-01777-WM-SUPERCENTER\/Pharmacy-Pre-Grad-Intern---WM_R-2521580","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"Pre Grad Intern - Sam's part-time","location":"(USA) FL CORAL SPRINGS 06637 SAM'S CLUB","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/USA-FL-CORAL-SPRINGS-06637-SAMS-CLUB\/Pre-Grad-Intern---Sam-s-part-time_R-2518948","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"Pharmacy Pre-Grad Intern - WM","location":"(USA) NY HAMBURG 02405 WM SUPERCENTER","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/USA-NY-HAMBURG-02405-WM-SUPERCENTER\/Pharmacy-Pre-Grad-Intern---WM_R-2519681","postedOn":"Posted Today","updatedOn":null},{"company":"Zoom","title":"AI Deployment Engineer","location":"Remote  (US)","link":"https:\/\/zoom.wd5.myworkdayjobs.com\/en-US\/Zoom\/job\/Remote--US\/AI-Deployment-Engineer_R19195-1","postedOn":"","updatedOn":null},{"company":"Walmart","title":"(USA) Coach\/Ops Mgr Trainee-2","location":"Beaufort, SC","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/Beaufort-SC\/XMLNAME--USA--Coach-Ops-Mgr-Trainee-2_R-2517914","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"(USA) Coach\/Ops Mgr Trainee","location":"Beaufort, SC","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/Beaufort-SC\/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2517908","postedOn":"Posted Today","updatedOn":null}]
+[{"company":"Applied Materials","title":"Training Registrar","location":"Newburyport,MA","link":"https:\/\/amat.wd1.myworkdayjobs.com\/en-US\/External\/job\/NewburyportMA\/Training-Registrar_R2620501-1","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Collaborative Services Developer","location":"Camp Lejeune, NC","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Camp-Lejeune-NC\/Collaborative-Services-Developer_R0240941","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Agentic AI Engineer","location":"McLean, VA","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/McLean-VA\/Agentic-AI-Engineer_R0240863","postedOn":"Posted Today","updatedOn":null},{"company":"Concentrix","title":"Program Ready Trainer","location":"USA, Lake Mary, FL","link":"https:\/\/cnx.wd1.myworkdayjobs.com\/en-US\/external_global\/job\/USA-Lake-Mary-FL\/Program-Ready-Trainer_R1732245","postedOn":"Posted Today","updatedOn":null},{"company":"Intel Corporation","title":"Software Validation-Automation Engineer","location":"US, Oregon, Hillsboro","link":"https:\/\/intel.wd1.myworkdayjobs.com\/en-US\/External\/job\/US-Oregon-Hillsboro\/Software-Validation-Automation-Engineer_JR0283993","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"(USA) Material Handler, Manufacturing (Starting pay $23.00, M-F, 8a-4:30p)","location":"Olathe, KS","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/Olathe-KS\/XMLNAME--USA--Material-Handler--Manufacturing--Starting-pay--2300--M-F--8a-4-30p-_R-2523240-1","postedOn":"Posted Today","updatedOn":null}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
@@ -14,7 +14,7 @@ ERRORS_START
 [ERROR] Canonical: Greenhouse API failed: 404
 [ERROR] Cdata: Greenhouse API failed: 404
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"2728BFMPN49RHW","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"FFE691MPN7F8EK","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Clever: Could not extract Lever company name
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
 [ERROR] Coinbase: Greenhouse API failed: 404
@@ -22,7 +22,7 @@ ERRORS_START
 [ERROR] Demandbase : Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"9983CEMPN4AYUD","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"D946B3MPN7GF9V","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
 [ERROR] Funnel: Breezy API failed: 403
 [ERROR] Grammarly : Greenhouse API failed: 404
@@ -34,14 +34,13 @@ ERRORS_START
 [ERROR] Kobie: Greenhouse API failed: 404
 [ERROR] Kodiak Robotics: Lever API failed: https://api.lever.co/v0/postings/kodiak?mode=json - 404
 [ERROR] Modernizing Medicine: Greenhouse API failed: 404
-[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"37170CMPN4CMOF","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Notion: Greenhouse API failed: 404
+[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"C1ECFFMPN7HWOO","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Perplexity AI: Greenhouse API failed: 404
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"59459FMPN4DE9W","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"D946B3MPN7IF3C","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Raptor Maps: Lever API failed: https://api.lever.co/v0/postings/RaptorMaps?mode=json - 404
-[ERROR] Prudential Financial: Workday API failed: HTTP 520 - <!DOCTYPE html>
 [ERROR] Relativity Space: Greenhouse API failed: 404
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
 [ERROR] Skydio: Greenhouse API failed: 404
@@ -51,13 +50,24 @@ ERRORS_START
 [ERROR] Strong Holdim: Greenhouse API failed: 404
 [ERROR] Tandem: Ashby API failed - HTTP 404: Not Found
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"1E8529MPN4FJKQ","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"D9876AMPN4FM0V","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] State Street: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] terex: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] Shipt : Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] Robert Half : Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] Sony AI America Inc: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] Simons Foundation: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] The standard: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"A70CFFMPN7K75G","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] TRM labs: Greenhouse API failed: 404
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"B29073MPN7K7F3","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Tricentis : Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] Verily: Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] Vimeo: Greenhouse API failed: 404
+[ERROR] USAA: Workday API failed: HTTP 403 - <!DOCTYPE html>
+[ERROR] The Toro: Workday API failed: HTTP 403 - <!DOCTYPE html>
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"104733MPN4GEI0","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"BC82C9MPN7L1S4","httpStatus":422,"message":"","messageParams":{}}
 ERRORS_END

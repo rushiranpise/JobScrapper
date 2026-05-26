@@ -4,10 +4,79 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-26 15:33:01](#batch-2026-05-26-15-33-01)
 - [Batch at 2026-05-26 14:06:04](#batch-2026-05-26-14-06-04)
 - [Batch at 2026-05-26 11:38:50](#batch-2026-05-26-11-38-50)
 - [Batch at 2026-05-26 08:51:55](#batch-2026-05-26-08-51-55)
-- [Batch at 2026-05-26 01:02:28](#batch-2026-05-26-01-02-28)
+
+<h3 id='batch-2026-05-26-15-33-01'>🕐 Batch at 2026-05-26 15:33:01</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- Applied Materials: 1 job
+- BAH: 2 jobs
+- Concentrix: 1 job
+- Intel Corporation: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Newburyport,MA</td>
+      <td>Training Registrar</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/NewburyportMA/Training-Registrar_R2620501-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Camp Lejeune, NC</td>
+      <td>Collaborative Services Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Lejeune-NC/Collaborative-Services-Developer_R0240941'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Agentic AI Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Agentic-AI-Engineer_R0240863'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>USA, Lake Mary, FL</td>
+      <td>Program Ready Trainer</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/USA-Lake-Mary-FL/Program-Ready-Trainer_R1732245'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Software Validation-Automation Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Validation-Automation-Engineer_JR0283993'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Olathe, KS</td>
+      <td>(USA) Material Handler, Manufacturing (Starting pay $23.00, M-F, 8a-4:30p)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Olathe-KS/XMLNAME--USA--Material-Handler--Manufacturing--Starting-pay--2300--M-F--8a-4-30p-_R-2523240-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-26-14-06-04'>🕐 Batch at 2026-05-26 14:06:04</h3>
 
@@ -177,7 +246,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-26-11-38-50'>🕐 Batch at 2026-05-26 11:38:50</h3>
 
 📊 **Total jobs in this batch: 24**
@@ -377,8 +445,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-26-08-51-55'>🕐 Batch at 2026-05-26 08:51:55</h3>
+---<h3 id='batch-2026-05-26-08-51-55'>🕐 Batch at 2026-05-26 08:51:55</h3>
 
 📊 **Total jobs in this batch: 24**
 

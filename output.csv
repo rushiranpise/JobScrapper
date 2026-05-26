@@ -1,20 +1,7 @@
-company,title,location,postedOn,link,updatedOn
-Applied Materials,Software Engineer,"Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer_R2618580,
-Anduril Industries,DevOps Engineer,"Reston, Virginia, United States",2026-05-26T16:05:50-04:00,https://boards.greenhouse.io/andurilindustries/jobs/5146861007?gh_jid=5146861007,2026-05-26T16:05:50-04:00
-BAH,Electronic Warfare Software Engineer,"Beavercreek, OH",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Electronic-Warfare-Software-Engineer_R0240910,
-BAH,Software Engineer,"Rome, NY",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0240881,
-Chime,AI Solutions Specialist,"Remote, USA",2026-05-26T16:06:59-04:00,https://boards.greenhouse.io/chime/jobs/8535232002?gh_jid=8535232002,2026-05-26T16:06:59-04:00
-Concentrix,Infrastructure Analyst (FCC/RF Licensing and RF Path),"Omaha, NE 68179",Posted Today,https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/Omaha-NE-68179/Infrastructure-Analyst--FCC-RF-Licensing-and-RF-Path-_R1721188-5,
-Fivetran,"Systems Engineer, Integrations (Data and Systems)","Oakland, California, United States, AMER",2026-05-26T16:07:20-04:00,https://www.fivetran.com/careers/job?gh_jid=7668146003,2026-05-26T16:47:38-04:00
-genpt,Material Handler I,"Salt Lake City, UT, USA",Posted Today,https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Salt-Lake-City-UT-USA/Material-Handler-I_R26_0000017117,
-homedepot,Digital Content Data Analyst,NEW JERSEY - VIRTUAL - NJ01,Posted Today,https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/NEW-JERSEY---VIRTUAL---NJ01/Digital-Content-Data-Analyst_Req181320,
-Intel Corporation,Package Power Integrity Intern,"US, Arizona, Phoenix",Posted Today,https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Package-Power-Integrity-Intern_JR0284242,
-Parafin,Data Scientist ,"San Francisco, CA",2026-05-26T20:59:11.760+00:00,https://jobs.ashbyhq.com/parafin/cb15e569-764f-4304-a2cd-41a11fe9e008,
-Remitly,Fullstack Software Development Engineer II,"Seattle, Washington United States",Posted Today,https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Fullstack-Software-Development-Engineer-II_R_106314,
-Waymo,Data Scientist,"Mountain View, California, USA; San Francisco, California, USA",2025-12-17T16:52:25-05:00,https://careers.withwaymo.com/jobs?gh_jid=7455592,2026-05-26T15:44:10-04:00
-Walmart,Pharmacy Pre-Grad Intern - WM,(USA) PA READING 01777 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-PA-READING-01777-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2521580,
-Walmart,Pre Grad Intern - Sam's part-time,(USA) FL CORAL SPRINGS 06637 SAM'S CLUB,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-FL-CORAL-SPRINGS-06637-SAMS-CLUB/Pre-Grad-Intern---Sam-s-part-time_R-2518948,
-Walmart,Pharmacy Pre-Grad Intern - WM,(USA) NY HAMBURG 02405 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NY-HAMBURG-02405-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2519681,
-Zoom,AI Deployment Engineer,Remote  (US),,https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--US/AI-Deployment-Engineer_R19195-1,
-Walmart,(USA) Coach/Ops Mgr Trainee-2,"Beaufort, SC",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Beaufort-SC/XMLNAME--USA--Coach-Ops-Mgr-Trainee-2_R-2517914,
-Walmart,(USA) Coach/Ops Mgr Trainee,"Beaufort, SC",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Beaufort-SC/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2517908,
+company,title,location,postedOn,link
+Applied Materials,Training Registrar,"Newburyport,MA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/NewburyportMA/Training-Registrar_R2620501-1
+BAH,Collaborative Services Developer,"Camp Lejeune, NC",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Lejeune-NC/Collaborative-Services-Developer_R0240941
+BAH,Agentic AI Engineer,"McLean, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Agentic-AI-Engineer_R0240863
+Concentrix,Program Ready Trainer,"USA, Lake Mary, FL",Posted Today,https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/USA-Lake-Mary-FL/Program-Ready-Trainer_R1732245
+Intel Corporation,Software Validation-Automation Engineer,"US, Oregon, Hillsboro",Posted Today,https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Validation-Automation-Engineer_JR0283993
+Walmart,"(USA) Material Handler, Manufacturing (Starting pay $23.00, M-F, 8a-4:30p)","Olathe, KS",Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Olathe-KS/XMLNAME--USA--Material-Handler--Manufacturing--Starting-pay--2300--M-F--8a-4-30p-_R-2523240-1
