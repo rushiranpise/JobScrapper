@@ -1,20 +1,20 @@
 
-✅ Scraped 2 new jobs. Output saved to 'output.csv'.
-📦 Appended 2 jobs to 'output_old.csv'
+✅ Scraped 24 new jobs. Output saved to 'output.csv'.
+📦 Appended 24 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"Datamaxis","title":"CRM Developer","location":"Pune, IN","link":"https:\/\/datamaxis.breezy.hr\/p\/abdc6ecf2d4b-crm-developer","postedOn":"2026-05-26T07:43:18.966Z","updatedOn":null},{"company":"Walmart","title":"Front End Coach","location":"(USA) TX COLUMBUS 00503 WAL-MART","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/USA-TX-COLUMBUS-00503-WAL-MART\/Front-End-Coach_R-2518177-1","postedOn":"Posted Today","updatedOn":null}]
+[{"company":"Applied Materials","title":"Material Coordinator\/Handler III (O3)","location":"Austin,TX","link":"https:\/\/amat.wd1.myworkdayjobs.com\/en-US\/External\/job\/AustinTX\/Material-Coordinator-Handler-III--O3-_R2617936","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Test Automation Software Engineer","location":"McLean, VA","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/McLean-VA\/Test-Automation-Software-Engineer_R0231677","postedOn":"Posted Today","updatedOn":null},{"company":"Becton Dickinson\u2019s Integrated Diagnostics Systems","title":"Material Handler","location":"USA SC - Sumter","link":"https:\/\/bdx.wd1.myworkdayjobs.com\/en-US\/EXTERNAL_CAREER_SITE_USA\/job\/USA-SC---Sumter\/Material-Handler_R-546794","postedOn":"Posted Today","updatedOn":null},{"company":"Citi","title":"Employee Relations Junior Investigator","location":"Tampa Florida United States","link":"https:\/\/citi.wd5.myworkdayjobs.com\/en-US\/2\/job\/Tampa-Florida-United-States\/Employee-Relations-Junior-Investigator_26960697","postedOn":"Posted Today","updatedOn":null},{"company":"Dematic Corp. (ILD-US)","title":"Material Handler - 2nd Shift","location":"Fort Worth, TX, United States","link":"https:\/\/kiongroup.wd3.myworkdayjobs.com\/en-US\/KIONGroup\/job\/Fort-Worth-TX-United-States\/Material-Handler---2nd-Shift_JR-0092360-1","postedOn":"Posted Today","updatedOn":null},{"company":"Merck & Co.","title":"Specialist, Master Data Stewardship (Hybrid - Upper Gwynedd, PA)","location":"USA - Pennsylvania - North Wales (Upper Gwynedd)","link":"https:\/\/msd.wd5.myworkdayjobs.com\/en-US\/SearchJobs\/job\/USA---Pennsylvania---North-Wales-Upper-Gwynedd\/Specialist--Master-Data-Stewardship--Hybrid---Upper-Gwynedd--PA-_R399030-1","postedOn":"Posted Today","updatedOn":null},{"company":"MOOG","title":"Intern, Electrical Engineering","location":"Buffalo, NY","link":"https:\/\/moog.wd5.myworkdayjobs.com\/en-US\/MOOG_External_Career_Site\/job\/Buffalo-NY\/Intern--Electrical-Engineering_R-26-17916-1","postedOn":"Posted Today","updatedOn":null},{"company":"nVent","title":"Material Handler (Paint) - 1st Shift","location":"Anoka, MN, US","link":"https:\/\/nvent.wd5.myworkdayjobs.com\/en-US\/nVent\/job\/Anoka-MN-US\/Material-Handler---1st-Shift_R21985","postedOn":"Posted Today","updatedOn":null},{"company":"State Street","title":"Software Development Analyst","location":"Quincy, Massachusetts","link":"https:\/\/statestreet.wd1.myworkdayjobs.com\/en-US\/Global\/job\/Quincy-Massachusetts\/Software-Development-Analyst_R-786170-1","postedOn":"Posted Today","updatedOn":null},{"company":"The Toro","title":"Painter, 2nd Shift - The Toro Company","location":"Tomah, WI","link":"https:\/\/ttc.wd1.myworkdayjobs.com\/en-US\/Toro_External_Careers\/job\/Tomah-WI\/Painter--2nd-Shift---The-Toro-Company_JR16250","postedOn":"Posted Today","updatedOn":null},{"company":"Woven","title":"Software Engineer, Calibration","location":"Ann Arbor, MI","link":"https:\/\/jobs.lever.co\/woven-by-toyota\/43bdae02-424e-48f2-9648-b5aa16abcfc3","postedOn":"2026-05-26 13:50:46","updatedOn":"N\/A"},{"company":"Walmart","title":"Pharmacy Pre-Grad Intern - WM","location":"(USA) IN KENDALLVILLE 01388 WM SUPERCENTER","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/USA-IN-KENDALLVILLE-01388-WM-SUPERCENTER\/Pharmacy-Pre-Grad-Intern---WM_R-2522159-1","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"(CAN) Caissier","location":"(CAN) QC VILLE DE QUEBEC 03074 WM SUPERCENTER","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/CAN-QC-VILLE-DE-QUEBEC-03074-WM-SUPERCENTER\/XMLNAME--CAN--Caissier_R-2522358","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"(CAN) Caissier","location":"(CAN) QC VILLE DE QUEBEC 03074 WM SUPERCENTER","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/CAN-QC-VILLE-DE-QUEBEC-03074-WM-SUPERCENTER\/XMLNAME--CAN--Caissier_R-2522353","postedOn":"Posted Today","updatedOn":null},{"company":"Xylem Services USA LLC","title":"Industrial Painter 3rd shift","location":"Cheektowaga, New York","link":"https:\/\/xylem.wd5.myworkdayjobs.com\/en-US\/xylem-careers\/job\/Cheektowaga-New-York\/Painter-3rd-shift_R46786","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"Pharmacy Grad Intern (Hrly)","location":"(USA) MO KANSAS CITY 02857 WM SUPERCENTER","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/USA-MO-KANSAS-CITY-02857-WM-SUPERCENTER\/Pharmacy-Grad-Intern--Hrly-_R-2522076-1","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"(USA) Pharmacy Grad Intern (Hrly) #2272","location":"(USA) MD CAMBRIDGE 02272 WM SUPERCENTER","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/USA-MD-CAMBRIDGE-02272-WM-SUPERCENTER\/XMLNAME--USA--Pharmacy-Grad-Intern--Hrly---2272_R-2518843-1","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"(USA) Pharmacy Pre-Grad Intern - WM","location":"Centerville, UT","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/Centerville-UT\/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM_R-2519683","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"(USA) Material Handler, Manufacturing (Starting pay $24.50, Sa-Mo, 6a-6pm)","location":"Olathe, KS","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/Olathe-KS\/XMLNAME--USA--Material-Handler--Manufacturing--Starting-pay--2450--Sa-Mo--6a-6pm-_R-2522194-1","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"(USA) Pharmacy Grad Intern (Hrly)","location":"(USA) OR SHERWOOD 04176 WM SUPERCENTER","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/USA-OR-SHERWOOD-04176-WM-SUPERCENTER\/XMLNAME--USA--Pharmacy-Grad-Intern--Hrly-_R-2518570","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"(USA) Pharmacy Pre-Grad Intern - WM 2202","location":"(USA) ME WINDHAM 02202 WM SUPERCENTER","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/USA-ME-WINDHAM-02202-WM-SUPERCENTER\/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM-2202_R-2519701","postedOn":"Posted Today","updatedOn":null},{"company":"Zipline","title":"Hardware Test Automation Intern (Fall 2026)","location":"South San Francisco, California, USA","link":"https:\/\/www.zipline.com\/careers?gh_jid=7747248003","postedOn":"2026-05-26T11:15:57-04:00","updatedOn":"2026-05-26T11:16:15-04:00"},{"company":"Walmart","title":"(USA) Pharmacy Pre-Grad Intern - WM","location":"(USA) LA NEW ORLEANS 00912 WM SUPERCENTER","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/USA-LA-NEW-ORLEANS-00912-WM-SUPERCENTER\/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM_R-2521857-1","postedOn":"Posted Today","updatedOn":null},{"company":"Walmart","title":"SOFTWARE ENGINEER III","location":"IN KA BANGALORE Home Office Building 11","link":"https:\/\/walmart.wd5.myworkdayjobs.com\/en-US\/WalmartExternal\/job\/IN-KA-BANGALORE-Home-Office-Building-11\/SOFTWARE-ENGINEER-III_R-2324829","postedOn":"Posted Today","updatedOn":null}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
-[ERROR] Altera: Ashby API failed - HTTP 404: Not Found
+[ERROR] Magna Services of America, Inc: Invalid Workday URL
 [ERROR] Ambrook: Lever API failed: https://api.lever.co/v0/postings/ambrook?mode=json - 404
 [ERROR] Amidon Heavy Industries: Ashby API failed - HTTP 404: Not Found
-[ERROR] Magna Services of America, Inc: Invalid Workday URL
+[ERROR] Altera: Ashby API failed - HTTP 404: Not Found
 [ERROR] boomi: Greenhouse API failed: 404
 [ERROR] Canonical: Greenhouse API failed: 404
 [ERROR] Cdata: Greenhouse API failed: 404
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"29630EMPMCBGD3","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"68FA3BMPMT1IIN","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Clever: Could not extract Lever company name
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
 [ERROR] Coinbase: Greenhouse API failed: 404
@@ -22,24 +22,24 @@ ERRORS_START
 [ERROR] Demandbase : Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"B18E2AMPMCCD48","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"E88D0AMPMT2OT4","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
 [ERROR] Funnel: Breezy API failed: 403
 [ERROR] Grammarly : Greenhouse API failed: 404
 [ERROR] Groq: Greenhouse API failed: 404
 [ERROR] Handshake: Greenhouse API failed: 404
 [ERROR] Illumio: Greenhouse API failed: 404
-[ERROR] Jerry: Ashby API failed - HTTP 404: Not Found
 [ERROR] Kikoff: Ashby API failed - HTTP 404: Not Found
+[ERROR] Jerry: Ashby API failed - HTTP 404: Not Found
 [ERROR] Kobie: Greenhouse API failed: 404
 [ERROR] Kodiak Robotics: Lever API failed: https://api.lever.co/v0/postings/kodiak?mode=json - 404
 [ERROR] Modernizing Medicine: Greenhouse API failed: 404
-[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"F2BB2FMPMCDWRB","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Notion: Greenhouse API failed: 404
+[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"6A0E2FMPMT4CBR","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Perplexity AI: Greenhouse API failed: 404
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"A5BCBFMPMCEQ10","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"68FA3BMPMT5I1F","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Raptor Maps: Lever API failed: https://api.lever.co/v0/postings/RaptorMaps?mode=json - 404
 [ERROR] Relativity Space: Greenhouse API failed: 404
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
@@ -48,14 +48,15 @@ ERRORS_START
 [ERROR] Stitch Fix : Greenhouse API failed: 404
 [ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
 [ERROR] Strong Holdim: Greenhouse API failed: 404
+[ERROR] Tandem: Ashby API failed - HTTP 404: Not Found
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"37170CMPMCGLBJ","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"DCB4C8MPMCGNVQ","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"C92289MPMT86GQ","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"BD7B77MPMT88IV","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] TRM labs: Greenhouse API failed: 404
 [ERROR] Vimeo: Greenhouse API failed: 404
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"D26751MPMCHFZ6","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"104733MPMT8YRK","httpStatus":422,"message":"","messageParams":{}}
 ERRORS_END
