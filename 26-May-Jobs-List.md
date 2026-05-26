@@ -4,8 +4,210 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-26 11:38:50](#batch-2026-05-26-11-38-50)
 - [Batch at 2026-05-26 08:51:55](#batch-2026-05-26-08-51-55)
 - [Batch at 2026-05-26 01:02:28](#batch-2026-05-26-01-02-28)
+
+<h3 id='batch-2026-05-26-11-38-50'>🕐 Batch at 2026-05-26 11:38:50</h3>
+
+📊 **Total jobs in this batch: 24**
+
+**Per company:**
+- ASMLEXT1: 1 job
+- Applied Materials: 1 job
+- BAH: 1 job
+- High Metric: 1 job
+- Natera : 1 job
+- Pluralsight: 1 job
+- PlusAI: 9 jobs
+- Remitly: 1 job
+- Roblox: 1 job
+- The Walt Disney Company: 1 job
+- Walmart: 6 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>System Integration & Testing Engineer  CWW Back End Days</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/System-Integration---Testing-Engineer--CWW-Back-End-Days_J-00336658'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Material Coordinator/Handler II (O2)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Coordinator-Handler-II--O2-_R2619375'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Technical Targeting Trainer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Technical-Targeting-Trainer_R0240879'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>High Metric</b></td>
+      <td>USA - Remote</td>
+      <td>Forward Deployed AI Engineer</td>
+      <td><a href='https://www.newrocket.com/careers/job?gh_jid=6006074004&gh_jid=6006074004'>Apply</a></td>
+      <td>May 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Software Engineer III, Voice AI</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6001268004'>Apply</a></td>
+      <td>May 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Pluralsight</b></td>
+      <td>Remote - USA</td>
+      <td>AI Solutions Delivery Architect</td>
+      <td><a href='https://pluralsight.wd1.myworkdayjobs.com/en-US/Careers/job/Remote---USA/AI-Solutions-Delivery-Architect_R0014201'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlusAI</b></td>
+      <td>Santa Clara, CA</td>
+      <td>Computer Vision Engineer Intern</td>
+      <td><a href='https://jobs.lever.co/plus-2/c143df6e-66c2-4498-b19b-8323f9954ca9'>Apply</a></td>
+      <td>2026-05-22 23:38:43</td>
+    </tr>
+    <tr>
+      <td><b>PlusAI</b></td>
+      <td>Santa Clara, CA</td>
+      <td>Deep Learning Intern</td>
+      <td><a href='https://jobs.lever.co/plus-2/58d77886-bf3a-4707-8af8-e1af47162e2e'>Apply</a></td>
+      <td>2026-05-22 17:32:20</td>
+    </tr>
+    <tr>
+      <td><b>PlusAI</b></td>
+      <td>Santa Clara, CA</td>
+      <td>Deep Learning Research Intern</td>
+      <td><a href='https://jobs.lever.co/plus-2/2f2c1cd9-f099-483a-9717-0da83a391333'>Apply</a></td>
+      <td>2026-05-22 23:43:15</td>
+    </tr>
+    <tr>
+      <td><b>PlusAI</b></td>
+      <td>Santa Clara, CA</td>
+      <td>Perception Intern</td>
+      <td><a href='https://jobs.lever.co/plus-2/e4b669b3-c07f-4b5f-abb6-c1c6db602a64'>Apply</a></td>
+      <td>2026-05-22 17:40:01</td>
+    </tr>
+    <tr>
+      <td><b>PlusAI</b></td>
+      <td>Santa Clara, CA</td>
+      <td>Reinforcement Learning Planning Research Intern</td>
+      <td><a href='https://jobs.lever.co/plus-2/7565aed4-41b0-44e9-8608-3ccd07e18262'>Apply</a></td>
+      <td>2026-05-22 23:46:20</td>
+    </tr>
+    <tr>
+      <td><b>PlusAI</b></td>
+      <td>Santa Clara, CA</td>
+      <td>Research Engineer Intern</td>
+      <td><a href='https://jobs.lever.co/plus-2/5f066e92-3ca3-4c04-ae21-2377352166ca'>Apply</a></td>
+      <td>2026-05-22 16:57:56</td>
+    </tr>
+    <tr>
+      <td><b>PlusAI</b></td>
+      <td>Santa Clara, CA</td>
+      <td>Research Engineer Intern - Mapping & Localization</td>
+      <td><a href='https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061'>Apply</a></td>
+      <td>2026-05-22 23:32:15</td>
+    </tr>
+    <tr>
+      <td><b>PlusAI</b></td>
+      <td>Santa Clara, CA</td>
+      <td>Systems Engineering Intern</td>
+      <td><a href='https://jobs.lever.co/plus-2/bbdaa94b-6c29-4b1b-b810-05cda3c08d03'>Apply</a></td>
+      <td>2026-05-22 20:54:50</td>
+    </tr>
+    <tr>
+      <td><b>PlusAI</b></td>
+      <td>Santa Clara, CA</td>
+      <td>Systems Engineering Intern</td>
+      <td><a href='https://jobs.lever.co/plus-2/d5159df2-51d7-49af-816f-00a76ccccdb4'>Apply</a></td>
+      <td>2026-05-21 22:30:49</td>
+    </tr>
+    <tr>
+      <td><b>Remitly</b></td>
+      <td>Seattle, Washington United States</td>
+      <td>Full Stack Software Development Engineer II, Post Submit Experience</td>
+      <td><a href='https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-II--Post-Submit-Experience_R_106198'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>San Mateo, CA, United States</td>
+      <td>Software Engineer, Monetization Products</td>
+      <td><a href='https://careers.roblox.com/jobs/7947219?gh_jid=7947219'>Apply</a></td>
+      <td>May 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Seattle, WA, USA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-II_10146106'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NY UNIONDALE 02583 WAL-MART</td>
+      <td>(USA) Pharmacy Pre-Grad Intern - WM2583</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NY-UNIONDALE-02583-WAL-MART/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM2583_R-2518194'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) IL STREATOR 04699 WM SUPERCENTER</td>
+      <td>(USA) Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IL-STREATOR-04699-WM-SUPERCENTER/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM_R-2519929'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Blackfoot, ID</td>
+      <td>(USA) Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Blackfoot-ID/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM_R-2519185'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MO WENTZVILLE 00243 WM SUPERCENTER</td>
+      <td>(USA) Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MO-WENTZVILLE-00243-WM-SUPERCENTER/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM_R-2521202'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Brownsburg, IN</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Brownsburg-IN/Pharmacy-Pre-Grad-Intern---WM_R-2521159'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX AUSTIN 01185 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-AUSTIN-01185-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2521381'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-26-08-51-55'>🕐 Batch at 2026-05-26 08:51:55</h3>
 
@@ -210,7 +412,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-26-01-02-28'>🕐 Batch at 2026-05-26 01:02:28</h3>
 
 📊 **Total jobs in this batch: 2**
