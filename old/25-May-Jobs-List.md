@@ -4,10 +4,48 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-25 21:01:51](#batch-2026-05-25-21-01-51)
 - [Batch at 2026-05-25 16:15:56](#batch-2026-05-25-16-15-56)
 - [Batch at 2026-05-25 14:21:13](#batch-2026-05-25-14-21-13)
 - [Batch at 2026-05-25 12:53:29](#batch-2026-05-25-12-53-29)
-- [Batch at 2026-05-25 10:17:03](#batch-2026-05-25-10-17-03)
+
+<h3 id='batch-2026-05-25-21-01-51'>🕐 Batch at 2026-05-25 21:01:51</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- Morgan Stanley: 1 job
+- WEX: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>Melbourne, Australia</td>
+      <td>Associate, Application Support Analyst, Asia & Australia Wealth Management</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/Melbourne-Australia/Associate--Reliability-and-Production-Engineering---Asia---Australia-Wealth-Management_JR025475'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>WEX</b></td>
+      <td>Melbourne, Australia</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/Melbourne-Australia/Software-Development-Engineer_R21240'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-25-16-15-56'>🕐 Batch at 2026-05-25 16:15:56</h3>
 
@@ -38,7 +76,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-25-14-21-13'>🕐 Batch at 2026-05-25 14:21:13</h3>
 
 📊 **Total jobs in this batch: 1**
@@ -67,8 +104,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-25-12-53-29'>🕐 Batch at 2026-05-25 12:53:29</h3>
+---<h3 id='batch-2026-05-25-12-53-29'>🕐 Batch at 2026-05-25 12:53:29</h3>
 
 📊 **Total jobs in this batch: 3**
 
