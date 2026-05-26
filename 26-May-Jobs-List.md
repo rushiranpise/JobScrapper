@@ -4,9 +4,179 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-26 14:06:04](#batch-2026-05-26-14-06-04)
 - [Batch at 2026-05-26 11:38:50](#batch-2026-05-26-11-38-50)
 - [Batch at 2026-05-26 08:51:55](#batch-2026-05-26-08-51-55)
 - [Batch at 2026-05-26 01:02:28](#batch-2026-05-26-01-02-28)
+
+<h3 id='batch-2026-05-26-14-06-04'>🕐 Batch at 2026-05-26 14:06:04</h3>
+
+📊 **Total jobs in this batch: 19**
+
+**Per company:**
+- Applied Materials: 1 job
+- Anduril Industries: 1 job
+- BAH: 2 jobs
+- Chime: 1 job
+- Concentrix: 1 job
+- Fivetran: 1 job
+- genpt: 1 job
+- homedepot: 1 job
+- Intel Corporation: 1 job
+- Parafin: 1 job
+- Remitly: 1 job
+- Waymo: 1 job
+- Walmart: 5 jobs
+- Zoom: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer_R2618580'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Reston, Virginia, United States</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5146861007?gh_jid=5146861007'>Apply</a></td>
+      <td>May 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Electronic Warfare Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Electronic-Warfare-Software-Engineer_R0240910'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Rome, NY</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0240881'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Chime</b></td>
+      <td>Remote, USA</td>
+      <td>AI Solutions Specialist</td>
+      <td><a href='https://boards.greenhouse.io/chime/jobs/8535232002?gh_jid=8535232002'>Apply</a></td>
+      <td>May 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>Omaha, NE 68179</td>
+      <td>Infrastructure Analyst (FCC/RF Licensing and RF Path)</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/Omaha-NE-68179/Infrastructure-Analyst--FCC-RF-Licensing-and-RF-Path-_R1721188-5'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Fivetran</b></td>
+      <td>Oakland, California, United States, AMER</td>
+      <td>Systems Engineer, Integrations (Data and Systems)</td>
+      <td><a href='https://www.fivetran.com/careers/job?gh_jid=7668146003'>Apply</a></td>
+      <td>May 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Salt Lake City, UT, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Salt-Lake-City-UT-USA/Material-Handler-I_R26_0000017117'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>NEW JERSEY - VIRTUAL - NJ01</td>
+      <td>Digital Content Data Analyst</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/NEW-JERSEY---VIRTUAL---NJ01/Digital-Content-Data-Analyst_Req181320'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Package Power Integrity Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Package-Power-Integrity-Intern_JR0284242'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Parafin</b></td>
+      <td>San Francisco, CA</td>
+      <td>Data Scientist </td>
+      <td><a href='https://jobs.ashbyhq.com/parafin/cb15e569-764f-4304-a2cd-41a11fe9e008'>Apply</a></td>
+      <td>May 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Remitly</b></td>
+      <td>Seattle, Washington United States</td>
+      <td>Fullstack Software Development Engineer II</td>
+      <td><a href='https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Fullstack-Software-Development-Engineer-II_R_106314'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, California, USA; San Francisco, California, USA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7455592'>Apply</a></td>
+      <td>Dec 17, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) PA READING 01777 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-PA-READING-01777-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2521580'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) FL CORAL SPRINGS 06637 SAM'S CLUB</td>
+      <td>Pre Grad Intern - Sam's part-time</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-FL-CORAL-SPRINGS-06637-SAMS-CLUB/Pre-Grad-Intern---Sam-s-part-time_R-2518948'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NY HAMBURG 02405 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NY-HAMBURG-02405-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2519681'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoom</b></td>
+      <td>Remote  (US)</td>
+      <td>AI Deployment Engineer</td>
+      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--US/AI-Deployment-Engineer_R19195-1'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Beaufort, SC</td>
+      <td>(USA) Coach/Ops Mgr Trainee-2</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Beaufort-SC/XMLNAME--USA--Coach-Ops-Mgr-Trainee-2_R-2517914'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Beaufort, SC</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Beaufort-SC/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2517908'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-26-11-38-50'>🕐 Batch at 2026-05-26 11:38:50</h3>
 
@@ -208,7 +378,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-26-08-51-55'>🕐 Batch at 2026-05-26 08:51:55</h3>
 
 📊 **Total jobs in this batch: 24**
@@ -411,8 +580,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-26-01-02-28'>🕐 Batch at 2026-05-26 01:02:28</h3>
+---<h3 id='batch-2026-05-26-01-02-28'>🕐 Batch at 2026-05-26 01:02:28</h3>
 
 📊 **Total jobs in this batch: 2**
 
