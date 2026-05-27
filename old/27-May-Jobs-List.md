@@ -4,9 +4,254 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-27 13:32:16](#batch-2026-05-27-13-32-16)
 - [Batch at 2026-05-27 10:30:44](#batch-2026-05-27-10-30-44)
 - [Batch at 2026-05-27 06:47:41](#batch-2026-05-27-06-47-41)
 - [Batch at 2026-05-27 03:08:11](#batch-2026-05-27-03-08-11)
+
+<h3 id='batch-2026-05-27-13-32-16'>🕐 Batch at 2026-05-27 13:32:16</h3>
+
+📊 **Total jobs in this batch: 29**
+
+**Per company:**
+- Applied Materials: 2 jobs
+- BAH: 3 jobs
+- Brink: 2 jobs
+- BorgWarner: 1 job
+- Comcast : 1 job
+- Esri: 2 jobs
+- General Motors LLC: 1 job
+- Intel Corporation: 1 job
+- MOOG: 1 job
+- NVIDIA: 1 job
+- PlayStation Global: 1 job
+- PlusAI: 1 job
+- Samsara: 5 jobs
+- Samsun Gresearchamericainternship: 1 job
+- Salesforce: 1 job
+- spacex: 1 job
+- Upstart: 1 job
+- Walmart: 2 jobs
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer_R2620108'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer_R2620555'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-Engineer_R0241095'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Bethesda, MD</td>
+      <td>Cloud Bioinformatics and AI Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Cloud-Bioinformatics-and-AI-Specialist_R0241158'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Honolulu, HI</td>
+      <td>Data Engineer and Application Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Engineer-and-Application-Developer_R0239377'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Brink</b></td>
+      <td>Lewiston ME</td>
+      <td>CDL Driver</td>
+      <td><a href='https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Lewiston-ME/CDL-Driver_R74574'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Brink</b></td>
+      <td>Work from Home US</td>
+      <td>ATM Managed Services Training Specialist</td>
+      <td><a href='https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Work-from-Home-US/ATM-Managed-Services-Training-Specialist_R73765'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Arden - North Carolina - USA</td>
+      <td>Operations Intern - Thermal Systems</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/Operations-Intern---Thermal-Systems_R2026-2077'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>CO - Englewood, 183 Inverness Dr West</td>
+      <td>FreeWheel - Junior Python Engineer (AdTech) - Chicago, IL</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/FreeWheel---Junior-Python-Engineer--AdTech----Chicago--IL_R436902'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Product Engineer II - Data Management</td>
+      <td><a href='https://www.esri.com/careers/5140989007?gh_jid=5140989007'>Apply</a></td>
+      <td>May 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Product Engineer II - Generative AI, ArcGIS Enterprise</td>
+      <td><a href='https://www.esri.com/careers/5140466007?gh_jid=5140466007'>Apply</a></td>
+      <td>May 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Business Management Data Analyst</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Business-Management-Data-Analyst_JR-202611572'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Silicon Performance Validation and Characterization Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Torrance, CA</td>
+      <td>Intern, Operations Excellence</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Intern--Operations-Excellence_R-26-18035'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>AI and Systems Software Intern, At Scale AI - Fall 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-Systems-Software-Intern--At-Scale-AI---Fall-2026_JR2018652'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Mateo, CA</td>
+      <td>Software Development Engineer in Test II - Contractor</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5993032004'>Apply</a></td>
+      <td>May 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>PlusAI</b></td>
+      <td>Santa Clara, CA</td>
+      <td>Software Engineer, Simulation</td>
+      <td><a href='https://jobs.lever.co/plus-2/3e6f5196-a87d-402a-8bbf-b6dd14a82c78'>Apply</a></td>
+      <td>2026-05-26 20:47:47</td>
+    </tr>
+    <tr>
+      <td><b>Samsara</b></td>
+      <td>Remote - GA</td>
+      <td>Specialist Seller - Enterprise Select AI Products</td>
+      <td><a href='https://www.samsara.com/company/careers/roles/7961458?gh_jid=7961458'>Apply</a></td>
+      <td>May 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Samsara</b></td>
+      <td>Remote - TX</td>
+      <td>Specialist Seller - Enterprise Select AI Products</td>
+      <td><a href='https://www.samsara.com/company/careers/roles/7961459?gh_jid=7961459'>Apply</a></td>
+      <td>May 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Samsara</b></td>
+      <td>Remote - LA</td>
+      <td>Specialist Seller - Enterprise Select AI Products</td>
+      <td><a href='https://www.samsara.com/company/careers/roles/7961471?gh_jid=7961471'>Apply</a></td>
+      <td>May 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Samsara</b></td>
+      <td>Remote - NY</td>
+      <td>Specialist Seller - Enterprise Select AI Products</td>
+      <td><a href='https://www.samsara.com/company/careers/roles/7961186?gh_jid=7961186'>Apply</a></td>
+      <td>May 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Samsara</b></td>
+      <td>Remote - MA</td>
+      <td>Specialist Seller - Enterprise Select AI Products</td>
+      <td><a href='https://www.samsara.com/company/careers/roles/7961449?gh_jid=7961449'>Apply</a></td>
+      <td>May 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Samsun Gresearchamericainternship</b></td>
+      <td>665 Clyde Avenue, Mountain View,  CA, USA</td>
+      <td>2026 Fall Intern, Computer Vision/AI </td>
+      <td><a href='https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8560657002'>Apply</a></td>
+      <td>May 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Virginia - Mclean</td>
+      <td>Solution Engineer - Data Integration Specialist</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Mclean/Solution-Engineer---AI---Data-Integration-Specialist_JR338566'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Engineer, Hardware Test & Automation (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8565155002?gh_jid=8565155002'>Apply</a></td>
+      <td>May 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Upstart</b></td>
+      <td>United States | Remote</td>
+      <td>Software Engineer, Agentic Tooling</td>
+      <td><a href='https://careers.upstart.com/jobs?gh_jid=7727764'>Apply</a></td>
+      <td>Mar 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) IL SPRING VALLEY 06792 MAINTENANCE TRUCKING</td>
+      <td>(USA) Service Shop Entry Technician - SPRING VALLEY, IL (2ND SHIFT)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IL-SPRING-VALLEY-06792-MAINTENANCE-TRUCKING/XMLNAME--USA--Service-Shop-Entry-Technician---SPRING-VALLEY--IL--2ND-SHIFT-_R-2524317'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Dubuque, IA</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Dubuque-IA/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2521454'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Payment Operations Intern</td>
+      <td><a href='https://jobs.lever.co/zoox/5f93a602-bd61-4cec-8244-71c9d9efe61a'>Apply</a></td>
+      <td>2026-05-27 18:33:50</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-27-10-30-44'>🕐 Batch at 2026-05-27 10:30:44</h3>
 
@@ -467,7 +712,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-27-06-47-41'>🕐 Batch at 2026-05-27 06:47:41</h3>
 
 📊 **Total jobs in this batch: 8**
@@ -548,8 +792,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-27-03-08-11'>🕐 Batch at 2026-05-27 03:08:11</h3>
+---<h3 id='batch-2026-05-27-03-08-11'>🕐 Batch at 2026-05-27 03:08:11</h3>
 
 📊 **Total jobs in this batch: 4**
 
