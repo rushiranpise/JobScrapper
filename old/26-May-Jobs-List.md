@@ -4,10 +4,63 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-26 22:27:44](#batch-2026-05-26-22-27-44)
 - [Batch at 2026-05-26 17:18:46](#batch-2026-05-26-17-18-46)
 - [Batch at 2026-05-26 15:33:01](#batch-2026-05-26-15-33-01)
 - [Batch at 2026-05-26 14:06:04](#batch-2026-05-26-14-06-04)
-- [Batch at 2026-05-26 11:38:50](#batch-2026-05-26-11-38-50)
+
+<h3 id='batch-2026-05-26-22-27-44'>🕐 Batch at 2026-05-26 22:27:44</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- Citi: 2 jobs
+- OpenAI: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex - Developer para Soporte a la Producción</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Developer-para-Soporte-a-la-Produccin_26965940'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex - Developer para Soporte a la Producción</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Developer-para-Soporte-a-la-Produccin_26965939'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenAI</b></td>
+      <td>Sydney, Australia</td>
+      <td>Partner AI Deployment Engineer - AWS</td>
+      <td><a href='https://jobs.ashbyhq.com/openai/48fdb9b8-af29-4250-ac92-44a0e9d60735'>Apply</a></td>
+      <td>May 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Sam's Home Office AR Bentonville Home Office</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Sams-Home-Office-AR-Bentonville-Home-Office/Software-Engineer-II_R-2519097'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-26-17-18-46'>🕐 Batch at 2026-05-26 17:18:46</h3>
 
@@ -69,7 +122,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-26-15-33-01'>🕐 Batch at 2026-05-26 15:33:01</h3>
 
 📊 **Total jobs in this batch: 6**
@@ -137,8 +189,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-26-14-06-04'>🕐 Batch at 2026-05-26 14:06:04</h3>
+---<h3 id='batch-2026-05-26-14-06-04'>🕐 Batch at 2026-05-26 14:06:04</h3>
 
 📊 **Total jobs in this batch: 19**
 
