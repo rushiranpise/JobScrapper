@@ -4,10 +4,184 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-27 15:51:58](#batch-2026-05-27-15-51-58)
 - [Batch at 2026-05-27 13:32:16](#batch-2026-05-27-13-32-16)
 - [Batch at 2026-05-27 10:30:44](#batch-2026-05-27-10-30-44)
 - [Batch at 2026-05-27 06:47:41](#batch-2026-05-27-06-47-41)
-- [Batch at 2026-05-27 03:08:11](#batch-2026-05-27-03-08-11)
+
+<h3 id='batch-2026-05-27-15-51-58'>🕐 Batch at 2026-05-27 15:51:58</h3>
+
+📊 **Total jobs in this batch: 20**
+
+**Per company:**
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- Applied Materials: 1 job
+- BAH: 6 jobs
+- Children's Hospital Medical Center: 1 job
+- Gecko Robotics: 1 job
+- genpt: 1 job
+- LaunchDarkly : 1 job
+- MongoDB: 1 job
+- NVIDIA: 2 jobs
+- Stripe: 1 job
+- Walmart: 3 jobs
+- Zoom: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Kiowa County</td>
+      <td>Groundskeeper - Quartz Mountain State Park Lodge</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Kiowa-County/Groundskeeper---Quartz-Mountain-State-Park-Lodge_JR60584'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Birch Grove,MT</td>
+      <td>Production Control/Material Handler III - (O3)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Birch-GroveMT/Production-Control-Material-Handler-III----O3-_R2620502'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Cloud Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Cloud-Engineer_R0241046'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Colorado Springs, CO</td>
+      <td>Intelligence Training Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Colorado-Springs-CO/Intelligence-Training-Specialist_R0240962'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Electronic Warfare Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Electronic-Warfare-Software-Engineer_R0241119'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Engineer_R0241105'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Pensacola, FL</td>
+      <td>IT Curriculum Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Pensacola-FL/IT-Curriculum-Developer_R0241094'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Honolulu, HI</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Software-Engineer_R0240996'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Children's Hospital Medical Center</b></td>
+      <td>South Campus</td>
+      <td>Athletic Trainer</td>
+      <td><a href='https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/South-Campus/Athletic-Trainer_JR221339'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Gecko Robotics</b></td>
+      <td>New York City</td>
+      <td>Software Engineer | Data Platform</td>
+      <td><a href='https://jobs.ashbyhq.com/gecko-robotics/9fcb98dc-cfb5-4ccb-8930-7e3c2b5ab368'>Apply</a></td>
+      <td>May 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Latham, NY, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Latham-NY-USA/Material-Handler-I_R26_0000017227'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>LaunchDarkly </b></td>
+      <td>Remote - US</td>
+      <td>Full Stack Engineer, AgentControl</td>
+      <td><a href='https://job-boards.greenhouse.io/launchdarkly/jobs/7750116003'>Apply</a></td>
+      <td>May 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>MongoDB</b></td>
+      <td>California; Oregon; Washington</td>
+      <td>Software Engineer, Data Migration</td>
+      <td><a href='https://www.mongodb.com/careers/job/?gh_jid=7523834'>Apply</a></td>
+      <td>May 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Software Performance at Scale Intern - Fall 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Performance-at-Scale-Intern---Fall-2026_JR2018701'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Data Analysis Intern, Applied System Engineering - Fall 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Analysis-Intern--Applied-System-Engineering---Fall-2026_JR2018687-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>US</td>
+      <td>Machine Learning Engineer, Capital Underwriting</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=7952048'>Apply</a></td>
+      <td>May 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) ID BLACKFOOT 01905 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ID-BLACKFOOT-01905-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2523212'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) LA MONROE 01193 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-LA-MONROE-01193-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2523746-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Service Building CA SUNNYVALE Home Office</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2415153'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoom</b></td>
+      <td>Seattle (WA)</td>
+      <td>Software Engineer - Java</td>
+      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Seattle-WA/Software-Engineer---Java_R19196'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-27-13-32-16'>🕐 Batch at 2026-05-27 13:32:16</h3>
 
@@ -252,7 +426,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-27-10-30-44'>🕐 Batch at 2026-05-27 10:30:44</h3>
 
 📊 **Total jobs in this batch: 60**
@@ -711,8 +884,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-27-06-47-41'>🕐 Batch at 2026-05-27 06:47:41</h3>
+---<h3 id='batch-2026-05-27-06-47-41'>🕐 Batch at 2026-05-27 06:47:41</h3>
 
 📊 **Total jobs in this batch: 8**
 
