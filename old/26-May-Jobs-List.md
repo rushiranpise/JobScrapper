@@ -4,10 +4,71 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-26 17:18:46](#batch-2026-05-26-17-18-46)
 - [Batch at 2026-05-26 15:33:01](#batch-2026-05-26-15-33-01)
 - [Batch at 2026-05-26 14:06:04](#batch-2026-05-26-14-06-04)
 - [Batch at 2026-05-26 11:38:50](#batch-2026-05-26-11-38-50)
-- [Batch at 2026-05-26 08:51:55](#batch-2026-05-26-08-51-55)
+
+<h3 id='batch-2026-05-26-17-18-46'>🕐 Batch at 2026-05-26 17:18:46</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- PlusAI: 2 jobs
+- spacex: 1 job
+- Zoox: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>PlusAI</b></td>
+      <td>Santa Clara, CA</td>
+      <td>Systems Engineering Intern</td>
+      <td><a href='https://jobs.lever.co/plus-2/1864b1be-25e5-424f-9626-09e58f6147f2'>Apply</a></td>
+      <td>2026-05-26 19:48:47</td>
+    </tr>
+    <tr>
+      <td><b>PlusAI</b></td>
+      <td>Santa Clara, CA</td>
+      <td>Systems Engineering Intern</td>
+      <td><a href='https://jobs.lever.co/plus-2/43bad137-b976-4dfa-b72d-96918929e9db'>Apply</a></td>
+      <td>2026-05-23 00:29:35</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>CNC Programmer (Starlink) - 2nd Shift</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8565257002?gh_jid=8565257002'>Apply</a></td>
+      <td>May 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer, Test Set Curation</td>
+      <td><a href='https://jobs.lever.co/zoox/62adaf80-43a9-4210-a908-7b714bfea84b'>Apply</a></td>
+      <td>2026-05-11 21:10:53</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Colorado Springs, CO</td>
+      <td>Systems and Infrastructure Engineer II</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Colorado-Springs-CO/Systems-and-Infrastructure-Engineer-II_R-2480561'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-26-15-33-01'>🕐 Batch at 2026-05-26 15:33:01</h3>
 
@@ -77,7 +138,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-26-14-06-04'>🕐 Batch at 2026-05-26 14:06:04</h3>
 
 📊 **Total jobs in this batch: 19**
@@ -245,8 +305,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-26-11-38-50'>🕐 Batch at 2026-05-26 11:38:50</h3>
+---<h3 id='batch-2026-05-26-11-38-50'>🕐 Batch at 2026-05-26 11:38:50</h3>
 
 📊 **Total jobs in this batch: 24**
 
