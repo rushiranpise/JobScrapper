@@ -4,10 +4,100 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-27 17:10:20](#batch-2026-05-27-17-10-20)
 - [Batch at 2026-05-27 15:51:58](#batch-2026-05-27-15-51-58)
 - [Batch at 2026-05-27 13:32:16](#batch-2026-05-27-13-32-16)
 - [Batch at 2026-05-27 10:30:44](#batch-2026-05-27-10-30-44)
-- [Batch at 2026-05-27 06:47:41](#batch-2026-05-27-06-47-41)
+
+<h3 id='batch-2026-05-27-17-10-20'>🕐 Batch at 2026-05-27 17:10:20</h3>
+
+📊 **Total jobs in this batch: 9**
+
+**Per company:**
+- Citi: 3 jobs
+- flir: 1 job
+- Intel Corporation: 1 job
+- Micron: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex - SAP Developer Employee Central</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---SAP-Developer-Employee-Central_26966678'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex - Workday Developer Benefits, Compensation & Learning</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Workday-Developer-Benefits--Compensation---Learning_26966674'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Jersey City New Jersey United States</td>
+      <td>Gen AI Developer Officer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Gen-AI-Developer-Officer_26963516'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Wilsonville, OR</td>
+      <td>Software Quality Assurance Engineer</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Wilsonville-OR/Software-Quality-Assurance-Engineer_REQ34110'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>LTD Frame Automation Software Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/LTD-Frame-Automation-Software-Engineer_JR0284284'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Manassas, VA -  Fab 6</td>
+      <td>New College Grad - Semiconductor Quality Assurance Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/New-College-Grad---Semiconductor-Quality-Assurance-Engineer_JR85074'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) IN INDIANAPOLIS 01518 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IN-INDIANAPOLIS-01518-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2523914'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NY CLIFTON PARK 02844 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NY-CLIFTON-PARK-02844-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2522807-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) ID AMMON 01902 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ID-AMMON-01902-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2523195'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-27-15-51-58'>🕐 Batch at 2026-05-27 15:51:58</h3>
 
@@ -182,7 +272,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-27-13-32-16'>🕐 Batch at 2026-05-27 13:32:16</h3>
 
 📊 **Total jobs in this batch: 29**
@@ -425,8 +514,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-27-10-30-44'>🕐 Batch at 2026-05-27 10:30:44</h3>
+---<h3 id='batch-2026-05-27-10-30-44'>🕐 Batch at 2026-05-27 10:30:44</h3>
 
 📊 **Total jobs in this batch: 60**
 
