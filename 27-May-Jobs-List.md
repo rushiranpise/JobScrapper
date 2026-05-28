@@ -4,10 +4,109 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-27 22:17:25](#batch-2026-05-27-22-17-25)
 - [Batch at 2026-05-27 17:10:20](#batch-2026-05-27-17-10-20)
 - [Batch at 2026-05-27 15:51:58](#batch-2026-05-27-15-51-58)
 - [Batch at 2026-05-27 13:32:16](#batch-2026-05-27-13-32-16)
-- [Batch at 2026-05-27 10:30:44](#batch-2026-05-27-10-30-44)
+
+<h3 id='batch-2026-05-27-22-17-25'>🕐 Batch at 2026-05-27 22:17:25</h3>
+
+📊 **Total jobs in this batch: 10**
+
+**Per company:**
+- Applied Materials: 1 job
+- BAH: 2 jobs
+- Citi: 3 jobs
+- NVIDIAExternalCareerSite: 1 job
+- Ripple: 1 job
+- spacex: 1 job
+- Verkada : 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Phoenix,AZ</td>
+      <td>Application Engineer III - EBeam</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/PhoenixAZ/Application-Engineer-III---EBeam_R2620670'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Alexandria, VA</td>
+      <td>Data Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Engineer--Mid_R0240987'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Alexandria, VA</td>
+      <td>High Side Operations Software Engineer, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/High-Side-Operations-Software-Engineer--Junior_R0240986-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex - Workday Developer Help, Peakon & Reporting</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Workday-Developer-Help--Peakon---Reporting_26966679'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex - SAP Developer Employee Central Payroll (ECP)</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---SAP-Developer-Employee-Central-Payroll--ECP-_26966677'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex - SAP ABAP Developer – Employee Central Payroll</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---SAP-ABAP-Developer---Employee-Central-Payroll_26966676-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIAExternalCareerSite</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>PhD Research Intern, Generative AI - 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Ripple</b></td>
+      <td>San Francisco, CA, United States</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://ripple.com/careers/all-jobs/job/7951564?gh_jid=7951564'>Apply</a></td>
+      <td>May 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>IT Systems Administrator, DevOps</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8568140002?gh_jid=8568140002'>Apply</a></td>
+      <td>May 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Verkada </b></td>
+      <td>San Mateo, CA United States</td>
+      <td>Frontend Engineer - Alerts and Operations</td>
+      <td><a href='https://job-boards.greenhouse.io/verkada/jobs/4912168007'>Apply</a></td>
+      <td>Sep 18, 2025</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-27-17-10-20'>🕐 Batch at 2026-05-27 17:10:20</h3>
 
@@ -98,7 +197,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-27-15-51-58'>🕐 Batch at 2026-05-27 15:51:58</h3>
 
 📊 **Total jobs in this batch: 20**
@@ -271,8 +369,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-27-13-32-16'>🕐 Batch at 2026-05-27 13:32:16</h3>
+---<h3 id='batch-2026-05-27-13-32-16'>🕐 Batch at 2026-05-27 13:32:16</h3>
 
 📊 **Total jobs in this batch: 29**
 

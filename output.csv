@@ -1,10 +1,11 @@
-company,title,location,postedOn,link
-Citi,Banamex - SAP Developer Employee Central,Ciudad De Mexico Distrito Federal Mexico,Posted Today,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---SAP-Developer-Employee-Central_26966678
-Citi,"Banamex - Workday Developer Benefits, Compensation & Learning",Ciudad De Mexico Distrito Federal Mexico,Posted Today,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Workday-Developer-Benefits--Compensation---Learning_26966674
-Citi,Gen AI Developer Officer,Jersey City New Jersey United States,Posted Today,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Gen-AI-Developer-Officer_26963516
-flir,Software Quality Assurance Engineer,"US - Wilsonville, OR",Posted Today,https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Wilsonville-OR/Software-Quality-Assurance-Engineer_REQ34110
-Intel Corporation,LTD Frame Automation Software Engineer,"US, Oregon, Hillsboro",Posted Today,https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/LTD-Frame-Automation-Software-Engineer_JR0284284
-Micron,New College Grad - Semiconductor Quality Assurance Engineer,"Manassas, VA -  Fab 6",Posted Today,https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/New-College-Grad---Semiconductor-Quality-Assurance-Engineer_JR85074
-Walmart,Pharmacy Pre-Grad Intern - WM,(USA) IN INDIANAPOLIS 01518 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IN-INDIANAPOLIS-01518-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2523914
-Walmart,Pharmacy Pre-Grad Intern - WM,(USA) NY CLIFTON PARK 02844 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NY-CLIFTON-PARK-02844-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2522807-1
-Walmart,Pharmacy Pre-Grad Intern - WM,(USA) ID AMMON 01902 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ID-AMMON-01902-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2523195
+company,title,location,postedOn,link,updatedOn
+Applied Materials,Application Engineer III - EBeam,"Phoenix,AZ",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/PhoenixAZ/Application-Engineer-III---EBeam_R2620670,
+BAH,"Data Engineer, Mid","Alexandria, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Engineer--Mid_R0240987,
+BAH,"High Side Operations Software Engineer, Junior","Alexandria, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/High-Side-Operations-Software-Engineer--Junior_R0240986-1,
+Citi,"Banamex - Workday Developer Help, Peakon & Reporting",Ciudad De Mexico Distrito Federal Mexico,Posted Today,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Workday-Developer-Help--Peakon---Reporting_26966679,
+Citi,Banamex - SAP Developer Employee Central Payroll (ECP),Ciudad De Mexico Distrito Federal Mexico,Posted Today,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---SAP-Developer-Employee-Central-Payroll--ECP-_26966677,
+Citi,Banamex - SAP ABAP Developer – Employee Central Payroll,Ciudad De Mexico Distrito Federal Mexico,Posted Today,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---SAP-ABAP-Developer---Employee-Central-Payroll_26966676-1,
+NVIDIAExternalCareerSite,"PhD Research Intern, Generative AI - 2026","US, CA, Santa Clara",Posted Today,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035,
+Ripple,Software Engineer II,"San Francisco, CA, United States",2026-05-27T22:48:18-04:00,https://ripple.com/careers/all-jobs/job/7951564?gh_jid=7951564,2026-05-27T22:48:18-04:00
+spacex,"IT Systems Administrator, DevOps","Redmond, WA",2026-05-27T21:01:11-04:00,https://boards.greenhouse.io/spacex/jobs/8568140002?gh_jid=8568140002,2026-05-27T21:01:11-04:00
+Verkada ,Frontend Engineer - Alerts and Operations,"San Mateo, CA United States",2025-09-18T17:44:35-04:00,https://job-boards.greenhouse.io/verkada/jobs/4912168007,2026-05-27T20:44:39-04:00
