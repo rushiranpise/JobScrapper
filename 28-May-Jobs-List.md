@@ -4,10 +4,95 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-28 16:28:31](#batch-2026-05-28-16-28-31)
 - [Batch at 2026-05-28 14:20:26](#batch-2026-05-28-14-20-26)
 - [Batch at 2026-05-28 11:24:53](#batch-2026-05-28-11-24-53)
 - [Batch at 2026-05-28 07:48:47](#batch-2026-05-28-07-48-47)
-- [Batch at 2026-05-28 03:17:08](#batch-2026-05-28-03-17-08)
+
+<h3 id='batch-2026-05-28-16-28-31'>🕐 Batch at 2026-05-28 16:28:31</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- Affirm : 1 job
+- Citi: 1 job
+- Nike: 1 job
+- spacex: 1 job
+- The Walt Disney Company: 1 job
+- Walmart: 2 jobs
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>San Francisco, California, United States</td>
+      <td>Software Engineer, Early Career</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/7485068003'>Apply</a></td>
+      <td>Nov 28, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Tampa Florida United States</td>
+      <td>Python/Pyspark Programmer Analyst - Officer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Python-Pyspark-Programmer-Analyst---Officer_26966174'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Beaverton, Oregon</td>
+      <td>Golf Impact Sports & Promo Footwear Materials Developer II</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Golf-Impact-Sports---Promo-Footwear-Materials-Developer-II_R-84389'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Mission Integration Engineer, AI (Starshield)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8569184002?gh_jid=8569184002'>Apply</a></td>
+      <td>May 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>Executive Assistant, Unscripted Casting (Disney Entertainment Television)</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Executive-Assistant--Unscripted-Casting--Disney-Entertainment-Television-_10151482'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX ABILENE 00535 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-ABILENE-00535-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2524602'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Rimouski, QC</td>
+      <td>(CAN) Caissier</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Rimouski-QC/XMLNAME--CAN--Caissier_R-2525463'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer, ML Performance Optimization</td>
+      <td><a href='https://jobs.lever.co/zoox/bc11276c-8db7-426e-9d00-d41c2097723a'>Apply</a></td>
+      <td>2026-05-28 22:34:49</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-28-14-20-26'>🕐 Batch at 2026-05-28 14:20:26</h3>
 
@@ -277,7 +362,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-28-11-24-53'>🕐 Batch at 2026-05-28 11:24:53</h3>
 
 📊 **Total jobs in this batch: 19**
@@ -441,8 +525,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-28-07-48-47'>🕐 Batch at 2026-05-28 07:48:47</h3>
+---<h3 id='batch-2026-05-28-07-48-47'>🕐 Batch at 2026-05-28 07:48:47</h3>
 
 📊 **Total jobs in this batch: 5**
 
