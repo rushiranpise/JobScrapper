@@ -4,9 +4,279 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-28 14:20:26](#batch-2026-05-28-14-20-26)
 - [Batch at 2026-05-28 11:24:53](#batch-2026-05-28-11-24-53)
 - [Batch at 2026-05-28 07:48:47](#batch-2026-05-28-07-48-47)
 - [Batch at 2026-05-28 03:17:08](#batch-2026-05-28-03-17-08)
+
+<h3 id='batch-2026-05-28-14-20-26'>🕐 Batch at 2026-05-28 14:20:26</h3>
+
+📊 **Total jobs in this batch: 33**
+
+**Per company:**
+- Abnormal Security: 1 job
+- Allstate: 3 jobs
+- Archer 56: 1 job
+- Applied Materials: 1 job
+- BAH: 3 jobs
+- Esri: 1 job
+- genpt: 1 job
+- homedepot: 1 job
+- Intel Corporation: 1 job
+- Lyft: 1 job
+- Natera : 1 job
+- Nike: 1 job
+- spacex: 4 jobs
+- Toast: 1 job
+- Waymo: 1 job
+- Walmart: 11 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Abnormal Security</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer II - Inline Mailflow</td>
+      <td><a href='https://abnormal.ai/careers/jobs/7749085003?gh_jid=7749085003'>Apply</a></td>
+      <td>May 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - NJ (Remote)</td>
+      <td>Mail Processing Specialist - New Jersey - (Hybrid)</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---NJ-Remote/Mail-Processing-Specialist---New-Jersey----Hybrid-_R30698-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - MA (Remote)</td>
+      <td>Field Auto Appraiser - North Boston, MA</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---MA-Remote/Field-Auto-Appraiser---North-Boston--MA_R30785'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - TX (Remote)</td>
+      <td>Infrastructure Solution Engineer</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---TX-Remote/Infrastructure-Solution-Engineer_R30236-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Archer 56</b></td>
+      <td>Washington, United States</td>
+      <td>Liaison Engineering Focal </td>
+      <td><a href='https://job-boards.greenhouse.io/archer56/jobs/7719735003'>Apply</a></td>
+      <td>May 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>AI Research Scientist (Generative Models for Scientific Discovery)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/AI-Research-Scientist--Generative-Models-for-Scientific-Discovery-_R2620768'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0240737'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Software-Engineer_R0241192'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Agentic AI Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Agentic-AI-Engineer_R0240706'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Charlotte, NC - Arboretum</td>
+      <td>Support Analyst l-Infrastructure  </td>
+      <td><a href='https://www.esri.com/careers/5149364007?gh_jid=5149364007'>Apply</a></td>
+      <td>May 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Atlanta, GA, USA</td>
+      <td>Autotech Technical Trainer</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA-USA/Autotech-Technical-Trainer_R26_0000017660'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>NEW JERSEY - VIRTUAL - NJ01</td>
+      <td>Area Installation Specialist - South Plainfield, NJ</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/NEW-JERSEY---VIRTUAL---NJ01/Area-Installation-Specialist---South-Plainfield--NJ_Req182081'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, California, Folsom</td>
+      <td>GPU Software Development Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/GPU-Software-Development-Engineer_JR0284406'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Lyft</b></td>
+      <td>New York, NY</td>
+      <td>Data Analyst, Operations Planning</td>
+      <td><a href='https://app.careerpuck.com/job-board/lyft/job/8568512002?gh_jid=8568512002'>Apply</a></td>
+      <td>May 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Machine Learning Scientist, Multimodal AI </td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6004385004'>Apply</a></td>
+      <td>May 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Beaverton, Oregon</td>
+      <td>Software Engineer</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer_R-84900'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Failure Analysis Engineer (Starshield)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8569040002?gh_jid=8569040002'>Apply</a></td>
+      <td>May 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer (Special Projects) - Top Secret Clearance</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8568970002?gh_jid=8568970002'>Apply</a></td>
+      <td>May 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Engineer (Starlink Mobile)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8568939002?gh_jid=8568939002'>Apply</a></td>
+      <td>May 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Sunnyvale, CA</td>
+      <td>Software Engineer (Starlink Mobile) </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8567634002?gh_jid=8567634002'>Apply</a></td>
+      <td>May 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Toast</b></td>
+      <td>Remote, USA</td>
+      <td>Software Engineer II, GTM AI Agents</td>
+      <td><a href='https://careers.toasttab.com/jobs?gh_jid=7849825'>Apply</a></td>
+      <td>Apr 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, United States</td>
+      <td>Software Engineer -  Marketplace Experimentation Platform</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7905680'>Apply</a></td>
+      <td>May 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Deptford, NJ</td>
+      <td>(USA) Pharmacy Pre-Grad Intern - WM 3422</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Deptford-NJ/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM-3422_R-2525664'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NJ CHERRY HILL 05340 WAL-MART</td>
+      <td>(USA) Pharmacy Pre-Grad Intern - WM 5340</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NJ-CHERRY-HILL-05340-WAL-MART/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM-5340_R-2525672'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Valdosta, GA</td>
+      <td>(USA) Material Handler, Manufacturing, FRI - SUN 6:00PM - 6:00 AM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Valdosta-GA/XMLNAME--USA--Material-Handler--Manufacturing--FRI---SUN-6-00PM---6-00-AM_R-2525675-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Valdosta, GA</td>
+      <td>(USA) Material Handler, Manufacturing, SAT - SUN 6:00AM - 6:30PM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Valdosta-GA/XMLNAME--USA--Material-Handler--Manufacturing--SAT---SUN-6-00AM---6-30PM_R-2525660-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Valdosta, GA</td>
+      <td>(USA) Material Handler, Manufacturing, Mon - Fri 10:30pm - 7:00am</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Valdosta-GA/XMLNAME--USA--Material-Handler--Manufacturing--Mon---Fri-10-30pm---7-00am_R-2525653-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) IL MARION 00216 WM SUPERCENTER</td>
+      <td>(USA) Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IL-MARION-00216-WM-SUPERCENTER/XMLNAME--USA--Pharmacy-Grad-Intern--Hrly-_R-2525652'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Valdosta, GA</td>
+      <td>(USA) Material Handler, Manufacturing</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Valdosta-GA/XMLNAME--USA--Material-Handler--Manufacturing_R-2525632-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX BALLINGER 01078 WAL-MART</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-BALLINGER-01078-WAL-MART/Pharmacy-Grad-Intern--Hrly----25-000-Sign-on-bonus--2026-Grad-Intern-Bonus-Program-_R-2349079'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Mentor, OH</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Mentor-OH/XMLNAME--USA--Front-End-Coach_R-2525412-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TN SMYRNA 00406 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TN-SMYRNA-00406-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2523237'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) SC SUMMERVILLE 00628 WM SUPERCENTER</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-SC-SUMMERVILLE-00628-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2523114'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-28-11-24-53'>🕐 Batch at 2026-05-28 11:24:53</h3>
 
@@ -172,7 +442,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-28-07-48-47'>🕐 Batch at 2026-05-28 07:48:47</h3>
 
 📊 **Total jobs in this batch: 5**
@@ -233,8 +502,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-28-03-17-08'>🕐 Batch at 2026-05-28 03:17:08</h3>
+---<h3 id='batch-2026-05-28-03-17-08'>🕐 Batch at 2026-05-28 03:17:08</h3>
 
 📊 **Total jobs in this batch: 3**
 
