@@ -4,10 +4,110 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-28 21:08:59](#batch-2026-05-28-21-08-59)
 - [Batch at 2026-05-28 16:28:31](#batch-2026-05-28-16-28-31)
 - [Batch at 2026-05-28 14:20:26](#batch-2026-05-28-14-20-26)
 - [Batch at 2026-05-28 11:24:53](#batch-2026-05-28-11-24-53)
-- [Batch at 2026-05-28 07:48:47](#batch-2026-05-28-07-48-47)
+
+<h3 id='batch-2026-05-28-21-08-59'>🕐 Batch at 2026-05-28 21:08:59</h3>
+
+📊 **Total jobs in this batch: 10**
+
+**Per company:**
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- ASMLEXT1: 1 job
+- BAH: 1 job
+- genpt: 1 job
+- Pure storage: 1 job
+- spacex: 1 job
+- Snowflake: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Data Coordinator I</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Data-Coordinator-I_JR60660'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Austin, TX, USA</td>
+      <td>Upgrade Install and Relocation Engineer</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Austin-TX-USA/Upgrade-Install-and-Relocation-Engineer_J-00343279'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dayton, OH</td>
+      <td>Computer Vision Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Computer-Vision-Software-Engineer_R0234815'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>AUS APG Queensland</td>
+      <td>Data Analyst</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/AUS-APG-Queensland/Data-Analyst_R26_0000017141'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pure storage</b></td>
+      <td>Santa Clara, California</td>
+      <td>Thermal Engineer, Datastore Hardware</td>
+      <td><a href='https://job-boards.greenhouse.io/purestorage/jobs/7902083'>Apply</a></td>
+      <td>May 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>IT Network Infrastructure Engineer</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8570046002?gh_jid=8570046002'>Apply</a></td>
+      <td>May 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>CA-Ontario-Toronto</td>
+      <td>Frontend Software Engineer - Native Apps</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/40fce2ee-cb91-44c0-936b-1efb60d6ec18'>Apply</a></td>
+      <td>May 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 01201 WM SUPERCENTER</td>
+      <td>(CAN) Caissier</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-01201-WM-SUPERCENTER/XMLNAME--CAN--Caissier_R-2525896'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Salaberry-De-Valleyfield, QC</td>
+      <td>(CAN) Caissier</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Salaberry-De-Valleyfield-QC/XMLNAME--CAN--Caissier_R-2525822'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Arlington, WA</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Arlington-WA/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2523052-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-28-16-28-31'>🕐 Batch at 2026-05-28 16:28:31</h3>
 
@@ -93,7 +193,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-28-14-20-26'>🕐 Batch at 2026-05-28 14:20:26</h3>
 
 📊 **Total jobs in this batch: 33**
@@ -361,8 +460,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-28-11-24-53'>🕐 Batch at 2026-05-28 11:24:53</h3>
+---<h3 id='batch-2026-05-28-11-24-53'>🕐 Batch at 2026-05-28 11:24:53</h3>
 
 📊 **Total jobs in this batch: 19**
 
