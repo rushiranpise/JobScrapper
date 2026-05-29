@@ -4,8 +4,272 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-29 12:41:20](#batch-2026-05-29-12-41-20)
 - [Batch at 2026-05-29 09:52:02](#batch-2026-05-29-09-52-02)
 - [Batch at 2026-05-29 05:28:05](#batch-2026-05-29-05-28-05)
+
+<h3 id='batch-2026-05-29-12-41-20'>🕐 Batch at 2026-05-29 12:41:20</h3>
+
+📊 **Total jobs in this batch: 32**
+
+**Per company:**
+- Anduril Industries: 3 jobs
+- Allstate: 2 jobs
+- Applied Materials: 1 job
+- Esri: 5 jobs
+- homedepot: 2 jobs
+- Intel Corporation: 2 jobs
+- LogRocket: 1 job
+- MOOG: 1 job
+- Nike: 1 job
+- Schonfeld: 1 job
+- spacex: 1 job
+- SRK Supplylogix LLC: 1 job
+- Upstart: 1 job
+- Walmart: 6 jobs
+- Xylem Services USA LLC: 1 job
+- Zoox: 1 job
+- Zoom: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Huntsville, Alabama, United States</td>
+      <td>Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5150389007?gh_jid=5150389007'>Apply</a></td>
+      <td>May 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Fort Collins, Colorado, United States</td>
+      <td>Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5150341007?gh_jid=5150341007'>Apply</a></td>
+      <td>May 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Broomfield, Colorado, United States</td>
+      <td>Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5150344007?gh_jid=5150344007'>Apply</a></td>
+      <td>May 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>MA - West Springfield</td>
+      <td>Large Loss Contents Adjuster - Field Estimating - Springfield, MA</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/MA---West-Springfield/Large-Loss-Contents-Adjuster---Field-Estimating---Springfield--MA_R30756'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - RI (Remote)</td>
+      <td>Field Auto Appraiser - Rhode Island</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---RI-Remote/Field-Auto-Appraiser---Rhode-Island_R30995'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>AI Research Scientist (Generative Models for Scientific Discovery)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/AI-Research-Scientist--Generative-Models-for-Scientific-Discovery-_R2611980-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>GIS Industry Solutions Specialist - Infrastructure</td>
+      <td><a href='https://www.esri.com/careers/5147161007?gh_jid=5147161007'>Apply</a></td>
+      <td>May 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Vienna, Virginia, United States</td>
+      <td>GIS Industry Solutions Specialist - Infrastructure</td>
+      <td><a href='https://www.esri.com/careers/5147179007?gh_jid=5147179007'>Apply</a></td>
+      <td>May 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Charlotte, NC - Ballantyne</td>
+      <td>GIS Industry Solutions Specialist - Infrastructure</td>
+      <td><a href='https://www.esri.com/careers/5147183007?gh_jid=5147183007'>Apply</a></td>
+      <td>May 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Philadelphia, PA</td>
+      <td>GIS Industry Solutions Specialist - Infrastructure</td>
+      <td><a href='https://www.esri.com/careers/5147178007?gh_jid=5147178007'>Apply</a></td>
+      <td>May 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Denver, CO - Louisville</td>
+      <td>GIS Industry Solutions Specialist - Infrastructure</td>
+      <td><a href='https://www.esri.com/careers/5147177007?gh_jid=5147177007'>Apply</a></td>
+      <td>May 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>LOCUST GROVE DFC - 6777</td>
+      <td>Yard Driver Non CDL</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/LOCUST-GROVE-DFC---6777/Yard-Driver-Non-CDL_Req182073'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>LOCUST GROVE DFC - 6777</td>
+      <td>Yard Driver Non-CDL</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/LOCUST-GROVE-DFC---6777/Yard-Driver-Non-CDL_Req182080'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, New Mexico, Albuquerque</td>
+      <td>New Mexico Manufacturing Technician Internship</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/New-Mexico-Manufacturing-Technician-Internship_JR0284246'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, California, Folsom</td>
+      <td>Hardware DevOps/AI Engineer Fall 2026 Internship</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Hardware-DevOps-AI-Engineer_JR0283839'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>LogRocket</b></td>
+      <td>Boston or NYC</td>
+      <td>Developer Relations</td>
+      <td><a href='https://jobs.lever.co/logrocket/6d7fc949-6d48-4781-a0e4-77b4c48b5be8'>Apply</a></td>
+      <td>2026-05-29 18:04:20</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>CNC Programmer</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/CNC-Programmer_R-26-18100'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Beaverton, Oregon</td>
+      <td>Product Developer II - Kids Footwear</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Product-Developer-II---Kids-Footwear_R-77879'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Schonfeld</b></td>
+      <td>New York, New York, United States</td>
+      <td>Software Engineer - Business Analytics </td>
+      <td><a href='https://job-boards.greenhouse.io/schonfeld/jobs/7958235'>Apply</a></td>
+      <td>May 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>McGregor, TX</td>
+      <td>Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8563110002?gh_jid=8563110002'>Apply</a></td>
+      <td>May 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, TN, Nashville</td>
+      <td>Project Coordinator Intern - Change Management</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TN-Nashville/Project-Coordinator-Intern---Change-Management_JR0147959-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Upstart</b></td>
+      <td>United States | Remote</td>
+      <td>Software Engineer, Verifications Platform</td>
+      <td><a href='https://careers.upstart.com/jobs?gh_jid=7544233'>Apply</a></td>
+      <td>Feb 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) FL NAPLES 03417 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-FL-NAPLES-03417-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2526321-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Xylem Services USA LLC</b></td>
+      <td>Morrisville, North Carolina (Office)</td>
+      <td>Software Test Automation Intern</td>
+      <td><a href='https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Morrisville-North-Carolina-Office/Software-Test-Automation-Intern_R48545'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer, Operational Tools</td>
+      <td><a href='https://jobs.lever.co/zoox/c8ca7105-5044-49ee-88d3-cf6b7145a2ec'>Apply</a></td>
+      <td>2026-05-29 19:09:01</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 03646 WM SUPERCENTER</td>
+      <td>(CAN) Caissier</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-03646-WM-SUPERCENTER/XMLNAME--CAN--Caissier_R-2526556'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Ellsworth, ME</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Ellsworth-ME/Front-End-Coach_R-2526515-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoom</b></td>
+      <td>San Jose (CA)</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/Software-Development-Engineer_R19215'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>Zoom</b></td>
+      <td>San Jose (CA)</td>
+      <td>Software Engineer</td>
+      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/Software-Engineer_R19216'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Salaberry-De-Valleyfield, QC</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Salaberry-De-Valleyfield-QC/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2526483'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Salaberry-De-Valleyfield, QC</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Salaberry-De-Valleyfield-QC/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2526474'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Salaberry-De-Valleyfield, QC</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Salaberry-De-Valleyfield-QC/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2526467'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-29-09-52-02'>🕐 Batch at 2026-05-29 09:52:02</h3>
 
@@ -263,7 +527,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-29-05-28-05'>🕐 Batch at 2026-05-29 05:28:05</h3>
 
 📊 **Total jobs in this batch: 1**
