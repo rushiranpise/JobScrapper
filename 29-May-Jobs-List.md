@@ -4,9 +4,134 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-29 15:02:57](#batch-2026-05-29-15-02-57)
 - [Batch at 2026-05-29 12:41:20](#batch-2026-05-29-12-41-20)
 - [Batch at 2026-05-29 09:52:02](#batch-2026-05-29-09-52-02)
 - [Batch at 2026-05-29 05:28:05](#batch-2026-05-29-05-28-05)
+
+<h3 id='batch-2026-05-29-15-02-57'>🕐 Batch at 2026-05-29 15:02:57</h3>
+
+📊 **Total jobs in this batch: 13**
+
+**Per company:**
+- Allstate: 1 job
+- Samsung Electronics America, Inc: 1 job
+- BAH: 2 jobs
+- Esri: 1 job
+- flir: 1 job
+- homedepot: 1 job
+- Natera : 1 job
+- National Information Solutions Cooperative (NISC): 1 job
+- Snorkel AI: 1 job
+- Waymo: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - NY (Remote)</td>
+      <td>Field Auto Appraiser - Long Island, NY</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---NY-Remote/Field-Auto-Appraiser---Long-Island--NY_R31000'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>1530 FM 973 Taylor, TX, USA</td>
+      <td>Failure Analysis OFI Engineer</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Failure-Analysis-OFI-Engineer_R117353'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>DevOps Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-Engineer--Mid_R0241168'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Ford Island, HI</td>
+      <td>Kafka Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ford-Island-HI/Kafka-Data-Engineer_R0241130'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Support Analyst l-Infrastructure </td>
+      <td><a href='https://www.esri.com/careers/5129804007?gh_jid=5129804007'>Apply</a></td>
+      <td>May 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Eagan, MN</td>
+      <td>Engineering Intern – AI-Assisted Mobile Testing & Migration</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Eagan-MN/Engineering-Intern---AI-Assisted-Mobile-Testing---Migration_REQ34750'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>LOCUST GROVE DFC - 6777</td>
+      <td>Yard Driver Non CDL</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/LOCUST-GROVE-DFC---6777/Yard-Driver-Non-CDL_Req182084-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Clinical Data Review Asst</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/5997428004'>Apply</a></td>
+      <td>May 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>National Information Solutions Cooperative (NISC)</b></td>
+      <td>Any NISC Location or Virtual</td>
+      <td>Software Developer III - Distributed Engineering Workstation (Power Flow Software) </td>
+      <td><a href='https://job-boards.greenhouse.io/nisc/jobs/7967875'>Apply</a></td>
+      <td>May 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snorkel AI</b></td>
+      <td>Redwood City, CA (Hybrid); San Francisco, CA (Hybrid); United States (Remote)</td>
+      <td>Research Scientist - RL Training</td>
+      <td><a href='https://job-boards.greenhouse.io/snorkelai/jobs/6009496004'>Apply</a></td>
+      <td>May 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, US</td>
+      <td>Software Engineer, Operational/ Process Efficiency </td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7926526'>Apply</a></td>
+      <td>May 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) AZ PHOENIX 04293 NEIGHBORHOOD MARKET</td>
+      <td>(USA) Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-AZ-PHOENIX-04293-NEIGHBORHOOD-MARKET/XMLNAME--USA--Pharmacy-Grad-Intern--Hrly-_R-2527034'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Salem, IL</td>
+      <td>(USA) Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Salem-IL/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM_R-2526873-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-29-12-41-20'>🕐 Batch at 2026-05-29 12:41:20</h3>
 
@@ -270,7 +395,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-29-09-52-02'>🕐 Batch at 2026-05-29 09:52:02</h3>
 
 📊 **Total jobs in this batch: 31**
@@ -526,8 +650,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-29-05-28-05'>🕐 Batch at 2026-05-29 05:28:05</h3>
+---<h3 id='batch-2026-05-29-05-28-05'>🕐 Batch at 2026-05-29 05:28:05</h3>
 
 📊 **Total jobs in this batch: 1**
 
