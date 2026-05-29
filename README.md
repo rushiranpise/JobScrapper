@@ -4,10 +4,87 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-05-29 16:24:41](#batch-2026-05-29-16-24-41)
 - [Batch at 2026-05-29 15:02:57](#batch-2026-05-29-15-02-57)
 - [Batch at 2026-05-29 12:41:20](#batch-2026-05-29-12-41-20)
 - [Batch at 2026-05-29 09:52:02](#batch-2026-05-29-09-52-02)
-- [Batch at 2026-05-29 05:28:05](#batch-2026-05-29-05-28-05)
+
+<h3 id='batch-2026-05-29-16-24-41'>🕐 Batch at 2026-05-29 16:24:41</h3>
+
+📊 **Total jobs in this batch: 7**
+
+**Per company:**
+- Samsung Electronics America, Inc: 2 jobs
+- Applied Materials: 1 job
+- homedepot: 1 job
+- NVIDIAExternalCareerSite: 1 job
+- Reddit: 1 job
+- Snowflake: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>1530 FM 973 Taylor, TX, USA</td>
+      <td>Failure Analysis Nanoprobe Engineer</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Failure-Analysis-Nanoprobe-Engineer_R117350'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>1530 FM 973 Taylor, TX, USA</td>
+      <td>Failure Analysis Engineer</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Failure-Analysis-Engineer_R117352'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Product Line Management, New College Grad- PhD (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Product-Line-Management--New-College-Grad--Master-s--Santa-Clara--CA-_R2519412'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>NEW JERSEY - VIRTUAL - NJ01</td>
+      <td>Rental Delivery Driver I CDLA - Jersey City, NJ</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/NEW-JERSEY---VIRTUAL---NJ01/Rental-Delivery-Driver-I-CDLA---Jersey-City--NJ_Req181702'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIAExternalCareerSite</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>GPU Simulation System Software Engineer</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Simulation-System-Software-Engineer_JR2018237'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Reddit</b></td>
+      <td>Remote - United States</td>
+      <td>Usability Rapid Researcher (Contract)</td>
+      <td><a href='https://job-boards.greenhouse.io/reddit/jobs/7964164'>Apply</a></td>
+      <td>May 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>AI Engineer - Database Engineering</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/073c91f2-0758-4544-9297-3f48a81fb04d'>Apply</a></td>
+      <td>May 27, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-05-29-15-02-57'>🕐 Batch at 2026-05-29 15:02:57</h3>
 
@@ -132,7 +209,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-05-29-12-41-20'>🕐 Batch at 2026-05-29 12:41:20</h3>
 
 📊 **Total jobs in this batch: 32**
@@ -394,8 +470,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-05-29-09-52-02'>🕐 Batch at 2026-05-29 09:52:02</h3>
+---<h3 id='batch-2026-05-29-09-52-02'>🕐 Batch at 2026-05-29 09:52:02</h3>
 
 📊 **Total jobs in this batch: 31**
 
