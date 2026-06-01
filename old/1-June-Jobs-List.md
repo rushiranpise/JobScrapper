@@ -4,9 +4,95 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-01 16:13:07](#batch-2026-06-01-16-13-07)
 - [Batch at 2026-06-01 14:05:36](#batch-2026-06-01-14-05-36)
 - [Batch at 2026-06-01 09:48:55](#batch-2026-06-01-09-48-55)
 - [Batch at 2026-06-01 03:30:58](#batch-2026-06-01-03-30-58)
+
+<h3 id='batch-2026-06-01-16-13-07'>🕐 Batch at 2026-06-01 16:13:07</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- Bank of Montreal: 1 job
+- General Motors LLC: 1 job
+- genpt: 2 jobs
+- Remitly: 1 job
+- spacex: 1 job
+- Stripe: 1 job
+- The Walt Disney Company: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Middle Market Beverage M&A Associate</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/San-Francisco-CA-USA/Middle-Market-Beverage-M-A-Associate_R260016633'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Computer Aided Engineering (Multiple positions available)</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Computer-Aided-Engineering--Multiple-positions-available-_JR-202612173-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Dallas, TX, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Dallas-TX-USA/Material-Handler-I_R26_0000017449'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Dallas, TX, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Dallas-TX-USA/Material-Handler-I_R26_0000017447'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Remitly</b></td>
+      <td>Seattle, Washington United States</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer_R_106363'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Education Aide</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8574101002?gh_jid=8574101002'>Apply</a></td>
+      <td>Jun 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>Seattle, WA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=7922832'>Apply</a></td>
+      <td>May 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>New York, NY, USA</td>
+      <td>Software Engineer II - Ad Platform, Integrating Engineering</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Software-Engineer-II---Ad-Platform--Integrating-Engineering_10151597'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-01-14-05-36'>🕐 Batch at 2026-06-01 14:05:36</h3>
 
@@ -330,7 +416,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-01-09-48-55'>🕐 Batch at 2026-06-01 09:48:55</h3>
 
 📊 **Total jobs in this batch: 42**
@@ -667,8 +752,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-01-03-30-58'>🕐 Batch at 2026-06-01 03:30:58</h3>
+---<h3 id='batch-2026-06-01-03-30-58'>🕐 Batch at 2026-06-01 03:30:58</h3>
 
 📊 **Total jobs in this batch: 6**
 
