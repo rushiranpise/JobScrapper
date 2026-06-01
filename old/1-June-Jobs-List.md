@@ -4,8 +4,332 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-01 14:05:36](#batch-2026-06-01-14-05-36)
 - [Batch at 2026-06-01 09:48:55](#batch-2026-06-01-09-48-55)
 - [Batch at 2026-06-01 03:30:58](#batch-2026-06-01-03-30-58)
+
+<h3 id='batch-2026-06-01-14-05-36'>🕐 Batch at 2026-06-01 14:05:36</h3>
+
+📊 **Total jobs in this batch: 40**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Applied Materials: 1 job
+- BAH: 4 jobs
+- Brink: 1 job
+- Comcast : 2 jobs
+- Esri: 2 jobs
+- flir: 1 job
+- genpt: 1 job
+- Intel Corporation: 1 job
+- KLA: 1 job
+- Micron: 2 jobs
+- Morgan Stanley: 1 job
+- Pure storage: 1 job
+- Roku: 1 job
+- Robert Half : 1 job
+- Snowflake: 1 job
+- spacex: 5 jobs
+- Twilio: 1 job
+- Walmart: 9 jobs
+- Wyetech LLC: 1 job
+- Zoom: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Atlanta, Georgia, United States</td>
+      <td>Trainer, Launched Effects </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/4971459007?gh_jid=4971459007'>Apply</a></td>
+      <td>Nov 18, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer-II_R2617253-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>AI Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/AI-Engineer_R0241255'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Atlanta, GA</td>
+      <td>Mobile Development Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Mobile-Development-Software-Engineer_R0241245'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0241224'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Program Support Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Program-Support-Data-Analyst_R0241338'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Brink</b></td>
+      <td>Springfield Gardens NY</td>
+      <td>CDL Driver</td>
+      <td><a href='https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Springfield-Gardens-NY/CDL-Driver_R74759'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>DC - Washington, 1325 G ST NW STE 300</td>
+      <td>Python Engineer, Agentic AI</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/DC---Washington-1325-G-ST-NW-STE-300/Python-Engineer--Agentic-AI_R434874'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>DC - Washington, 1325 G ST NW STE 300</td>
+      <td>Python Engineer, Agentic AI</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/DC---Washington-1325-G-ST-NW-STE-300/Python-Engineer--Agentic-AI_R434870'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Material Handler</td>
+      <td><a href='https://www.esri.com/careers/5151691007?gh_jid=5151691007'>Apply</a></td>
+      <td>Jun 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Denver, CO - Louisville</td>
+      <td>Software Development Engineer II - JavaScript Web Development</td>
+      <td><a href='https://www.esri.com/careers/5148355007?gh_jid=5148355007'>Apply</a></td>
+      <td>Jun 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Chestnut Ridge, NY</td>
+      <td>Serial Data Application Architect</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Chestnut-Ridge-NY/Serial-Data-Application-Architect_REQ34672'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Merrillville, IN, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Merrillville-IN-USA/Material-Handler-I_R26_0000017953'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>Virtual US</td>
+      <td>MDM Software Application Development Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/MDM-Software-Application-Development-Engineer_JR0284454'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Applications Development Engineer</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Applications-Development-Engineer_2636928'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>MDM Solution Developer / Architect</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/MDM-Solution-Developer---Architect_JR103216-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>IT Solution Architect - PLM & Master Data</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/IT-Solution-Architect---PLM---Master-Data_JR103211'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>Alpharetta GA 6655</td>
+      <td>Associate, Software Engineer</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-GA-6655/Associate--Software-Engineer_JR031373'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pure storage</b></td>
+      <td>Santa Clara, California</td>
+      <td>Software Engineer, Datastore Hardware</td>
+      <td><a href='https://job-boards.greenhouse.io/purestorage/jobs/7901712'>Apply</a></td>
+      <td>Jun 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Roku</b></td>
+      <td>New York, New York</td>
+      <td>Analytics & Insights Intern</td>
+      <td><a href='https://www.weareroku.com/jobs/7589192?gh_jid=7589192'>Apply</a></td>
+      <td>Feb 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Robert Half </b></td>
+      <td>HOUSTON WEST</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://roberthalf.wd1.myworkdayjobs.com/en-US/roberthalfcareers/job/HOUSTON-WEST/Software-Engineer-III_JR-260433-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Enterprise Developer, GTM Applications</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/4d917314-90eb-47f1-a563-8a76bb7c3b34'>Apply</a></td>
+      <td>May 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Data Engineer (Starlink Network Analytics, Wi-Fi) </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8573711002?gh_jid=8573711002'>Apply</a></td>
+      <td>Jun 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Data Engineer (Starship)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8569186002?gh_jid=8569186002'>Apply</a></td>
+      <td>Jun 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Engineer (Starlink) </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8569790002?gh_jid=8569790002'>Apply</a></td>
+      <td>Jun 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer (Starship)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8569160002?gh_jid=8569160002'>Apply</a></td>
+      <td>Jun 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Software Engineer (Starship)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8569125002?gh_jid=8569125002'>Apply</a></td>
+      <td>Jun 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Twilio</b></td>
+      <td>Remote - US</td>
+      <td>Software Engineer (L3) Data Substrate</td>
+      <td><a href='https://job-boards.greenhouse.io/twilio/jobs/7954715'>Apply</a></td>
+      <td>Jun 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) OH DUBLIN 02471 WM SUPERCENTER</td>
+      <td>Coach (Non-Complex) - W(USA) Front End CoachM Frontend</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OH-DUBLIN-02471-WM-SUPERCENTER/Coach--Non-Complex----W-USA--Front-End-CoachM-Frontend_R-2529118-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) CA FONTANA 02372 DISPATCH TRUCKING</td>
+      <td>Trans Truck Driver OTR - *LOCAL* - FONTANA CA (Home Daily)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CA-FONTANA-02372-DISPATCH-TRUCKING/Trans-Truck-Driver-OTR----LOCAL----FONTANA-CA--Home-Daily-_R-2529410'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 4</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/327fc61f-41c4-47d0-b08d-eaaeb06229aa'>Apply</a></td>
+      <td>2026-06-01 17:19:02</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) WA SPANAWAY 03218 WM SUPERCENTER</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-WA-SPANAWAY-03218-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2528913'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX BEDFORD 01178 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-BEDFORD-01178-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2526441-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NC GREENSBORO 01842 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NC-GREENSBORO-01842-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2526538'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) FL CRESTVIEW 00944 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-FL-CRESTVIEW-00944-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2527053'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Middletown, KY</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Middletown-KY/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2526685-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) UT HURRICANE 04678 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-UT-HURRICANE-04678-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2528620'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MN BLAINE 05976 WM SUPERCENTER</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MN-BLAINE-05976-WM-SUPERCENTER/Front-End-Coach_R-2528107-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoom</b></td>
+      <td>San Jose (CA)</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/Software-Development-Engineer_R19218'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>Zoom</b></td>
+      <td>San Jose (CA)</td>
+      <td>Software Engineer</td>
+      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/Software-Engineer_R19224'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-01-09-48-55'>🕐 Batch at 2026-06-01 09:48:55</h3>
 
@@ -344,7 +668,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-01-03-30-58'>🕐 Batch at 2026-06-01 03:30:58</h3>
 
 📊 **Total jobs in this batch: 6**
