@@ -4,10 +4,102 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-02 16:57:16](#batch-2026-06-02-16-57-16)
 - [Batch at 2026-06-02 14:58:48](#batch-2026-06-02-14-58-48)
 - [Batch at 2026-06-02 11:50:53](#batch-2026-06-02-11-50-53)
 - [Batch at 2026-06-02 07:14:55](#batch-2026-06-02-07-14-55)
-- [Batch at 2026-06-02 02:17:56](#batch-2026-06-02-02-17-56)
+
+<h3 id='batch-2026-06-02-16-57-16'>🕐 Batch at 2026-06-02 16:57:16</h3>
+
+📊 **Total jobs in this batch: 9**
+
+**Per company:**
+- Anduril Industries: 3 jobs
+- Glean: 1 job
+- Pure storage: 1 job
+- Remitly: 1 job
+- The Walt Disney Company: 1 job
+- spacex: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Washington, District of Columbia, United States</td>
+      <td>Software Engineer, Robotics Tracking and Fusion</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5153784007?gh_jid=5153784007'>Apply</a></td>
+      <td>Jun 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Waltham, Massachusetts, United States</td>
+      <td>Software Engineer, Robotics Tracking and Fusion</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5150080007?gh_jid=5150080007'>Apply</a></td>
+      <td>Jun 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Fort Collins, Colorado, United States</td>
+      <td>Software Engineer, Robotics Tracking and Fusion</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5153788007?gh_jid=5153788007'>Apply</a></td>
+      <td>Jun 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Glean</b></td>
+      <td>Mountain View, CA</td>
+      <td>Software Engineer, Storage</td>
+      <td><a href='https://job-boards.greenhouse.io/gleanwork/jobs/4610281005'>Apply</a></td>
+      <td>Sep 18, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Pure storage</b></td>
+      <td>Santa Clara, California</td>
+      <td>Zuora Developer</td>
+      <td><a href='https://job-boards.greenhouse.io/purestorage/jobs/7932214'>Apply</a></td>
+      <td>Jun 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Remitly</b></td>
+      <td>Seattle, Washington United States</td>
+      <td>SDE II</td>
+      <td><a href='https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/SDE-II_R_106336-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Glendale, CA, USA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Software-Engineer-II_10150824'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, Site Reliability Engineering (Application Software)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8575857002?gh_jid=8575857002'>Apply</a></td>
+      <td>Jun 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Olathe, KS</td>
+      <td>(USA) Material Handler, Manufacturing (Starting pay $23.00, M-F, 6a-2:30p, Dry Goods)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Olathe-KS/XMLNAME--USA--Material-Handler--Manufacturing--Starting-pay--2300--M-F--6a-2-30p--Dry-Goods-_R-2530885-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-02-14-58-48'>🕐 Batch at 2026-06-02 14:58:48</h3>
 
@@ -208,7 +300,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-02-11-50-53'>🕐 Batch at 2026-06-02 11:50:53</h3>
 
 📊 **Total jobs in this batch: 45**
@@ -566,8 +657,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-02-07-14-55'>🕐 Batch at 2026-06-02 07:14:55</h3>
+---<h3 id='batch-2026-06-02-07-14-55'>🕐 Batch at 2026-06-02 07:14:55</h3>
 
 📊 **Total jobs in this batch: 18**
 
