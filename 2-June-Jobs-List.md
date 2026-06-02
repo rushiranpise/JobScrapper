@@ -4,9 +4,210 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-02 14:58:48](#batch-2026-06-02-14-58-48)
 - [Batch at 2026-06-02 11:50:53](#batch-2026-06-02-11-50-53)
 - [Batch at 2026-06-02 07:14:55](#batch-2026-06-02-07-14-55)
 - [Batch at 2026-06-02 02:17:56](#batch-2026-06-02-02-17-56)
+
+<h3 id='batch-2026-06-02-14-58-48'>🕐 Batch at 2026-06-02 14:58:48</h3>
+
+📊 **Total jobs in this batch: 23**
+
+**Per company:**
+- Affirm : 1 job
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- ASMLEXT1: 2 jobs
+- BAH: 1 job
+- IXL Learning: 2 jobs
+- Jump Trading: 1 job
+- Kaseya: 1 job
+- Khan Academy: 1 job
+- LaunchDarkly : 1 job
+- LexisNexis Risk Solutions: 1 job
+- Micron: 2 jobs
+- Natera : 1 job
+- Nike: 1 job
+- Pinterest: 2 jobs
+- Precisely: 1 job
+- RF-SMART: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>Software Engineer II, Backend (Capital Orchestration)</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/7749755003'>Apply</a></td>
+      <td>Jun 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Data Specialist</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Data-Specialist_JR60793-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Chandler, AZ, USA</td>
+      <td>IT Infrastructure Engineer</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Chandler-AZ-USA/IT-Infrastructure-Engineer_J-00342481'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Hillsboro, OR, USA</td>
+      <td>Field Applications Engineer</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Hillsboro-OR-USA/Field-Applications-Engineer_J-00334366-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Alexandria, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist--Mid_R0241386'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>IXL Learning</b></td>
+      <td>San Mateo, CA</td>
+      <td>Software Engineer, New Grad</td>
+      <td><a href='https://www.ixl.com/company/jobs?gh_jid=8574194002'>Apply</a></td>
+      <td>Jun 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>IXL Learning</b></td>
+      <td>Raleigh, NC</td>
+      <td>Software Engineer, New Grad</td>
+      <td><a href='https://www.ixl.com/company/jobs?gh_jid=8574195002'>Apply</a></td>
+      <td>Jun 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Jump Trading</b></td>
+      <td>New York, London, Chicago</td>
+      <td>Research Engineer, Pre-Training</td>
+      <td><a href='https://www.jumptrading.com/hr/job?gh_jid=7977686'>Apply</a></td>
+      <td>Jun 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Kaseya</b></td>
+      <td>Pennsylvania, US</td>
+      <td>Data Center Technician II</td>
+      <td><a href='https://www.kaseya.com/careers/jobs/id/6001152004/?gh_jid=6001152004'>Apply</a></td>
+      <td>Jun 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Khan Academy</b></td>
+      <td>Mountain View, CA / Remote (Continental US + Hawaii + Canada Only)</td>
+      <td>ELA Assessment Content Creator, Elementary Grades 3-5 (24 month Fixed Term)</td>
+      <td><a href='https://job-boards.greenhouse.io/khanacademy/jobs/7974527'>Apply</a></td>
+      <td>Jun 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>LaunchDarkly </b></td>
+      <td>Remote - US</td>
+      <td>Full Stack Engineer, Guardian Monitoring</td>
+      <td><a href='https://job-boards.greenhouse.io/launchdarkly/jobs/7761616003'>Apply</a></td>
+      <td>Jun 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>LexisNexis Risk Solutions</b></td>
+      <td>Alpharetta, GA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Software-Engineer-II_R104375-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>TPG AI Workforce Transformation Specialist</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/TPG-AI-Workforce-Transformation-Specialist_JR102627'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>TPG Workforce Development AI Workflow Integration Specialist</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/TPG-Workforce-Development-AI-Workflow-Integration-Specialist_JR102630'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Clinical Data Review Assistant - Temp</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6009667004'>Apply</a></td>
+      <td>Jun 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Beaverton, Oregon</td>
+      <td>Technical Developer II, Running Footwear (multiple openings)</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Technical-Developer-II--Running-Footwear--multiple-openings-_R-85119-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pinterest</b></td>
+      <td>San Francisco, CA, US; Remote, CA, US</td>
+      <td>Data Scientist</td>
+      <td><a href='https://www.pinterestcareers.com/jobs/?gh_jid=4912949'>Apply</a></td>
+      <td>Mar 07, 2023</td>
+    </tr>
+    <tr>
+      <td><b>Pinterest</b></td>
+      <td>San Francisco, CA, US; Remote, US</td>
+      <td>Software Engineer, iOS </td>
+      <td><a href='https://www.pinterestcareers.com/jobs/?gh_jid=5601228'>Apply</a></td>
+      <td>Jan 05, 2024</td>
+    </tr>
+    <tr>
+      <td><b>Precisely</b></td>
+      <td>United States</td>
+      <td>Professional Services AI Enablement Analyst</td>
+      <td><a href='https://www.precisely.com/careers-and-culture/us-jobs/job/4702062005?gh_jid=4702062005'>Apply</a></td>
+      <td>Jun 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>RF-SMART</b></td>
+      <td>Jacksonville, Florida, United States</td>
+      <td>Software Developer II</td>
+      <td><a href='https://job-boards.greenhouse.io/rfsmart/jobs/5236099008'>Apply</a></td>
+      <td>Jun 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Data Center CO Colorado Springs Home Office</td>
+      <td>(USA) Systems and Infrastructure Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Data-Center-CO-Colorado-Springs-Home-Office/XMLNAME--USA--Systems-and-Infrastructure-Engineer-III_R-2517493'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Respect Building CA SUNNYVALE Home Office</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2477939'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 03646 WM SUPERCENTER</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-03646-WM-SUPERCENTER/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2530359'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-02-11-50-53'>🕐 Batch at 2026-06-02 11:50:53</h3>
 
@@ -366,7 +567,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-02-07-14-55'>🕐 Batch at 2026-06-02 07:14:55</h3>
 
 📊 **Total jobs in this batch: 18**
@@ -520,8 +720,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-02-02-17-56'>🕐 Batch at 2026-06-02 02:17:56</h3>
+---<h3 id='batch-2026-06-02-02-17-56'>🕐 Batch at 2026-06-02 02:17:56</h3>
 
 📊 **Total jobs in this batch: 1**
 
