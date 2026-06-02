@@ -4,10 +4,88 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-01 21:26:12](#batch-2026-06-01-21-26-12)
 - [Batch at 2026-06-01 16:13:07](#batch-2026-06-01-16-13-07)
 - [Batch at 2026-06-01 14:05:36](#batch-2026-06-01-14-05-36)
 - [Batch at 2026-06-01 09:48:55](#batch-2026-06-01-09-48-55)
-- [Batch at 2026-06-01 03:30:58](#batch-2026-06-01-03-30-58)
+
+<h3 id='batch-2026-06-01-21-26-12'>🕐 Batch at 2026-06-01 21:26:12</h3>
+
+📊 **Total jobs in this batch: 7**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Adobe: 1 job
+- Databricks: 1 job
+- DoorDash : 1 job
+- spacex: 1 job
+- The Walt Disney Company: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Infrastructure Reliability Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5149139007?gh_jid=5149139007'>Apply</a></td>
+      <td>Jun 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Adobe</b></td>
+      <td>New York</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/Software-Development-Engineer_R168187-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Databricks</b></td>
+      <td>United States</td>
+      <td>Specialist Solutions Architect - Data Engineering & Observability</td>
+      <td><a href='https://databricks.com/company/careers/open-positions/job?gh_jid=8570023002'>Apply</a></td>
+      <td>Jun 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>Austin, TX; Baltimore, MD; Chicago, IL; Denver, CO; Boulder, CO; Hartford, CT; New Haven, CT; Philadelphia, PA; Providence, RI; Miami, FL</td>
+      <td>Analytics Engineer, Data Science</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/7967918'>Apply</a></td>
+      <td>Jun 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, Hardware Test & Automation (Starshield)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8574243002?gh_jid=8574243002'>Apply</a></td>
+      <td>Jun 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Glendale, CA, USA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Software-Engineer-II_10150832'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Crossman Service Building CA SUNNYVALE Home Office</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III_R-2463315'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-01-16-13-07'>🕐 Batch at 2026-06-01 16:13:07</h3>
 
@@ -93,7 +171,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-01-14-05-36'>🕐 Batch at 2026-06-01 14:05:36</h3>
 
 📊 **Total jobs in this batch: 40**
@@ -415,8 +492,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-01-09-48-55'>🕐 Batch at 2026-06-01 09:48:55</h3>
+---<h3 id='batch-2026-06-01-09-48-55'>🕐 Batch at 2026-06-01 09:48:55</h3>
 
 📊 **Total jobs in this batch: 42**
 
