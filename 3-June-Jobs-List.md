@@ -4,10 +4,132 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-03 16:54:48](#batch-2026-06-03-16-54-48)
 - [Batch at 2026-06-03 15:00:29](#batch-2026-06-03-15-00-29)
 - [Batch at 2026-06-03 11:55:41](#batch-2026-06-03-11-55-41)
 - [Batch at 2026-06-03 07:53:28](#batch-2026-06-03-07-53-28)
-- [Batch at 2026-06-03 03:02:00](#batch-2026-06-03-03-02-00)
+
+<h3 id='batch-2026-06-03-16-54-48'>🕐 Batch at 2026-06-03 16:54:48</h3>
+
+📊 **Total jobs in this batch: 13**
+
+**Per company:**
+- Archer 56: 1 job
+- Applied Materials: 2 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 2 jobs
+- Broadcom : 1 job
+- NVIDIAExternalCareerSite: 1 job
+- Reddit: 1 job
+- The Walt Disney Company: 1 job
+- spacex: 1 job
+- Walmart: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Archer 56</b></td>
+      <td>San Jose, California, United States</td>
+      <td>Configuration Management - Specalist - Powertrain</td>
+      <td><a href='https://job-boards.greenhouse.io/archer56/jobs/7741010003'>Apply</a></td>
+      <td>Jun 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Algorithm Developer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Algorithm-Developer_R2620697'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software Engineer III - (E3)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer-III----E3-_R2620680'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA TX - El Paso - Northwestern Dr.</td>
+      <td>Training Technician</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-TX---El-Paso---Northwestern-Dr/Training-Technician_R-546173'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA TX - El Paso - Northwestern Dr.</td>
+      <td>Training Technician</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-TX---El-Paso---Northwestern-Dr/Training-Technician_R-546172'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-IL Lisle Warrenville Road</td>
+      <td>Experienced Mainframe Software Development Engineer</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-IL-Lisle-Warrenville-Road/Experienced-Mainframe-Software-Development-Engineer_R025083-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIAExternalCareerSite</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Test and Failure Analysis Technician</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Test-and-Failure-Analysis-Technician_JR2018803'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Reddit</b></td>
+      <td>Remote - United States</td>
+      <td>Frontend Engineer, Ads Growth</td>
+      <td><a href='https://job-boards.greenhouse.io/reddit/jobs/7980795'>Apply</a></td>
+      <td>Jun 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Anaheim, CA, USA</td>
+      <td>Resource Assistant (Project Hire/Internal Assingment)</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Resource-Assistant--Project-Hire-Internal-Assingment-_10150703'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Engineer, DevOps (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8573204002?gh_jid=8573204002'>Apply</a></td>
+      <td>Jun 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX ABILENE 00536 WM SUPERCENTER</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-ABILENE-00536-WM-SUPERCENTER/Front-End-Coach_R-2524805-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) Moon Pie Building AR Bentonville Home Office</td>
+      <td>(USA) Software Engineer III</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Moon-Pie-Building-AR-Bentonville-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2472704'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Olathe, KS</td>
+      <td>(USA) Material Handler, Manufacturing (Startingi pay $23.00, M-F, 7a-3:30p)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Olathe-KS/XMLNAME--USA--Material-Handler--Manufacturing--Startingi-pay--2300--M-F--7a-3-30p-_R-2531823-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-03-15-00-29'>🕐 Batch at 2026-06-03 15:00:29</h3>
 
@@ -203,7 +325,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-03-11-55-41'>🕐 Batch at 2026-06-03 11:55:41</h3>
 
 📊 **Total jobs in this batch: 20**
@@ -375,8 +496,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-03-07-53-28'>🕐 Batch at 2026-06-03 07:53:28</h3>
+---<h3 id='batch-2026-06-03-07-53-28'>🕐 Batch at 2026-06-03 07:53:28</h3>
 
 📊 **Total jobs in this batch: 12**
 
