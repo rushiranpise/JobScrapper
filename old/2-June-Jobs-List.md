@@ -4,10 +4,93 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-02 21:34:59](#batch-2026-06-02-21-34-59)
 - [Batch at 2026-06-02 16:57:16](#batch-2026-06-02-16-57-16)
 - [Batch at 2026-06-02 14:58:48](#batch-2026-06-02-14-58-48)
 - [Batch at 2026-06-02 11:50:53](#batch-2026-06-02-11-50-53)
-- [Batch at 2026-06-02 07:14:55](#batch-2026-06-02-07-14-55)
+
+<h3 id='batch-2026-06-02-21-34-59'>🕐 Batch at 2026-06-02 21:34:59</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- Anduril Industries: 2 jobs
+- nVent: 2 jobs
+- spacex: 1 job
+- Walmart: 2 jobs
+- Zipline: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Seattle, Washington, United States</td>
+      <td>Developer Relations Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5153901007?gh_jid=5153901007'>Apply</a></td>
+      <td>Jun 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Developer Relations Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5136434007?gh_jid=5136434007'>Apply</a></td>
+      <td>Jun 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Dayton, MN, US</td>
+      <td>Logistics Material Handler-2nd Shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Dayton-MN-US/Logistics-Material-Handler-2nd-Shift_R22114'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Dayton, MN, US</td>
+      <td>Logistics Material Handler-1st Shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Dayton-MN-US/Logistics-Material-Handler-1st-Shift_R22115'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, Components (Starshield)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8575987002?gh_jid=8575987002'>Apply</a></td>
+      <td>Jun 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Warrington, PA</td>
+      <td>(USA) Pharmacy Pre-Grad Intern - WM 5649</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Warrington-PA/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM-5649_R-2529416-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Perception Intern (Fall 2026)</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7761650003#open-roles'>Apply</a></td>
+      <td>Jun 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>Software Engineer III (USA)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Software-Engineer-III--USA-_R-2523254'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-02-16-57-16'>🕐 Batch at 2026-06-02 16:57:16</h3>
 
@@ -100,7 +183,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-02-14-58-48'>🕐 Batch at 2026-06-02 14:58:48</h3>
 
 📊 **Total jobs in this batch: 23**
@@ -299,8 +381,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-02-11-50-53'>🕐 Batch at 2026-06-02 11:50:53</h3>
+---<h3 id='batch-2026-06-02-11-50-53'>🕐 Batch at 2026-06-02 11:50:53</h3>
 
 📊 **Total jobs in this batch: 45**
 
