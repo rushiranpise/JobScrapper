@@ -4,9 +4,205 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-03 15:00:29](#batch-2026-06-03-15-00-29)
 - [Batch at 2026-06-03 11:55:41](#batch-2026-06-03-11-55-41)
 - [Batch at 2026-06-03 07:53:28](#batch-2026-06-03-07-53-28)
 - [Batch at 2026-06-03 03:02:00](#batch-2026-06-03-03-02-00)
+
+<h3 id='batch-2026-06-03-15-00-29'>🕐 Batch at 2026-06-03 15:00:29</h3>
+
+📊 **Total jobs in this batch: 23**
+
+**Per company:**
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- BAH: 6 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 2 jobs
+- Core Weave: 2 jobs
+- Comcast : 1 job
+- General Motors LLC: 1 job
+- Neuralink: 1 job
+- NVIDIA: 2 jobs
+- palantir: 3 jobs
+- Salesforce: 1 job
+- Workday: 1 job
+- Walmart: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Data Engineer</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Data-Engineer_JR60871'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Belvoir, VA</td>
+      <td>AI/ML Engineer and Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/AI-ML-Engineer-and-Data-Scientist_R0241401'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Scott AFB, IL</td>
+      <td>API Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Scott-AFB-IL/API-Engineer_R0241467'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Scott AFB, IL</td>
+      <td>API Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Scott-AFB-IL/API-Engineer_R0241463'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>University - Software Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/University---Software-Developer_R0241407'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA TX - El Paso - Northwestern Dr.</td>
+      <td>Training Technician</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-TX---El-Paso---Northwestern-Dr/Training-Technician_R-546171'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA TX - El Paso - Northwestern Dr.</td>
+      <td>Training Technician</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-TX---El-Paso---Northwestern-Dr/Training-Technician_R-546073'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Agile Release Train Coach and Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Agile-Release-Train-Coach-and-Engineer_R0241473'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Wharton, NJ</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wharton-NJ/Data-Engineer_R0241249-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Orangeburg, NY</td>
+      <td>Data Center Technician - Orangeburg, NY</td>
+      <td><a href='https://coreweave.com/careers/job?4686538006&board=coreweave&gh_jid=4686538006'>Apply</a></td>
+      <td>Jun 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Parsippany, NJ</td>
+      <td>Data Center Technician - Parsippany, NJ</td>
+      <td><a href='https://coreweave.com/careers/job?4686624006&board=coreweave&gh_jid=4686624006'>Apply</a></td>
+      <td>Jun 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1800 Arch St</td>
+      <td>Engineer 1, Software Development & Engineering - Mobile Development</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering---Mobile-Development_R438204'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Software and Controls Engineer – GM Defense</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-and-Controls-Engineer---GM-Defense_JR-202612393'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Neuralink</b></td>
+      <td>South San Francisco, California, United States</td>
+      <td>Software Engineer, Next Gen</td>
+      <td><a href='https://boards.greenhouse.io/neuralink/jobs/6658884003?gh_jid=6658884003'>Apply</a></td>
+      <td>Jul 23, 2025</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Infrastructure Solutions Architect</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Infrastructure-Solutions-Architect_JR2019167'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Software Engineer, Hardware Tools and Methodology - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>palantir</b></td>
+      <td>New York, NY</td>
+      <td>Software Engineer - Hosted Model Infrastructure</td>
+      <td><a href='https://jobs.lever.co/palantir/4df4cca5-e361-498b-806d-05f21638c93a'>Apply</a></td>
+      <td>2026-06-03 19:38:18</td>
+    </tr>
+    <tr>
+      <td><b>palantir</b></td>
+      <td>Washington, D.C.</td>
+      <td>Software Engineer - Hosted Model Infrastructure</td>
+      <td><a href='https://jobs.lever.co/palantir/7a9600be-cdcb-4311-bb5c-65b6939b5956'>Apply</a></td>
+      <td>2026-06-03 19:38:40</td>
+    </tr>
+    <tr>
+      <td><b>palantir</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Software Engineer - Hosted Model Infrastructure</td>
+      <td><a href='https://jobs.lever.co/palantir/e9aecd15-c7e9-4803-9928-fc0b67e70f5b'>Apply</a></td>
+      <td>2026-06-03 19:36:18</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - Redwood City</td>
+      <td>Software Engineering SMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Redwood-City/Software-Engineering-SMTS_JR344325'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA, CA, San Francisco</td>
+      <td>Software Development Engineer--Pipedream Connect</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-San-Francisco/Software-Development-Engineer--Pipedream-Connect_JR-0107821'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Olathe, KS</td>
+      <td>(USA) Material Handler, Manufacturing (Starting pay $23.00, Tu-Fr, 6:00a-4:30p)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Olathe-KS/XMLNAME--USA--Material-Handler--Manufacturing--Starting-pay--2300--Tu-Fr--6-00a-4-30p-_R-2532010-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Spring Valley, IL</td>
+      <td>Fleet Development Facilitator (RTC Spring Valley, IL)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Spring-Valley-IL/Fleet-Development-Facilitator--RTC-Spring-Valley--IL-_R-2526022-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-03-11-55-41'>🕐 Batch at 2026-06-03 11:55:41</h3>
 
@@ -180,7 +376,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-03-07-53-28'>🕐 Batch at 2026-06-03 07:53:28</h3>
 
 📊 **Total jobs in this batch: 12**
@@ -292,8 +487,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-03-03-02-00'>🕐 Batch at 2026-06-03 03:02:00</h3>
+---<h3 id='batch-2026-06-03-03-02-00'>🕐 Batch at 2026-06-03 03:02:00</h3>
 
 📊 **Total jobs in this batch: 1**
 
