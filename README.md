@@ -4,10 +4,102 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-04 15:48:28](#batch-2026-06-04-15-48-28)
 - [Batch at 2026-06-04 14:08:16](#batch-2026-06-04-14-08-16)
 - [Batch at 2026-06-04 11:30:45](#batch-2026-06-04-11-30-45)
 - [Batch at 2026-06-04 08:43:57](#batch-2026-06-04-08-43-57)
-- [Batch at 2026-06-04 05:06:10](#batch-2026-06-04-05-06-10)
+
+<h3 id='batch-2026-06-04-15-48-28'>🕐 Batch at 2026-06-04 15:48:28</h3>
+
+📊 **Total jobs in this batch: 9**
+
+**Per company:**
+- 2k: 1 job
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- BAH: 3 jobs
+- Core Weave: 1 job
+- Datamaxis: 1 job
+- homedepot: 1 job
+- spacex: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>2k</b></td>
+      <td>Austin, Texas, United States</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/2k/jobs/7762608003'>Apply</a></td>
+      <td>Jun 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Project Management Intern</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Project-Management-Intern_JR60919'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0241528'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Engineer_R0241523'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Data-Scientist_R0241519'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Weehawken, NJ</td>
+      <td>Data Center Technician - Weehawken, NJ</td>
+      <td><a href='https://coreweave.com/careers/job?4686960006&board=coreweave&gh_jid=4686960006'>Apply</a></td>
+      <td>Jun 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Datamaxis</b></td>
+      <td>Okemos, MI</td>
+      <td>Analytics Engineer/Data Analyst</td>
+      <td><a href='https://datamaxis.breezy.hr/p/a96f056fd9ec-analytics-engineer-data-analyst'>Apply</a></td>
+      <td>Jun 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>ARIZONA - VIRTUAL - AZ01</td>
+      <td>Rental Delivery Driver I CDLA - Glendale, AZ</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/ARIZONA---VIRTUAL---AZ01/Rental-Delivery-Driver-I-CDLA---Glendale--AZ_Req182776'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>IT Network Infrastructure Technician</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8579623002?gh_jid=8579623002'>Apply</a></td>
+      <td>Jun 04, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-04-14-08-16'>🕐 Batch at 2026-06-04 14:08:16</h3>
 
@@ -123,7 +215,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-04-11-30-45'>🕐 Batch at 2026-06-04 11:30:45</h3>
 
 📊 **Total jobs in this batch: 25**
@@ -336,8 +427,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-04-08-43-57'>🕐 Batch at 2026-06-04 08:43:57</h3>
+---<h3 id='batch-2026-06-04-08-43-57'>🕐 Batch at 2026-06-04 08:43:57</h3>
 
 📊 **Total jobs in this batch: 18**
 

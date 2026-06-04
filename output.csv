@@ -1,13 +1,10 @@
-company,title,location,postedOn,link,updatedOn
-ASMLEXT1,Co-op/Internship Business Process Analyst,"Wilton, CT, USA",Posted Today,https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Co-op-Internship-Business-Process-Analyst_J-00343503,
-Anduril Industries,"Software Engineer, Manufacturing Test","Atlanta, Georgia, United States; Bellevue, Washington, United States; Costa Mesa, California, United States; Mountain View, California, United States",2026-06-04T15:47:52-04:00,https://boards.greenhouse.io/andurilindustries/jobs/5156167007?gh_jid=5156167007,2026-06-04T15:48:46-04:00
-BAH,Data Engineer,"Beavercreek, OH",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Data-Engineer_R0241800,
-BAH,Data Scientist,"Alexandria, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0241573,
-BAH,Human Spaceflight Engineer Intern,"Houston, TX",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Houston-TX/Human-Spaceflight-Engineer-Intern_R0241464,
-genpt,CDL Regional Driver,"Dallas, TX, USA",Posted Today,https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Dallas-TX-USA/CDL-Regional-Driver_R26_0000018471,
-genpt,Software Engineer III,"Birmingham, AL, USA",Posted Today,https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Software-Engineer-III_R26_0000017593,
-Intel Corporation,Thermal data Analysis Engineer,"US, Arizona, Phoenix",Posted Today,https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Thermal-data-Analysis-Engineer_JR0284391,
-NVIDIA,"Software Engineer, CAD Automation","US, CA, Santa Clara",Posted Today,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--CAD-Automation_JR2019252,
-Stripe,"Data Scientist, Economic Insights & Research",US,2026-06-04T16:14:23-04:00,https://stripe.com/jobs/search?gh_jid=7980402,2026-06-04T16:14:23-04:00
-Walmart,(USA) Coach/Ops Mgr Trainee,(USA) CO CENTENNIAL 03313 WM SUPERCENTER,Posted Today,https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CO-CENTENNIAL-03313-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2532986,
-Zipline,Electrical Project Engineer Intern (Fall 2026),"South San Francisco, California, USA",2026-06-04T16:29:37-04:00,https://www.zipline.com/careers?gh_jid=7763835003#open-roles,2026-06-04T16:29:37-04:00
+company,title,location,link,postedOn,updatedOn
+2k,DevOps Engineer,"Austin, Texas, United States",https://job-boards.greenhouse.io/2k/jobs/7762608003,2026-06-04T18:09:47-04:00,2026-06-04T18:10:25-04:00
+566 DEPARTMENT OF TOURISM AND RECREATION,Project Management Intern,Oklahoma County,https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Project-Management-Intern_JR60919,Posted Today,
+BAH,Data Scientist,"Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0241528,Posted Today,
+BAH,Data Engineer,"Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Engineer_R0241523,Posted Today,
+BAH,Data Scientist,"San Antonio, TX",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Data-Scientist_R0241519,Posted Today,
+Core Weave,"Data Center Technician - Weehawken, NJ","Weehawken, NJ",https://coreweave.com/careers/job?4686960006&board=coreweave&gh_jid=4686960006,2026-06-04T18:02:20-04:00,2026-06-04T18:02:20-04:00
+Datamaxis,Analytics Engineer/Data Analyst,"Okemos, MI",https://datamaxis.breezy.hr/p/a96f056fd9ec-analytics-engineer-data-analyst,2026-06-04T16:12:05.933Z,
+homedepot,"Rental Delivery Driver I CDLA - Glendale, AZ",ARIZONA - VIRTUAL - AZ01,https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/ARIZONA---VIRTUAL---AZ01/Rental-Delivery-Driver-I-CDLA---Glendale--AZ_Req182776,Posted Today,
+spacex,IT Network Infrastructure Technician,"Bastrop, TX",https://boards.greenhouse.io/spacex/jobs/8579623002?gh_jid=8579623002,2026-06-04T18:30:40-04:00,2026-06-04T18:30:40-04:00
