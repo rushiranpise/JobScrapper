@@ -4,10 +4,125 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-04 14:08:16](#batch-2026-06-04-14-08-16)
 - [Batch at 2026-06-04 11:30:45](#batch-2026-06-04-11-30-45)
 - [Batch at 2026-06-04 08:43:57](#batch-2026-06-04-08-43-57)
 - [Batch at 2026-06-04 05:06:10](#batch-2026-06-04-05-06-10)
-- [Batch at 2026-06-04 02:00:44](#batch-2026-06-04-02-00-44)
+
+<h3 id='batch-2026-06-04-14-08-16'>🕐 Batch at 2026-06-04 14:08:16</h3>
+
+📊 **Total jobs in this batch: 12**
+
+**Per company:**
+- ASMLEXT1: 1 job
+- Anduril Industries: 1 job
+- BAH: 3 jobs
+- genpt: 2 jobs
+- Intel Corporation: 1 job
+- NVIDIA: 1 job
+- Stripe: 1 job
+- Walmart: 1 job
+- Zipline: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Co-op/Internship Business Process Analyst</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Co-op-Internship-Business-Process-Analyst_J-00343503'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Atlanta, Georgia, United States; Bellevue, Washington, United States; Costa Mesa, California, United States; Mountain View, California, United States</td>
+      <td>Software Engineer, Manufacturing Test</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5156167007?gh_jid=5156167007'>Apply</a></td>
+      <td>Jun 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Data-Engineer_R0241800'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Alexandria, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0241573'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Houston, TX</td>
+      <td>Human Spaceflight Engineer Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Houston-TX/Human-Spaceflight-Engineer-Intern_R0241464'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Dallas, TX, USA</td>
+      <td>CDL Regional Driver</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Dallas-TX-USA/CDL-Regional-Driver_R26_0000018471'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Software-Engineer-III_R26_0000017593'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Thermal data Analysis Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Thermal-data-Analysis-Engineer_JR0284391'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Software Engineer, CAD Automation</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--CAD-Automation_JR2019252'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>US</td>
+      <td>Data Scientist, Economic Insights & Research</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=7980402'>Apply</a></td>
+      <td>Jun 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) CO CENTENNIAL 03313 WM SUPERCENTER</td>
+      <td>(USA) Coach/Ops Mgr Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CO-CENTENNIAL-03313-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2532986'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Electrical Project Engineer Intern (Fall 2026)</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7763835003#open-roles'>Apply</a></td>
+      <td>Jun 04, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-04-11-30-45'>🕐 Batch at 2026-06-04 11:30:45</h3>
 
@@ -222,7 +337,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-04-08-43-57'>🕐 Batch at 2026-06-04 08:43:57</h3>
 
 📊 **Total jobs in this batch: 18**
@@ -377,8 +491,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-04-05-06-10'>🕐 Batch at 2026-06-04 05:06:10</h3>
+---<h3 id='batch-2026-06-04-05-06-10'>🕐 Batch at 2026-06-04 05:06:10</h3>
 
 📊 **Total jobs in this batch: 3**
 
