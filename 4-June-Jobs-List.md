@@ -4,9 +4,224 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-04 11:30:45](#batch-2026-06-04-11-30-45)
 - [Batch at 2026-06-04 08:43:57](#batch-2026-06-04-08-43-57)
 - [Batch at 2026-06-04 05:06:10](#batch-2026-06-04-05-06-10)
 - [Batch at 2026-06-04 02:00:44](#batch-2026-06-04-02-00-44)
+
+<h3 id='batch-2026-06-04-11-30-45'>🕐 Batch at 2026-06-04 11:30:45</h3>
+
+📊 **Total jobs in this batch: 25**
+
+**Per company:**
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- BAH: 4 jobs
+- Bank of Montreal: 1 job
+- Citi: 1 job
+- CMU: 1 job
+- Datadog: 1 job
+- DigiCert: 1 job
+- Micron: 1 job
+- MOOG: 1 job
+- nVent: 1 job
+- RF-SMART: 1 job
+- spacex: 3 jobs
+- State Street: 1 job
+- tp-link: 1 job
+- Xylem Services USA LLC: 1 job
+- Walmart: 4 jobs
+- Zipline: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma City - 6015 N Classen Blvd</td>
+      <td>Executive Liaison and Operations Coordinator</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-City---6015-N-Classen-Blvd/Executive-Liaison-and-Operations-Coordinator_JR60895'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>MacDill AFB, FL</td>
+      <td>Data Analyst, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/MacDill-AFB-FL/Data-Analyst--Mid_R0241548'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Data-Engineer_R0241347'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Pensacola, FL</td>
+      <td>SIGINT Curriculum Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Pensacola-FL/SIGINT-Curriculum-Developer_R0241290'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>CMDB and Attack Surface Management Support ServiceNow Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/CMDB-and-Attack-Surface-Management-Support-ServiceNow-Developer_R0241487'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>Seattle, WA, USA</td>
+      <td>Middle Market M&A Business Development Internship - Seattle, WA (Fall 2026)</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Seattle-WA-USA/Middle-Market-M-A-Business-Development-Internship---Seattle--WA--Fall-2026-_R260016866'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Jersey City New Jersey United States</td>
+      <td>Junior Data Services and AI Developer - Officer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Junior-Data-Services-and-AI-Developer---Officer_26967855'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Copy & Mail Center Operations Coordinator - Facilities Management & Campus Services</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Copy---Mail-Center-Operations-Coordinator---Facilities-Management---Campus-Services_2024654'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Datadog</b></td>
+      <td>New York, New York, USA</td>
+      <td>Software Engineer II, Enterprise Engineering</td>
+      <td><a href='https://careers.datadoghq.com/detail/7980350/?gh_jid=7980350'>Apply</a></td>
+      <td>Jun 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>DigiCert</b></td>
+      <td>Lehi, Utah</td>
+      <td>Software Engineer</td>
+      <td><a href='https://www.digicert.com/careers/?gh_jid=8559517002'>Apply</a></td>
+      <td>Jun 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Metro Applications Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Metro-Applications-Engineer_JR103543'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Software Quality Assurance Engineer</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Development-Process-Assurance-Engineer_R-26-17016'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Anoka, MN, US</td>
+      <td>Material Handler - 2nd Shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Material-Handler---2nd-Shift_R22140'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>RF-SMART</b></td>
+      <td>Jacksonville, Florida, United States</td>
+      <td>IT Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/rfsmart/jobs/5235893008'>Apply</a></td>
+      <td>Jun 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>NDE Inspector Trainee (Starship) - Temporary (Radiography)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8578887002?gh_jid=8578887002'>Apply</a></td>
+      <td>Jun 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Infrastructure Engineer (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8573279002?gh_jid=8573279002'>Apply</a></td>
+      <td>Jun 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Infrastructure Engineer (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8573281002?gh_jid=8573281002'>Apply</a></td>
+      <td>Jun 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Quincy, Massachusetts</td>
+      <td>Technology Business Office Intern – AI - Native Solutions & Process Innovation (6 Months Full-time - July to Dec 2026)</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Technology-Business-Office-Intern---AI---Native-Solutions---Process-Innovation--6-Months-Full-time---July-to-Dec-2026-_R-791762'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>tp-link</b></td>
+      <td>Irvine, California</td>
+      <td>Cloud Software Engineer - Database</td>
+      <td><a href='https://apply.workable.com/tp-link-usa-corp/j/9D630CC0D7/'>Apply</a></td>
+      <td>Jun 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Xylem Services USA LLC</b></td>
+      <td>Thomasville, Georgia</td>
+      <td>Welder Intern</td>
+      <td><a href='https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Thomasville-Georgia/Welder-Intern_R48884'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 01201 WM SUPERCENTER</td>
+      <td>(CAN) Caissier</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-01201-WM-SUPERCENTER/XMLNAME--CAN--Caissier_R-2532677'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 01201 WM SUPERCENTER</td>
+      <td>(CAN) Caissier</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-01201-WM-SUPERCENTER/XMLNAME--CAN--Caissier_R-2532673'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(CAN) QC VILLE DE QUEBEC 01201 WM SUPERCENTER</td>
+      <td>(CAN) Préposé au traitement des commandes OMNI</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-QC-VILLE-DE-QUEBEC-01201-WM-SUPERCENTER/XMLNAME--CAN--Prpos-au-traitement-des-commandes-OMNI_R-2532670'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>People Operations Intern (Fall 2026)</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7761825003#open-roles'>Apply</a></td>
+      <td>Jun 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) CA RIVERSIDE 02028 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (hrly) CA</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CA-RIVERSIDE-02028-WM-SUPERCENTER/Pharmacy-Grad-Intern--hrly--CA_R-2531420'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-04-08-43-57'>🕐 Batch at 2026-06-04 08:43:57</h3>
 
@@ -163,7 +378,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-04-05-06-10'>🕐 Batch at 2026-06-04 05:06:10</h3>
 
 📊 **Total jobs in this batch: 3**
@@ -208,8 +422,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-04-02-00-44'>🕐 Batch at 2026-06-04 02:00:44</h3>
+---<h3 id='batch-2026-06-04-02-00-44'>🕐 Batch at 2026-06-04 02:00:44</h3>
 
 📊 **Total jobs in this batch: 2**
 
