@@ -4,10 +4,71 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-03 21:30:11](#batch-2026-06-03-21-30-11)
 - [Batch at 2026-06-03 16:54:48](#batch-2026-06-03-16-54-48)
 - [Batch at 2026-06-03 15:00:29](#batch-2026-06-03-15-00-29)
 - [Batch at 2026-06-03 11:55:41](#batch-2026-06-03-11-55-41)
-- [Batch at 2026-06-03 07:53:28](#batch-2026-06-03-07-53-28)
+
+<h3 id='batch-2026-06-03-21-30-11'>🕐 Batch at 2026-06-03 21:30:11</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- Applied Materials: 1 job
+- BAH: 2 jobs
+- Nike: 1 job
+- PlayStation Global: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Algorithm Developer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Algorithm-Developer_R2620698'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Scott AFB, IL</td>
+      <td>API Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Scott-AFB-IL/API-Engineer_R0241457'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Software Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-Architect_R0234006'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Adelaide, South Australia</td>
+      <td>Specialist (Selling & Service - Fixed Term) - Nike, Adelaide</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Adelaide-South-Australia/Specialist--Selling---Service---Fixed-Term----Nike--Adelaide_R-84856'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Diego, CA</td>
+      <td>Data Scientist, D2C Data Science</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6006539004'>Apply</a></td>
+      <td>Jun 03, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-03-16-54-48'>🕐 Batch at 2026-06-03 16:54:48</h3>
 
@@ -130,7 +191,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-03-15-00-29'>🕐 Batch at 2026-06-03 15:00:29</h3>
 
 📊 **Total jobs in this batch: 23**
@@ -324,8 +384,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-03-11-55-41'>🕐 Batch at 2026-06-03 11:55:41</h3>
+---<h3 id='batch-2026-06-03-11-55-41'>🕐 Batch at 2026-06-03 11:55:41</h3>
 
 📊 **Total jobs in this batch: 20**
 
