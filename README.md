@@ -4,8 +4,217 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-05 09:05:36](#batch-2026-06-05-09-05-36)
 - [Batch at 2026-06-05 05:53:36](#batch-2026-06-05-05-53-36)
 - [Batch at 2026-06-05 03:06:52](#batch-2026-06-05-03-06-52)
+
+<h3 id='batch-2026-06-05-09-05-36'>🕐 Batch at 2026-06-05 09:05:36</h3>
+
+📊 **Total jobs in this batch: 25**
+
+**Per company:**
+- Motorola Solutions, Inc: 1 job
+- Anduril Industries: 1 job
+- BAH: 3 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- Esri: 9 jobs
+- Formlabs: 1 job
+- NVIDIA: 1 job
+- RF-SMART: 1 job
+- State Street: 1 job
+- Workday: 5 jobs
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Colorado, US Offsite, More...</td>
+      <td>Field Engineer - Emergency Call Handling</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Colorado-US-Offsite/Field-Engineer---Emergency-Call-Handling_R63976'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Reston, Virginia, United States</td>
+      <td>Mission Software Engineer, Intelligence Systems</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5156713007?gh_jid=5156713007'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Full Stack, Software Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Full-Stack--Software-Engineer--Mid_R0241544'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Analyst, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Analyst--Mid_R0241790'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Manassas, VA</td>
+      <td>TAK Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Manassas-VA/TAK-Developer_R0241546'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA SC - Sumter</td>
+      <td>Training Systems Administrator</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-SC---Sumter/Training-Systems-Administrator_R-546589'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Vienna, Virginia, United States</td>
+      <td>Software Development Engineer II- Back End</td>
+      <td><a href='https://www.esri.com/careers/5156688007?gh_jid=5156688007'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer II- Back End</td>
+      <td><a href='https://www.esri.com/careers/5156693007?gh_jid=5156693007'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>St. Louis, MO - Globe</td>
+      <td>Software Development Engineer II- Back End</td>
+      <td><a href='https://www.esri.com/careers/5156687007?gh_jid=5156687007'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>St. Louis, MO - Globe</td>
+      <td>Software Development Engineer II- CI/CD & Platform Automation Engineer (DevOps)</td>
+      <td><a href='https://www.esri.com/careers/5156694007?gh_jid=5156694007'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer II- CI/CD & Platform Automation Engineer (DevOps)</td>
+      <td><a href='https://www.esri.com/careers/5156696007?gh_jid=5156696007'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Vienna, Virginia, United States</td>
+      <td>Software Development Engineer II- CI/CD & Platform Automation Engineer (DevOps)</td>
+      <td><a href='https://www.esri.com/careers/5156695007?gh_jid=5156695007'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>St. Louis, MO - Globe</td>
+      <td>Software Development Engineer II- Front End</td>
+      <td><a href='https://www.esri.com/careers/5156697007?gh_jid=5156697007'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Vienna, Virginia, United States</td>
+      <td>Software Development Engineer II- Front End</td>
+      <td><a href='https://www.esri.com/careers/5156698007?gh_jid=5156698007'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer II- Front End</td>
+      <td><a href='https://www.esri.com/careers/5156699007?gh_jid=5156699007'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Perrysburg, OH</td>
+      <td>Material Handler 1st Shift and 2nd Shift</td>
+      <td><a href='https://careers.formlabs.com/job/7984928/apply/?gh_jid=7984928'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Content Engineer, Developer Documentation</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Content-Engineer--Developer-Documentation_JR2012117'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>RF-SMART</b></td>
+      <td>Jacksonville, Florida, United States</td>
+      <td>Business Development Intern - Fall 2026</td>
+      <td><a href='https://job-boards.greenhouse.io/rfsmart/jobs/5230703008'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Burlington Massachusetts</td>
+      <td>Software Engineer, Officer</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Software-Engineer--Officer_R-791743'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA.VA.Reston</td>
+      <td>Software Development Engineer - Integration Platform (US Federal)</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer---Integration-Platform--US-Federal-_JR-0105495'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA.VA.Reston</td>
+      <td>Software Engineer - DevOps (US Federal)</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Engineer---DevOps--US-Federal-_JR-0105502'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA.VA.Reston</td>
+      <td>Software Development  Engineer (US Federal)</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Analytics-Sr-Software-Engineer--US-Federal-_JR-0105496'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA.VA.Reston</td>
+      <td>Software Engineer - Developer Platform (US Federal)</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Engineer---Developer-Platform--US-Federal-_JR-0105497'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA.VA.Reston</td>
+      <td>Software Development Engineer (US Federal)</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0105503'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) IN FORT WAYNE 04230 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IN-FORT-WAYNE-04230-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2533661-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-05-05-53-36'>🕐 Batch at 2026-06-05 05:53:36</h3>
 
@@ -65,7 +274,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-05-03-06-52'>🕐 Batch at 2026-06-05 03:06:52</h3>
 
 📊 **Total jobs in this batch: 5**
