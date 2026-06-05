@@ -4,10 +4,56 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-04 22:28:37](#batch-2026-06-04-22-28-37)
 - [Batch at 2026-06-04 17:20:36](#batch-2026-06-04-17-20-36)
 - [Batch at 2026-06-04 15:48:28](#batch-2026-06-04-15-48-28)
 - [Batch at 2026-06-04 14:08:16](#batch-2026-06-04-14-08-16)
-- [Batch at 2026-06-04 11:30:45](#batch-2026-06-04-11-30-45)
+
+<h3 id='batch-2026-06-04-22-28-37'>🕐 Batch at 2026-06-04 22:28:37</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Applied Materials: 1 job
+- BAH: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Process Support Engineer I, New College Grad - Bachelor's (Austin, TX)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Process-Support-Engineer-I--New-College-Grad---Bachelor-s--Austin--TX-_R2621318'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>O'Fallon, IL</td>
+      <td>Agentic AI Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/OFallon-IL/Agentic-AI-Developer_R0241538'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Bentonville, AR</td>
+      <td>(USA) Software Engineer II</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Software-Engineer-II_R-2363745-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-04-17-20-36'>🕐 Batch at 2026-06-04 17:20:36</h3>
 
@@ -54,7 +100,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-04-15-48-28'>🕐 Batch at 2026-06-04 15:48:28</h3>
 
 📊 **Total jobs in this batch: 9**
@@ -145,8 +190,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-04-14-08-16'>🕐 Batch at 2026-06-04 14:08:16</h3>
+---<h3 id='batch-2026-06-04-14-08-16'>🕐 Batch at 2026-06-04 14:08:16</h3>
 
 📊 **Total jobs in this batch: 12**
 
