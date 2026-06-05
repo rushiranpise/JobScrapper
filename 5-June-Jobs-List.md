@@ -4,10 +4,122 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-05 13:57:14](#batch-2026-06-05-13-57-14)
 - [Batch at 2026-06-05 11:10:05](#batch-2026-06-05-11-10-05)
 - [Batch at 2026-06-05 09:05:36](#batch-2026-06-05-09-05-36)
 - [Batch at 2026-06-05 05:53:36](#batch-2026-06-05-05-53-36)
-- [Batch at 2026-06-05 03:06:52](#batch-2026-06-05-03-06-52)
+
+<h3 id='batch-2026-06-05-13-57-14'>🕐 Batch at 2026-06-05 13:57:14</h3>
+
+📊 **Total jobs in this batch: 12**
+
+**Per company:**
+- Children's Hospital Medical Center: 1 job
+- NVIDIAExternalCareerSite: 1 job
+- PlayStation Global: 2 jobs
+- spacex: 1 job
+- Walmart: 6 jobs
+- Zipline: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Children's Hospital Medical Center</b></td>
+      <td>Burnet Campus</td>
+      <td>Occupational Therapist for Inpatient</td>
+      <td><a href='https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Burnet-Campus/Occupational-Therapist-for-Inpatient_JR221913'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIAExternalCareerSite</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Software Engineering Intern, Mapping Autonomous Vehicles - Fall 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Mapping-Autonomous-Vehicles---Fall-2026_JR2011493'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, Aliso Viejo, CA</td>
+      <td>Software Development Engineer in Test II</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6015446004'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Diego, CA</td>
+      <td>Software Development Engineer in Test II</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6007259004'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>EDM Programmer (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8579766002?gh_jid=8579766002'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) KY FLORENCE 01510 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-KY-FLORENCE-01510-WM-SUPERCENTER/Pharmacy-Grad-Intern--hrly-_R-2532898'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) WI MUKWONAGO 01571 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-WI-MUKWONAGO-01571-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2534283-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) AZ CHANDLER 01512 WM SUPERCENTER</td>
+      <td>(USA) Asset Protection Operations Coach Trainee</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-AZ-CHANDLER-01512-WM-SUPERCENTER/XMLNAME--USA--Asset-Protection-Operations-Coach-Trainee_R-2534166'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) NC RICHLANDS 07009 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NC-RICHLANDS-07009-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2533829'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) KY ALEXANDRIA 01961 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-KY-ALEXANDRIA-01961-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2532768'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Mechatronics Perception Intern (Fall 2026)</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7763697003#open-roles'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) MI TAWAS CITY 05376 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MI-TAWAS-CITY-05376-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2533783-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-05-11-10-05'>🕐 Batch at 2026-06-05 11:10:05</h3>
 
@@ -121,7 +233,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-05-09-05-36'>🕐 Batch at 2026-06-05 09:05:36</h3>
 
 📊 **Total jobs in this batch: 25**
@@ -328,8 +439,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-05-05-53-36'>🕐 Batch at 2026-06-05 05:53:36</h3>
+---<h3 id='batch-2026-06-05-05-53-36'>🕐 Batch at 2026-06-05 05:53:36</h3>
 
 📊 **Total jobs in this batch: 5**
 
