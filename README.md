@@ -4,9 +4,123 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-05 11:10:05](#batch-2026-06-05-11-10-05)
 - [Batch at 2026-06-05 09:05:36](#batch-2026-06-05-09-05-36)
 - [Batch at 2026-06-05 05:53:36](#batch-2026-06-05-05-53-36)
 - [Batch at 2026-06-05 03:06:52](#batch-2026-06-05-03-06-52)
+
+<h3 id='batch-2026-06-05-11-10-05'>🕐 Batch at 2026-06-05 11:10:05</h3>
+
+📊 **Total jobs in this batch: 12**
+
+**Per company:**
+- Allstate: 1 job
+- BAH: 1 job
+- Enova: 1 job
+- Esri: 3 jobs
+- General Motors LLC: 1 job
+- SRK Supplylogix LLC: 1 job
+- Walmart: 4 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>US - Remote</td>
+      <td>Product Engineer – Java Spring Boot w/ Full Stack Option</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Product-Engineer---Java-Spring-Boot-w--Full-Stack-Option_R31310'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Suffolk, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Suffolk-VA/Data-Scientist_R0241565'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Enova</b></td>
+      <td>Chicago, IL</td>
+      <td>CashNetUSA Application Support Representative (Remote)</td>
+      <td><a href='https://job-boards.greenhouse.io/enova/jobs/7985363'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>System Engineer- Enterprise Data Engineer</td>
+      <td><a href='https://www.esri.com/careers/5157010007?gh_jid=5157010007'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Vienna, Virginia, United States</td>
+      <td>System Engineer- Enterprise Data Engineer</td>
+      <td><a href='https://www.esri.com/careers/5157006007?gh_jid=5157006007'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>St. Louis, MO - Globe</td>
+      <td>System Engineer- Enterprise Data Engineer</td>
+      <td><a href='https://www.esri.com/careers/5157005007?gh_jid=5157005007'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Austin, Texas, United States of America</td>
+      <td>Software Engineer, Backend Web Development</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Austin-Texas-United-States-of-America/Software-Engineer--Backend-Web-Development_JR-202609921'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, KY, Erlanger</td>
+      <td>Material Handler Specialist- Warehouse ***Signing bonus included***</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-KY-Erlanger/Material-Handler-Specialist--Warehouse----Signing-bonus-included---_JR0148328'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) KY SHEPHERDSVILLE 04118 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-KY-SHEPHERDSVILLE-04118-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2532430'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) VA WYTHEVILLE 03270 WM SUPERCENTER</td>
+      <td>Pharmacy Grad Intern (Hrly)</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-VA-WYTHEVILLE-03270-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2533640'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) WA MONROE 05628 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-WA-MONROE-05628-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2533431-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) TX MIDLAND 03645 WM SUPERCENTER</td>
+      <td>(USA) Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-MIDLAND-03645-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2534022-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-05-09-05-36'>🕐 Batch at 2026-06-05 09:05:36</h3>
 
@@ -215,7 +329,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-05-05-53-36'>🕐 Batch at 2026-06-05 05:53:36</h3>
 
 📊 **Total jobs in this batch: 5**
@@ -273,8 +386,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-05-03-06-52'>🕐 Batch at 2026-06-05 03:06:52</h3>
+---<h3 id='batch-2026-06-05-03-06-52'>🕐 Batch at 2026-06-05 03:06:52</h3>
 
 📊 **Total jobs in this batch: 5**
 
