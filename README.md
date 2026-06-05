@@ -4,10 +4,56 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-04 17:20:36](#batch-2026-06-04-17-20-36)
 - [Batch at 2026-06-04 15:48:28](#batch-2026-06-04-15-48-28)
 - [Batch at 2026-06-04 14:08:16](#batch-2026-06-04-14-08-16)
 - [Batch at 2026-06-04 11:30:45](#batch-2026-06-04-11-30-45)
-- [Batch at 2026-06-04 08:43:57](#batch-2026-06-04-08-43-57)
+
+<h3 id='batch-2026-06-04-17-20-36'>🕐 Batch at 2026-06-04 17:20:36</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Applied Materials: 1 job
+- genpt: 1 job
+- Intel Corporation: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Chandler,AZ</td>
+      <td>Material Handler</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/ChandlerAZ/Material-Handler_R2615036'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Material-Handler-I_R26_0000017480-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>OTF Failure Analysis Technician - Night Shift</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/OTF-Failure-Analysis-Technician---Night-Shift_JR0284487'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-04-15-48-28'>🕐 Batch at 2026-06-04 15:48:28</h3>
 
@@ -100,7 +146,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-04-14-08-16'>🕐 Batch at 2026-06-04 14:08:16</h3>
 
 📊 **Total jobs in this batch: 12**
@@ -214,8 +259,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-04-11-30-45'>🕐 Batch at 2026-06-04 11:30:45</h3>
+---<h3 id='batch-2026-06-04-11-30-45'>🕐 Batch at 2026-06-04 11:30:45</h3>
 
 📊 **Total jobs in this batch: 25**
 

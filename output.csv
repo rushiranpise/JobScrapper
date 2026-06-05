@@ -1,10 +1,4 @@
-company,title,location,link,postedOn,updatedOn
-2k,DevOps Engineer,"Austin, Texas, United States",https://job-boards.greenhouse.io/2k/jobs/7762608003,2026-06-04T18:09:47-04:00,2026-06-04T18:10:25-04:00
-566 DEPARTMENT OF TOURISM AND RECREATION,Project Management Intern,Oklahoma County,https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Project-Management-Intern_JR60919,Posted Today,
-BAH,Data Scientist,"Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0241528,Posted Today,
-BAH,Data Engineer,"Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Engineer_R0241523,Posted Today,
-BAH,Data Scientist,"San Antonio, TX",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Data-Scientist_R0241519,Posted Today,
-Core Weave,"Data Center Technician - Weehawken, NJ","Weehawken, NJ",https://coreweave.com/careers/job?4686960006&board=coreweave&gh_jid=4686960006,2026-06-04T18:02:20-04:00,2026-06-04T18:02:20-04:00
-Datamaxis,Analytics Engineer/Data Analyst,"Okemos, MI",https://datamaxis.breezy.hr/p/a96f056fd9ec-analytics-engineer-data-analyst,2026-06-04T16:12:05.933Z,
-homedepot,"Rental Delivery Driver I CDLA - Glendale, AZ",ARIZONA - VIRTUAL - AZ01,https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/ARIZONA---VIRTUAL---AZ01/Rental-Delivery-Driver-I-CDLA---Glendale--AZ_Req182776,Posted Today,
-spacex,IT Network Infrastructure Technician,"Bastrop, TX",https://boards.greenhouse.io/spacex/jobs/8579623002?gh_jid=8579623002,2026-06-04T18:30:40-04:00,2026-06-04T18:30:40-04:00
+company,title,location,postedOn,link
+Applied Materials,Material Handler,"Chandler,AZ",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/ChandlerAZ/Material-Handler_R2615036
+genpt,Material Handler I,"Birmingham, AL, USA",Posted Today,https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Material-Handler-I_R26_0000017480-1
+Intel Corporation,OTF Failure Analysis Technician - Night Shift,"US, Arizona, Phoenix",Posted Today,https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/OTF-Failure-Analysis-Technician---Night-Shift_JR0284487
