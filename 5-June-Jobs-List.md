@@ -4,10 +4,64 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-05 15:25:40](#batch-2026-06-05-15-25-40)
 - [Batch at 2026-06-05 13:57:14](#batch-2026-06-05-13-57-14)
 - [Batch at 2026-06-05 11:10:05](#batch-2026-06-05-11-10-05)
 - [Batch at 2026-06-05 09:05:36](#batch-2026-06-05-09-05-36)
-- [Batch at 2026-06-05 05:53:36](#batch-2026-06-05-05-53-36)
+
+<h3 id='batch-2026-06-05-15-25-40'>🕐 Batch at 2026-06-05 15:25:40</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- Core Weave: 1 job
+- genpt: 1 job
+- Quantinuum: 1 job
+- Zipline: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA / Dallas, TX</td>
+      <td> Master Data Specialist </td>
+      <td><a href='https://coreweave.com/careers/job?4687131006&board=coreweave&gh_jid=4687131006'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Indianapolis, IN, USA</td>
+      <td>CDL Local Driver</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Indianapolis-IN-USA/CDL-Local-Driver_R26_0000011381-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Quantinuum</b></td>
+      <td>US Broomfield, CO</td>
+      <td>Software Test Engineer - 770</td>
+      <td><a href='https://jobs.eu.lever.co/quantinuum/e7f4a0db-4a46-4409-9cbb-75e7eecf2565'>Apply</a></td>
+      <td>2026-06-05 21:32:32</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Business Data Analyst</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7765198003#open-roles'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-05-13-57-14'>🕐 Batch at 2026-06-05 13:57:14</h3>
 
@@ -120,7 +174,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-05-11-10-05'>🕐 Batch at 2026-06-05 11:10:05</h3>
 
 📊 **Total jobs in this batch: 12**
@@ -232,8 +285,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-05-09-05-36'>🕐 Batch at 2026-06-05 09:05:36</h3>
+---<h3 id='batch-2026-06-05-09-05-36'>🕐 Batch at 2026-06-05 09:05:36</h3>
 
 📊 **Total jobs in this batch: 25**
 
