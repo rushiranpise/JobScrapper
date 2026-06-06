@@ -4,10 +4,56 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-05 17:18:03](#batch-2026-06-05-17-18-03)
 - [Batch at 2026-06-05 15:25:40](#batch-2026-06-05-15-25-40)
 - [Batch at 2026-06-05 13:57:14](#batch-2026-06-05-13-57-14)
 - [Batch at 2026-06-05 11:10:05](#batch-2026-06-05-11-10-05)
-- [Batch at 2026-06-05 09:05:36](#batch-2026-06-05-09-05-36)
+
+<h3 id='batch-2026-06-05-17-18-03'>🕐 Batch at 2026-06-05 17:18:03</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Otis: 1 job
+- spacex: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Otis</b></td>
+      <td>OT541: TFP - Florence, SC 1500 Otis Way, Florence, SC, 29501 USA</td>
+      <td>Material Handler ( 3rd Shift)</td>
+      <td><a href='https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT541-TFP---Florence-SC-1500-Otis-Way-Florence-SC-29501-USA/Material-Handler_20161061'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, Propulsion Simulation & Data Analysis</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8581299002?gh_jid=8581299002'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>Monroe, WA</td>
+      <td>Front End Coach</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Monroe-WA/Front-End-Coach_R-2534535-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-05-15-25-40'>🕐 Batch at 2026-06-05 15:25:40</h3>
 
@@ -62,7 +108,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-05-13-57-14'>🕐 Batch at 2026-06-05 13:57:14</h3>
 
 📊 **Total jobs in this batch: 12**
@@ -173,8 +218,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-05-11-10-05'>🕐 Batch at 2026-06-05 11:10:05</h3>
+---<h3 id='batch-2026-06-05-11-10-05'>🕐 Batch at 2026-06-05 11:10:05</h3>
 
 📊 **Total jobs in this batch: 12**
 
