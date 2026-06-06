@@ -4,10 +4,48 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-05 22:03:50](#batch-2026-06-05-22-03-50)
 - [Batch at 2026-06-05 17:18:03](#batch-2026-06-05-17-18-03)
 - [Batch at 2026-06-05 15:25:40](#batch-2026-06-05-15-25-40)
 - [Batch at 2026-06-05 13:57:14](#batch-2026-06-05-13-57-14)
-- [Batch at 2026-06-05 11:10:05](#batch-2026-06-05-11-10-05)
+
+<h3 id='batch-2026-06-05-22-03-50'>🕐 Batch at 2026-06-05 22:03:50</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- Applied Materials: 1 job
+- Walmart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>AGS Training Services New Product (NPI) Instructor (Early Career)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/AGS-Training-Services-New-Product--NPI--Instructor--Early-Career-_R2618491'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Walmart</b></td>
+      <td>(USA) IL TAYLORVILLE 00343 WM SUPERCENTER</td>
+      <td>Pharmacy Pre-Grad Intern - WM</td>
+      <td><a href='https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IL-TAYLORVILLE-00343-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2532475'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-05-17-18-03'>🕐 Batch at 2026-06-05 17:18:03</h3>
 
@@ -54,7 +92,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-05-15-25-40'>🕐 Batch at 2026-06-05 15:25:40</h3>
 
 📊 **Total jobs in this batch: 4**
@@ -107,8 +144,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-05-13-57-14'>🕐 Batch at 2026-06-05 13:57:14</h3>
+---<h3 id='batch-2026-06-05-13-57-14'>🕐 Batch at 2026-06-05 13:57:14</h3>
 
 📊 **Total jobs in this batch: 12**
 
