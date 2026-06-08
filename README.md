@@ -4,7 +4,117 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-08 09:07:49](#batch-2026-06-08-09-07-49)
 - [Batch at 2026-06-08 04:10:41](#batch-2026-06-08-04-10-41)
+
+<h3 id='batch-2026-06-08-09-07-49'>🕐 Batch at 2026-06-08 09:07:49</h3>
+
+📊 **Total jobs in this batch: 11**
+
+**Per company:**
+- Applied Materials: 1 job
+- BAH: 1 job
+- BorgWarner: 2 jobs
+- Chime: 1 job
+- DoorDash : 1 job
+- Formlabs: 1 job
+- Hatch IT: 1 job
+- nVent: 1 job
+- Saviynt: 1 job
+- State Street: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Algorithm Developer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Algorithm-Developer_R2616892'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Engineer_R0241674'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Arden - North Carolina - USA</td>
+      <td>3rd Shift Controls Technician - (Grade G, $29.50-$36.61)</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/XMLNAME-3rd-Shift-Controls-Technician----Grade-G---2950--3661-_R2026-2195'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Arden - North Carolina - USA</td>
+      <td>Machinist I or II - 2nd shift - Grade D or E ($22.06 - $27.72)</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/Machinist-I-or-II---2nd-shift---Grade-D-or-E---2206----2772-_R2026-2235-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Chime</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>AI/ML Engineer</td>
+      <td><a href='https://boards.greenhouse.io/chime/jobs/8569368002?gh_jid=8569368002'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>San Francisco, CA; New York, NY; Seattle, WA; Chicago, IL;  Los Angeles, CA; Tempe, AZ; Denver, CO; Boston, MA; Austin, TX; Washington D.C.</td>
+      <td>Associate, Cx Campaign Operations - Strategic Bets</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/7985616'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Event Logistics Intern (Fall 2026)</td>
+      <td><a href='https://careers.formlabs.com/job/7985796/apply/?gh_jid=7985796'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Hatch IT</b></td>
+      <td>Washington, DC</td>
+      <td>Database Engineer</td>
+      <td><a href='https://jobs.lever.co/hatchit/8c3ac4cd-aa72-449c-bbdb-acd0db2160cd'>Apply</a></td>
+      <td>2026-06-08 15:47:31</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Dayton, MN, US</td>
+      <td>Warehouse Material Handler-2nd Shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Dayton-MN-US/Warehouse-Material-Handler-2nd-Shift_R22172'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Saviynt</b></td>
+      <td>Milpitas, California</td>
+      <td>AI Platform Engineer, Training and Inference</td>
+      <td><a href='https://jobs.lever.co/saviynt/9a8661ce-8856-4977-87f4-b06567125e28'>Apply</a></td>
+      <td>2026-05-18 17:13:41</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Boston, Massachusetts</td>
+      <td>ALM, 6 Months Full-time Internship (Jul- Dec 2026)</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/ALM--6-Months-Full-time-Internship--Jul--Dec-2026-_R-791937'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-08-04-10-41'>🕐 Batch at 2026-06-08 04:10:41</h3>
 
@@ -105,4 +215,3 @@
 <table>
 
 ---
-
