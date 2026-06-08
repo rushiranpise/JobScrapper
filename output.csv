@@ -1,22 +1,13 @@
-company,title,location,link,postedOn,updatedOn
-Anduril Industries,DevOps Engineer,"Reston, Virginia, United States",https://boards.greenhouse.io/andurilindustries/jobs/5151916007?gh_jid=5151916007,2026-06-08T15:50:32-04:00,2026-06-08T15:50:32-04:00
-Anduril Industries,"Software Engineer, Robotics","Irvine, California, United States",https://boards.greenhouse.io/andurilindustries/jobs/5102393007?gh_jid=5102393007,2026-06-08T16:41:43-04:00,2026-06-08T16:41:43-04:00
-Autodesk,Software Engineer - Education,"Boston, MA, USA",https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Boston-MA-USA/Software-Engineer---Education_26WD98516-1,Posted Today,
-BAH,Data Management Analyst,"Bethesda, MD",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Data-Management-Analyst_R0241938,Posted Today,
-BAH,Modernization Software Engineer,"Manassas, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Manassas-VA/Modernization-Software-Engineer_R0241651,Posted Today,
-BAH,Data Scientist,"Alexandria, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0241357,Posted Today,
-BAH,Cloud Engineer,"McLean, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cloud-Engineer_R0241740-1,Posted Today,
-BAH,Modeling and Simulation Software Engineer,"Beavercreek, OH",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Modeling-and-Simulation-Software-Engineer_R0241739,Posted Today,
-BAH,Data Analyst,"Washington, DC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Analyst_R0241726,Posted Today,
-Children's Hospital Medical Center,Occupational Therapist : 30 hrs/wk at Liberty,Liberty Campus,https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Liberty-Campus/Occupational-Therapist---30-hrs-wk-at-Liberty_JR221554-1,Posted Today,
-Formlabs,Global Sourcing Intern (Fall 2026),"Somerville, MA",https://careers.formlabs.com/job/7747228/apply/?gh_jid=7747228,2026-06-08T15:56:57-04:00,2026-06-08T16:51:15-04:00
-Scoutm Otors,"System Engineer, Infotainment Systems","Charlotte, North Carolina, United States",https://job-boards.greenhouse.io/scoutmotors/jobs/5155582007,2026-06-08T14:50:29-04:00,2026-06-08T14:50:29-04:00
-spacex,"Software Engineer, Network Monitoring (Starlink)","Hawthorne, CA",https://boards.greenhouse.io/spacex/jobs/8577262002?gh_jid=8577262002,2026-06-08T15:44:17-04:00,2026-06-08T15:44:17-04:00
-Veeva Systems,Data Analyst,Massachusetts - Boston,https://jobs.lever.co/veeva/4c553771-00ae-474d-b69e-670ee67fec7d,2026-06-08 16:12:07,N/A
-Veeva Systems,Data Analyst,Pennsylvania - Philadelphia,https://jobs.lever.co/veeva/dc31cd5c-0aa5-45a5-9cc2-fd4179f47b40,2026-06-08 16:13:33,N/A
-Veeva Systems,Data Analyst,Massachusetts - Boston,https://jobs.lever.co/veeva/ee3ae875-5db1-49b3-ae64-0fbac944d2a3,2026-06-08 16:14:06,N/A
-Veeva Systems,Product Expert - Health Data,Massachusetts - Boston,https://jobs.lever.co/veeva/459167ab-26c0-4a53-ba0c-11be756d0c41,2023-09-14 14:26:08,N/A
-Veeva Systems,Product Expert - Health Data,Massachusetts - Boston,https://jobs.lever.co/veeva/472a0278-33e8-487e-8b82-16cdde1809ed,2023-09-14 14:16:23,N/A
-Veeva Systems,Product Expert - Health Data,Pennsylvania - Philadelphia,https://jobs.lever.co/veeva/9b0d3edc-709d-41ba-a6bf-8525507d2fd1,2026-06-08 16:49:21,N/A
-Zipline,Applications Engineer Intern (Fall 2026),"South San Francisco, California, USA",https://www.zipline.com/careers?gh_jid=7765099003#open-roles,2026-06-08T15:25:24-04:00,2026-06-08T15:25:24-04:00
-Zipline,Computational Physics Intern (Fall 2026),"South San Francisco, California, USA",https://www.zipline.com/careers?gh_jid=7766408003#open-roles,2026-06-08T16:52:32-04:00,2026-06-08T16:52:32-04:00
+company,title,location,postedOn,link,updatedOn
+Applied Materials,Application Engineer,"Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Application-Engineer_R2620841,
+BAH,Software Engineer,"San Diego, CA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Software-Engineer_R0241787,
+BAH,DevOps Engineer,"North Charleston, SC",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/North-Charleston-SC/DevOps-Engineer_R0241781,
+Core Weave,"Data Center Technician - Afton, TX","Afton, TX",2026-06-08T18:37:50-04:00,https://coreweave.com/careers/job?4687824006&board=coreweave&gh_jid=4687824006,2026-06-08T18:37:50-04:00
+Formlabs,Technology Operations Intern (Fall 2026),"Somerville, MA",2026-06-08T17:19:42-04:00,https://careers.formlabs.com/job/7991279/apply/?gh_jid=7991279,2026-06-08T17:19:42-04:00
+Glean,"Software Engineer, Compute Infrastructure","Mountain View, CA",2026-06-08T19:13:56-04:00,https://job-boards.greenhouse.io/gleanwork/jobs/4704106005,2026-06-08T19:13:56-04:00
+Natera ,MLS Data Reviewer I,US Remote,2026-06-08T17:45:25-04:00,https://job-boards.greenhouse.io/natera/jobs/6014628004,2026-06-08T17:45:25-04:00
+NVIDIA,"System Software Test Engineer, Networking","US, CA, Santa Clara",Posted Today,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Test-Engineer--Networking_JR2019443,
+NVIDIA,"Cloud Distributed Systems Backend Intern, GeForce NOW - Summer 2026","US, CA, Santa Clara",Posted Today,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Distributed-Systems-Backend-Intern--GeForce-NOW---Summer-2026_JR2019407,
+Pinterest,"AI Policy Specialist, Content Standards & Practices","New York, NY, US; Remote, US",2026-06-08T18:19:54-04:00,https://www.pinterestcareers.com/jobs/?gh_jid=7821399,2026-06-08T18:19:54-04:00
+Stripe,"Solutions Architect, AI",US-San Francisco,2026-06-08T17:45:14-04:00,https://stripe.com/jobs/search?gh_jid=7975723,2026-06-08T17:49:28-04:00
+Sony AI America Inc,Research Intern on Generative and Protective AI for Content Creation,Remote - Michigan,Posted Today,https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Michigan/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961,

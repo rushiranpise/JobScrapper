@@ -4,10 +4,126 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-08 16:21:25](#batch-2026-06-08-16-21-25)
 - [Batch at 2026-06-08 14:19:38](#batch-2026-06-08-14-19-38)
 - [Batch at 2026-06-08 11:40:19](#batch-2026-06-08-11-40-19)
 - [Batch at 2026-06-08 09:07:49](#batch-2026-06-08-09-07-49)
-- [Batch at 2026-06-08 04:10:41](#batch-2026-06-08-04-10-41)
+
+<h3 id='batch-2026-06-08-16-21-25'>🕐 Batch at 2026-06-08 16:21:25</h3>
+
+📊 **Total jobs in this batch: 12**
+
+**Per company:**
+- Applied Materials: 1 job
+- BAH: 2 jobs
+- Core Weave: 1 job
+- Formlabs: 1 job
+- Glean: 1 job
+- Natera : 1 job
+- NVIDIA: 2 jobs
+- Pinterest: 1 job
+- Stripe: 1 job
+- Sony AI America Inc: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Application Engineer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Application-Engineer_R2620841'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Diego, CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Software-Engineer_R0241787'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>North Charleston, SC</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/North-Charleston-SC/DevOps-Engineer_R0241781'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Afton, TX</td>
+      <td>Data Center Technician - Afton, TX</td>
+      <td><a href='https://coreweave.com/careers/job?4687824006&board=coreweave&gh_jid=4687824006'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Technology Operations Intern (Fall 2026)</td>
+      <td><a href='https://careers.formlabs.com/job/7991279/apply/?gh_jid=7991279'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Glean</b></td>
+      <td>Mountain View, CA</td>
+      <td>Software Engineer, Compute Infrastructure</td>
+      <td><a href='https://job-boards.greenhouse.io/gleanwork/jobs/4704106005'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>MLS Data Reviewer I</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6014628004'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>System Software Test Engineer, Networking</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Test-Engineer--Networking_JR2019443'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Cloud Distributed Systems Backend Intern, GeForce NOW - Summer 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Distributed-Systems-Backend-Intern--GeForce-NOW---Summer-2026_JR2019407'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pinterest</b></td>
+      <td>New York, NY, US; Remote, US</td>
+      <td>AI Policy Specialist, Content Standards & Practices</td>
+      <td><a href='https://www.pinterestcareers.com/jobs/?gh_jid=7821399'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>US-San Francisco</td>
+      <td>Solutions Architect, AI</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=7975723'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Sony AI America Inc</b></td>
+      <td>Remote - Michigan</td>
+      <td>Research Intern on Generative and Protective AI for Content Creation</td>
+      <td><a href='https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Michigan/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-08-14-19-38'>🕐 Batch at 2026-06-08 14:19:38</h3>
 
@@ -186,7 +302,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-08-11-40-19'>🕐 Batch at 2026-06-08 11:40:19</h3>
 
 📊 **Total jobs in this batch: 18**
@@ -346,8 +461,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-08-09-07-49'>🕐 Batch at 2026-06-08 09:07:49</h3>
+---<h3 id='batch-2026-06-08-09-07-49'>🕐 Batch at 2026-06-08 09:07:49</h3>
 
 📊 **Total jobs in this batch: 11**
 
