@@ -4,9 +4,188 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-08 14:19:38](#batch-2026-06-08-14-19-38)
 - [Batch at 2026-06-08 11:40:19](#batch-2026-06-08-11-40-19)
 - [Batch at 2026-06-08 09:07:49](#batch-2026-06-08-09-07-49)
 - [Batch at 2026-06-08 04:10:41](#batch-2026-06-08-04-10-41)
+
+<h3 id='batch-2026-06-08-14-19-38'>🕐 Batch at 2026-06-08 14:19:38</h3>
+
+📊 **Total jobs in this batch: 21**
+
+**Per company:**
+- Anduril Industries: 2 jobs
+- Autodesk: 1 job
+- BAH: 6 jobs
+- Children's Hospital Medical Center: 1 job
+- Formlabs: 1 job
+- Scoutm Otors: 1 job
+- spacex: 1 job
+- Veeva Systems: 6 jobs
+- Zipline: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Reston, Virginia, United States</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5151916007?gh_jid=5151916007'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Irvine, California, United States</td>
+      <td>Software Engineer, Robotics</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5102393007?gh_jid=5102393007'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Autodesk</b></td>
+      <td>Boston, MA, USA</td>
+      <td>Software Engineer - Education</td>
+      <td><a href='https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Boston-MA-USA/Software-Engineer---Education_26WD98516-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Bethesda, MD</td>
+      <td>Data Management Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Data-Management-Analyst_R0241938'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Manassas, VA</td>
+      <td>Modernization Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Manassas-VA/Modernization-Software-Engineer_R0241651'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Alexandria, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0241357'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Cloud Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cloud-Engineer_R0241740-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Modeling and Simulation Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Modeling-and-Simulation-Software-Engineer_R0241739'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Analyst_R0241726'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Children's Hospital Medical Center</b></td>
+      <td>Liberty Campus</td>
+      <td>Occupational Therapist : 30 hrs/wk at Liberty</td>
+      <td><a href='https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Liberty-Campus/Occupational-Therapist---30-hrs-wk-at-Liberty_JR221554-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Global Sourcing Intern (Fall 2026)</td>
+      <td><a href='https://careers.formlabs.com/job/7747228/apply/?gh_jid=7747228'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Scoutm Otors</b></td>
+      <td>Charlotte, North Carolina, United States</td>
+      <td>System Engineer, Infotainment Systems</td>
+      <td><a href='https://job-boards.greenhouse.io/scoutmotors/jobs/5155582007'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, Network Monitoring (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8577262002?gh_jid=8577262002'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Veeva Systems</b></td>
+      <td>Massachusetts - Boston</td>
+      <td>Data Analyst</td>
+      <td><a href='https://jobs.lever.co/veeva/4c553771-00ae-474d-b69e-670ee67fec7d'>Apply</a></td>
+      <td>2026-06-08 16:12:07</td>
+    </tr>
+    <tr>
+      <td><b>Veeva Systems</b></td>
+      <td>Pennsylvania - Philadelphia</td>
+      <td>Data Analyst</td>
+      <td><a href='https://jobs.lever.co/veeva/dc31cd5c-0aa5-45a5-9cc2-fd4179f47b40'>Apply</a></td>
+      <td>2026-06-08 16:13:33</td>
+    </tr>
+    <tr>
+      <td><b>Veeva Systems</b></td>
+      <td>Massachusetts - Boston</td>
+      <td>Data Analyst</td>
+      <td><a href='https://jobs.lever.co/veeva/ee3ae875-5db1-49b3-ae64-0fbac944d2a3'>Apply</a></td>
+      <td>2026-06-08 16:14:06</td>
+    </tr>
+    <tr>
+      <td><b>Veeva Systems</b></td>
+      <td>Massachusetts - Boston</td>
+      <td>Product Expert - Health Data</td>
+      <td><a href='https://jobs.lever.co/veeva/459167ab-26c0-4a53-ba0c-11be756d0c41'>Apply</a></td>
+      <td>2023-09-14 14:26:08</td>
+    </tr>
+    <tr>
+      <td><b>Veeva Systems</b></td>
+      <td>Massachusetts - Boston</td>
+      <td>Product Expert - Health Data</td>
+      <td><a href='https://jobs.lever.co/veeva/472a0278-33e8-487e-8b82-16cdde1809ed'>Apply</a></td>
+      <td>2023-09-14 14:16:23</td>
+    </tr>
+    <tr>
+      <td><b>Veeva Systems</b></td>
+      <td>Pennsylvania - Philadelphia</td>
+      <td>Product Expert - Health Data</td>
+      <td><a href='https://jobs.lever.co/veeva/9b0d3edc-709d-41ba-a6bf-8525507d2fd1'>Apply</a></td>
+      <td>2026-06-08 16:49:21</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Applications Engineer Intern (Fall 2026)</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7765099003#open-roles'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Computational Physics Intern (Fall 2026)</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7766408003#open-roles'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-08-11-40-19'>🕐 Batch at 2026-06-08 11:40:19</h3>
 
@@ -168,7 +347,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-08-09-07-49'>🕐 Batch at 2026-06-08 09:07:49</h3>
 
 📊 **Total jobs in this batch: 11**
@@ -276,8 +454,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-08-04-10-41'>🕐 Batch at 2026-06-08 04:10:41</h3>
+---<h3 id='batch-2026-06-08-04-10-41'>🕐 Batch at 2026-06-08 04:10:41</h3>
 
 📊 **Total jobs in this batch: 10**
 
