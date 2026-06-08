@@ -4,8 +4,170 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-08 11:40:19](#batch-2026-06-08-11-40-19)
 - [Batch at 2026-06-08 09:07:49](#batch-2026-06-08-09-07-49)
 - [Batch at 2026-06-08 04:10:41](#batch-2026-06-08-04-10-41)
+
+<h3 id='batch-2026-06-08-11-40-19'>🕐 Batch at 2026-06-08 11:40:19</h3>
+
+📊 **Total jobs in this batch: 18**
+
+**Per company:**
+- CrowdStrike, Inc: 1 job
+- BAH: 4 jobs
+- Brink: 1 job
+- Chime: 1 job
+- homedepot: 1 job
+- Micron: 1 job
+- PlayStation Global: 1 job
+- Pure storage: 1 job
+- Ramp: 1 job
+- State Street: 1 job
+- spacex: 3 jobs
+- The Walt Disney Company: 1 job
+- Zipline: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Remote</td>
+      <td>Data Engineer, Go to Market (Remote)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Data-Engineer--Go-to-Market--Remote-_R28517'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Diego, CA</td>
+      <td>Cross Domain Solution Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Cross-Domain-Solution-Engineer_R0241729'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>Database Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Database-Engineer_R0241712'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Scott AFB, IL</td>
+      <td>Cloud Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Scott-AFB-IL/Cloud-Engineer_R0241630'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Huntsville, AL</td>
+      <td>UAV Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/UAV-Software-Engineer_R0241711'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Brink</b></td>
+      <td>Dallas TX</td>
+      <td>CDL Driver</td>
+      <td><a href='https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Dallas-TX/CDL-Driver_R75158'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Chime</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Data Analyst, Growth Product</td>
+      <td><a href='https://boards.greenhouse.io/chime/jobs/8580602002?gh_jid=8580602002'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>GEORGIA - VIRTUAL - GA01</td>
+      <td>Software Engineer II (Remote)</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II--Remote-_Req182582-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - North Office</td>
+      <td>RDA CSM, FE Global Capital Procurement</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/RDA-CSM--FE-Global-Capital-Procurement_JR103534'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, Madison, WI</td>
+      <td>Software Engineer II (Java)</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5987690004'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Pure storage</b></td>
+      <td>Remote, United States</td>
+      <td>Consulting Field Solutions Architect, AI/Analytics - SLED</td>
+      <td><a href='https://job-boards.greenhouse.io/purestorage/jobs/7977846'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Ramp</b></td>
+      <td>New York, NY (HQ)</td>
+      <td>Software Engineer, Onboarding</td>
+      <td><a href='https://jobs.ashbyhq.com/ramp/f1b3ca8d-d55f-4159-9a3b-f69ad0d981bc'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Quincy, Massachusetts</td>
+      <td>Software Engineer, Fulltime Internship (July - Dec 2026)</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Software-Engineer--Fulltime-Internship--July---Dec-2026-_R-784414'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>CNC Programmer (Starship Components) - Level 4/5 (2nd Shift)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8581415002?gh_jid=8581415002'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>Factory Software Engineer (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8574053002?gh_jid=8574053002'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>New Graduate Engineer, Electrical (Starlink) </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8565726002?gh_jid=8565726002'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Celebration, FL, USA</td>
+      <td>Show Controls Software Developer</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Show-Controls-Software-Developer_10153346-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>Dallas-Fort Worth, Texas, USA; Phoenix, Arizona, USA</td>
+      <td>Community Engagement Intern (Fall 2026)</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7765288003#open-roles'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-08-09-07-49'>🕐 Batch at 2026-06-08 09:07:49</h3>
 
@@ -115,7 +277,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-08-04-10-41'>🕐 Batch at 2026-06-08 04:10:41</h3>
 
 📊 **Total jobs in this batch: 10**
