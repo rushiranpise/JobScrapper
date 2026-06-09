@@ -4,10 +4,40 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-08 20:59:24](#batch-2026-06-08-20-59-24)
 - [Batch at 2026-06-08 16:21:25](#batch-2026-06-08-16-21-25)
 - [Batch at 2026-06-08 14:19:38](#batch-2026-06-08-14-19-38)
 - [Batch at 2026-06-08 11:40:19](#batch-2026-06-08-11-40-19)
-- [Batch at 2026-06-08 09:07:49](#batch-2026-06-08-09-07-49)
+
+<h3 id='batch-2026-06-08-20-59-24'>🕐 Batch at 2026-06-08 20:59:24</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Lyft: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Lyft</b></td>
+      <td>New York, NY</td>
+      <td>Software Engineer, Backend</td>
+      <td><a href='https://app.careerpuck.com/job-board/lyft/job/8582656002?gh_jid=8582656002'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-08-16-21-25'>🕐 Batch at 2026-06-08 16:21:25</h3>
 
@@ -124,7 +154,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-08-14-19-38'>🕐 Batch at 2026-06-08 14:19:38</h3>
 
 📊 **Total jobs in this batch: 21**
@@ -301,8 +330,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-08-11-40-19'>🕐 Batch at 2026-06-08 11:40:19</h3>
+---<h3 id='batch-2026-06-08-11-40-19'>🕐 Batch at 2026-06-08 11:40:19</h3>
 
 📊 **Total jobs in this batch: 18**
 
