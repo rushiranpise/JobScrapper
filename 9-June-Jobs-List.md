@@ -4,10 +4,111 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-09 16:26:30](#batch-2026-06-09-16-26-30)
 - [Batch at 2026-06-09 14:09:48](#batch-2026-06-09-14-09-48)
 - [Batch at 2026-06-09 11:18:09](#batch-2026-06-09-11-18-09)
 - [Batch at 2026-06-09 08:25:06](#batch-2026-06-09-08-25-06)
-- [Batch at 2026-06-09 04:27:49](#batch-2026-06-09-04-27-49)
+
+<h3 id='batch-2026-06-09-16-26-30'>🕐 Batch at 2026-06-09 16:26:30</h3>
+
+📊 **Total jobs in this batch: 10**
+
+**Per company:**
+- Anduril Industries: 2 jobs
+- BAH: 1 job
+- Breeze Airways: 1 job
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- DoorDash : 1 job
+- Roblox: 1 job
+- spacex: 1 job
+- Waymo: 1 job
+- Zipline: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Honolulu, Hawaii, United States</td>
+      <td>Software Engineer, Connected Warfare (Active Clearance)</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5155536007?gh_jid=5155536007'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Fort Collins, Colorado, United States</td>
+      <td>Software Engineer, Radar</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/4747955007?gh_jid=4747955007'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0241792'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Breeze Airways</b></td>
+      <td>Cottonwood Heights, Utah, United States</td>
+      <td>Data Analyst Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/breezeairways/jobs/7767219003'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA UT - Salt Lake City BAS</td>
+      <td>Internship - Quality (MDR)</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Salt-Lake-City-BAS/Internship---Quality--MDR-_R-547414'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>New York, NY</td>
+      <td>Business Intelligence Engineer (GTM), In-Store Data & Analytics</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/7991290'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>San Mateo, CA, United States</td>
+      <td> Software Engineer, Storage</td>
+      <td><a href='https://careers.roblox.com/jobs/7991654?gh_jid=7991654'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Software Infrastructure Engineer (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8584920002?gh_jid=8584920002'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, United States; San Francisco, CA, United States</td>
+      <td>Software Engineer, Fleet Optimization</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7901963'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Enterprise Systems Software Engineer Intern (Fall 2026)</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7767667003#open-roles'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-09-14-09-48'>🕐 Batch at 2026-06-09 14:09:48</h3>
 
@@ -196,7 +297,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-09-11-18-09'>🕐 Batch at 2026-06-09 11:18:09</h3>
 
 📊 **Total jobs in this batch: 18**
@@ -355,8 +455,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-09-08-25-06'>🕐 Batch at 2026-06-09 08:25:06</h3>
+---<h3 id='batch-2026-06-09-08-25-06'>🕐 Batch at 2026-06-09 08:25:06</h3>
 
 📊 **Total jobs in this batch: 9**
 
