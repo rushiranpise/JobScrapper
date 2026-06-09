@@ -1,19 +1,23 @@
-company,title,location,link,postedOn,updatedOn
-Archer 56,Aerospace Software Certification Engineer,"San Jose, California, United States",https://job-boards.greenhouse.io/archer56/jobs/7742975003,2026-06-09T11:43:53-04:00,2026-06-09T11:43:53-04:00
-BAH,Data Scientist,"Fayetteville, NC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Scientist_R0241690,Posted Today,
-BAH,Computer Programmer,"Fayetteville, NC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Computer-Programmer_R0241766,Posted Today,
-BAH,Data Scientist,"Langley AFB, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/Data-Scientist_R0241843,Posted Today,
-BAH,AI Model SME,"Fort Meade, MD",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/AI-Model-SME_R0241835,Posted Today,
-BAH,Software Engineer,"Aurora, CO",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0241805,Posted Today,
-Comcast ,"GoLang Software Engineer, Identity Service- Freewheel","IL - Chicago, 350 N. Orleans St 1300N",https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/IL---Chicago-350-N-Orleans-St-1300N/GoLang-Software-Engineer--Identity-Service--Freewheel_R438773,Posted Today,
-DoorDash ,"Data Analyst, In-Store",United States - Remote,https://job-boards.greenhouse.io/doordashusa/jobs/7990832,2026-06-09T11:22:00-04:00,2026-06-09T11:22:00-04:00
-flir,Engineering Intern,"US - Huntsville, AL",https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/Engineering-Intern_REQ35047,Posted Today,
-genpt,Material Handler I,"Lakeland, FL, USA",https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Lakeland-FL-USA/Material-Handler-I_R26_0000018876,Posted Today,
-Micron,New College Grad - Reticle Manufacturing Process Engineer,"Boise, ID - Main Site",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Reticle-Manufacturing-Process-Engineer_JR103684,Posted Today,
-Micron,New College Grad - Fab Engineer,"Manassas, VA -  Fab 6",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/NPW-Engineer_JR102579,Posted Today,
-NVIDIA,"Cloud Software Intern, GeForce NOW - Fall 2026","US, CA, Santa Clara",https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Software-Intern--GeForce-NOW---Fall-2026_JR2019414,Posted Today,
-Prudential Financial,"PGIM: Residential Mortgage Loan (RML) Transaction Management Associate (Hybrid/Newark, NJ)","Newark, NJ, USA",https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/PGIM--Residential-Mortgage-Loan--RML--Transaction-Management-Associate--Hybrid-Newark--NJ-_R-124468-2,Posted Today,
-Salesforce,Software Engineering PMTS,California - San Francisco,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-PMTS_JR345500,Posted Today,
-spacex,"Electrical Engineer, Facilities Infrastructure","Cape Canaveral, FL",https://boards.greenhouse.io/spacex/jobs/8583707002?gh_jid=8583707002,2026-06-09T12:00:27-04:00,2026-06-09T12:00:27-04:00
-Zoox,Autonomy Behavior Monitoring Data Scientist,"Foster City, CA",https://jobs.lever.co/zoox/37530bfc-55ec-4913-a27b-478ad0e3f8e7,2026-06-05 23:36:51,N/A
-Zoox,"Data Scientist, Behavior Evaluation","Foster City, CA",https://jobs.lever.co/zoox/0dee28c2-0785-4b37-abf8-ae6b0bcaf889,2026-06-05 17:58:34,N/A
+company,title,location,postedOn,link,updatedOn
+Applied Materials,Application Engineer V - (E5),"Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Application-Engineer-V----E5-_R2621564-1,
+Applied Materials,"2026 Summer Data Analyst/Scientist Intern- Master's (Santa Clara, CA)","Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Data-Analyst-Scientist-Intern--Master-s--Santa-Clara--CA-_R2612971,
+Applied Materials,"Electrical Engineering New College Grad - Bachelor Degree (Santa Clara, CA)","Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Electrical-Engineering-New-College-Grad---Bachelor-Degree--Santa-Clara--CA-_R2612841,
+ASMLEXT1,NXE First Line Support Production Engineer - Reticle Handler (CWW N2),"Wilton, CT, USA",Posted Today,https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/NXE-First-Line-Support-Production-Engineer---Reticle-Handler--CWW-N2-_J-00337890,
+ASMLEXT1,Optical Fabrication Technician CWW Back End Days,"Wilton, CT, USA",Posted Today,https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Back-End-Days_J-00344019-1,
+Anduril Industries,"Software Engineer, Autonomous Fleet Orchestration ","Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",2026-06-09T16:17:12-04:00,https://boards.greenhouse.io/andurilindustries/jobs/5160360007?gh_jid=5160360007,2026-06-09T16:17:12-04:00
+Anduril Industries,"Software Engineer, Simulation Infrastructure","Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",2026-06-09T16:47:17-04:00,https://boards.greenhouse.io/andurilindustries/jobs/5160407007?gh_jid=5160407007,2026-06-09T16:47:17-04:00
+BorgWarner,Material Handler (Industrial Solutions) - 1st Shift,Hendersonville - North Carolina - USA,Posted Today,https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Hendersonville---North-Carolina---USA/Material-Handler--Industrial-Solutions----1st-Shift_R2026-2311,
+Coinbase,Data Protection Engineer,Remote - USA,2026-06-09T16:43:18-04:00,https://www.coinbase.com/careers/positions/7993887?gh_jid=7993887,2026-06-09T16:43:18-04:00
+flir,Material Handler,"US - Billerica, MA",Posted Today,https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Billerica-MA/Material-Handler_REQ35129,
+LaunchDarkly ,"Full Stack Engineer, Foundation",Remote - US,2026-06-09T16:28:01-04:00,https://job-boards.greenhouse.io/launchdarkly/jobs/7767264003,2026-06-09T16:50:40-04:00
+Natera ,"Clinical Review RN, Oncology AI Review",US Remote,2026-06-09T16:05:37-04:00,https://job-boards.greenhouse.io/natera/jobs/6000098004,2026-06-09T16:05:37-04:00
+nVent,Material Handler - 2nd Shift,"Solon, OH, US",Posted Today,https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Solon-OH-US/Material-Handler---2nd-Shift_R22221,
+NVIDIA,Agentic AI Solution Engineering Intern - Fall 2026,"US, TX, Austin",Posted Today,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Agentic-AI-Solution-Engineering-Intern---Fall-2026_JR2019390,
+NVIDIA,"Cloud Distributed Systems Backend Intern, GeForce NOW - Fall 2026","US, CA, Santa Clara",Posted Today,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Distributed-Systems-Backend-Intern--GeForce-NOW---Fall-2026_JR2019665,
+Salesforce,Software Engineering MTS,Texas - Dallas,Posted Today,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Texas---Dallas/Software-Engineering-MTS_JR342765,
+spacex,"Software Engineer, Beam Planning (Starlink)   ","Palo Alto, CA",2026-06-09T17:04:24-04:00,https://boards.greenhouse.io/spacex/jobs/8578907002?gh_jid=8578907002,2026-06-09T17:04:24-04:00
+spacex,"Software Engineer, Beam Planning (Starlink)   ","Redmond, WA",2026-06-09T17:04:25-04:00,https://boards.greenhouse.io/spacex/jobs/8578929002?gh_jid=8578929002,2026-06-09T17:04:25-04:00
+spacex,"Software Engineer, High Performance Computing (Starlink)","Palo Alto, CA",2026-06-09T17:04:26-04:00,https://boards.greenhouse.io/spacex/jobs/8578909002?gh_jid=8578909002,2026-06-09T17:04:26-04:00
+spacex,"Software Engineer, High Performance Computing (Starlink)","Redmond, WA",2026-06-09T17:04:27-04:00,https://boards.greenhouse.io/spacex/jobs/8578931002?gh_jid=8578931002,2026-06-09T17:04:27-04:00
+spacex,"Software Engineer, Low Latency Computing (Starlink)   ","Palo Alto, CA",2026-06-09T17:04:28-04:00,https://boards.greenhouse.io/spacex/jobs/8578910002?gh_jid=8578910002,2026-06-09T17:04:28-04:00
+spacex,"Software Engineer, Low Latency Computing (Starlink)   ","Redmond, WA",2026-06-09T17:04:29-04:00,https://boards.greenhouse.io/spacex/jobs/8578923002?gh_jid=8578923002,2026-06-09T17:04:29-04:00

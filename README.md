@@ -4,10 +4,198 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-09 14:09:48](#batch-2026-06-09-14-09-48)
 - [Batch at 2026-06-09 11:18:09](#batch-2026-06-09-11-18-09)
 - [Batch at 2026-06-09 08:25:06](#batch-2026-06-09-08-25-06)
 - [Batch at 2026-06-09 04:27:49](#batch-2026-06-09-04-27-49)
-- [Batch at 2026-06-09 01:01:39](#batch-2026-06-09-01-01-39)
+
+<h3 id='batch-2026-06-09-14-09-48'>🕐 Batch at 2026-06-09 14:09:48</h3>
+
+📊 **Total jobs in this batch: 22**
+
+**Per company:**
+- Applied Materials: 3 jobs
+- ASMLEXT1: 2 jobs
+- Anduril Industries: 2 jobs
+- BorgWarner: 1 job
+- Coinbase: 1 job
+- flir: 1 job
+- LaunchDarkly : 1 job
+- Natera : 1 job
+- nVent: 1 job
+- NVIDIA: 2 jobs
+- Salesforce: 1 job
+- spacex: 6 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Application Engineer V - (E5)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Application-Engineer-V----E5-_R2621564-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>2026 Summer Data Analyst/Scientist Intern- Master's (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Data-Analyst-Scientist-Intern--Master-s--Santa-Clara--CA-_R2612971'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Electrical Engineering New College Grad - Bachelor Degree (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Electrical-Engineering-New-College-Grad---Bachelor-Degree--Santa-Clara--CA-_R2612841'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>NXE First Line Support Production Engineer - Reticle Handler (CWW N2)</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/NXE-First-Line-Support-Production-Engineer---Reticle-Handler--CWW-N2-_J-00337890'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Optical Fabrication Technician CWW Back End Days</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Back-End-Days_J-00344019-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States</td>
+      <td>Software Engineer, Autonomous Fleet Orchestration </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5160360007?gh_jid=5160360007'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States</td>
+      <td>Software Engineer, Simulation Infrastructure</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5160407007?gh_jid=5160407007'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Hendersonville - North Carolina - USA</td>
+      <td>Material Handler (Industrial Solutions) - 1st Shift</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Hendersonville---North-Carolina---USA/Material-Handler--Industrial-Solutions----1st-Shift_R2026-2311'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Remote - USA</td>
+      <td>Data Protection Engineer</td>
+      <td><a href='https://www.coinbase.com/careers/positions/7993887?gh_jid=7993887'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Billerica, MA</td>
+      <td>Material Handler</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Billerica-MA/Material-Handler_REQ35129'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>LaunchDarkly </b></td>
+      <td>Remote - US</td>
+      <td>Full Stack Engineer, Foundation</td>
+      <td><a href='https://job-boards.greenhouse.io/launchdarkly/jobs/7767264003'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Clinical Review RN, Oncology AI Review</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6000098004'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Solon, OH, US</td>
+      <td>Material Handler - 2nd Shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Solon-OH-US/Material-Handler---2nd-Shift_R22221'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, TX, Austin</td>
+      <td>Agentic AI Solution Engineering Intern - Fall 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Agentic-AI-Solution-Engineering-Intern---Fall-2026_JR2019390'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Cloud Distributed Systems Backend Intern, GeForce NOW - Fall 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Distributed-Systems-Backend-Intern--GeForce-NOW---Fall-2026_JR2019665'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Texas - Dallas</td>
+      <td>Software Engineering MTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Texas---Dallas/Software-Engineering-MTS_JR342765'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Software Engineer, Beam Planning (Starlink)   </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8578907002?gh_jid=8578907002'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Engineer, Beam Planning (Starlink)   </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8578929002?gh_jid=8578929002'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Software Engineer, High Performance Computing (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8578909002?gh_jid=8578909002'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Engineer, High Performance Computing (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8578931002?gh_jid=8578931002'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Software Engineer, Low Latency Computing (Starlink)   </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8578910002?gh_jid=8578910002'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Engineer, Low Latency Computing (Starlink)   </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8578923002?gh_jid=8578923002'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-09-11-18-09'>🕐 Batch at 2026-06-09 11:18:09</h3>
 
@@ -168,7 +356,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-09-08-25-06'>🕐 Batch at 2026-06-09 08:25:06</h3>
 
 📊 **Total jobs in this batch: 9**
@@ -260,8 +447,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-09-04-27-49'>🕐 Batch at 2026-06-09 04:27:49</h3>
+---<h3 id='batch-2026-06-09-04-27-49'>🕐 Batch at 2026-06-09 04:27:49</h3>
 
 📊 **Total jobs in this batch: 3**
 
