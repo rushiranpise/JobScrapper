@@ -4,9 +4,170 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-09 11:18:09](#batch-2026-06-09-11-18-09)
 - [Batch at 2026-06-09 08:25:06](#batch-2026-06-09-08-25-06)
 - [Batch at 2026-06-09 04:27:49](#batch-2026-06-09-04-27-49)
 - [Batch at 2026-06-09 01:01:39](#batch-2026-06-09-01-01-39)
+
+<h3 id='batch-2026-06-09-11-18-09'>🕐 Batch at 2026-06-09 11:18:09</h3>
+
+📊 **Total jobs in this batch: 18**
+
+**Per company:**
+- Archer 56: 1 job
+- BAH: 5 jobs
+- Comcast : 1 job
+- DoorDash : 1 job
+- flir: 1 job
+- genpt: 1 job
+- Micron: 2 jobs
+- NVIDIA: 1 job
+- Prudential Financial: 1 job
+- Salesforce: 1 job
+- spacex: 1 job
+- Zoox: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Archer 56</b></td>
+      <td>San Jose, California, United States</td>
+      <td>Aerospace Software Certification Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/archer56/jobs/7742975003'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Scientist_R0241690'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>Computer Programmer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Computer-Programmer_R0241766'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Langley AFB, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/Data-Scientist_R0241843'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Meade, MD</td>
+      <td>AI Model SME</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/AI-Model-SME_R0241835'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Aurora, CO</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0241805'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>IL - Chicago, 350 N. Orleans St 1300N</td>
+      <td>GoLang Software Engineer, Identity Service- Freewheel</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/IL---Chicago-350-N-Orleans-St-1300N/GoLang-Software-Engineer--Identity-Service--Freewheel_R438773'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>United States - Remote</td>
+      <td>Data Analyst, In-Store</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/7990832'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Huntsville, AL</td>
+      <td>Engineering Intern</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/Engineering-Intern_REQ35047'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Lakeland, FL, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Lakeland-FL-USA/Material-Handler-I_R26_0000018876'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>New College Grad - Reticle Manufacturing Process Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Reticle-Manufacturing-Process-Engineer_JR103684'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Manassas, VA -  Fab 6</td>
+      <td>New College Grad - Fab Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/NPW-Engineer_JR102579'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Cloud Software Intern, GeForce NOW - Fall 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Software-Intern--GeForce-NOW---Fall-2026_JR2019414'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Prudential Financial</b></td>
+      <td>Newark, NJ, USA</td>
+      <td>PGIM: Residential Mortgage Loan (RML) Transaction Management Associate (Hybrid/Newark, NJ)</td>
+      <td><a href='https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/PGIM--Residential-Mortgage-Loan--RML--Transaction-Management-Associate--Hybrid-Newark--NJ-_R-124468-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Software Engineering PMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-PMTS_JR345500'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Cape Canaveral, FL</td>
+      <td>Electrical Engineer, Facilities Infrastructure</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8583707002?gh_jid=8583707002'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Autonomy Behavior Monitoring Data Scientist</td>
+      <td><a href='https://jobs.lever.co/zoox/37530bfc-55ec-4913-a27b-478ad0e3f8e7'>Apply</a></td>
+      <td>2026-06-05 23:36:51</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Data Scientist, Behavior Evaluation</td>
+      <td><a href='https://jobs.lever.co/zoox/0dee28c2-0785-4b37-abf8-ae6b0bcaf889'>Apply</a></td>
+      <td>2026-06-05 17:58:34</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-09-08-25-06'>🕐 Batch at 2026-06-09 08:25:06</h3>
 
@@ -100,7 +261,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-09-04-27-49'>🕐 Batch at 2026-06-09 04:27:49</h3>
 
 📊 **Total jobs in this batch: 3**
@@ -145,8 +305,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-09-01-01-39'>🕐 Batch at 2026-06-09 01:01:39</h3>
+---<h3 id='batch-2026-06-09-01-01-39'>🕐 Batch at 2026-06-09 01:01:39</h3>
 
 📊 **Total jobs in this batch: 2**
 
