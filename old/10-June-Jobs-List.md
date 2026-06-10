@@ -4,8 +4,139 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-10 12:44:48](#batch-2026-06-10-12-44-48)
 - [Batch at 2026-06-10 09:45:53](#batch-2026-06-10-09-45-53)
 - [Batch at 2026-06-10 01:59:09](#batch-2026-06-10-01-59-09)
+
+<h3 id='batch-2026-06-10-12-44-48'>🕐 Batch at 2026-06-10 12:44:48</h3>
+
+📊 **Total jobs in this batch: 14**
+
+**Per company:**
+- Applied Materials: 1 job
+- BAH: 5 jobs
+- Concentrix: 1 job
+- General Motors LLC: 1 job
+- homedepot: 1 job
+- Micron: 1 job
+- MOOG: 1 job
+- Morgan Stanley: 1 job
+- searchLFN: 1 job
+- spacex: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Employee Experience New College Grad - (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Employee-Experience-New-College-Grad----Santa-Clara--CA-_R2621668'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>University, Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/University--Software-Engineer_R0241736'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Software System Safety Practitioner</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-System-Safety-Practitioner_R0241881'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Governance Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Governance-Specialist_R0241834'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Belvoir, VA</td>
+      <td>AI/ML Engineer and Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/AI-ML-Engineer-and-Data-Scientist_R0241826'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Open-Source Research Analyst, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0241847'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>USA Work at Home</td>
+      <td>AWS MLOps Engineer</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/USA-Work-at-Home/AWS-MLOps-Engineer_R1737880'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Roanoke, Indiana, United States of America</td>
+      <td>Vision Systems/DLA Analyst</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Roanoke-Indiana-United-States-of-America/Vision-Systems-DLA-Analyst_JR-202612354'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>COLORADO - VIRTUAL - CO01</td>
+      <td>Rental Delivery Driver I CDLA - Denver, CO</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/COLORADO---VIRTUAL---CO01/Rental-Delivery-Driver-I-CDLA---Denver--CO_Req183406-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>(New College Grad) Engineer - Shift Process</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/XMLNAME--New-College-Grad--Engineer---Shift-Process_JR103341'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Project Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Project-Engineering_R-26-18099'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>New York, New York, United States of America</td>
+      <td>Global Capital Markets - Executive Assistant</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Global-Capital-Markets---Executive-Assistant_JR038702-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>searchLFN</b></td>
+      <td>Ramsey, MN</td>
+      <td>E-Commerce Image Production Support Intern</td>
+      <td><a href='https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Ramsey-MN/E-Commerce-Image-Production-Support-Intern_JR-025032'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Engineer, Hardware-in-the-Loop (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8583074002?gh_jid=8583074002'>Apply</a></td>
+      <td>Jun 10, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-10-09-45-53'>🕐 Batch at 2026-06-10 09:45:53</h3>
 
@@ -152,7 +283,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-10-01-59-09'>🕐 Batch at 2026-06-10 01:59:09</h3>
 
 📊 **Total jobs in this batch: 7**
