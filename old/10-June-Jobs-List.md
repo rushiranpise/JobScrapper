@@ -4,9 +4,132 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-10 15:13:46](#batch-2026-06-10-15-13-46)
 - [Batch at 2026-06-10 12:44:48](#batch-2026-06-10-12-44-48)
 - [Batch at 2026-06-10 09:45:53](#batch-2026-06-10-09-45-53)
 - [Batch at 2026-06-10 01:59:09](#batch-2026-06-10-01-59-09)
+
+<h3 id='batch-2026-06-10-15-13-46'>🕐 Batch at 2026-06-10 15:13:46</h3>
+
+📊 **Total jobs in this batch: 13**
+
+**Per company:**
+- Affirm : 1 job
+- Anduril Industries: 4 jobs
+- BAH: 1 job
+- Chime: 1 job
+- Comcast : 1 job
+- Concentrix: 1 job
+- Salesforce: 1 job
+- searchLFN: 2 jobs
+- Typeface: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>Analyst II, Full Stack (Credit Analytics)</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/7764035003'>Apply</a></td>
+      <td>Jun 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Software Engineer, Manufacturing Test</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5161512007?gh_jid=5161512007'>Apply</a></td>
+      <td>Jun 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Atlanta, Georgia, United States</td>
+      <td>Software Engineer, Manufacturing Test</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5161520007?gh_jid=5161520007'>Apply</a></td>
+      <td>Jun 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Mountain View, California, United States</td>
+      <td>Software Engineer, Manufacturing Test</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5161515007?gh_jid=5161515007'>Apply</a></td>
+      <td>Jun 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Bellevue, Washington, United States</td>
+      <td>Software Engineer, Manufacturing Test</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5161517007?gh_jid=5161517007'>Apply</a></td>
+      <td>Jun 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Laurel, MD</td>
+      <td>Application Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Laurel-MD/Application-Developer_R0234563'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Chime</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Data Scientist, Growth Product</td>
+      <td><a href='https://boards.greenhouse.io/chime/jobs/8586430002?gh_jid=8586430002'>Apply</a></td>
+      <td>Jun 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1800 Arch St</td>
+      <td>Backend .NET Engineer</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Backend-NET-Engineer_R438793-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>USA Work at Home</td>
+      <td>Data Architect</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/USA-Work-at-Home/Data-Architect_R1738129'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - Palo Alto</td>
+      <td>Software Engineering LMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Software-Engineering-LMTS_JR345624'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>searchLFN</b></td>
+      <td>Ramsey, MN</td>
+      <td>Materials Handler III - 2nd Shift ATO</td>
+      <td><a href='https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Ramsey-MN/Materials-Handler-III---2nd-Shift-ATO_JR-025034'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>searchLFN</b></td>
+      <td>Ramsey, MN</td>
+      <td>Painter - 1st Shift</td>
+      <td><a href='https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Ramsey-MN/Painter---1st-Shift_JR-025033'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Typeface</b></td>
+      <td>Palo Alto, CA</td>
+      <td>ML Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/typeface/jobs/4833202007'>Apply</a></td>
+      <td>Aug 19, 2025</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-10-12-44-48'>🕐 Batch at 2026-06-10 12:44:48</h3>
 
@@ -137,7 +260,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-10-09-45-53'>🕐 Batch at 2026-06-10 09:45:53</h3>
 
 📊 **Total jobs in this batch: 16**
@@ -282,8 +404,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-10-01-59-09'>🕐 Batch at 2026-06-10 01:59:09</h3>
+---<h3 id='batch-2026-06-10-01-59-09'>🕐 Batch at 2026-06-10 01:59:09</h3>
 
 📊 **Total jobs in this batch: 7**
 
