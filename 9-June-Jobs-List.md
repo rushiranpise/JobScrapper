@@ -4,10 +4,64 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-09 21:10:47](#batch-2026-06-09-21-10-47)
 - [Batch at 2026-06-09 16:26:30](#batch-2026-06-09-16-26-30)
 - [Batch at 2026-06-09 14:09:48](#batch-2026-06-09-14-09-48)
 - [Batch at 2026-06-09 11:18:09](#batch-2026-06-09-11-18-09)
-- [Batch at 2026-06-09 08:25:06](#batch-2026-06-09-08-25-06)
+
+<h3 id='batch-2026-06-09-21-10-47'>🕐 Batch at 2026-06-09 21:10:47</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- Citi: 1 job
+- Intel Corporation: 1 job
+- NVIDIA: 1 job
+- spacex: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX - Data Engineer - Officer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX---Data-Engineer---Officer_26968907'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>Virtual US</td>
+      <td>Field Applications Engineer - Robotics</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Field-Applications-Engineer---Robotics_JR0284614'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>GPU Architect - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Architect---New-College-Grad-2026_JR2019445'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, Test Infrastructure (Application Software)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8585072002?gh_jid=8585072002'>Apply</a></td>
+      <td>Jun 09, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-09-16-26-30'>🕐 Batch at 2026-06-09 16:26:30</h3>
 
@@ -109,7 +163,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-09-14-09-48'>🕐 Batch at 2026-06-09 14:09:48</h3>
 
 📊 **Total jobs in this batch: 22**
@@ -296,8 +349,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-09-11-18-09'>🕐 Batch at 2026-06-09 11:18:09</h3>
+---<h3 id='batch-2026-06-09-11-18-09'>🕐 Batch at 2026-06-09 11:18:09</h3>
 
 📊 **Total jobs in this batch: 18**
 
