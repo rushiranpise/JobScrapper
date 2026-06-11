@@ -4,10 +4,71 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-10 17:27:06](#batch-2026-06-10-17-27-06)
 - [Batch at 2026-06-10 15:13:46](#batch-2026-06-10-15-13-46)
 - [Batch at 2026-06-10 12:44:48](#batch-2026-06-10-12-44-48)
 - [Batch at 2026-06-10 09:45:53](#batch-2026-06-10-09-45-53)
-- [Batch at 2026-06-10 01:59:09](#batch-2026-06-10-01-59-09)
+
+<h3 id='batch-2026-06-10-17-27-06'>🕐 Batch at 2026-06-10 17:27:06</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- Anduril Industries: 2 jobs
+- Applied Materials: 1 job
+- Concentrix: 1 job
+- genpt: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States</td>
+      <td>2027 Software Engineer Intern</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007'>Apply</a></td>
+      <td>Jun 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States</td>
+      <td>Software Engineer, Command Control Mission Autonomy  </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5161486007?gh_jid=5161486007'>Apply</a></td>
+      <td>Jun 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Data Scientist - Agentic AI / ML</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist---Agentic-AI---ML_R2621700'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>USA, PA, Work-at-Home</td>
+      <td>Test Engineer (API)</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/USA-PA-Work-at-Home/Test-Engineer--API-_R1738147-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Dallas, TX, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Dallas-TX-USA/Material-Handler-I_R26_0000018834'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-10-15-13-46'>🕐 Batch at 2026-06-10 15:13:46</h3>
 
@@ -130,7 +191,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-10-12-44-48'>🕐 Batch at 2026-06-10 12:44:48</h3>
 
 📊 **Total jobs in this batch: 14**
@@ -259,8 +319,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-10-09-45-53'>🕐 Batch at 2026-06-10 09:45:53</h3>
+---<h3 id='batch-2026-06-10-09-45-53'>🕐 Batch at 2026-06-10 09:45:53</h3>
 
 📊 **Total jobs in this batch: 16**
 
