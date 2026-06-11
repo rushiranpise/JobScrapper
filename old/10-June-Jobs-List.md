@@ -4,10 +4,48 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-10 22:59:58](#batch-2026-06-10-22-59-58)
 - [Batch at 2026-06-10 17:27:06](#batch-2026-06-10-17-27-06)
 - [Batch at 2026-06-10 15:13:46](#batch-2026-06-10-15-13-46)
 - [Batch at 2026-06-10 12:44:48](#batch-2026-06-10-12-44-48)
-- [Batch at 2026-06-10 09:45:53](#batch-2026-06-10-09-45-53)
+
+<h3 id='batch-2026-06-10-22-59-58'>🕐 Batch at 2026-06-10 22:59:58</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- Snowflake: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Training Specialist IV</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Training-Specialist-IV_JR61191'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Dublin</td>
+      <td>Cloud Infrastructure Engineer</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/4fe8d816-0453-4d63-ae0a-2085a5a49101'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-10-17-27-06'>🕐 Batch at 2026-06-10 17:27:06</h3>
 
@@ -69,7 +107,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-10-15-13-46'>🕐 Batch at 2026-06-10 15:13:46</h3>
 
 📊 **Total jobs in this batch: 13**
@@ -190,8 +227,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-10-12-44-48'>🕐 Batch at 2026-06-10 12:44:48</h3>
+---<h3 id='batch-2026-06-10-12-44-48'>🕐 Batch at 2026-06-10 12:44:48</h3>
 
 📊 **Total jobs in this batch: 14**
 
