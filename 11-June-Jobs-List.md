@@ -4,9 +4,79 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-11 16:34:35](#batch-2026-06-11-16-34-35)
 - [Batch at 2026-06-11 14:31:49](#batch-2026-06-11-14-31-49)
 - [Batch at 2026-06-11 11:26:04](#batch-2026-06-11-11-26-04)
 - [Batch at 2026-06-11 07:49:01](#batch-2026-06-11-07-49-01)
+
+<h3 id='batch-2026-06-11-16-34-35'>🕐 Batch at 2026-06-11 16:34:35</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- BAH: 1 job
+- Broadcom : 1 job
+- Formlabs: 1 job
+- genpt: 1 job
+- palantir: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Springfield, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist--Mid_R0242075'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-TX Plano Legacy Drive Suite 700</td>
+      <td>Mainframe Software Engineer</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Mainframe-Software-Engineer_R026231'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Program Management - Global Sourcing Intern (Fall 2026)</td>
+      <td><a href='https://careers.formlabs.com/job/8001882/apply/?gh_jid=8001882'>Apply</a></td>
+      <td>Jun 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Chicago, IL, USA</td>
+      <td>Store Counter Trainee (Part Time)</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Chicago-IL-USA/Store-Counter-Trainee--Part-Time-_R26_0000019061'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>palantir</b></td>
+      <td>New York, NY</td>
+      <td>Software Engineer - Core Interfaces</td>
+      <td><a href='https://jobs.lever.co/palantir/3b4ae28e-c4f2-4654-83b4-64366bfe72fa'>Apply</a></td>
+      <td>2026-06-11 22:04:51</td>
+    </tr>
+    <tr>
+      <td><b>palantir</b></td>
+      <td>New York, NY</td>
+      <td>Software Engineer - Defense Applications</td>
+      <td><a href='https://jobs.lever.co/palantir/c288bb43-3c63-4557-bd96-600ef0d1b7a6'>Apply</a></td>
+      <td>2026-06-11 22:13:37</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-11-14-31-49'>🕐 Batch at 2026-06-11 14:31:49</h3>
 
@@ -160,7 +230,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-11-11-26-04'>🕐 Batch at 2026-06-11 11:26:04</h3>
 
 📊 **Total jobs in this batch: 23**
@@ -357,8 +426,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-11-07-49-01'>🕐 Batch at 2026-06-11 07:49:01</h3>
+---<h3 id='batch-2026-06-11-07-49-01'>🕐 Batch at 2026-06-11 07:49:01</h3>
 
 📊 **Total jobs in this batch: 11**
 
