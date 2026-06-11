@@ -4,7 +4,206 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-11 11:26:04](#batch-2026-06-11-11-26-04)
 - [Batch at 2026-06-11 07:49:01](#batch-2026-06-11-07-49-01)
+
+<h3 id='batch-2026-06-11-11-26-04'>🕐 Batch at 2026-06-11 11:26:04</h3>
+
+📊 **Total jobs in this batch: 23**
+
+**Per company:**
+- Affirm : 2 jobs
+- CrowdStrike, Inc: 2 jobs
+- Anduril Industries: 3 jobs
+- Aurora: 1 job
+- BAH: 5 jobs
+- Concentrix: 1 job
+- Core Weave: 1 job
+- Formlabs: 1 job
+- LexisNexis Risk Solutions: 1 job
+- Micron: 1 job
+- MOOG: 1 job
+- Scoutm Otors: 1 job
+- Travellers: 1 job
+- Wyetech LLC: 1 job
+- Zipline: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>Capital Operations Analyst</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/7764113003'>Apply</a></td>
+      <td>Jun 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>Software Engineer II, Backend (ML Training & Serving)</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/7762568003'>Apply</a></td>
+      <td>Jun 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Remote, CA</td>
+      <td>Atlassian Cloud Architect (Remote)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-CA/Atlassian-Cloud-Architect--Remote-_R29003'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Sunnyvale, CA</td>
+      <td>Engineer I - New Grad, Agentic AI (Hybrid)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I---New-Grad--Agentic-AI--Hybrid-_R29022'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States</td>
+      <td>2027 Early Career Software Engineer </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007'>Apply</a></td>
+      <td>Jun 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States</td>
+      <td>2027 Electrical Engineer Intern</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007'>Apply</a></td>
+      <td>Jun 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States</td>
+      <td>2027 Manufacturing Engineer Intern</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007'>Apply</a></td>
+      <td>Jun 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Aurora</b></td>
+      <td>San Francisco, California</td>
+      <td>Software Engineer, Maps Infra</td>
+      <td><a href='https://aurora.tech/jobs/8588486002?gh_jid=8588486002'>Apply</a></td>
+      <td>Jun 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dahlgren, VA</td>
+      <td>Full Stack Software Developer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dahlgren-VA/Full-Stack-Software-Developer--Mid_R0242028'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>North Charleston, SC</td>
+      <td>Tactical Data Link Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/North-Charleston-SC/Tactical-Data-Link-Engineer_R0241940'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Walton Beach, FL</td>
+      <td>Data Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Walton-Beach-FL/Data-Engineer--Mid_R0242001'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Belvoir, VA</td>
+      <td>Cloud Infrastructure Support Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Cloud-Infrastructure-Support-Engineer_R0242004'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Atlanta, GA</td>
+      <td>Mobile Development Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Mobile-Development-Software-Engineer_R0241984'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>NIC Managua - Del complejo Plaza el Sol, 200mts al Este</td>
+      <td>Supervisor, Training & Quality</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/NIC-Managua---Del-complejo-Plaza-el-Sol-200mts-al-Este/Supervisor--Training---Quality_R1734389-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Volo, IL</td>
+      <td>Data Center Technician - Volo, IL</td>
+      <td><a href='https://coreweave.com/careers/job?4687069006&board=coreweave&gh_jid=4687069006'>Apply</a></td>
+      <td>Jun 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Print Production Intern (Fall 2026)</td>
+      <td><a href='https://careers.formlabs.com/job/7997509/apply/?gh_jid=7997509'>Apply</a></td>
+      <td>Jun 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>LexisNexis Risk Solutions</b></td>
+      <td>Alpharetta, GA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Software-Engineer-II_R114488'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Richardson, TX</td>
+      <td>New College Grad - Engineer, IC CAD</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/New-College-Grad---Engineer--IC-CAD_JR103890'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Government Relations</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Government-Relations_R-26-18316'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Scoutm Otors</b></td>
+      <td>Charlotte, North Carolina, United States</td>
+      <td>AI Agent Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/scoutmotors/jobs/5160824007'>Apply</a></td>
+      <td>Jun 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Travellers</b></td>
+      <td>GA - Norcross</td>
+      <td>Print, Mail & Data System Engineer</td>
+      <td><a href='https://travelers.wd5.myworkdayjobs.com/en-US/External/job/GA---Norcross/Print--Mail---Data-System-Engineer_R-50969-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Laurel, Maryland</td>
+      <td>Software Engineer 2</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/463d4249-51c6-4152-870e-863ea43d7ccb'>Apply</a></td>
+      <td>2026-06-11 16:30:47</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Supplier Industrialization Engineering Intern (Fall 2026)</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7766424003#open-roles'>Apply</a></td>
+      <td>Jun 11, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-11-07-49-01'>🕐 Batch at 2026-06-11 07:49:01</h3>
 
@@ -113,4 +312,3 @@
 <table>
 
 ---
-
