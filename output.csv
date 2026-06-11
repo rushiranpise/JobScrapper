@@ -1,24 +1,18 @@
-company,title,location,link,postedOn,updatedOn
-Affirm ,Capital Operations Analyst,Remote US,https://job-boards.greenhouse.io/affirm/jobs/7764113003,2026-06-11T11:59:50-04:00,2026-06-11T11:59:50-04:00
-Affirm ,"Software Engineer II, Backend (ML Training & Serving)",Remote US,https://job-boards.greenhouse.io/affirm/jobs/7762568003,2026-06-11T11:04:34-04:00,2026-06-11T11:04:34-04:00
-"CrowdStrike, Inc",Atlassian Cloud Architect (Remote),"USA - Remote, CA",https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-CA/Atlassian-Cloud-Architect--Remote-_R29003,Posted Today,
-"CrowdStrike, Inc","Engineer I - New Grad, Agentic AI (Hybrid)","USA - Sunnyvale, CA",https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I---New-Grad--Agentic-AI--Hybrid-_R29022,Posted Today,
-Anduril Industries,2027 Early Career Software Engineer ,"Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States",https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007,2026-06-11T12:31:23-04:00,2026-06-11T12:37:53-04:00
-Anduril Industries,2027 Electrical Engineer Intern,"Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States",https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007,2026-06-11T13:00:56-04:00,2026-06-11T13:19:12-04:00
-Anduril Industries,2027 Manufacturing Engineer Intern,"Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States",https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007,2026-06-11T13:51:24-04:00,2026-06-11T13:51:24-04:00
-Aurora,"Software Engineer, Maps Infra","San Francisco, California",https://aurora.tech/jobs/8588486002?gh_jid=8588486002,2026-06-11T13:29:14-04:00,2026-06-11T13:29:14-04:00
-BAH,"Full Stack Software Developer, Mid","Dahlgren, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dahlgren-VA/Full-Stack-Software-Developer--Mid_R0242028,Posted Today,
-BAH,Tactical Data Link Engineer,"North Charleston, SC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/North-Charleston-SC/Tactical-Data-Link-Engineer_R0241940,Posted Today,
-BAH,"Data Engineer, Mid","Fort Walton Beach, FL",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Walton-Beach-FL/Data-Engineer--Mid_R0242001,Posted Today,
-BAH,Cloud Infrastructure Support Engineer,"Fort Belvoir, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Cloud-Infrastructure-Support-Engineer_R0242004,Posted Today,
-BAH,Mobile Development Software Engineer,"Atlanta, GA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Mobile-Development-Software-Engineer_R0241984,Posted Today,
-Concentrix,"Supervisor, Training & Quality","NIC Managua - Del complejo Plaza el Sol, 200mts al Este",https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/NIC-Managua---Del-complejo-Plaza-el-Sol-200mts-al-Este/Supervisor--Training---Quality_R1734389-1,Posted Today,
-Core Weave,"Data Center Technician - Volo, IL","Volo, IL",https://coreweave.com/careers/job?4687069006&board=coreweave&gh_jid=4687069006,2026-06-11T14:09:41-04:00,2026-06-11T14:09:41-04:00
-Formlabs,Print Production Intern (Fall 2026),"Somerville, MA",https://careers.formlabs.com/job/7997509/apply/?gh_jid=7997509,2026-06-11T13:02:31-04:00,2026-06-11T13:02:31-04:00
-LexisNexis Risk Solutions,Software Engineer II,"Alpharetta, GA",https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Software-Engineer-II_R114488,Posted Today,
-Micron,"New College Grad - Engineer, IC CAD","Richardson, TX",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/New-College-Grad---Engineer--IC-CAD_JR103890,Posted Today,
-MOOG,"Intern, Government Relations","Buffalo, NY",https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Government-Relations_R-26-18316,Posted Today,
-Scoutm Otors,AI Agent Engineer,"Charlotte, North Carolina, United States",https://job-boards.greenhouse.io/scoutmotors/jobs/5160824007,2026-06-11T14:08:39-04:00,2026-06-11T14:08:39-04:00
-Travellers,"Print, Mail & Data System Engineer",GA - Norcross,https://travelers.wd5.myworkdayjobs.com/en-US/External/job/GA---Norcross/Print--Mail---Data-System-Engineer_R-50969-1,Posted Today,
-Wyetech LLC,Software Engineer 2,"Laurel, Maryland",https://jobs.lever.co/wyetechllc/463d4249-51c6-4152-870e-863ea43d7ccb,2026-06-11 16:30:47,N/A
-Zipline,Supplier Industrialization Engineering Intern (Fall 2026),"South San Francisco, California, USA",https://www.zipline.com/careers?gh_jid=7766424003#open-roles,2026-06-11T14:01:07-04:00,2026-06-11T14:01:07-04:00
+company,title,location,postedOn,link,updatedOn
+Applied Materials,Software Engineer III,"Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer-III_R2619178-1,
+Applied Materials,Material Coordinator/Handler II - (O2),"Austin,TX",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Coordinator-Handler-II----O2-_R2621022,
+Bandwidth,Applied AI Engineer,"Raleigh, NC",2026-06-11T16:18:26-04:00,https://job-boards.greenhouse.io/bandwidth/jobs/8001620,2026-06-11T16:18:27-04:00
+BAH,Virtual Infrastructure Engineer,"San Diego, CA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Virtual-Infrastructure-Engineer_R0242042,
+BAH,"DevOps Engineer, Mid","Chantilly, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer--Mid_R0242043,
+BAH,Data Scientist,"Fayetteville, NC",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Scientist_R0242040-1,
+Becton Dickinson’s Integrated Diagnostics Systems,Quality Engineering Intern,USA UT - Salt Lake City BAS,Posted Today,https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Salt-Lake-City-BAS/Quality-Engineering-Intern_R-546478,
+DoorDash ,"Software Engineer, Fullstack","San Francisco, CA",2026-06-11T15:39:43-04:00,https://job-boards.greenhouse.io/doordashusa/jobs/8001494,2026-06-11T15:39:43-04:00
+Exiger,Backend Engineer,"Jersey City, New Jersey, United States; McLean, Virginia, United States; Richmond, Virginia, United States",2023-09-05T12:17:01-04:00,https://www.exiger.com/careers/4967736004?gh_jid=4967736004,2026-06-11T17:01:23-04:00
+GCM Grosvenor,Infrastructure Investments Analyst,"New York, New York, United States",2026-06-11T14:31:19-04:00,https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7685550003,2026-06-11T14:31:19-04:00
+Intel Corporation,AI Software Engineering Intern,"US, Arizona, Phoenix",Posted Today,https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641,
+MOOG,CNC Programmer/Manufacturing Engineer,"Torrance, CA",Posted Today,https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/CNC-Programmer-Manufacturing-Engineer_R-26-18343,
+Salesforce,Software Engineering LMTS,Washington - Bellevue,Posted Today,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-LMTS_JR345586,
+Salesforce,Software Engineering PMTS,Washington - Bellevue,Posted Today,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-PMTS_JR345585,
+The Toro,PDL CNC Prototype Machinist - The Toro Company,"Bloomington, MN",Posted Today,https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Bloomington-MN/PDL-CNC-Prototype-Machinist---The-Toro-Company_JR16418,
+The Toro,Data Entry Clerk - The Toro Company,"El Paso, TX",Posted Today,https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/El-Paso-TX/Data-Entry-Clerk---The-Toro-Company_JR16365-1,
+TigerGraph ,Software Engineer,"Milpitas, CA",2026-06-11T17:18:13-04:00,https://job-boards.greenhouse.io/tigergraph/jobs/7997595,2026-06-11T17:20:27-04:00

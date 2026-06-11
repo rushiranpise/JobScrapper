@@ -4,8 +4,162 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-11 14:31:49](#batch-2026-06-11-14-31-49)
 - [Batch at 2026-06-11 11:26:04](#batch-2026-06-11-11-26-04)
 - [Batch at 2026-06-11 07:49:01](#batch-2026-06-11-07-49-01)
+
+<h3 id='batch-2026-06-11-14-31-49'>🕐 Batch at 2026-06-11 14:31:49</h3>
+
+📊 **Total jobs in this batch: 17**
+
+**Per company:**
+- Applied Materials: 2 jobs
+- Bandwidth: 1 job
+- BAH: 3 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- DoorDash : 1 job
+- Exiger: 1 job
+- GCM Grosvenor: 1 job
+- Intel Corporation: 1 job
+- MOOG: 1 job
+- Salesforce: 2 jobs
+- The Toro: 2 jobs
+- TigerGraph : 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer-III_R2619178-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Material Coordinator/Handler II - (O2)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Coordinator-Handler-II----O2-_R2621022'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bandwidth</b></td>
+      <td>Raleigh, NC</td>
+      <td>Applied AI Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/bandwidth/jobs/8001620'>Apply</a></td>
+      <td>Jun 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Diego, CA</td>
+      <td>Virtual Infrastructure Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Virtual-Infrastructure-Engineer_R0242042'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>DevOps Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer--Mid_R0242043'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Scientist_R0242040-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA UT - Salt Lake City BAS</td>
+      <td>Quality Engineering Intern</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Salt-Lake-City-BAS/Quality-Engineering-Intern_R-546478'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer, Fullstack</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/8001494'>Apply</a></td>
+      <td>Jun 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Exiger</b></td>
+      <td>Jersey City, New Jersey, United States; McLean, Virginia, United States; Richmond, Virginia, United States</td>
+      <td>Backend Engineer</td>
+      <td><a href='https://www.exiger.com/careers/4967736004?gh_jid=4967736004'>Apply</a></td>
+      <td>Sep 05, 2023</td>
+    </tr>
+    <tr>
+      <td><b>GCM Grosvenor</b></td>
+      <td>New York, New York, United States</td>
+      <td>Infrastructure Investments Analyst</td>
+      <td><a href='https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7685550003'>Apply</a></td>
+      <td>Jun 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>AI Software Engineering Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Torrance, CA</td>
+      <td>CNC Programmer/Manufacturing Engineer</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/CNC-Programmer-Manufacturing-Engineer_R-26-18343'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Washington - Bellevue</td>
+      <td>Software Engineering LMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-LMTS_JR345586'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Washington - Bellevue</td>
+      <td>Software Engineering PMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-PMTS_JR345585'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Bloomington, MN</td>
+      <td>PDL CNC Prototype Machinist - The Toro Company</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Bloomington-MN/PDL-CNC-Prototype-Machinist---The-Toro-Company_JR16418'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>El Paso, TX</td>
+      <td>Data Entry Clerk - The Toro Company</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/El-Paso-TX/Data-Entry-Clerk---The-Toro-Company_JR16365-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>TigerGraph </b></td>
+      <td>Milpitas, CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/tigergraph/jobs/7997595'>Apply</a></td>
+      <td>Jun 11, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-11-11-26-04'>🕐 Batch at 2026-06-11 11:26:04</h3>
 
@@ -204,7 +358,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-11-07-49-01'>🕐 Batch at 2026-06-11 07:49:01</h3>
 
 📊 **Total jobs in this batch: 11**
