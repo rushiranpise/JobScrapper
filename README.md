@@ -4,9 +4,174 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-12 14:57:56](#batch-2026-06-12-14-57-56)
 - [Batch at 2026-06-12 12:16:38](#batch-2026-06-12-12-16-38)
 - [Batch at 2026-06-12 09:30:11](#batch-2026-06-12-09-30-11)
 - [Batch at 2026-06-12 05:35:54](#batch-2026-06-12-05-35-54)
+
+<h3 id='batch-2026-06-12-14-57-56'>🕐 Batch at 2026-06-12 14:57:56</h3>
+
+📊 **Total jobs in this batch: 19**
+
+**Per company:**
+- CrowdStrike, Inc: 1 job
+- Samsung Electronics America, Inc: 1 job
+- Applied Materials: 5 jobs
+- BAH: 5 jobs
+- Citi: 1 job
+- genpt: 1 job
+- Simons Foundation: 1 job
+- Testnisc: 3 jobs
+- Toast: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Remote</td>
+      <td>Data Scientist (Remote)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Data-Scientist--Remote-_R29082-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>12100 Samsung Blvd, Austin, TX, USA</td>
+      <td>Infrastructure Risk Prevention Technician</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Infrastructure-Risk-Prevention-Technician_R117051-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software Engineer (New College Grad - Masters))</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer--New-College-Grad---Masters--_R2621945'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Portfolio Planner New College Graduate (Bachelors - Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Portfolio-Planner-New-College-Graduate--Bachelors---Santa-Clara--CA-_R2620896'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Material Coordinator/Handler II- (O2)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Coordinator-Handler-II---O2-_R2620819-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Material Coordinator/Handler II- (O2)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Coordinator-Handler-II---O2-_R2620823'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Material Coordinator/Handler - 1st Shift - (O2)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Coordinator-Handler---1st-Shift----O2-_R2621025'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lexington, MA</td>
+      <td>TAK Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/TAK-Developer_R0242139'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lexington, MA</td>
+      <td>Systems Engineer, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/Systems-Engineer--Junior_R0242172'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Software-Engineer_R0242305'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Software-Engineer_R0242306'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Software-Engineer_R0242309'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Irving Texas United States</td>
+      <td>Software License Management Analyst - Officer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Software-License-Management-Analyst---Officer_26971668'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>York, PA, USA</td>
+      <td>CDL Regional Driver</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/York-PA-USA/CDL-Regional-Driver_R26_0000019430'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Simons Foundation</b></td>
+      <td>915 Broadway, New York, NY</td>
+      <td>Science Reporting Intern, The Transmitter</td>
+      <td><a href='https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/915-Broadway-New-York-NY/Science-Reporting-Intern--The-Transmitter_R0002120-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Testnisc</b></td>
+      <td>Mandan, ND</td>
+      <td>Software Developer II - Financials (Full Stack, Front End)</td>
+      <td><a href='https://job-boards.greenhouse.io/testnisc/jobs/8003834'>Apply</a></td>
+      <td>Jun 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Testnisc</b></td>
+      <td>Lake Saint Louis, MO</td>
+      <td>Software Developer II - Financials (Full Stack, Front End)</td>
+      <td><a href='https://job-boards.greenhouse.io/testnisc/jobs/8003830'>Apply</a></td>
+      <td>Jun 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Testnisc</b></td>
+      <td>Cedar Rapids, IA</td>
+      <td>Software Developer II - Financials (Full Stack, Front End)</td>
+      <td><a href='https://job-boards.greenhouse.io/testnisc/jobs/8003818'>Apply</a></td>
+      <td>Jun 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Toast</b></td>
+      <td>Boston, MA</td>
+      <td>Data Scientist II</td>
+      <td><a href='https://careers.toasttab.com/jobs?gh_jid=7984730'>Apply</a></td>
+      <td>Jun 12, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-12-12-16-38'>🕐 Batch at 2026-06-12 12:16:38</h3>
 
@@ -112,7 +277,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-12-09-30-11'>🕐 Batch at 2026-06-12 09:30:11</h3>
 
 📊 **Total jobs in this batch: 24**
@@ -321,8 +485,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-12-05-35-54'>🕐 Batch at 2026-06-12 05:35:54</h3>
+---<h3 id='batch-2026-06-12-05-35-54'>🕐 Batch at 2026-06-12 05:35:54</h3>
 
 📊 **Total jobs in this batch: 4**
 
