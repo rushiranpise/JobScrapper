@@ -4,8 +4,114 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-12 12:16:38](#batch-2026-06-12-12-16-38)
 - [Batch at 2026-06-12 09:30:11](#batch-2026-06-12-09-30-11)
 - [Batch at 2026-06-12 05:35:54](#batch-2026-06-12-05-35-54)
+
+<h3 id='batch-2026-06-12-12-16-38'>🕐 Batch at 2026-06-12 12:16:38</h3>
+
+📊 **Total jobs in this batch: 11**
+
+**Per company:**
+- CrowdStrike, Inc: 1 job
+- Atlas Sand: 1 job
+- BAH: 6 jobs
+- General Motors LLC: 1 job
+- State Street: 1 job
+- Workday: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Remote</td>
+      <td>Engineer III - Data Center FinOps (Remote)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Engineer-III---Data-Analytics--Hybrid-_R28230'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Atlas Sand</b></td>
+      <td>Austin TX</td>
+      <td>AI Developer </td>
+      <td><a href='https://job-boards.greenhouse.io/atlassand/jobs/8589983002'>Apply</a></td>
+      <td>Jun 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Software-Engineer_R0242307'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>MacDill AFB, FL</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/MacDill-AFB-FL/Data-Engineer_R0242171'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Infrastructure Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Infrastructure-Engineer_R0242169'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Huntsville, AL</td>
+      <td>Content Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Content-Developer_R0242162-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Meade, MD</td>
+      <td>Cloud Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Cloud-Architect_R0241774'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Agentic AI Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Agentic-AI-Developer_R0242145'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Technical Specialist - Cranktrain systems</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Technical-Specialist---Cranktrain-systems_JR-202611772'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Boston, Massachusetts</td>
+      <td>AML Analyst, Officer - State Street Investment Management</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/AML-Analyst--Officer---State-Street-Investment-Management_R-792365'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA.VA.Reston</td>
+      <td>Software Application Engineer (US Federal)</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Application-Engineer--US-Federal-_JR-0107995'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-12-09-30-11'>🕐 Batch at 2026-06-12 09:30:11</h3>
 
@@ -216,7 +322,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-12-05-35-54'>🕐 Batch at 2026-06-12 05:35:54</h3>
 
 📊 **Total jobs in this batch: 4**
