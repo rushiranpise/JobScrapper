@@ -4,10 +4,72 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-12 16:29:07](#batch-2026-06-12-16-29-07)
 - [Batch at 2026-06-12 14:57:56](#batch-2026-06-12-14-57-56)
 - [Batch at 2026-06-12 12:16:38](#batch-2026-06-12-12-16-38)
 - [Batch at 2026-06-12 09:30:11](#batch-2026-06-12-09-30-11)
-- [Batch at 2026-06-12 05:35:54](#batch-2026-06-12-05-35-54)
+
+<h3 id='batch-2026-06-12-16-29-07'>🕐 Batch at 2026-06-12 16:29:07</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- BAH: 1 job
+- Citi: 1 job
+- Intel Corporation: 1 job
+- Reddit: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Binghamton, NY</td>
+      <td>Supplier Quality & Product Assurance Liaison </td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5164230007'>Apply</a></td>
+      <td>Jun 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist--Mid_R0242203'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Irving Texas United States</td>
+      <td>Software License Management Analyst - Officer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Software-License-Management-Analyst---Officer_26971673'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Software Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Engineer_JR0284835'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Reddit</b></td>
+      <td>Remote - United States</td>
+      <td>Software Engineer - Data Movement Platform</td>
+      <td><a href='https://job-boards.greenhouse.io/reddit/jobs/7997866'>Apply</a></td>
+      <td>Jun 12, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-12-14-57-56'>🕐 Batch at 2026-06-12 14:57:56</h3>
 
@@ -172,7 +234,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-12-12-16-38'>🕐 Batch at 2026-06-12 12:16:38</h3>
 
 📊 **Total jobs in this batch: 11**
@@ -276,8 +337,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-12-09-30-11'>🕐 Batch at 2026-06-12 09:30:11</h3>
+---<h3 id='batch-2026-06-12-09-30-11'>🕐 Batch at 2026-06-12 09:30:11</h3>
 
 📊 **Total jobs in this batch: 24**
 
