@@ -4,10 +4,102 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-11 21:26:30](#batch-2026-06-11-21-26-30)
 - [Batch at 2026-06-11 16:34:35](#batch-2026-06-11-16-34-35)
 - [Batch at 2026-06-11 14:31:49](#batch-2026-06-11-14-31-49)
 - [Batch at 2026-06-11 11:26:04](#batch-2026-06-11-11-26-04)
-- [Batch at 2026-06-11 07:49:01](#batch-2026-06-11-07-49-01)
+
+<h3 id='batch-2026-06-11-21-26-30'>🕐 Batch at 2026-06-11 21:26:30</h3>
+
+📊 **Total jobs in this batch: 9**
+
+**Per company:**
+- Motorola Solutions, Inc: 1 job
+- ASMLEXT1: 1 job
+- BAH: 2 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 2 jobs
+- DoorDash : 1 job
+- NVIDIA: 1 job
+- State Street: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Illinois Remote Work, More...</td>
+      <td>Field Engineer - Emergency Call Handling - Federal Team</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Illinois-Remote-Work/Field-Engineer---Emergency-Call-Handling---Federal-Team_R63979'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>EWM SAP IT Application Engineer</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/EWM-SAP-IT-Application-Engineer_J-00342239-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Camp Lejeune, NC</td>
+      <td>Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Lejeune-NC/Data-Analyst_R0242097'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Full Stack Developer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Full-Stack-Developer--Mid_R0242085'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA - Massachusetts - Boston</td>
+      <td>Technical Applications Scientist (TAS) - Research</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA---Massachusetts---Boston/Technical-Applications-Scientist--TAS----Research_R-548010-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA - California - San Francisco</td>
+      <td>Technical Applications Scientist (TAS) - Research</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA---California---San-Francisco/Technical-Applications-Scientist--TAS----Research_R-548011-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>San Francisco, CA; Sunnyvale, CA; New York, NY</td>
+      <td>Software Engineer, Reliability Platforms</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/7994290'>Apply</a></td>
+      <td>Jun 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Research Scientist, Efficient Deep Learning - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Burlington Massachusetts</td>
+      <td>PS Tooling / Data Migration / Data Readiness / Check Out</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/PS-Tooling---Data-Migration---Data-Readiness---Check-Out_R-791620-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-11-16-34-35'>🕐 Batch at 2026-06-11 16:34:35</h3>
 
@@ -77,7 +169,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-11-14-31-49'>🕐 Batch at 2026-06-11 14:31:49</h3>
 
 📊 **Total jobs in this batch: 17**
@@ -229,8 +320,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-11-11-26-04'>🕐 Batch at 2026-06-11 11:26:04</h3>
+---<h3 id='batch-2026-06-11-11-26-04'>🕐 Batch at 2026-06-11 11:26:04</h3>
 
 📊 **Total jobs in this batch: 23**
 
