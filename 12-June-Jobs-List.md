@@ -4,10 +4,62 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-12 21:15:15](#batch-2026-06-12-21-15-15)
 - [Batch at 2026-06-12 16:29:07](#batch-2026-06-12-16-29-07)
 - [Batch at 2026-06-12 14:57:56](#batch-2026-06-12-14-57-56)
 - [Batch at 2026-06-12 12:16:38](#batch-2026-06-12-12-16-38)
-- [Batch at 2026-06-12 09:30:11](#batch-2026-06-12-09-30-11)
+
+<h3 id='batch-2026-06-12-21-15-15'>🕐 Batch at 2026-06-12 21:15:15</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- DoorDash : 1 job
+- Zipline: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>United States - Remote</td>
+      <td>IT Software Asset Management Analyst</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/8001229'>Apply</a></td>
+      <td>Jun 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Controls Engineer Intern (Fall 2026)</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7772233003#open-roles'>Apply</a></td>
+      <td>Jun 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Material Planning Intern (Fall 2026)</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7772351003#open-roles'>Apply</a></td>
+      <td>Jun 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Strategic Operations Program Management Intern (Fall 2026)</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7772054003#open-roles'>Apply</a></td>
+      <td>Jun 12, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-12-16-29-07'>🕐 Batch at 2026-06-12 16:29:07</h3>
 
@@ -70,7 +122,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-12-14-57-56'>🕐 Batch at 2026-06-12 14:57:56</h3>
 
 📊 **Total jobs in this batch: 19**
@@ -233,8 +284,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-12-12-16-38'>🕐 Batch at 2026-06-12 12:16:38</h3>
+---<h3 id='batch-2026-06-12-12-16-38'>🕐 Batch at 2026-06-12 12:16:38</h3>
 
 📊 **Total jobs in this batch: 11**
 
