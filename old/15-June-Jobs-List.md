@@ -4,9 +4,78 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-15 16:56:34](#batch-2026-06-15-16-56-34)
 - [Batch at 2026-06-15 14:54:48](#batch-2026-06-15-14-54-48)
 - [Batch at 2026-06-15 11:50:12](#batch-2026-06-15-11-50-12)
 - [Batch at 2026-06-15 06:27:51](#batch-2026-06-15-06-27-51)
+
+<h3 id='batch-2026-06-15-16-56-34'>🕐 Batch at 2026-06-15 16:56:34</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- Applied Materials: 1 job
+- Brink: 1 job
+- Pinterest: 1 job
+- Rvo health: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Software-Engineer-II_R2619180'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Brink</b></td>
+      <td>Charlotte NC</td>
+      <td>CDL Driver</td>
+      <td><a href='https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Charlotte-NC/CDL-Driver_R75487'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pinterest</b></td>
+      <td>City, State, Country; Remote, CA, US</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://www.pinterestcareers.com/jobs/?gh_jid=7958766'>Apply</a></td>
+      <td>Jun 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Rvo health</b></td>
+      <td>Minneapolis, MN</td>
+      <td>Software Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/rvohealth/jobs/4703896005'>Apply</a></td>
+      <td>Jun 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Rvo health</b></td>
+      <td>Denver, Colorado, United States</td>
+      <td>Software Engineer </td>
+      <td><a href='https://job-boards.greenhouse.io/rvohealth/jobs/4703897005'>Apply</a></td>
+      <td>Jun 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Rvo health</b></td>
+      <td>Charlotte, North Carolina, United States</td>
+      <td>Software Engineer </td>
+      <td><a href='https://job-boards.greenhouse.io/rvohealth/jobs/4703894005'>Apply</a></td>
+      <td>Jun 15, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-15-14-54-48'>🕐 Batch at 2026-06-15 14:54:48</h3>
 
@@ -212,7 +281,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-15-11-50-12'>🕐 Batch at 2026-06-15 11:50:12</h3>
 
 📊 **Total jobs in this batch: 36**
@@ -502,8 +570,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-15-06-27-51'>🕐 Batch at 2026-06-15 06:27:51</h3>
+---<h3 id='batch-2026-06-15-06-27-51'>🕐 Batch at 2026-06-15 06:27:51</h3>
 
 📊 **Total jobs in this batch: 3**
 
