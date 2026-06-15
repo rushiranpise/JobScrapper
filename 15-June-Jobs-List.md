@@ -4,8 +4,214 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-15 14:54:48](#batch-2026-06-15-14-54-48)
 - [Batch at 2026-06-15 11:50:12](#batch-2026-06-15-11-50-12)
 - [Batch at 2026-06-15 06:27:51](#batch-2026-06-15-06-27-51)
+
+<h3 id='batch-2026-06-15-14-54-48'>🕐 Batch at 2026-06-15 14:54:48</h3>
+
+📊 **Total jobs in this batch: 24**
+
+**Per company:**
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- Motorola Solutions, Inc: 1 job
+- Applied Materials: 2 jobs
+- Anduril Industries: 2 jobs
+- BAH: 5 jobs
+- cadence: 2 jobs
+- GCM Grosvenor: 1 job
+- General Motors LLC: 1 job
+- Merck & Co.: 1 job
+- Micron: 1 job
+- Morgan Stanley: 1 job
+- NVIDIA: 1 job
+- SabreJobs: 1 job
+- Testnisc: 3 jobs
+- The Walt Disney Company: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Junior Data Scientist</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Junior-Data-Scientist_JR61363'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Schaumburg, IL, More...</td>
+      <td>Product Owner (Product Data Hub)</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Product-Owner--Product-Data-Hub-_R65464'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>2026 New College Grad - Chemist III (PhD)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Chemist-E3_R2621187'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Materials Project Management, New College Grad- Bachelor/Master's (Austin, TX)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Management--New-College-Grad--Bachelor-Master-s--Austin--TX-_R2621663'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Software Engineer, Perception</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5165250007?gh_jid=5165250007'>Apply</a></td>
+      <td>Jun 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Software Engineer, Second Shift</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5155567007?gh_jid=5155567007'>Apply</a></td>
+      <td>Jun 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>DevOps Cloud Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/DevOps-Cloud-Engineer_R0242175-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Honolulu, HI</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Software-Engineer_R0242268'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Columbia, MD</td>
+      <td>AI Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Columbia-MD/AI-Software-Engineer_R0242299'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Honolulu, HI</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Software-Engineer_R0242269'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Atlanta, GA</td>
+      <td>Bioinformatics Training Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Bioinformatics-Training-Specialist_R0242289'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>cadence</b></td>
+      <td>AUSTIN</td>
+      <td>Software Engineer II: AI Compiler Engineer</td>
+      <td><a href='https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Software-Engineer-II--AI-Compiler-Engineer_R55175-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>cadence</b></td>
+      <td>AUSTIN</td>
+      <td>Software Engineer II: AI Compiler Engineer</td>
+      <td><a href='https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Software-Engineer-II--AI-Compiler-Engineer_R55174'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>GCM Grosvenor</b></td>
+      <td>Chicago, Illinois, United States</td>
+      <td>2027 ARS Portfolio Management Summer Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7761842003'>Apply</a></td>
+      <td>Jun 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Concord, North Carolina, United States of America</td>
+      <td>Performance Tools Developer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Concord-North-Carolina-United-States-of-America/Performance-Tools-Developer_JR-202613256'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Merck & Co.</b></td>
+      <td>USA - Virginia - Elkton</td>
+      <td>Energy & Sustainability Engineer</td>
+      <td><a href='https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Virginia---Elkton/Energy---Sustainability-Engineer_R402998'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Yield Enhancement Engineer - Physical Failure Analysis</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Yield-Enhancement-Engineer---Physical-Failure-Analysis_JR104069'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>Denver, Colorado, United States of America</td>
+      <td>PWM Intern</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/Denver-Colorado-United-States-of-America/PWM-Intern_JR039005'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>High-Performance LLM Training Engineer - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2026_JR2019451-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SabreJobs</b></td>
+      <td>Southlake, Texas, United States</td>
+      <td>Business Analyst - Sustainability Data & Reporting</td>
+      <td><a href='https://sabre.wd1.myworkdayjobs.com/en-US/SabreJobs/job/Southlake-Texas-United-States/Business-Analyst---Sustainability-Data---Reporting_JR107978'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Testnisc</b></td>
+      <td>Cedar Rapids, IA</td>
+      <td>Software Developer II - Provisioning (Full Stack, Front End)</td>
+      <td><a href='https://job-boards.greenhouse.io/testnisc/jobs/8008471'>Apply</a></td>
+      <td>Jun 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Testnisc</b></td>
+      <td>Lake Saint Louis, MO</td>
+      <td>Software Developer II - Provisioning (Full Stack, Front End)</td>
+      <td><a href='https://job-boards.greenhouse.io/testnisc/jobs/8008480'>Apply</a></td>
+      <td>Jun 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Testnisc</b></td>
+      <td>Mandan, ND</td>
+      <td>Software Developer II - Provisioning (Full Stack, Front End)</td>
+      <td><a href='https://job-boards.greenhouse.io/testnisc/jobs/8008482'>Apply</a></td>
+      <td>Jun 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>Disney Entertainment Television Communication Intern, Summer/Fall 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Disney-Entertainment-Television-Communication-Intern--Summer-Fall-2026_10153825'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-15-11-50-12'>🕐 Batch at 2026-06-15 11:50:12</h3>
 
@@ -297,7 +503,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-15-06-27-51'>🕐 Batch at 2026-06-15 06:27:51</h3>
 
 📊 **Total jobs in this batch: 3**
