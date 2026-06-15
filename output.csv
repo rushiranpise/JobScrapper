@@ -1,4 +1,37 @@
-company,title,location,postedOn,link,updatedOn
-LexisNexis Risk Solutions,Apprentice Software Engineer,UK - Grosvenor House (Southampton),Posted Today,https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---Grosvenor-House-Southampton/Apprentice-Software-Engineer_R112557-1,
-Otis,Intern Otis Oviedo,"Salvador de Madariaga 6-8 33008 OVIEDO, Asturias, Spain",Posted Today,https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/Salvador-de-Madariaga-6-8-33008-OVIEDO-Asturias-Spain/Intern-Otis-Oviedo_20161215,
-Stripe,"Software Engineer, Core Infrastructure","Sydney, Australia",2026-06-12T00:52:30-04:00,https://stripe.com/jobs/search?gh_jid=7975725,2026-06-15T02:46:16-04:00
+company,title,location,link,postedOn,updatedOn
+Anduril Industries,Developer Advocate,"Seattle, Washington, United States",https://boards.greenhouse.io/andurilindustries/jobs/5164935007?gh_jid=5164935007,2026-06-15T13:08:03-04:00,2026-06-15T13:08:03-04:00
+Anduril Industries,"Software Engineer - Mobile, Android","Costa Mesa, California, United States",https://boards.greenhouse.io/andurilindustries/jobs/5163532007?gh_jid=5163532007,2026-06-15T09:42:42-04:00,2026-06-15T09:42:42-04:00
+BAH,C-UAS Training Integrator,"Fort Carson, CO",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Carson-CO/C-UAS-Training-Integrator_R0242082-1,Posted Today,
+BAH,Cloud Infrastructure Support Engineer,"Fort Belvoir, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Cloud-Infrastructure-Support-Engineer_R0242260,Posted Today,
+BorgWarner,Material Handler /PC&L Associate – 1st Shift,Seneca - South Carolina - USA,https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Seneca---South-Carolina---USA/Material-Handler--PC-L-Associate---1st-Shift_R2026-1576-1,Posted Today,
+Dematic Corp. (ILD-US),Professional Software Developer,"Grand Rapids, MI, United States",https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Grand-Rapids-MI-United-States/Professional-Software-Developer_JR-0092836,Posted Today,
+genpt,Store Counter Trainee (Part Time),"Marshville, NC, USA",https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Marshville-NC-USA/Store-Counter-Trainee--Part-Time-_R26_0000019823,Posted Today,
+genpt,Material Handler I,"Louisville, KY, USA",https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Louisville-KY-USA/Material-Handler-I_R26_0000019551,Posted Today,
+genpt,CDL Regional Driver,"Indianapolis, IN, USA",https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Indianapolis-IN-USA/CDL-Regional-Driver_R26_0000019784,Posted Today,
+genpt,Store Paint Specialist,"Denver, CO, USA",https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Denver-CO-USA/Store-Paint-Specialist_R26_0000019514,Posted Today,
+KLA,Material Handler - 2nd Shift,"Totowa, NJ",https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Totowa-NJ/Material-Handler---2nd-Shift_2637250,Posted Today,
+KLA,Material Handler - 1st Shift,"Totowa, NJ",https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Totowa-NJ/Material-Handler---1st-Shift_2637249,Posted Today,
+Micron,New College Grad - RAM Shift Process Engineer,"Manassas, VA -  Fab 6",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/RAM-Shift-Process-Engineer_JR104171,Posted Today,
+MOOG,NX CAM Support and Post Developer,"Buffalo, NY",https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/NX-CAM-Support-and-Post-Developer_R-26-18251-1,Posted Today,
+nVent,Mfg Material Handler,"Solon, OH, US",https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Solon-OH-US/Mfg-Material-Handler_R22288,Posted Today,
+NVIDIA,Software Quality Assurance Engineer - 2026 New College Grad,"US, CA, Santa Clara",https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Quality-Assurance-Engineer---2026-New-College-Grad_JR2019924-1,Posted Today,
+palantir,"Forward Deployed Software Engineer - Intel, New Grad","Washington, D.C.",https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382,2026-06-15 16:08:02,N/A
+palantir,"Forward Deployed Software Engineer, Internship - Defense Tech","Washington, D.C.",https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b,2024-08-05 23:14:32,N/A
+palantir,"Forward Deployed Software Engineer, Internship - US Government","New York, NY",https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f,2022-06-30 21:20:50,N/A
+palantir,"Forward Deployed Software Engineer, Internship - US Government","Washington, D.C.",https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2,2021-07-01 22:12:43,N/A
+palantir,"Forward Deployed Software Engineer, New Grad - US Government","Washington, D.C.",https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb,2022-06-30 22:59:08,N/A
+palantir,"Forward Deployed Software Engineer, New Grad - US Government","New York, NY",https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca,2022-06-30 22:50:16,N/A
+Pinterest,"Software Engineer, iOS","Toronto, ON, CA",https://www.pinterestcareers.com/jobs/?gh_jid=6922682,2025-12-12T09:22:03-05:00,2026-06-15T09:52:27-04:00
+SRK Supplylogix LLC,Technical Trainer – Back Office,"USA, TX, Remote",https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Remote/Technical-Trainer---Back-Office_JR0148682-1,Posted Today,
+SRK Supplylogix LLC,Software Engineering Specialist,"USA, VA, Richmond",https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-VA-Richmond/Software-Engineering-Specialist_JR0147601-1,Posted Today,
+spacex,"SCADA & Controls Engineer, Infrastructure & Utility (Starship)","Starbase, TX",https://boards.greenhouse.io/spacex/jobs/8592882002?gh_jid=8592882002,2026-06-15T14:20:56-04:00,2026-06-15T14:20:56-04:00
+spacex,"Test Engineer, Powertrain Components (Starship)","Hawthorne, CA",https://boards.greenhouse.io/spacex/jobs/8592829002?gh_jid=8592829002,2026-06-15T13:56:13-04:00,2026-06-15T13:56:13-04:00
+The Toro,"Material Handler, 1st Shift - Exmark","Beatrice, NE",https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Beatrice-NE/Material-Handler--1st-Shift---Exmark_JR16399,Posted Today,
+The Toro,Material Handler - The Toro Company,"Windom, MN",https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Windom-MN/Material-Handler---The-Toro-Company_JR16413,Posted Today,
+Twitch,Software Engineer II,"San Francisco, CA",https://job-boards.greenhouse.io/twitch/jobs/8590362002,2026-06-15T12:33:20-04:00,2026-06-15T12:33:42-04:00
+Wyetech LLC,Android-Savvy CNO Developer,"Ft. Meade, Maryland",https://jobs.lever.co/wyetechllc/777f1458-f600-4279-987c-6515067bad56,2026-06-15 16:27:02,N/A
+Wyetech LLC,Baseband-savvy CNO Developer,"Ft. Meade, Maryland",https://jobs.lever.co/wyetechllc/1c307298-7a5b-4e40-b9f4-0582062ebfa3,2026-06-15 15:31:34,N/A
+Wyetech LLC,Baseband-savvy CNO Developer,"Ft. Meade, Maryland",https://jobs.lever.co/wyetechllc/cd707502-1f91-4b08-8100-0efb337b8cf1,2026-06-15 16:17:56,N/A
+Wyetech LLC,iOS-Savvy CNO Developer,"Ft. Meade, Maryland",https://jobs.lever.co/wyetechllc/b0e6680b-e99c-495e-b452-cd4c1d37da2e,2026-06-15 16:12:38,N/A
+Wyetech LLC,Software Engineer 2/3 (copy),"Annapolis Junction, Maryland",https://jobs.lever.co/wyetechllc/cd641f48-1991-4284-8451-4a66e53d797f,2026-06-15 14:17:31,N/A
+Wyetech LLC,Software Engineer 3,"Ft. Meade, Maryland",https://jobs.lever.co/wyetechllc/2415fc6b-a3d2-4738-bbe2-cdababbc59f2,2026-06-15 15:10:58,N/A
