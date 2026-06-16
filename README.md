@@ -4,9 +4,156 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-16 15:23:02](#batch-2026-06-16-15-23-02)
 - [Batch at 2026-06-16 12:53:53](#batch-2026-06-16-12-53-53)
 - [Batch at 2026-06-16 09:06:39](#batch-2026-06-16-09-06-39)
 - [Batch at 2026-06-16 03:19:31](#batch-2026-06-16-03-19-31)
+
+<h3 id='batch-2026-06-16-15-23-02'>🕐 Batch at 2026-06-16 15:23:02</h3>
+
+📊 **Total jobs in this batch: 16**
+
+**Per company:**
+- Motorola Solutions, Inc: 1 job
+- BAH: 5 jobs
+- Breeze Airways: 1 job
+- CMU: 1 job
+- GOAT : 1 job
+- Intel Corporation: 1 job
+- nVent: 1 job
+- PlayStation Global: 1 job
+- Snowflake: 1 job
+- spacex: 1 job
+- Truveta: 1 job
+- Workday: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Texas Remote Work</td>
+      <td>Application Specialist</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Texas-Remote-Work/Application-Specialist_R66022'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Springfield, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist--Mid_R0242441-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0242427-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Campaign Modeling and Simulation Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Campaign-Modeling-and-Simulation-Engineer_R0242402'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Pensacola, FL</td>
+      <td>ELINT & EW Curriculum Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Pensacola-FL/ELINT---EW-Curriculum-Developer_R0242409'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Pensacola, FL</td>
+      <td>SIGINT Curriculum Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Pensacola-FL/SIGINT-Curriculum-Developer_R0242413'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Breeze Airways</b></td>
+      <td>Salt Lake City, Utah, United States</td>
+      <td>Inflight Training Coordinator</td>
+      <td><a href='https://job-boards.greenhouse.io/breezeairways/jobs/7775074003'>Apply</a></td>
+      <td>Jun 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Early Childhood Aide - Cyert Center for Early Education</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Early-Childhood-Aide---Cyert-Center-for-Early-Education_2024593'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>GOAT </b></td>
+      <td>Easton, Pennsylvania, United States</td>
+      <td>Junior Authentication Specialist</td>
+      <td><a href='https://job-boards.greenhouse.io/goatgroup/jobs/4706638005'>Apply</a></td>
+      <td>Jun 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>System and Software Optimization Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-and-Software-Optimization-Engineer_JR0284771'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Solon, OH, US</td>
+      <td>Logistics Material Handler</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Solon-OH-US/Logistics-Material-Handler_R22336-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Mateo, CA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6018473004'>Apply</a></td>
+      <td>Jun 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-WA-Bellevue</td>
+      <td>AI Research Scientist, New Grad – Agents & Reinforcement Learning</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698'>Apply</a></td>
+      <td>Jun 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Software Engineer (Starlink Enterprise)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8586637002?gh_jid=8586637002'>Apply</a></td>
+      <td>Jun 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Truveta</b></td>
+      <td>Seattle, WA</td>
+      <td>Partner Data Analyst - Life Science Partnerships</td>
+      <td><a href='https://job-boards.greenhouse.io/truveta/jobs/6092004004'>Apply</a></td>
+      <td>Jun 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA, CA, Pleasanton</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Software-Development-Engineer_JR-0107735'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-16-12-53-53'>🕐 Batch at 2026-06-16 12:53:53</h3>
 
@@ -150,7 +297,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-16-09-06-39'>🕐 Batch at 2026-06-16 09:06:39</h3>
 
 📊 **Total jobs in this batch: 13**
@@ -275,8 +421,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-16-03-19-31'>🕐 Batch at 2026-06-16 03:19:31</h3>
+---<h3 id='batch-2026-06-16-03-19-31'>🕐 Batch at 2026-06-16 03:19:31</h3>
 
 📊 **Total jobs in this batch: 3**
 
