@@ -4,10 +4,56 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-15 21:52:49](#batch-2026-06-15-21-52-49)
 - [Batch at 2026-06-15 16:56:34](#batch-2026-06-15-16-56-34)
 - [Batch at 2026-06-15 14:54:48](#batch-2026-06-15-14-54-48)
 - [Batch at 2026-06-15 11:50:12](#batch-2026-06-15-11-50-12)
-- [Batch at 2026-06-15 06:27:51](#batch-2026-06-15-06-27-51)
+
+<h3 id='batch-2026-06-15-21-52-49'>🕐 Batch at 2026-06-15 21:52:49</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- BAH: 1 job
+- spacex: 1 job
+- Stripe: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer_R0231686'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Application Software Engineer, Safety & Training </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8593365002?gh_jid=8593365002'>Apply</a></td>
+      <td>Jun 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>New York, NY</td>
+      <td>Software Engineer</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=8009143'>Apply</a></td>
+      <td>Jun 15, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-15-16-56-34'>🕐 Batch at 2026-06-15 16:56:34</h3>
 
@@ -76,7 +122,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-15-14-54-48'>🕐 Batch at 2026-06-15 14:54:48</h3>
 
 📊 **Total jobs in this batch: 24**
@@ -280,8 +325,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-15-11-50-12'>🕐 Batch at 2026-06-15 11:50:12</h3>
+---<h3 id='batch-2026-06-15-11-50-12'>🕐 Batch at 2026-06-15 11:50:12</h3>
 
 📊 **Total jobs in this batch: 36**
 
