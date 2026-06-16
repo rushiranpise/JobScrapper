@@ -4,8 +4,152 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-16 12:53:53](#batch-2026-06-16-12-53-53)
 - [Batch at 2026-06-16 09:06:39](#batch-2026-06-16-09-06-39)
 - [Batch at 2026-06-16 03:19:31](#batch-2026-06-16-03-19-31)
+
+<h3 id='batch-2026-06-16-12-53-53'>🕐 Batch at 2026-06-16 12:53:53</h3>
+
+📊 **Total jobs in this batch: 16**
+
+**Per company:**
+- Addepar: 1 job
+- AQR Capital Management: 1 job
+- Allstate: 1 job
+- BAH: 7 jobs
+- Broadcom : 1 job
+- Databricks: 1 job
+- Intel Corporation: 1 job
+- nVent: 2 jobs
+- Twitch: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Addepar</b></td>
+      <td>New York, NY</td>
+      <td>Software Engineer (Fullstack) - Core Applications Workflows</td>
+      <td><a href='https://job-boards.greenhouse.io/addepar1/jobs/8590337002'>Apply</a></td>
+      <td>Jun 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>AQR Capital Management</b></td>
+      <td>Greenwich, CT</td>
+      <td>Application Support Engineer</td>
+      <td><a href='https://careers.aqr.com/jobs?gh_jid=8007352&gh_jid=8007352'>Apply</a></td>
+      <td>Jun 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>NC - Raleigh</td>
+      <td>Field Auto Appraiser</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/NC---Raleigh/Field-Auto-Appraiser_R31615'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>El Segundo, CA</td>
+      <td>Campaign Planner</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Campaign-Planner_R0242411'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Belvoir, VA</td>
+      <td>Mission Data Product Owner</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Mission-Data-Product-Owner_R0242399'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Springfield, VA</td>
+      <td>Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Analyst_R0233876'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Applied Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Applied-Data-Scientist_R0242372'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Data-Analyst_R0242373'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>DevOps Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer--Mid_R0242365'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>XR Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/XR-Developer_R0242330'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-CA - Promontory B</td>
+      <td>Software Engineer VMkernel</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Software-Engineer-VMkernel_R026222'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Databricks</b></td>
+      <td>Atlanta, Georgia; Bellevue, Washington; Boston, Massachusetts; Maryland; Philadelphia, Pennsylvania; Portland, Oregon; Remote - California; Remote - North Carolina; Remote - Virginia; Remote - Washington D.C.; Seattle, Washington; South Carolina</td>
+      <td>Forward Deployed Engineer - FDE (Fullstack) - Digital Native Business </td>
+      <td><a href='https://databricks.com/company/careers/open-positions/job?gh_jid=8488399002'>Apply</a></td>
+      <td>Apr 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, California, Santa Clara</td>
+      <td>Neuromorphic/AI Research Scientist</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Neuromorphic-AI-Research-Scientist_JR0284776'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Dayton, MN, US</td>
+      <td>Warehouse Material Handler</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Dayton-MN-US/Warehouse-Material-Handler_R22328'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Anoka, MN, US</td>
+      <td>Material Handler - 1st Shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Material-Handler---1st-Shift_R22323'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Twitch</b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer, Enterprise</td>
+      <td><a href='https://job-boards.greenhouse.io/twitch/jobs/8527485002'>Apply</a></td>
+      <td>Apr 29, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-16-09-06-39'>🕐 Batch at 2026-06-16 09:06:39</h3>
 
@@ -132,7 +276,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-16-03-19-31'>🕐 Batch at 2026-06-16 03:19:31</h3>
 
 📊 **Total jobs in this batch: 3**
