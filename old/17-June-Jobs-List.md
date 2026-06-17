@@ -4,8 +4,138 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-17 11:31:53](#batch-2026-06-17-11-31-53)
 - [Batch at 2026-06-17 08:49:54](#batch-2026-06-17-08-49-54)
 - [Batch at 2026-06-17 04:59:41](#batch-2026-06-17-04-59-41)
+
+<h3 id='batch-2026-06-17-11-31-53'>🕐 Batch at 2026-06-17 11:31:53</h3>
+
+📊 **Total jobs in this batch: 14**
+
+**Per company:**
+- Aurora: 1 job
+- BAH: 4 jobs
+- BorgWarner: 2 jobs
+- Comcast : 2 jobs
+- Intel Corporation: 1 job
+- Micron: 1 job
+- Rescale : 1 job
+- State Street: 1 job
+- The Walt Disney Company: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Aurora</b></td>
+      <td>Pittsburgh, Pennsylvania</td>
+      <td>Software Engineer II, Pipeline Automation & Acceleration</td>
+      <td><a href='https://aurora.tech/jobs/8591934002?gh_jid=8591934002'>Apply</a></td>
+      <td>Jun 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Camp H.M. Smith, HI</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-HM-Smith-HI/Data-Engineer_R0240138'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Virginia Beach, VA</td>
+      <td>IC Strike & Targeting Instructional Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Virginia-Beach-VA/IC-Strike---Targeting-Instructional-Developer_R0242505'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Pensacola, FL</td>
+      <td>SharePoint and Web Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Pensacola-FL/SharePoint-and-Web-Developer_R0242476'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>AI and ML Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/AI-and-ML-Data-Scientist_R0242343'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Arden - North Carolina - USA</td>
+      <td>Assembly Operator - Thermal 2nd Shift, (Grade B $19.96-$23.28)</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/Assembly-Operator---Thermal-2nd-Shift---Grade-B--1996--2328-_R2026-2397'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Arden - North Carolina - USA</td>
+      <td>1st Shift Fan Production Operator (Grade C $21.01-$24.16)</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/XMLNAME-1st-Shift-Fan-Production-Operator--Grade-C--2101--2416-_R2026-2399'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>VA - Reston, 11951 Freedom Dr Ste 900</td>
+      <td>Software Engineer 3 - Golang or Python/Kubernetes - Freewheel</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Software-Engineer-3---Golang-or-Python-Kubernetes---Freewheel_R439422'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1701 John F Kennedy Blvd</td>
+      <td>Data Scientist</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Data-Scientist_R439304'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>AIG Power Delivery Pathfinding Researcher</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AIG-Power-Delivery-Pathfinding-Researcher_JR0284885'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>AI Full Stack Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/AI-Full-Stack-Engineer_JR104397'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Rescale </b></td>
+      <td>Remote (United States)</td>
+      <td>Software Engineer, Backend Engineer</td>
+      <td><a href='https://jobs.ashbyhq.com/rescale/ef94f670-e2df-4d4f-97ae-26cc9a5befdc'>Apply</a></td>
+      <td>Feb 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Burlington Massachusetts</td>
+      <td>Software Quality Engineer, Officer</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Software-Quality-Engineer--Officer_R-792194'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Glendale, CA, USA</td>
+      <td>Product Software Engineer II</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Product-Software-Engineer-II_10151235'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-17-08-49-54'>🕐 Batch at 2026-06-17 08:49:54</h3>
 
@@ -182,7 +312,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-17-04-59-41'>🕐 Batch at 2026-06-17 04:59:41</h3>
 
 📊 **Total jobs in this batch: 1**
