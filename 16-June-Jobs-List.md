@@ -4,10 +4,48 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-16 23:24:30](#batch-2026-06-16-23-24-30)
 - [Batch at 2026-06-16 17:27:56](#batch-2026-06-16-17-27-56)
 - [Batch at 2026-06-16 15:23:02](#batch-2026-06-16-15-23-02)
 - [Batch at 2026-06-16 12:53:53](#batch-2026-06-16-12-53-53)
-- [Batch at 2026-06-16 09:06:39](#batch-2026-06-16-09-06-39)
+
+<h3 id='batch-2026-06-16-23-24-30'>🕐 Batch at 2026-06-16 23:24:30</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- BAH: 1 job
+- State Street: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lexington, MA</td>
+      <td>Structural Engineer, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/Structural-Engineer--Junior_R0242443'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Burlington Massachusetts</td>
+      <td>AI Developer, SA</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/AI-Developer--SA_R-792362-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-16-17-27-56'>🕐 Batch at 2026-06-16 17:27:56</h3>
 
@@ -54,7 +92,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-16-15-23-02'>🕐 Batch at 2026-06-16 15:23:02</h3>
 
 📊 **Total jobs in this batch: 16**
@@ -199,8 +236,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-16-12-53-53'>🕐 Batch at 2026-06-16 12:53:53</h3>
+---<h3 id='batch-2026-06-16-12-53-53'>🕐 Batch at 2026-06-16 12:53:53</h3>
 
 📊 **Total jobs in this batch: 16**
 
