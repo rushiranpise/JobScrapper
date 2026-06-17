@@ -1,8 +1,8 @@
 
-✅ Scraped 1 new jobs. Output saved to 'output.csv'.
-📦 Appended 1 jobs to 'output_old.csv'
+✅ Scraped 20 new jobs. Output saved to 'output.csv'.
+📦 Appended 20 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"GE Healthcare","title":"Ultrasound Applications Specialist NSW - POC","location":"AUS08-01-Sydney-241 O'Riordan Street, 8F","link":"https:\/\/gehc.wd5.myworkdayjobs.com\/en-US\/GEHC_ExternalSite\/job\/AUS08-01-Sydney-241-ORiordan-Street-8F\/Ultrasound-Applications-Specialist-NSW---POC_R4042384-2","postedOn":"Posted Today","updatedOn":null}]
+[{"company":"CrowdStrike, Inc","title":"GTM Automation Intern (Remote)","location":"USA - Remote, CA","link":"https:\/\/crowdstrike.wd5.myworkdayjobs.com\/en-US\/crowdstrikecareers\/job\/USA---Remote-CA\/GTM-Automation-Intern--Remote-_R29083","postedOn":"Posted Today","updatedOn":null},{"company":"566 DEPARTMENT OF TOURISM AND RECREATION","title":"Training Specialist IV","location":"Oklahoma County","link":"https:\/\/okgov.wd1.myworkdayjobs.com\/en-US\/okgovjobs\/job\/Oklahoma-County\/Training-Specialist-IV_JR61325","postedOn":"Posted Today","updatedOn":null},{"company":"566 DEPARTMENT OF TOURISM AND RECREATION","title":"Seasonal Housekeeping\/Custodial - Quartz Mountain State Park Lodge","location":"Kiowa County","link":"https:\/\/okgov.wd1.myworkdayjobs.com\/en-US\/okgovjobs\/job\/Kiowa-County\/Seasonal-Housekeeping-Custodial---Quartz-Mountain-State-Park-Lodge_JR61449","postedOn":"Posted Today","updatedOn":null},{"company":"566 DEPARTMENT OF TOURISM AND RECREATION","title":"Training Specialist I","location":"Oklahoma County","link":"https:\/\/okgov.wd1.myworkdayjobs.com\/en-US\/okgovjobs\/job\/Oklahoma-County\/Training-Specialist-I_JR61440","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Cyber Data Analyst","location":"Alexandria, VA","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Alexandria-VA\/Cyber-Data-Analyst_R0242444","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Software Engineer","location":"Chantilly, VA","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Chantilly-VA\/Software-Engineer_R0242465","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"CNO Developer","location":"Annapolis Junction, MD","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Annapolis-Junction-MD\/CNO-Developer_R0242436","postedOn":"Posted Today","updatedOn":null},{"company":"Bank of Montreal","title":"AI Data Engineer","location":"Virtual, MI, USA","link":"https:\/\/bmo.wd3.myworkdayjobs.com\/en-US\/External\/job\/Virtual-MI-USA\/AI-Engineer_R260006893-1","postedOn":"Posted Today","updatedOn":null},{"company":"Becton Dickinson\u2019s Integrated Diagnostics Systems","title":"Analyst I, Complaint Investigation","location":"USA GA - Covington BMD","link":"https:\/\/bdx.wd1.myworkdayjobs.com\/en-US\/EXTERNAL_CAREER_SITE_USA\/job\/USA-GA---Covington-BMD\/Analyst-I--Complaint-Investigation_R-547800-1","postedOn":"Posted Today","updatedOn":null},{"company":"Becton Dickinson\u2019s Integrated Diagnostics Systems","title":"Complaint Management Specialist I","location":"USA AZ - Tempe BPV Building 4","link":"https:\/\/bdx.wd1.myworkdayjobs.com\/en-US\/EXTERNAL_CAREER_SITE_USA\/job\/USA-AZ---Tempe-BPV-Building-4\/Complaint-Management-Specialist-I_R-545735-1","postedOn":"Posted Today","updatedOn":null},{"company":"Coinbase","title":"Software Engineer","location":"Charlotte, NC","link":"https:\/\/www.coinbase.com\/careers\/positions\/8003605?gh_jid=8003605","postedOn":"2026-06-17T09:41:58-04:00","updatedOn":"2026-06-17T11:23:44-04:00"},{"company":"Comcast ","title":"Fall Events Intern - Spectacor","location":"PA - Philadelphia, 3601 S Broad St","link":"https:\/\/comcast.wd5.myworkdayjobs.com\/en-US\/Comcast_Careers\/job\/PA---Philadelphia-3601-S-Broad-St\/Fall-Events-Intern---Spectacor_R439375","postedOn":"Posted Today","updatedOn":null},{"company":"Core Weave","title":"Data Center Technician - Cincinatti, OH","location":"Cincinatti, OH","link":"https:\/\/coreweave.com\/careers\/job?4689986006&board=coreweave&gh_jid=4689986006","postedOn":"2026-06-17T11:41:45-04:00","updatedOn":"2026-06-17T11:41:45-04:00"},{"company":"MOOG","title":"Material Handler","location":"Blacksburg, VA","link":"https:\/\/moog.wd5.myworkdayjobs.com\/en-US\/MOOG_External_Career_Site\/job\/Blacksburg-VA\/Material-Handler_R-26-18392-1","postedOn":"Posted Today","updatedOn":null},{"company":"nVent","title":"Paint Systems Technician - 3rd Shift","location":"Anoka, MN, US","link":"https:\/\/nvent.wd5.myworkdayjobs.com\/en-US\/nVent\/job\/Anoka-MN-US\/Paint-Systems-Technician---3rd-Shift_R22348","postedOn":"Posted Today","updatedOn":null},{"company":"sumup","title":"Data Analytics Engineer - Boulder, Colorado ","location":"Boulder, Colorado, United States","link":"https:\/\/sumup.com\/careers\/positions\/8596342002?gh_jid=8596342002","postedOn":"2026-06-17T10:53:38-04:00","updatedOn":"2026-06-17T11:20:10-04:00"},{"company":"The Walt Disney Company","title":"Financial Analyst \u2013 AFRP (Project Hire\/Internal Assignment)","location":"Glendale, CA, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Glendale-CA-USA\/Financial-Analyst---AFRP--Project-Hire-Internal-Assignment-_10153456","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"Costume Buyer (Project Hire \/ Internal Assignment)","location":"Orlando, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Orlando-FL-USA\/Costume-Buyer--Project-Hire---Internal-Assignment-_10153459-2","postedOn":"Posted Today","updatedOn":null},{"company":"Travellers","title":"Software Engineer I - Loss Sensitive (Java, Spring Boot, TypeScript, Node.js, AI)","location":"MN - St. Paul","link":"https:\/\/travelers.wd5.myworkdayjobs.com\/en-US\/External\/job\/MN---St-Paul\/Software-Engineer-I---Loss-Sensitive--Java--Spring-Boot--TypeScript--Nodejs--AI-_R-50957","postedOn":"Posted Today","updatedOn":null},{"company":"Zipline","title":"Flight Test Engineer Intern (Fall 2026)","location":"South San Francisco, California, USA","link":"https:\/\/www.zipline.com\/careers?gh_jid=7767622003#open-roles","postedOn":"2026-06-17T10:57:15-04:00","updatedOn":"2026-06-17T10:57:15-04:00"}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
@@ -15,44 +15,34 @@ ERRORS_START
 [ERROR] Canonical: Greenhouse API failed: 404
 [ERROR] Cdata: Greenhouse API failed: 404
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"230D13MQI0HW39","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] cadence: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] careers: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Calix: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"DF1582MQI8ORXV","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Clever: Could not extract Lever company name
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
-[ERROR] Circle: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Becton Dickinson’s Integrated Diagnostics Systems: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Dapper Labs: Lever API failed: https://api.lever.co/v0/postings/axiomzen?mode=json - 404
 [ERROR] Demandbase : Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"ACF264MQI0IMW1","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"E30070MQI8PU2R","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
-[ERROR] Early  Warning: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Funnel: Breezy API failed: 403
-[ERROR] Citi: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Grammarly : Greenhouse API failed: 404
-[ERROR] GE Healthcare: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] f5jobs: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] General Motors LLC: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Groq: Greenhouse API failed: 404
 [ERROR] Handshake: Greenhouse API failed: 404
 [ERROR] Illumio: Greenhouse API failed: 404
 [ERROR] Jerry: Ashby API failed - HTTP 404: Not Found
 [ERROR] Kikoff: Ashby API failed - HTTP 404: Not Found
-[ERROR] Groq: Greenhouse API failed: 404
 [ERROR] Kobie: Greenhouse API failed: 404
 [ERROR] Kodiak Robotics: Lever API failed: https://api.lever.co/v0/postings/kodiak?mode=json - 404
 [ERROR] Modernizing Medicine: Greenhouse API failed: 404
-[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"5344B2MQI0JZSU","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] HRL Laboratories: Lever API failed: https://api.lever.co/v0/postings/dodmg?mode=json - 500
+[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"1E1A3EMQI8ROU4","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Notion: Greenhouse API failed: 404
 [ERROR] Perplexity AI: Greenhouse API failed: 404
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
-[ERROR] MKSCareersUniversity: Workday API failed: HTTP 520 - <!DOCTYPE html>
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"EF9C0BMQI0KNAE","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"AFA78BMQI8SCZZ","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Raptor Maps: Lever API failed: https://api.lever.co/v0/postings/RaptorMaps?mode=json - 404
-[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"7718BCMQI0KTOB","httpStatus":403,"message":"permission denied","messageParams":{}}
+[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"123C30MQI8SH2D","httpStatus":403,"message":"permission denied","messageParams":{}}
 [ERROR] Relativity Space: Greenhouse API failed: 404
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
 [ERROR] Skydio: Greenhouse API failed: 404
@@ -63,22 +53,31 @@ ERRORS_START
 [ERROR] Tandem: Ashby API failed - HTTP 404: Not Found
 [ERROR] TCG Capital: Greenhouse API failed: 404
 [ERROR] State Street: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] The Toro: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Simons Foundation: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] The standard: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Sony AI America Inc: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] terex: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Shipt : Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Sony AI America Inc: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"B8CC58MQI0MBKW","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"8DCC8BMQI8U99A","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"EE581CMQI8U9CF","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] TRM labs: Greenhouse API failed: 404
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"9032AEMQI0MC36","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Verily: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Tricentis : Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] USAA: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] The Toro: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Vimeo: Greenhouse API failed: 404
 [ERROR] Walmart: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"8A55A5MQI0N6HF","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"996126MQI8V4JY","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Xylem Services USA LLC: Workday API failed: HTTP 520 - <!DOCTYPE html>
+[ERROR] Wiley Edge/mthree: Workday API failed: HTTP 502 - <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+
 ERRORS_END
