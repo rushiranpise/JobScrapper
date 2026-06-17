@@ -4,10 +4,56 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-16 17:27:56](#batch-2026-06-16-17-27-56)
 - [Batch at 2026-06-16 15:23:02](#batch-2026-06-16-15-23-02)
 - [Batch at 2026-06-16 12:53:53](#batch-2026-06-16-12-53-53)
 - [Batch at 2026-06-16 09:06:39](#batch-2026-06-16-09-06-39)
-- [Batch at 2026-06-16 03:19:31](#batch-2026-06-16-03-19-31)
+
+<h3 id='batch-2026-06-16-17-27-56'>🕐 Batch at 2026-06-16 17:27:56</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- General Motors LLC: 1 job
+- PlayStation Global: 1 job
+- Salesforce: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>HMI Software Engineer - GM Defense</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/HMI-Software-Engineer---GM-Defense_JR-202613209'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Mateo, CA</td>
+      <td>Software Development Engineer in Test, ML/AI</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6084889004'>Apply</a></td>
+      <td>Jun 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Washington - Bellevue</td>
+      <td>Software Engineer MTS — Automation & MuleSoft Agentic Cloud Services</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineer-MTS---Automation---MuleSoft-Agentic-Cloud-Services_JR345537'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-16-15-23-02'>🕐 Batch at 2026-06-16 15:23:02</h3>
 
@@ -154,7 +200,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-16-12-53-53'>🕐 Batch at 2026-06-16 12:53:53</h3>
 
 📊 **Total jobs in this batch: 16**
@@ -296,8 +341,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-16-09-06-39'>🕐 Batch at 2026-06-16 09:06:39</h3>
+---<h3 id='batch-2026-06-16-09-06-39'>🕐 Batch at 2026-06-16 09:06:39</h3>
 
 📊 **Total jobs in this batch: 13**
 
