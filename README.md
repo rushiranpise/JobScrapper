@@ -4,9 +4,262 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-17 19:59:48](#batch-2026-06-17-19-59-48)
 - [Batch at 2026-06-17 11:31:53](#batch-2026-06-17-11-31-53)
 - [Batch at 2026-06-17 08:49:54](#batch-2026-06-17-08-49-54)
 - [Batch at 2026-06-17 04:59:41](#batch-2026-06-17-04-59-41)
+
+<h3 id='batch-2026-06-17-19-59-48'>🕐 Batch at 2026-06-17 19:59:48</h3>
+
+📊 **Total jobs in this batch: 30**
+
+**Per company:**
+- Anduril Industries: 1 job
+- CrowdStrike, Inc: 1 job
+- Applied Materials: 2 jobs
+- BAH: 4 jobs
+- Brink: 2 jobs
+- Citi: 3 jobs
+- Comcast : 2 jobs
+- Core Weave: 1 job
+- Concentrix: 1 job
+- DoorDash : 1 job
+- General Motors LLC: 1 job
+- homedepot: 1 job
+- Kobie: 1 job
+- Micron: 2 jobs
+- Morgan Stanley: 1 job
+- Pinterest: 1 job
+- Remitly: 1 job
+- SRK Supplylogix LLC: 1 job
+- Versana: 2 jobs
+- Workday: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Boston, Massachusetts, United States</td>
+      <td>Jr People Data Analyst</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5166088007?gh_jid=5166088007'>Apply</a></td>
+      <td>Jun 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Remote</td>
+      <td>Intelligence Launch Intern - Summer 2026 (Remote)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Intelligence-Launch-Intern---Summer-2026--Remote-_R26263'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software/Algorithm Engineer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Algorithm-Engineer_R2621567'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Epic Lab Software Engineer (NCG - Master's/PhD)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Epic-Lab-Software-Engineer--NCG---Master-s-PhD-_R2622219'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Engineer_R0242536'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Cloud Automation Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Cloud-Automation-Developer_R0242541-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Meade, MD</td>
+      <td>Data Flow Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Flow-Engineer_R0242288'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist--Mid_R0242531'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Brink</b></td>
+      <td>Cincinnati OH</td>
+      <td>CDL Driver</td>
+      <td><a href='https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Cincinnati-OH/CDL-Driver_R75616'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Brink</b></td>
+      <td>Memphis TN</td>
+      <td>CDL Driver</td>
+      <td><a href='https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Memphis-TN/CDL-Driver_R75612'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Sydney New South Wales Australia</td>
+      <td>Corporate Advisory Analyst, Power, Utilities & Infrastructure</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sydney-New-South-Wales-Australia/Corporate-Advisory-Analyst--Power--Utilities---Infrastructure_26969128-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex Enterprise, GF - O&T, Infrastructure and Expenses Controller</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Enterprise--GF---O-T--Infrastructure-and-Expenses-Controller_26967424-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>VA - Reston, 11951 Freedom Dr Ste 900</td>
+      <td>Data Engineer 3 - Reston, VA - Freewheel</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Data-Engineer-3---Reston--VA---Freewheel_R439281'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>VA - Reston, 11951 Freedom Dr Ste 900</td>
+      <td>Data Engineer 2 - Reston, VA - Freewheel</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Data-Engineer-2---Reston--VA---Freewheel_R439283-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Irving Texas United States</td>
+      <td>Apps Dev Intmd Programmer Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Apps-Dev-Intmd-Programmer-Analyst_26970658'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Phoenix, AZ</td>
+      <td>Data Center Technician - Phoenix, AZ</td>
+      <td><a href='https://coreweave.com/careers/job?4690200006&board=coreweave&gh_jid=4690200006'>Apply</a></td>
+      <td>Jun 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>USA Atlanta One Ravinia Drive, Suite 610</td>
+      <td>Data Analyst/Power BI Developer</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/USA-Atlanta-One-Ravinia-Drive-Suite-610/Data-Analyst-Power-BI-Developer_R1739259-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer, Machine Learning Infrastructure - Gen AI</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/8013249'>Apply</a></td>
+      <td>Jun 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>ECU Software Deployment Supervisor – Manufacturing Engineering</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Loose-Piece-Reflash-Deployment-Supervisor---Global-Manufacturing-Electrical---SDV_JR-202608389'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>GEORGIA - VIRTUAL - GA01</td>
+      <td>Software Engineer II (Remote)</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II--Remote-_Req183899-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Kobie</b></td>
+      <td>St. Petersburg, Florida</td>
+      <td>AI Engineer</td>
+      <td><a href='https://jobs.lever.co/kobie/d14582bd-64a2-439e-a7e3-a50ce7270a3d'>Apply</a></td>
+      <td>2026-06-12 18:53:20</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>AI Full Stack Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/AI-Full-Stack-Engineer_JR104399'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>AI Full Stack Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/AI-Full-Stack-Engineer_JR104398'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>Purchase, New York, United States of America</td>
+      <td>Risk Management and Internal Controls – Investment Solutions Products</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/Risk-Management-and-Internal-Controls---Investment-Solutions-Products_PT-JR039111'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pinterest</b></td>
+      <td>San Francisco, CA, US; Remote, US</td>
+      <td>SDET II, tvScientific</td>
+      <td><a href='https://www.pinterestcareers.com/jobs/?gh_jid=8011568'>Apply</a></td>
+      <td>Jun 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Remitly</b></td>
+      <td>Seattle, Washington United States</td>
+      <td>Software Development Engineer II- USA Regional Experiences</td>
+      <td><a href='https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-II--USA-Regional-Experiences_R_106408'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, VA, Clear Brook</td>
+      <td>Training Specialist, Distribution Center</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-VA-Clear-Brook/Training-Specialist--Distribution-Center_JR0149219'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Versana</b></td>
+      <td>Raleigh, NC</td>
+      <td>DevOps Engineer - Raleigh</td>
+      <td><a href='https://jobs.lever.co/Versana/c886fa3f-af09-4793-95c9-769ed3bafb51'>Apply</a></td>
+      <td>2026-06-17 22:31:21</td>
+    </tr>
+    <tr>
+      <td><b>Versana</b></td>
+      <td>Raleigh, NC</td>
+      <td>Full Stack Software Engineer</td>
+      <td><a href='https://jobs.lever.co/Versana/5da264a9-120d-45b5-8d7f-15e433c372fd'>Apply</a></td>
+      <td>2026-06-17 23:01:14</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA, CO, Boulder</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Software-Development-Engineer_JR-0107838'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-17-11-31-53'>🕐 Batch at 2026-06-17 11:31:53</h3>
 
@@ -136,7 +389,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-17-08-49-54'>🕐 Batch at 2026-06-17 08:49:54</h3>
 
 📊 **Total jobs in this batch: 20**
@@ -311,8 +563,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-17-04-59-41'>🕐 Batch at 2026-06-17 04:59:41</h3>
+---<h3 id='batch-2026-06-17-04-59-41'>🕐 Batch at 2026-06-17 04:59:41</h3>
 
 📊 **Total jobs in this batch: 1**
 
