@@ -4,8 +4,204 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-18 13:23:32](#batch-2026-06-18-13-23-32)
 - [Batch at 2026-06-18 08:01:25](#batch-2026-06-18-08-01-25)
 - [Batch at 2026-06-18 03:21:51](#batch-2026-06-18-03-21-51)
+
+<h3 id='batch-2026-06-18-13-23-32'>🕐 Batch at 2026-06-18 13:23:32</h3>
+
+📊 **Total jobs in this batch: 22**
+
+**Per company:**
+- 2k: 1 job
+- Anduril Industries: 1 job
+- Archer 56: 1 job
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- Motorola Solutions, Inc: 1 job
+- BAH: 2 jobs
+- Cape: 1 job
+- Citi: 3 jobs
+- Dematic Corp. (ILD-US): 1 job
+- Formlabs: 1 job
+- General Motors LLC: 1 job
+- Merck & Co.: 1 job
+- Morgan Stanley: 1 job
+- nVent: 1 job
+- spacex: 1 job
+- State Street: 1 job
+- The Walt Disney Company: 1 job
+- Upstart: 1 job
+- Verily: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>2k</b></td>
+      <td>Novato, California, United States</td>
+      <td>Data Analyst</td>
+      <td><a href='https://job-boards.greenhouse.io/2k/jobs/7651067003'>Apply</a></td>
+      <td>Jun 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Curriculum Developer </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/4997521007?gh_jid=4997521007'>Apply</a></td>
+      <td>Jun 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Archer 56</b></td>
+      <td>San Jose, California, United States</td>
+      <td>Physical AI Engineer - SW</td>
+      <td><a href='https://job-boards.greenhouse.io/archer56/jobs/7742974003'>Apply</a></td>
+      <td>Jun 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Information Systems Application Specialist</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Information-Systems-Application-Specialist_JR61406'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>California Southern Remote Work, More...</td>
+      <td>ECH Application Specialist - US Remote</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/California-Southern-Remote-Work/ECH-Application-Specialist---US-Remote_R64542'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Wright Patterson AFB, OH</td>
+      <td>DevOps Cloud Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wright-Patterson-AFB-OH/DevOps-Cloud-Engineer_R0242557'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Huntsville, AL</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Software-Engineer_R0241988-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Cape</b></td>
+      <td>New York, NY</td>
+      <td>Data Engineer</td>
+      <td><a href='https://jobs.ashbyhq.com/cape/4b93114b-59c0-4f15-91f8-843083b28c3c'>Apply</a></td>
+      <td>Jun 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Irving Texas United States</td>
+      <td>Java-Python Context Engineer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Java-Python-Context-Engineer_26967872'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Jacksonville Florida United States</td>
+      <td>Frontend Engineer Angular</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/Frontend-Engineer-Angular_26967874'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Jacksonville Florida United States</td>
+      <td>Frontend Engineer Angular</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/Frontend-Engineer-Angular_26967876'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Dematic Corp. (ILD-US)</b></td>
+      <td>Fort Worth, TX, United States</td>
+      <td>Material Handler - 2nd Shift</td>
+      <td><a href='https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Fort-Worth-TX-United-States/Material-Handler---2nd-Shift_JR-0086673-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Hardware R&D Engineering Intern (Fall 2026)</td>
+      <td><a href='https://careers.formlabs.com/job/7890746/apply/?gh_jid=7890746'>Apply</a></td>
+      <td>Jun 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Concord, North Carolina, United States of America</td>
+      <td>Packaging Engineer, Service and Sustainment - GM Defense</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Concord-North-Carolina-United-States-of-America/Packaging-Engineer--Service-and-Sustainment---GM-Defense_JR-202613300-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Merck & Co.</b></td>
+      <td>USA - New Jersey - Rahway</td>
+      <td>Assoc. Spclst , Software Engineering</td>
+      <td><a href='https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/Assoc-Spclst---Software-Engineering_R402839-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>Irvine, California, United States of America</td>
+      <td>Intern</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/Irvine-California-United-States-of-America/Intern_JR038008-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Dayton, MN, US</td>
+      <td>Warehouse Material Handler</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Dayton-MN-US/Warehouse-Material-Handler_R22371'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Application Software Engineer, Inference</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8598844002?gh_jid=8598844002'>Apply</a></td>
+      <td>Jun 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Burlington Massachusetts</td>
+      <td>Software Engineer, CRD- New Graduate</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792654'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>Contract Administrator (Disney Entertainment Television)</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Contract-Administrator--Disney-Entertainment-Television-_10153471'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Upstart</b></td>
+      <td>United States | Remote</td>
+      <td>Software Engineer, Conversion</td>
+      <td><a href='https://careers.upstart.com/jobs?gh_jid=7993451'>Apply</a></td>
+      <td>Jun 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Verily</b></td>
+      <td>Raleigh, North Carolina</td>
+      <td>Cloud Engineer III</td>
+      <td><a href='https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers/job/Raleigh-North-Carolina/Cloud-Engineer-III_REQ-643'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-18-08-01-25'>🕐 Batch at 2026-06-18 08:01:25</h3>
 
@@ -106,7 +302,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-18-03-21-51'>🕐 Batch at 2026-06-18 03:21:51</h3>
 
 📊 **Total jobs in this batch: 3**
