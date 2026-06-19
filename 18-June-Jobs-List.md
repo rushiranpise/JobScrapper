@@ -4,9 +4,123 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-18 20:45:20](#batch-2026-06-18-20-45-20)
 - [Batch at 2026-06-18 13:23:32](#batch-2026-06-18-13-23-32)
 - [Batch at 2026-06-18 08:01:25](#batch-2026-06-18-08-01-25)
 - [Batch at 2026-06-18 03:21:51](#batch-2026-06-18-03-21-51)
+
+<h3 id='batch-2026-06-18-20-45-20'>🕐 Batch at 2026-06-18 20:45:20</h3>
+
+📊 **Total jobs in this batch: 12**
+
+**Per company:**
+- Archer 56: 1 job
+- Allstate: 1 job
+- BAH: 1 job
+- PlayStation Global: 1 job
+- Pure storage: 1 job
+- spacex: 6 jobs
+- SRK Supplylogix LLC: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Archer 56</b></td>
+      <td>San Jose, California, United States</td>
+      <td>Software Engineer, Fullstack</td>
+      <td><a href='https://job-boards.greenhouse.io/archer56/jobs/7703616003'>Apply</a></td>
+      <td>Jun 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>US - Remote</td>
+      <td>Adobe Creative Cloud Administrator & Collaboration Platform Support Engineer</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Adobe-Creative-Cloud-Administrator---Collaboration-Platform-Support-Engineer_R31627'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Rome, NY</td>
+      <td>AI/ML Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/AI-ML-Software-Engineer_R0242599'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Mateo, CA</td>
+      <td>Data Platform Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6018031004'>Apply</a></td>
+      <td>Jun 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Pure storage</b></td>
+      <td>Santa Clara, California</td>
+      <td>OS Software Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/purestorage/jobs/7994484'>Apply</a></td>
+      <td>Jun 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Application Software Engineer, Manufacturing Systems</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8600019002?gh_jid=8600019002'>Apply</a></td>
+      <td>Jun 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>Application Software Engineer, Manufacturing Systems </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8600012002?gh_jid=8600012002'>Apply</a></td>
+      <td>Jun 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Full Stack Software Engineer (Application Software)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8600005002?gh_jid=8600005002'>Apply</a></td>
+      <td>Jun 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, High Assurance Test (Starshield)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8550675002?gh_jid=8550675002'>Apply</a></td>
+      <td>Jun 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Engineer, PCBA (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8584271002?gh_jid=8584271002'>Apply</a></td>
+      <td>Jun 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Structural Engineer (Critical Infrastructure)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8595083002?gh_jid=8595083002'>Apply</a></td>
+      <td>Jun 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, CO, Denver</td>
+      <td>Data Coordinator</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-CO-Denver/Data-Coordinator_JR0147925-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-18-13-23-32'>🕐 Batch at 2026-06-18 13:23:32</h3>
 
@@ -202,7 +316,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-18-08-01-25'>🕐 Batch at 2026-06-18 08:01:25</h3>
 
 📊 **Total jobs in this batch: 10**
@@ -301,8 +414,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-18-03-21-51'>🕐 Batch at 2026-06-18 03:21:51</h3>
+---<h3 id='batch-2026-06-18-03-21-51'>🕐 Batch at 2026-06-18 03:21:51</h3>
 
 📊 **Total jobs in this batch: 3**
 
