@@ -4,9 +4,71 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-19 19:49:07](#batch-2026-06-19-19-49-07)
 - [Batch at 2026-06-19 12:37:39](#batch-2026-06-19-12-37-39)
 - [Batch at 2026-06-19 07:56:04](#batch-2026-06-19-07-56-04)
 - [Batch at 2026-06-19 03:24:20](#batch-2026-06-19-03-24-20)
+
+<h3 id='batch-2026-06-19-19-49-07'>🕐 Batch at 2026-06-19 19:49:07</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- Anduril Industries: 1 job
+- BAH: 2 jobs
+- Salesforce: 1 job
+- tp-link: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Reston, Virginia, United States</td>
+      <td>Space Special Projects, Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5169861007?gh_jid=5169861007'>Apply</a></td>
+      <td>Jun 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>DevOps Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer--Mid_R0242635'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Quality Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Quality-Engineer_R0242630'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Software Engineering SMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR347007'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>tp-link</b></td>
+      <td>Irvine, California</td>
+      <td>Indirect Procurement Specialist - Software and Vendor Management</td>
+      <td><a href='https://apply.workable.com/tp-link-usa-corp/j/5FDB2937CF/'>Apply</a></td>
+      <td>Jun 19, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-19-12-37-39'>🕐 Batch at 2026-06-19 12:37:39</h3>
 
@@ -77,7 +139,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-19-07-56-04'>🕐 Batch at 2026-06-19 07:56:04</h3>
 
 📊 **Total jobs in this batch: 2**
@@ -114,8 +175,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-19-03-24-20'>🕐 Batch at 2026-06-19 03:24:20</h3>
+---<h3 id='batch-2026-06-19-03-24-20'>🕐 Batch at 2026-06-19 03:24:20</h3>
 
 📊 **Total jobs in this batch: 2**
 
