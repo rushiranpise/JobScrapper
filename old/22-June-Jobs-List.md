@@ -4,8 +4,254 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-22 13:45:33](#batch-2026-06-22-13-45-33)
 - [Batch at 2026-06-22 09:50:42](#batch-2026-06-22-09-50-42)
 - [Batch at 2026-06-22 04:47:42](#batch-2026-06-22-04-47-42)
+
+<h3 id='batch-2026-06-22-13-45-33'>🕐 Batch at 2026-06-22 13:45:33</h3>
+
+📊 **Total jobs in this batch: 29**
+
+**Per company:**
+- Akuna Capital: 1 job
+- Motorola Solutions, Inc: 1 job
+- BAH: 9 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- Bank of Montreal: 1 job
+- BorgWarner: 1 job
+- Brink: 1 job
+- Chime: 1 job
+- Citi: 1 job
+- Formlabs: 1 job
+- LaunchDarkly : 1 job
+- KLA: 2 jobs
+- Merck & Co.: 1 job
+- PlayStation Global: 1 job
+- PlusAI: 1 job
+- Scale AI: 1 job
+- State Street: 1 job
+- The Toro: 1 job
+- The Walt Disney Company: 1 job
+- Zipline: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Akuna Capital</b></td>
+      <td>Chicago, IL</td>
+      <td>Software Engineer - Python, Crypto</td>
+      <td><a href='https://www.akunacapital.com/careers/job/7951923/?gh_jid=7951923'>Apply</a></td>
+      <td>Jun 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Westminster, CO</td>
+      <td>Software Engineer II, Full Stack & AI</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Westminster-CO/Software-Engineer-II--Full-Stack---AI_R65377'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Alexandria, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0242719'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Camp Pendleton, CA</td>
+      <td>Training Development Assistant</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Pendleton-CA/Training-Development-Assistant_R0242696-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Transportation Infrastructure Program Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Transportation-Infrastructure-Program-Analyst_R0242610'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Engineer_R0242717'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dayton, OH</td>
+      <td>Remote Sensing Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Remote-Sensing-Software-Engineer_R0242684'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Albuquerque, NM</td>
+      <td>Software Engineer, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/Software-Engineer--Junior_R0242700'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Albuquerque, NM</td>
+      <td>Software Engineer, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/Software-Engineer--Junior_R0242701'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dayton, OH</td>
+      <td>AI/ML Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/AI-ML-Engineer--Mid_R0242676-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dayton, OH</td>
+      <td>Full-stack Software Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Full-stack-Software-Engineer--Mid_R0242682'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA GA - Covington BMD</td>
+      <td>Engineering Intern</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-GA---Covington-BMD/Engineering-Intern_R-548687'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>Chicago, IL, USA</td>
+      <td>Analyst/Associate, Treasury & Payment Solutions, BMO Capital Markets</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Analyst-Associate--Treasury---Payment-Solutions--BMO-Capital-Markets_R260017883'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Hendersonville - North Carolina - USA</td>
+      <td>Material Handler (Industrial Solutions) - 1st Shift</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Hendersonville---North-Carolina---USA/Material-Handler--Industrial-Solutions----1st-Shift_R2026-2312-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Brink</b></td>
+      <td>Chicago, IL (B0120)</td>
+      <td>CDL Driver</td>
+      <td><a href='https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Chicago-IL-B0120/CDL-Driver_R75775'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Chime</b></td>
+      <td>New York, NY, USA; San Francisco, CA, USA; Seattle, WA, USA</td>
+      <td>Software Engineer, Financial Platform</td>
+      <td><a href='https://boards.greenhouse.io/chime/jobs/8594959002?gh_jid=8594959002'>Apply</a></td>
+      <td>Jun 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>New York New York United States</td>
+      <td>Systematic and Credit Portfolio Trading Tool Developer, Officer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Systematic-and-Credit-Portfolio-Trading-Tool-Developer--Officer_26973541'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>IT Intern (Fall 2026)</td>
+      <td><a href='https://careers.formlabs.com/job/8022246/apply/?gh_jid=8022246'>Apply</a></td>
+      <td>Jun 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>LaunchDarkly </b></td>
+      <td>Remote - US</td>
+      <td>Backend Engineer, Flag Delivery</td>
+      <td><a href='https://job-boards.greenhouse.io/launchdarkly/jobs/7767461003'>Apply</a></td>
+      <td>Jun 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Applications Development Engineer</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Applications-Development-Engineer_2637888-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Applications Development Engineer - eBeam</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Applications-Development-Engineer---eBeam_2638090-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Merck & Co.</b></td>
+      <td>USA - New Jersey - Rahway</td>
+      <td>Specialist, Data Analytics – Global End User Services</td>
+      <td><a href='https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/Specialist--Data-Analytics---Global-End-User-Services_R403677-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Diego, CA</td>
+      <td>Software Engineer I</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6099045004'>Apply</a></td>
+      <td>Jun 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>PlusAI</b></td>
+      <td>Santa Clara, CA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://jobs.lever.co/plus-2/083142f4-70ed-40f4-8726-a5f99ea52e36'>Apply</a></td>
+      <td>2026-06-12 21:51:28</td>
+    </tr>
+    <tr>
+      <td><b>Scale AI</b></td>
+      <td>New York, NY; Washington, DC</td>
+      <td>Software Engineer, Data Infrastructure</td>
+      <td><a href='https://job-boards.greenhouse.io/scaleai/jobs/4708221005'>Apply</a></td>
+      <td>Jun 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Boston, Massachusetts</td>
+      <td>International Tax Planning, MD</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/International-Tax-Planning--MD_R-792776'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Tomah, WI</td>
+      <td>Paint Associate, 2nd Shift - The Toro Company</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Tomah-WI/Paint-Associate--2nd-Shift---The-Toro-Company_JR16453'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Glendale, CA, USA</td>
+      <td>Events Specialist - Mickey's of Glendale - Project Hire/Internal Assignment</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Events-Specialist---Mickey-s-of-Glendale---Project-Hire-Internal-Assignment_10153263'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Software Systems Validation Intern (Fall 2026)</td>
+      <td><a href='https://www.zipline.com/careers?gh_jid=7780103003#open-roles'>Apply</a></td>
+      <td>Jun 22, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-22-09-50-42'>🕐 Batch at 2026-06-22 09:50:42</h3>
 
@@ -228,7 +474,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-22-04-47-42'>🕐 Batch at 2026-06-22 04:47:42</h3>
 
 📊 **Total jobs in this batch: 4**

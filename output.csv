@@ -1,27 +1,30 @@
-company,title,location,postedOn,link,updatedOn
-"Motorola Solutions, Inc",System Trainer (US REMOTE),"Massachusetts Remote Work, More...",Posted Today,https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Massachusetts-Remote-Work/System-Trainer--US-REMOTE-_R64869,
-566 DEPARTMENT OF TOURISM AND RECREATION,Applications Developer,Oklahoma County,Posted Today,https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Applications-Developer_JR61615,
-BAH,"Computer Vision Software Engineer, Mid","Dayton, OH",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Computer-Vision-Software-Engineer--Mid_R0242680,
-BAH,Software Development Engineer,"McLean, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Development-Engineer_R0242672,
-BAH,Data Scientist,"MacDill AFB, FL",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/MacDill-AFB-FL/Data-Scientist_R0242671,
-BAH,DevOps Engineer,"Beavercreek, OH",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/DevOps-Engineer_R0242669,
-BAH,DevOps Engineer,"McLean, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0242665,
-BAH,Data Scientist,"Langley AFB, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/Data-Scientist_R0242661,
-Children's Hospital Medical Center,Supp Chain Assoc I,Liberty Campus,Posted Today,https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Liberty-Campus/Supp-Chain-Assoc-I_JR222635,
-CMU,Summer Research Intern - College of Engineering - Electrical and Computer Engineering,"Pittsburgh, PA",Posted Today,https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Summer-Research-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024690,
-Comcast ,Software Engineer 3 - AI Agentic,"PA - Philadelphia, 1800 Arch St",Posted Today,https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Software-Engineer-3---AI-Agentic_R434807-1,
-General Motors LLC,Throughput Simulation & Data Owner Engineer,"Warren, Michigan, United States of America",Posted Today,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Throughput-Simulation---Data-Owner-Engineer_JR-202613723,
-General Motors LLC,Data Analytics Engineer,"Warren, Michigan, United States of America",Posted Today,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Analytics-Engineer_JR-202613710,
-LexisNexis Risk Solutions,Fraud Data Analyst,"Alpharetta, GA",Posted Today,https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Fraud-Data-Analyst_R113827,
-nVent,Logistics Material Handler III,"Tempe, AZ, US",Posted Today,https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Tempe-AZ-US/Logistics-Material-Handler-III_R22404,
-Reddit,Software Engineer,"San Francisco, CA",2026-06-22T09:49:18-04:00,https://job-boards.greenhouse.io/reddit/jobs/8013591,2026-06-22T09:49:18-04:00
-Remitly,"Fullstack Software Development Engineer II, USA Regional Experiences","Seattle, Washington United States",Posted Today,https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Fullstack-Software-Development-Engineer-II--USA-Regional-Experiences_R_106388,
-Salesforce,"SMTS Back End Software Engineer, Agentforce",California - San Francisco,Posted Today,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR344278,
-Snowflake,AI Solutions Specialist ,"US, Remote",2026-06-22T14:52:06.489+00:00,https://jobs.ashbyhq.com/snowflake/475c3d89-4ecf-4f74-b91d-434947cdf816,
-Snowflake,AI System Research and Development Engineer - Optimization,US-WA-Bellevue,2026-06-16T22:40:04.473+00:00,https://jobs.ashbyhq.com/snowflake/33cd51f6-fe99-45d5-9c03-d3fc2dd5e86e,
-The Scion Group,Full Stack Web Developer - Temporary,"Chicago, Illinois, United States",2026-06-22T11:15:45-04:00,https://job-boards.greenhouse.io/thesciongroupllc/jobs/8602659002,2026-06-22T11:15:45-04:00
-The Scion Group,Full Stack Web Developer - Temporary,"Chicago, Illinois, United States",2026-06-22T11:15:45-04:00,https://job-boards.greenhouse.io/thesciongroupllc/jobs/8602661002,2026-06-22T11:15:45-04:00
-Twilio,Software Engineer L3,Remote - US,2026-06-22T10:46:51-04:00,https://job-boards.greenhouse.io/twilio/jobs/8009057,2026-06-22T12:33:58-04:00
-Waymo,"Software Engineer, DUE Experience","Mountain View, CA, United States ",2026-06-22T12:24:45-04:00,https://careers.withwaymo.com/jobs?gh_jid=8012269,2026-06-22T12:24:45-04:00
-Wyetech LLC,Software Engineer 2/3,"Ft. Meade, Maryland",2026-06-22 15:33:05,https://jobs.lever.co/wyetechllc/ea4c967e-a5b7-44cf-979f-9b9acf5c67dd,N/A
-Zoox,Data Scientist - Mapping,"Foster City, CA",2026-06-18 22:53:54,https://jobs.lever.co/zoox/fd97675c-3483-42c6-826f-12fbb96ccafc,N/A
+company,title,location,link,postedOn,updatedOn
+Akuna Capital,"Software Engineer - Python, Crypto","Chicago, IL",https://www.akunacapital.com/careers/job/7951923/?gh_jid=7951923,2026-06-22T15:46:07-04:00,2026-06-22T15:46:07-04:00
+"Motorola Solutions, Inc","Software Engineer II, Full Stack & AI","Westminster, CO",https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Westminster-CO/Software-Engineer-II--Full-Stack---AI_R65377,Posted Today,
+BAH,Data Scientist,"Alexandria, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0242719,Posted Today,
+BAH,Training Development Assistant,"Camp Pendleton, CA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Pendleton-CA/Training-Development-Assistant_R0242696-1,Posted Today,
+BAH,Transportation Infrastructure Program Analyst,"McLean, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Transportation-Infrastructure-Program-Analyst_R0242610,Posted Today,
+BAH,Data Engineer,"Fayetteville, NC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Engineer_R0242717,Posted Today,
+BAH,Remote Sensing Software Engineer,"Dayton, OH",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Remote-Sensing-Software-Engineer_R0242684,Posted Today,
+BAH,"Software Engineer, Junior","Albuquerque, NM",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/Software-Engineer--Junior_R0242700,Posted Today,
+BAH,"Software Engineer, Junior","Albuquerque, NM",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/Software-Engineer--Junior_R0242701,Posted Today,
+BAH,"AI/ML Engineer, Mid","Dayton, OH",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/AI-ML-Engineer--Mid_R0242676-1,Posted Today,
+BAH,"Full-stack Software Engineer, Mid","Dayton, OH",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Full-stack-Software-Engineer--Mid_R0242682,Posted Today,
+Becton Dickinson’s Integrated Diagnostics Systems,Engineering Intern,USA GA - Covington BMD,https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-GA---Covington-BMD/Engineering-Intern_R-548687,Posted Today,
+Bank of Montreal,"Analyst/Associate, Treasury & Payment Solutions, BMO Capital Markets","Chicago, IL, USA",https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Analyst-Associate--Treasury---Payment-Solutions--BMO-Capital-Markets_R260017883,Posted Today,
+BorgWarner,Material Handler (Industrial Solutions) - 1st Shift,Hendersonville - North Carolina - USA,https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Hendersonville---North-Carolina---USA/Material-Handler--Industrial-Solutions----1st-Shift_R2026-2312-1,Posted Today,
+Brink,CDL Driver,"Chicago, IL (B0120)",https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Chicago-IL-B0120/CDL-Driver_R75775,Posted Today,
+Chime,"Software Engineer, Financial Platform","New York, NY, USA; San Francisco, CA, USA; Seattle, WA, USA",https://boards.greenhouse.io/chime/jobs/8594959002?gh_jid=8594959002,2026-06-22T13:12:37-04:00,2026-06-22T13:13:00-04:00
+Citi,"Systematic and Credit Portfolio Trading Tool Developer, Officer",New York New York United States,https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Systematic-and-Credit-Portfolio-Trading-Tool-Developer--Officer_26973541,Posted Today,
+Formlabs,IT Intern (Fall 2026),"Somerville, MA",https://careers.formlabs.com/job/8022246/apply/?gh_jid=8022246,2026-06-22T16:13:22-04:00,2026-06-22T16:13:22-04:00
+LaunchDarkly ,"Backend Engineer, Flag Delivery",Remote - US,https://job-boards.greenhouse.io/launchdarkly/jobs/7767461003,2026-06-22T15:41:37-04:00,2026-06-22T15:41:37-04:00
+KLA,Applications Development Engineer,"Milpitas, CA",https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Applications-Development-Engineer_2637888-1,Posted Today,
+KLA,Applications Development Engineer - eBeam,"Milpitas, CA",https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Applications-Development-Engineer---eBeam_2638090-1,Posted Today,
+Merck & Co.,"Specialist, Data Analytics – Global End User Services",USA - New Jersey - Rahway,https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/Specialist--Data-Analytics---Global-End-User-Services_R403677-1,Posted Today,
+PlayStation Global,Software Engineer I,"United States, San Diego, CA",https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6099045004,2026-06-22T15:59:47-04:00,2026-06-22T15:59:47-04:00
+PlusAI,Data Engineer,"Santa Clara, CA",https://jobs.lever.co/plus-2/083142f4-70ed-40f4-8726-a5f99ea52e36,2026-06-12 21:51:28,N/A
+Scale AI,"Software Engineer, Data Infrastructure","New York, NY; Washington, DC",https://job-boards.greenhouse.io/scaleai/jobs/4708221005,2026-06-22T13:41:10-04:00,2026-06-22T13:41:10-04:00
+State Street,"International Tax Planning, MD","Boston, Massachusetts",https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/International-Tax-Planning--MD_R-792776,Posted Today,
+The Toro,"Paint Associate, 2nd Shift - The Toro Company","Tomah, WI",https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Tomah-WI/Paint-Associate--2nd-Shift---The-Toro-Company_JR16453,Posted Today,
+The Walt Disney Company,Events Specialist - Mickey's of Glendale - Project Hire/Internal Assignment,"Glendale, CA, USA",https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Events-Specialist---Mickey-s-of-Glendale---Project-Hire-Internal-Assignment_10153263,Posted Today,
+Zipline,Software Systems Validation Intern (Fall 2026),"South San Francisco, California, USA",https://www.zipline.com/careers?gh_jid=7780103003#open-roles,2026-06-22T15:57:53-04:00,2026-06-22T15:57:53-04:00
