@@ -1,11 +1,55 @@
-company,title,location,postedOn,link,updatedOn
-566 DEPARTMENT OF TOURISM AND RECREATION,Court Liaison,Oklahoma County,Posted Today,https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Court-Liaison_JR61672,
-Applied Materials,Algorithm Developer IV (E4),"Portland,OR",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/PortlandOR/Algorithm-Developer-IV--E4-_R2621440,
-BAH,Human Spaceflight Engineering Intern,"Houston, TX",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Houston-TX/Human-Spaceflight-Engineering-Intern_R0242767,
-BAH,"Warehouse Operations Specialist, Junior","Panama City, FL",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Panama-City-FL/Warehouse-Operations-Specialist--Junior_R0242710-1,
-BorgWarner,Material Handler,Bellwood - Illinois - USA,Posted Today,https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Bellwood---Illinois---USA/Material-Handler_R2026-2512,
-BorgWarner,Material Handler,Bellwood - Illinois - USA,Posted Today,https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Bellwood---Illinois---USA/Material-Handler_R2026-2513,
-SoFi,AI Financial Planning Analyst,United States,2026-06-23T09:46:55-04:00,https://sofi.com/careers/job/7780681003?gh_jid=7780681003,2026-06-23T09:46:55-04:00
-SoFi,Associate AI Financial Planning Analyst,New York City,2026-06-23T09:52:32-04:00,https://sofi.com/careers/job/7781335003?gh_jid=7781335003,2026-06-23T09:52:32-04:00
-SRK Supplylogix LLC,Material Handler Specialist - Warehouse- $2000 signing bonus,"USA, KY, Erlanger",Posted Today,https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-KY-Erlanger/Material-Handler-Specialist---Warehouse---2000-signing-bonus_JR0149534,
-State Street,Cloud Platform Engineer,"Boston, Massachusetts",Posted Today,https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Cloud-Platform-Engineer_R-792810,
+company,title,location,link,postedOn,updatedOn
+Affirm ,"Software Engineer II, Backend (Infrastructure Platform)",Remote US,https://job-boards.greenhouse.io/affirm/jobs/7764834003,2026-06-23T11:42:12-04:00,2026-06-23T11:42:12-04:00
+Anduril Industries,Software Engineer - Undersea Dominance,"Costa Mesa, California, United States",https://boards.greenhouse.io/andurilindustries/jobs/5171114007?gh_jid=5171114007,2026-06-23T15:27:34-04:00,2026-06-23T15:27:35-04:00
+AQR Capital Management,"Quantitative Research Associate (AQR Capital Management, LLC, Greenwich, CT)","Greenwich, CT",https://careers.aqr.com/jobs?gh_jid=8023897&gh_jid=8023897,2026-06-23T12:33:30-04:00,2026-06-23T12:33:30-04:00
+Art of Problem Solving,IT Helpdesk Intern,"San Diego, California, United States",https://artofproblemsolving.com/careers/job/7781457003?gh_jid=7781457003,2026-06-23T12:52:44-04:00,2026-06-23T12:55:18-04:00
+ASMLEXT1,Co-Op - Optical Engineer (Internship),"Wilton, CT, USA",https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Co-Op---Optical-Engineer--Internship-_J-00345627,Posted Today,
+ASMLEXT1,NTP Field Applications Engineer,"Albany, NY, USA",https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Albany-NY-USA/NTP-Field-Applications-Engineer_J-00341327-1,Posted Today,
+Applied Materials,2026 Fall Co-Op - Process Engineering Intern (Doctorate),"Santa Clara,CA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2026-Fall-Co-Op---Process-Engineering-Intern--Doctorate-_R2622481,Posted Today,
+Applied Materials,New College Grad - Process Engineer III (Doctorate),"Santa Clara,CA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/New-College-Grad---Process-Engineer-III--Doctorate-_R2621206,Posted Today,
+Applied Materials,"2026 Fall Purchasing Co-op (Billerica, MA)","Billerica,MA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/XMLNAME-2026-Fall-Purchasing-Co-op--Billerica--MA-_R2622115,Posted Today,
+Applied Materials,Material Handler II,"Gloucester,MA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/Material-Handler-II_R2621331,Posted Today,
+Applied Materials,"2026 Fall Manufacturing Engineer Co-op (Billerica, MA)","Billerica,MA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/XMLNAME-2026-Fall-Manufacturing-Engineer-Co-op--Billerica--MA-_R2622272,Posted Today,
+Applied Materials,"2026 Fall Quality Engineering Co-op (Billerica, MA)","Billerica,MA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/XMLNAME-2026-Fall-Quality-Engineering-Co-op--Billerica--MA-_R2622271,Posted Today,
+Applied Materials,"2026 Fall Process Engineer Co-op (Billerica, MA)","Billerica,MA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/XMLNAME-2026-Fall-Process-Engineer-Co-op--Billerica--MA-_R2622118,Posted Today,
+Applied Materials,"2026 Fall Electrical Engineer Co-op (Billerica, MA)","Billerica,MA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/XMLNAME-2026-Fall-Electrical-Engineer-Co-op--Billerica--MA-_R2622422,Posted Today,
+Applied Materials,"2026 Fall Process Engineer Co-op (Billerica, MA)","Billerica,MA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/XMLNAME-2026-Fall-Process-Engineer-Co-op--Billerica--MA-_R2622114,Posted Today,
+BAH,Software System Safety Engineer,"Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-System-Safety-Engineer_R0242845,Posted Today,
+BAH,AI Developer,"Beavercreek, OH",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/AI-Developer_R0242811,Posted Today,
+BAH,DevOps Engineer,"Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/DevOps-Engineer_R0243057,Posted Today,
+BAH,"Data Scientist, Mid","Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0243027,Posted Today,
+BAH,"Data Scientist, Mid","Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0243028,Posted Today,
+BAH,Cloud Infrastructure Support Engineer,"Fort Belvoir, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Cloud-Infrastructure-Support-Engineer_R0242784,Posted Today,
+BAH,Software Engineer,"McLean, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer_R0242777,Posted Today,
+BAH,Applied Data Scientist,"Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Applied-Data-Scientist_R0242962,Posted Today,
+BAH,DevOps Engineer,"Eglin AFB, FL",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Eglin-AFB-FL/DevOps-Engineer_R0242810,Posted Today,
+BAH,DevOps Engineer,"Eglin AFB, FL",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Eglin-AFB-FL/DevOps-Engineer_R0242808,Posted Today,
+BAH,Data Scientist,"Alexandria, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0242764,Posted Today,
+BAH,"Data Scientist, Junior","Springfield, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist--Junior_R0242774,Posted Today,
+BorgWarner,Material Handler,Bellwood - Illinois - USA,https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Bellwood---Illinois---USA/Material-Handler_R2026-2514,Posted Today,
+Coinbase,"Software Engineer, Enterprise Apps",Remote - USA,https://www.coinbase.com/careers/positions/7958901?gh_jid=7958901,2026-06-23T11:21:58-04:00,2026-06-23T11:22:50-04:00
+Concentrix,SAP ETL Developer,"USA, OR, Work-at-Home",https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/USA-OR-Work-at-Home/SAP-ETL-Developer_R1739609,Posted Today,
+Concentrix,AI/ML Engineer,"Omaha, NE 68179",https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/Omaha-NE-68179/AI-ML-Engineer_R1741321-3,Posted Today,
+Databricks,"Software Engineer, Web Products","Mountain View, California",https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002,2026-06-23T14:22:46-04:00,2026-06-23T15:35:44-04:00
+Datamaxis,"Full Stack Software Engineer (React + .NET/Java, Shopify)","Dearborn, MI",https://datamaxis.breezy.hr/p/1e20d5c1ec96-full-stack-software-engineer-react-net-java-shopify,2026-06-23T16:17:39.624Z,
+Esri,Software Development Engineer II – Back-End (Mission-Focused | ArcGIS),"St. Louis, MO - Globe",https://www.esri.com/careers/5172037007?gh_jid=5172037007,2026-06-23T14:51:13-04:00,2026-06-23T14:51:13-04:00
+Esri,Software Development Engineer II – Back-End (Mission-Focused | ArcGIS),"Redlands, CA",https://www.esri.com/careers/5172042007?gh_jid=5172042007,2026-06-23T14:52:29-04:00,2026-06-23T14:52:29-04:00
+Esri,Software Development Engineer II – Back-End (Mission-Focused | ArcGIS),"Vienna, Virginia, United States",https://www.esri.com/careers/5172039007?gh_jid=5172039007,2026-06-23T14:51:52-04:00,2026-06-23T14:51:52-04:00
+Esri,Software Development Engineer II – CI/CD & Platform Automation (Mission-Focused),"Vienna, Virginia, United States",https://www.esri.com/careers/5172046007?gh_jid=5172046007,2026-06-23T14:56:51-04:00,2026-06-23T14:56:51-04:00
+Esri,Software Development Engineer II – CI/CD & Platform Automation (Mission-Focused),"St. Louis, MO - Globe",https://www.esri.com/careers/5172045007?gh_jid=5172045007,2026-06-23T14:55:54-04:00,2026-06-23T14:55:54-04:00
+Esri,Software Development Engineer II – CI/CD & Platform Automation (Mission-Focused),"Redlands, CA",https://www.esri.com/careers/5172051007?gh_jid=5172051007,2026-06-23T14:57:33-04:00,2026-06-23T14:57:33-04:00
+Esri,Software Development Engineer II – Front-End (Mission-Focused | ArcGIS),"St. Louis, MO - Globe",https://www.esri.com/careers/5172068007?gh_jid=5172068007,2026-06-23T15:02:18-04:00,2026-06-23T15:03:31-04:00
+Esri,Software Development Engineer II – Front-End (Mission-Focused | ArcGIS),"Vienna, Virginia, United States",https://www.esri.com/careers/5172071007?gh_jid=5172071007,2026-06-23T15:03:13-04:00,2026-06-23T15:03:13-04:00
+Esri,Software Development Engineer II – Front-End (Mission-Focused | ArcGIS),"Redlands, CA",https://www.esri.com/careers/5172074007?gh_jid=5172074007,2026-06-23T15:04:23-04:00,2026-06-23T15:04:23-04:00
+Esri,System Engineer – Enterprise Data Engineer (Mission-Focused),"Vienna, Virginia, United States",https://www.esri.com/careers/5171930007?gh_jid=5171930007,2026-06-23T14:04:13-04:00,2026-06-23T14:06:20-04:00
+Esri,System Engineer – Enterprise Data Engineer (Mission-Focused),"St. Louis, MO - Globe",https://www.esri.com/careers/5171928007?gh_jid=5171928007,2026-06-23T14:03:39-04:00,2026-06-23T14:03:39-04:00
+Esri,System Engineer – Enterprise Data Engineer (Mission-Focused),"Redlands, CA",https://www.esri.com/careers/5171937007?gh_jid=5171937007,2026-06-23T14:07:05-04:00,2026-06-23T14:07:05-04:00
+Formlabs,Manufacturing Test Software Intern (Fall 2026),"Somerville, MA",https://careers.formlabs.com/job/8021679/apply/?gh_jid=8021679,2026-06-23T12:50:49-04:00,2026-06-23T12:50:49-04:00
+genpt,Store Paint Specialist,"Williamsville, NY, USA",https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Williamsville-NY-USA/Store-Paint-Specialist_R26_0000020488,Posted Today,
+KLA,Software Engineer,"Milpitas, CA",https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineer_2637811-1,Posted Today,
+Micron,"New College Graduate - Product Yield Enhancement Engineer, HBM","Boise, ID - Main Site",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Staff-Product-Yield-Enhancement-Engineer--HBM_JR86051,Posted Today,
+MongoDB,Software Engineer 3,New York City,https://www.mongodb.com/careers/job/?gh_jid=8015792,2026-06-23T13:05:51-04:00,2026-06-23T13:05:51-04:00
+nVent,Material Handler - 1st Shift,"Blaine, MN, US",https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Blaine-MN-US/Material-Handler---1st-Shift_R22429,Posted Today,
+Snowflake,Forward Deployed Engineer – Data Engineer,US-CA-Menlo Park,https://jobs.ashbyhq.com/snowflake/9bbafaf2-240d-4cfb-8e95-b289f0350be5,2026-06-23T11:51:03.716+00:00,
+spacex,"Application Software Engineer (C#/ Python), Data","Starbase, TX",https://boards.greenhouse.io/spacex/jobs/8604664002?gh_jid=8604664002,2026-06-23T14:28:30-04:00,2026-06-23T14:28:30-04:00
+VSP,Test Software Engineer,Remote US,https://vsp.wd1.myworkdayjobs.com/en-US/vspvisioncareers/job/Remote-US/Test-Software-Engineer_R-9639,Posted Today,
