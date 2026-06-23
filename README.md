@@ -4,9 +4,184 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-22 19:42:48](#batch-2026-06-22-19-42-48)
 - [Batch at 2026-06-22 13:45:33](#batch-2026-06-22-13-45-33)
 - [Batch at 2026-06-22 09:50:42](#batch-2026-06-22-09-50-42)
 - [Batch at 2026-06-22 04:47:42](#batch-2026-06-22-04-47-42)
+
+<h3 id='batch-2026-06-22-19-42-48'>🕐 Batch at 2026-06-22 19:42:48</h3>
+
+📊 **Total jobs in this batch: 20**
+
+**Per company:**
+- BAH: 7 jobs
+- Broadcom : 1 job
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- Citi: 2 jobs
+- Comcast : 1 job
+- KLA: 1 job
+- PlayStation Global: 2 jobs
+- Scoutm Otors: 1 job
+- SRK Supplylogix LLC: 1 job
+- spacex: 1 job
+- The Walt Disney Company: 1 job
+- Wyetech LLC: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Meade, MD</td>
+      <td>Infrastructure Controls Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Infrastructure-Controls-Engineer_R0242759'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-Engineer_R0243007'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Test Engineer, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Test-Engineer--Junior_R0242435'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Meade, MD</td>
+      <td>Cyber Training Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Cyber-Training-Developer_R0242734'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-Engineer_R0242955'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-Engineer_R0242966'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-Engineer_R0242965'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-IL Lisle Warrenville Road</td>
+      <td>Experienced  Mainframe Software Development Engineer in Test</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-IL-Lisle-Warrenville-Road/Experienced--Mainframe-Software-Development-Engineer-in-Test_R025301'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA MD - Sparks - 7 Loveton Circle</td>
+      <td>Material Handler 3</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Material-Handler-3_R-548704'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX Semantic Data Governance Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Semantic-Data-Governance-Analyst_26971095'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Jersey City New Jersey United States</td>
+      <td>Application Production Support Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Application-Production-Support-Analyst_26970013'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>IL - Chicago, 350 N. Orleans St 1300N</td>
+      <td>Python or GoLang Software Engineer - 2 days onsite (Chicago, IL) - FreeWheel</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/IL---Chicago-350-N-Orleans-St-1300N/Python-or-GoLang-Software-Engineer---2-days-onsite--Chicago--IL----FreeWheel_R438904-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Product Applications Development Engineer</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Engr--Product-Dev-Apps_2637520'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, Los Angeles, CA</td>
+      <td>Software Development Engineer in Test II (SDET Contractor)</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6020548004'>Apply</a></td>
+      <td>Jun 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Mateo, CA</td>
+      <td>Software Development Engineer in Test II (SDET Contractor)</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6099174004'>Apply</a></td>
+      <td>Jun 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Scoutm Otors</b></td>
+      <td>Columbia, South Carolina, United States</td>
+      <td>IT Infrastructure Planning Specialist</td>
+      <td><a href='https://job-boards.greenhouse.io/scoutmotors/jobs/5170575007'>Apply</a></td>
+      <td>Jun 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, TN, Nashville</td>
+      <td>Data Coordinator</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TN-Nashville/Data-Coordinator_JR0149234-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Application Software Engineer, Manufacturing</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8603667002?gh_jid=8603667002'>Apply</a></td>
+      <td>Jun 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>New York, NY, USA</td>
+      <td>Data Engineer II</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Data-Engineer-II_10154071'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Agile Developer 3</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/1cfc2bd3-612d-4566-b10e-cd131e5ea57e'>Apply</a></td>
+      <td>2026-06-22 20:53:06</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-22-13-45-33'>🕐 Batch at 2026-06-22 13:45:33</h3>
 
@@ -252,7 +427,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-22-09-50-42'>🕐 Batch at 2026-06-22 09:50:42</h3>
 
 📊 **Total jobs in this batch: 26**
@@ -473,8 +647,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-22-04-47-42'>🕐 Batch at 2026-06-22 04:47:42</h3>
+---<h3 id='batch-2026-06-22-04-47-42'>🕐 Batch at 2026-06-22 04:47:42</h3>
 
 📊 **Total jobs in this batch: 4**
 
