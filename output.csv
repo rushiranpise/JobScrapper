@@ -1,9 +1,47 @@
-company,title,location,postedOn,link
-"Motorola Solutions, Inc",Data Scientist,"Chicago, IL",Posted Today,https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Data-Scientist_R65507
-BAH,AI & ML Engineer,"Chantilly, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/AI---ML-Engineer_R0242901-1
-Citi,Dedicated Lending Associate - DLA (SAFE Act),Vernon Hills Illinois United States,Posted Today,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Vernon-Hills-Illinois-United-States/Dedicated-Lending-Associate---DLA--SAFE-Act-_26973928
-General Motors LLC,Software Engineer – Test Framework,"Warren, Michigan, United States of America",Posted Today,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Engineer---Test-Framework_JR-202601926
-Merck & Co.,Policy & Access Intern,BEL - Brussels - Brussels (Souverain),Posted Today,https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/BEL---Brussels---Brussels-Souverain/Policy---Access-Intern_R404567
-Morgan Stanley,AI / ML Engineer,"New York, New York, United States of America",Posted Today,https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/AI---ML-Engineer_PT-JR037013-2
-Sentry ,Software Developer (Hybrid Work Model),"Stevens Point, WI",Posted Today,https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Software-Developer--Hybrid-Work-Model-_JR-142351
-SRK Supplylogix LLC,Material Handler Specialist - Inbound-Outbound- Distibution Center,"USA, GA, Ellabell",Posted Today,https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-GA-Ellabell/Material-Handler-Specialist---Inbound-Outbound--Distibution-Center_JR0149644
+company,title,location,link,postedOn,updatedOn
+Anduril Industries,"Technical Writer, Fury Data Module","Costa Mesa, California, United States",https://boards.greenhouse.io/andurilindustries/jobs/5173069007?gh_jid=5173069007,2026-06-24T14:18:31-04:00,2026-06-24T14:18:31-04:00
+"CrowdStrike, Inc",Intelligence Intern - Fall 2026 (Remote),USA - Remote,https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Intelligence-Intern---Fall-2026--Remote-_R29214,Posted Today,
+"Motorola Solutions, Inc",AI Solutions Developer,"Illinois, US Offsite, More...",https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Illinois-US-Offsite/AI-Solutions-Developer_R66123-1,Posted Today,
+BAH,Unity Developer,"San Antonio, TX",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Unity-Developer_R0242967,Posted Today,
+BAH,CNC Programmer,"Panama City, FL",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Panama-City-FL/CNC-Programmer_R0242947,Posted Today,
+BAH,DevOps Engineer,"Fort Belvoir, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/DevOps-Engineer_R0242920-1,Posted Today,
+BAH,Data Engineer,"Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Engineer_R0242942,Posted Today,
+BAH,Data Engineer,"Washington, DC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Engineer_R0242925,Posted Today,
+BAH,Live Effects Trainer,"Glendale, AZ",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Glendale-AZ/Live-Effects-Trainer_R0242935,Posted Today,
+BAH,DevOps Engineer,"Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/DevOps-Engineer_R0243111,Posted Today,
+BAH,Software Engineer,"Rome, NY",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0242912,Posted Today,
+BAH,Cloud Engineer,"Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Cloud-Engineer_R0242628,Posted Today,
+BAH,"Software Developer, Junior","McLean, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Developer--Junior_R0242712-1,Posted Today,
+BAH,"Intelligence Training Support Specialist, Mid","Chantilly, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Intelligence-Training-Support-Specialist--Mid_R0242826,Posted Today,
+Broadcom ,Support Engineer - Mainframe,USA-IL Lisle Warrenville Road,https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-IL-Lisle-Warrenville-Road/Support-Engineer---Mainframe_R026327,Posted Today,
+Chime,Complaints Specialist,"Remote, USA",https://boards.greenhouse.io/chime/jobs/8606280002?gh_jid=8606280002,2026-06-24T15:26:08-04:00,2026-06-24T15:26:08-04:00
+Core Weave,"Data Center Technician - Kenilworth, NJ","Kenilworth, NJ",https://coreweave.com/careers/job?4689113006&board=coreweave&gh_jid=4689113006,2026-06-24T13:53:48-04:00,2026-06-24T13:53:48-04:00
+CMU,Carnegie Bosch Postdoctoral Fellowship - School of Computer Science - MLD,"Pittsburgh, PA",https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Carnegie-Bosch-Postdoctoral-Fellowship---School-of-Computer-Science---MLD_2024713,Posted Today,
+Comcast ,Flyers Charities Development Intern,"PA - Philadelphia, 3601 S Broad St",https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Flyers-Charities-Development-Intern_R440018,Posted Today,
+Comcast ,Community Relations Intern,"PA - Philadelphia, 3601 S Broad St",https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Community-Relations-Intern_R439176,Posted Today,
+DoorDash ,"Software Engineer, Storage","San Francisco, CA; Seattle, WA; New York, NY",https://job-boards.greenhouse.io/doordashusa/jobs/8024644,2026-06-24T15:23:26-04:00,2026-06-24T15:23:26-04:00
+Esri,Product Engineer II - Cloud Infrastructure,"Redlands, CA",https://www.esri.com/careers/5145356007?gh_jid=5145356007,2026-06-24T13:05:24-04:00,2026-06-24T13:05:24-04:00
+flir,Business Data Analyst,"US - Mountain View, CA",https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Mountain-View-CA/Business-Data-Analyst_REQ34995,Posted Today,
+flir,Test Engineer (Intern),"US - Mountain View, CA",https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Mountain-View-CA/Test-Engineer--Intern-_REQ35127,Posted Today,
+Hudson River Trading,Junior Treasury Quant Researcher,"New York, NY, United States",https://www.hudsonrivertrading.com/careers/job/?gh_jid=7364943,2026-06-24T11:23:48-04:00,2026-06-24T11:23:48-04:00
+Loop Returns,Software Engineer,"Columbus, OH",https://jobs.lever.co/loopreturns/4fc9603b-95c6-4d05-8d5a-4247fa108418,2026-06-24 14:52:36,N/A
+KLA,Software Engineer 3,"Hillsboro, OR",https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Hillsboro-OR/Software-Engineer-3_2636494,Posted Today,
+MongoDB,"Software Engineer 3, Query Integration",Austin; New York; New York City; San Francisco; United States,https://www.mongodb.com/careers/job/?gh_jid=8010102,2026-06-24T11:18:29-04:00,2026-06-24T15:02:59-04:00
+Morgan Stanley,Intern - Bilingual Eglish/Mandarin,"Pasadena, California, United States of America",https://ms.wd5.myworkdayjobs.com/en-US/External/job/Pasadena-California-United-States-of-America/Intern---Bilingual-Eglish-Mandarin_JR037650,Posted Today,
+Morgan Stanley,Intern,"Pasadena, California, United States of America",https://ms.wd5.myworkdayjobs.com/en-US/External/job/Pasadena-California-United-States-of-America/Intern_JR037649,Posted Today,
+Morgan Stanley,Intern - Bilingual English/Spanish,"Pasadena, California, United States of America",https://ms.wd5.myworkdayjobs.com/en-US/External/job/Pasadena-California-United-States-of-America/Intern---Bilingual-English-Spanish_JR037647,Posted Today,
+NVIDIA,Infrastructure Systems Engineer,"US, CA, Santa Clara",https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Infrastructure-Systems-Engineer_JR2020106,Posted Today,
+NVIDIA,"PR Specialist, Enterprise AI","US, CA, Santa Clara",https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PR-Specialist--Enterprise-AI_JR2019934,Posted Today,
+Qualtrics,Software Engineer I - Topics Core Platform Team - Seattle,"Seattle, Washington,  United States",https://www.qualtrics.com/careers/us/en/job/8018755?gh_jid=8018755,2026-06-24T14:33:39-04:00,2026-06-24T14:42:38-04:00
+Ramp,"Applied AI Engineer, Fullstack","New York, NY (HQ)",https://jobs.ashbyhq.com/ramp/6a7e382f-240a-4952-b9e5-7fe2b3856bc9,2026-06-24T14:30:42.943+00:00,
+Roku,Technical Architect - Business Applications ,"Boston, Massachusetts",https://www.weareroku.com/jobs/7886908?gh_jid=7886908,2026-05-11T08:40:49-04:00,2026-06-24T13:19:52-04:00
+Salesforce,AI Operations Engineer,Virginia - Remote,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Remote/AI-Operations-Engineer_JR346023,Posted Today,
+searchLFN,Paint Line Unloader,"Ramsey, MN",https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Ramsey-MN/Paint-Line-Unloader_JR-025045,Posted Today,
+Snowflake,Forward Deployed Analytics Engineer & AI Specialist,US-CA-Menlo Park,https://jobs.ashbyhq.com/snowflake/44ca2f15-1af0-49e3-92f1-1f96a9f6a616,2026-06-24T17:14:26.285+00:00,
+Verkada ,Technical Support Engineer - University Graduate 2026,"New York City, NY United States",https://job-boards.greenhouse.io/verkada/jobs/5172974007,2026-06-24T13:19:55-04:00,2026-06-24T13:42:13-04:00
+Verily,Software Engineer III,"Dallas, Texas",https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers/job/Dallas-Texas/Software-Engineer-III_REQ-817,Posted Today,
+Voya,AI Engineer,"FL-Work@Home, Florida",https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/FL-WorkHome-Florida/Senior-Digital-Full-Stack-Engineer_JR0032781,Posted Today,
+Warner Bros,"Software Engineer II, Site Reliability Engineering",GA Atlanta 1050 Techwood Drive NW,https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Software-Engineer-II--Site-Reliability-Engineering_R000105665,Posted Today,
+Woven,"Systems Engineer II, AI Solutions & IT Operations","Palo Alto, CA",https://jobs.lever.co/woven-by-toyota/d1371e79-10d9-4553-9d90-2611ee53e1e2,2026-06-24 17:28:25,N/A
+Wyetech LLC,Software Engineer 1,"Laurel, Maryland",https://jobs.lever.co/wyetechllc/afdaaf60-9a49-4930-beb8-c68be4fd5f16,2026-06-24 14:18:52,N/A
+Zoox,Software Engineer - Mapping Data Software,"Foster City, CA",https://jobs.lever.co/zoox/8102c816-7ce1-49c8-8093-f46c8074652c,2026-06-18 21:08:36,N/A

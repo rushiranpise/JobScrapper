@@ -4,8 +4,384 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-24 12:37:01](#batch-2026-06-24-12-37-01)
 - [Batch at 2026-06-24 07:20:58](#batch-2026-06-24-07-20-58)
 - [Batch at 2026-06-24 02:04:14](#batch-2026-06-24-02-04-14)
+
+<h3 id='batch-2026-06-24-12-37-01'>🕐 Batch at 2026-06-24 12:37:01</h3>
+
+📊 **Total jobs in this batch: 46**
+
+**Per company:**
+- Anduril Industries: 1 job
+- CrowdStrike, Inc: 1 job
+- Motorola Solutions, Inc: 1 job
+- BAH: 11 jobs
+- Broadcom : 1 job
+- Chime: 1 job
+- Core Weave: 1 job
+- CMU: 1 job
+- Comcast : 2 jobs
+- DoorDash : 1 job
+- Esri: 1 job
+- flir: 2 jobs
+- Hudson River Trading: 1 job
+- Loop Returns: 1 job
+- KLA: 1 job
+- MongoDB: 1 job
+- Morgan Stanley: 3 jobs
+- NVIDIA: 2 jobs
+- Qualtrics: 1 job
+- Ramp: 1 job
+- Roku: 1 job
+- Salesforce: 1 job
+- searchLFN: 1 job
+- Snowflake: 1 job
+- Verkada : 1 job
+- Verily: 1 job
+- Voya: 1 job
+- Warner Bros: 1 job
+- Woven: 1 job
+- Wyetech LLC: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Technical Writer, Fury Data Module</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5173069007?gh_jid=5173069007'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Remote</td>
+      <td>Intelligence Intern - Fall 2026 (Remote)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Intelligence-Intern---Fall-2026--Remote-_R29214'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Illinois, US Offsite, More...</td>
+      <td>AI Solutions Developer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Illinois-US-Offsite/AI-Solutions-Developer_R66123-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>Unity Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Unity-Developer_R0242967'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Panama City, FL</td>
+      <td>CNC Programmer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Panama-City-FL/CNC-Programmer_R0242947'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Belvoir, VA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/DevOps-Engineer_R0242920-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Engineer_R0242942'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Engineer_R0242925'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Glendale, AZ</td>
+      <td>Live Effects Trainer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Glendale-AZ/Live-Effects-Trainer_R0242935'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/DevOps-Engineer_R0243111'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Rome, NY</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0242912'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Cloud Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Cloud-Engineer_R0242628'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Software Developer, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Developer--Junior_R0242712-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Intelligence Training Support Specialist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Intelligence-Training-Support-Specialist--Mid_R0242826'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-IL Lisle Warrenville Road</td>
+      <td>Support Engineer - Mainframe</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-IL-Lisle-Warrenville-Road/Support-Engineer---Mainframe_R026327'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Chime</b></td>
+      <td>Remote, USA</td>
+      <td>Complaints Specialist</td>
+      <td><a href='https://boards.greenhouse.io/chime/jobs/8606280002?gh_jid=8606280002'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Kenilworth, NJ</td>
+      <td>Data Center Technician - Kenilworth, NJ</td>
+      <td><a href='https://coreweave.com/careers/job?4689113006&board=coreweave&gh_jid=4689113006'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Carnegie Bosch Postdoctoral Fellowship - School of Computer Science - MLD</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Carnegie-Bosch-Postdoctoral-Fellowship---School-of-Computer-Science---MLD_2024713'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 3601 S Broad St</td>
+      <td>Flyers Charities Development Intern</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Flyers-Charities-Development-Intern_R440018'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 3601 S Broad St</td>
+      <td>Community Relations Intern</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Community-Relations-Intern_R439176'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>San Francisco, CA; Seattle, WA; New York, NY</td>
+      <td>Software Engineer, Storage</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/8024644'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Product Engineer II - Cloud Infrastructure</td>
+      <td><a href='https://www.esri.com/careers/5145356007?gh_jid=5145356007'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Mountain View, CA</td>
+      <td>Business Data Analyst</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Mountain-View-CA/Business-Data-Analyst_REQ34995'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Mountain View, CA</td>
+      <td>Test Engineer (Intern)</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Mountain-View-CA/Test-Engineer--Intern-_REQ35127'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Hudson River Trading</b></td>
+      <td>New York, NY, United States</td>
+      <td>Junior Treasury Quant Researcher</td>
+      <td><a href='https://www.hudsonrivertrading.com/careers/job/?gh_jid=7364943'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Loop Returns</b></td>
+      <td>Columbus, OH</td>
+      <td>Software Engineer</td>
+      <td><a href='https://jobs.lever.co/loopreturns/4fc9603b-95c6-4d05-8d5a-4247fa108418'>Apply</a></td>
+      <td>2026-06-24 14:52:36</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Hillsboro, OR</td>
+      <td>Software Engineer 3</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Hillsboro-OR/Software-Engineer-3_2636494'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MongoDB</b></td>
+      <td>Austin; New York; New York City; San Francisco; United States</td>
+      <td>Software Engineer 3, Query Integration</td>
+      <td><a href='https://www.mongodb.com/careers/job/?gh_jid=8010102'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>Pasadena, California, United States of America</td>
+      <td>Intern - Bilingual Eglish/Mandarin</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/Pasadena-California-United-States-of-America/Intern---Bilingual-Eglish-Mandarin_JR037650'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>Pasadena, California, United States of America</td>
+      <td>Intern</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/Pasadena-California-United-States-of-America/Intern_JR037649'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>Pasadena, California, United States of America</td>
+      <td>Intern - Bilingual English/Spanish</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/Pasadena-California-United-States-of-America/Intern---Bilingual-English-Spanish_JR037647'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Infrastructure Systems Engineer</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Infrastructure-Systems-Engineer_JR2020106'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>PR Specialist, Enterprise AI</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PR-Specialist--Enterprise-AI_JR2019934'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Qualtrics</b></td>
+      <td>Seattle, Washington,  United States</td>
+      <td>Software Engineer I - Topics Core Platform Team - Seattle</td>
+      <td><a href='https://www.qualtrics.com/careers/us/en/job/8018755?gh_jid=8018755'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Ramp</b></td>
+      <td>New York, NY (HQ)</td>
+      <td>Applied AI Engineer, Fullstack</td>
+      <td><a href='https://jobs.ashbyhq.com/ramp/6a7e382f-240a-4952-b9e5-7fe2b3856bc9'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Roku</b></td>
+      <td>Boston, Massachusetts</td>
+      <td>Technical Architect - Business Applications </td>
+      <td><a href='https://www.weareroku.com/jobs/7886908?gh_jid=7886908'>Apply</a></td>
+      <td>May 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Virginia - Remote</td>
+      <td>AI Operations Engineer</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Remote/AI-Operations-Engineer_JR346023'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>searchLFN</b></td>
+      <td>Ramsey, MN</td>
+      <td>Paint Line Unloader</td>
+      <td><a href='https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Ramsey-MN/Paint-Line-Unloader_JR-025045'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Forward Deployed Analytics Engineer & AI Specialist</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/44ca2f15-1af0-49e3-92f1-1f96a9f6a616'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Verkada </b></td>
+      <td>New York City, NY United States</td>
+      <td>Technical Support Engineer - University Graduate 2026</td>
+      <td><a href='https://job-boards.greenhouse.io/verkada/jobs/5172974007'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Verily</b></td>
+      <td>Dallas, Texas</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers/job/Dallas-Texas/Software-Engineer-III_REQ-817'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Voya</b></td>
+      <td>FL-Work@Home, Florida</td>
+      <td>AI Engineer</td>
+      <td><a href='https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/FL-WorkHome-Florida/Senior-Digital-Full-Stack-Engineer_JR0032781'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Warner Bros</b></td>
+      <td>GA Atlanta 1050 Techwood Drive NW</td>
+      <td>Software Engineer II, Site Reliability Engineering</td>
+      <td><a href='https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Software-Engineer-II--Site-Reliability-Engineering_R000105665'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Woven</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Systems Engineer II, AI Solutions & IT Operations</td>
+      <td><a href='https://jobs.lever.co/woven-by-toyota/d1371e79-10d9-4553-9d90-2611ee53e1e2'>Apply</a></td>
+      <td>2026-06-24 17:28:25</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Laurel, Maryland</td>
+      <td>Software Engineer 1</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/afdaaf60-9a49-4930-beb8-c68be4fd5f16'>Apply</a></td>
+      <td>2026-06-24 14:18:52</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer - Mapping Data Software</td>
+      <td><a href='https://jobs.lever.co/zoox/8102c816-7ce1-49c8-8093-f46c8074652c'>Apply</a></td>
+      <td>2026-06-18 21:08:36</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-24-07-20-58'>🕐 Batch at 2026-06-24 07:20:58</h3>
 
@@ -92,7 +468,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-24-02-04-14'>🕐 Batch at 2026-06-24 02:04:14</h3>
 
 📊 **Total jobs in this batch: 5**
