@@ -1,55 +1,47 @@
 company,title,location,link,postedOn,updatedOn
-Affirm ,"Software Engineer II, Backend (Infrastructure Platform)",Remote US,https://job-boards.greenhouse.io/affirm/jobs/7764834003,2026-06-23T11:42:12-04:00,2026-06-23T11:42:12-04:00
-Anduril Industries,Software Engineer - Undersea Dominance,"Costa Mesa, California, United States",https://boards.greenhouse.io/andurilindustries/jobs/5171114007?gh_jid=5171114007,2026-06-23T15:27:34-04:00,2026-06-23T15:27:35-04:00
-AQR Capital Management,"Quantitative Research Associate (AQR Capital Management, LLC, Greenwich, CT)","Greenwich, CT",https://careers.aqr.com/jobs?gh_jid=8023897&gh_jid=8023897,2026-06-23T12:33:30-04:00,2026-06-23T12:33:30-04:00
-Art of Problem Solving,IT Helpdesk Intern,"San Diego, California, United States",https://artofproblemsolving.com/careers/job/7781457003?gh_jid=7781457003,2026-06-23T12:52:44-04:00,2026-06-23T12:55:18-04:00
-ASMLEXT1,Co-Op - Optical Engineer (Internship),"Wilton, CT, USA",https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Co-Op---Optical-Engineer--Internship-_J-00345627,Posted Today,
-ASMLEXT1,NTP Field Applications Engineer,"Albany, NY, USA",https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Albany-NY-USA/NTP-Field-Applications-Engineer_J-00341327-1,Posted Today,
-Applied Materials,2026 Fall Co-Op - Process Engineering Intern (Doctorate),"Santa Clara,CA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2026-Fall-Co-Op---Process-Engineering-Intern--Doctorate-_R2622481,Posted Today,
-Applied Materials,New College Grad - Process Engineer III (Doctorate),"Santa Clara,CA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/New-College-Grad---Process-Engineer-III--Doctorate-_R2621206,Posted Today,
-Applied Materials,"2026 Fall Purchasing Co-op (Billerica, MA)","Billerica,MA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/XMLNAME-2026-Fall-Purchasing-Co-op--Billerica--MA-_R2622115,Posted Today,
-Applied Materials,Material Handler II,"Gloucester,MA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/Material-Handler-II_R2621331,Posted Today,
-Applied Materials,"2026 Fall Manufacturing Engineer Co-op (Billerica, MA)","Billerica,MA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/XMLNAME-2026-Fall-Manufacturing-Engineer-Co-op--Billerica--MA-_R2622272,Posted Today,
-Applied Materials,"2026 Fall Quality Engineering Co-op (Billerica, MA)","Billerica,MA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/XMLNAME-2026-Fall-Quality-Engineering-Co-op--Billerica--MA-_R2622271,Posted Today,
-Applied Materials,"2026 Fall Process Engineer Co-op (Billerica, MA)","Billerica,MA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/XMLNAME-2026-Fall-Process-Engineer-Co-op--Billerica--MA-_R2622118,Posted Today,
-Applied Materials,"2026 Fall Electrical Engineer Co-op (Billerica, MA)","Billerica,MA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/XMLNAME-2026-Fall-Electrical-Engineer-Co-op--Billerica--MA-_R2622422,Posted Today,
-Applied Materials,"2026 Fall Process Engineer Co-op (Billerica, MA)","Billerica,MA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/XMLNAME-2026-Fall-Process-Engineer-Co-op--Billerica--MA-_R2622114,Posted Today,
-BAH,Software System Safety Engineer,"Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-System-Safety-Engineer_R0242845,Posted Today,
-BAH,AI Developer,"Beavercreek, OH",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/AI-Developer_R0242811,Posted Today,
-BAH,DevOps Engineer,"Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/DevOps-Engineer_R0243057,Posted Today,
-BAH,"Data Scientist, Mid","Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0243027,Posted Today,
-BAH,"Data Scientist, Mid","Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0243028,Posted Today,
-BAH,Cloud Infrastructure Support Engineer,"Fort Belvoir, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Cloud-Infrastructure-Support-Engineer_R0242784,Posted Today,
-BAH,Software Engineer,"McLean, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer_R0242777,Posted Today,
-BAH,Applied Data Scientist,"Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Applied-Data-Scientist_R0242962,Posted Today,
-BAH,DevOps Engineer,"Eglin AFB, FL",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Eglin-AFB-FL/DevOps-Engineer_R0242810,Posted Today,
-BAH,DevOps Engineer,"Eglin AFB, FL",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Eglin-AFB-FL/DevOps-Engineer_R0242808,Posted Today,
-BAH,Data Scientist,"Alexandria, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0242764,Posted Today,
-BAH,"Data Scientist, Junior","Springfield, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist--Junior_R0242774,Posted Today,
-BorgWarner,Material Handler,Bellwood - Illinois - USA,https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Bellwood---Illinois---USA/Material-Handler_R2026-2514,Posted Today,
-Coinbase,"Software Engineer, Enterprise Apps",Remote - USA,https://www.coinbase.com/careers/positions/7958901?gh_jid=7958901,2026-06-23T11:21:58-04:00,2026-06-23T11:22:50-04:00
-Concentrix,SAP ETL Developer,"USA, OR, Work-at-Home",https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/USA-OR-Work-at-Home/SAP-ETL-Developer_R1739609,Posted Today,
-Concentrix,AI/ML Engineer,"Omaha, NE 68179",https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/Omaha-NE-68179/AI-ML-Engineer_R1741321-3,Posted Today,
-Databricks,"Software Engineer, Web Products","Mountain View, California",https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002,2026-06-23T14:22:46-04:00,2026-06-23T15:35:44-04:00
-Datamaxis,"Full Stack Software Engineer (React + .NET/Java, Shopify)","Dearborn, MI",https://datamaxis.breezy.hr/p/1e20d5c1ec96-full-stack-software-engineer-react-net-java-shopify,2026-06-23T16:17:39.624Z,
-Esri,Software Development Engineer II – Back-End (Mission-Focused | ArcGIS),"St. Louis, MO - Globe",https://www.esri.com/careers/5172037007?gh_jid=5172037007,2026-06-23T14:51:13-04:00,2026-06-23T14:51:13-04:00
-Esri,Software Development Engineer II – Back-End (Mission-Focused | ArcGIS),"Redlands, CA",https://www.esri.com/careers/5172042007?gh_jid=5172042007,2026-06-23T14:52:29-04:00,2026-06-23T14:52:29-04:00
-Esri,Software Development Engineer II – Back-End (Mission-Focused | ArcGIS),"Vienna, Virginia, United States",https://www.esri.com/careers/5172039007?gh_jid=5172039007,2026-06-23T14:51:52-04:00,2026-06-23T14:51:52-04:00
-Esri,Software Development Engineer II – CI/CD & Platform Automation (Mission-Focused),"Vienna, Virginia, United States",https://www.esri.com/careers/5172046007?gh_jid=5172046007,2026-06-23T14:56:51-04:00,2026-06-23T14:56:51-04:00
-Esri,Software Development Engineer II – CI/CD & Platform Automation (Mission-Focused),"St. Louis, MO - Globe",https://www.esri.com/careers/5172045007?gh_jid=5172045007,2026-06-23T14:55:54-04:00,2026-06-23T14:55:54-04:00
-Esri,Software Development Engineer II – CI/CD & Platform Automation (Mission-Focused),"Redlands, CA",https://www.esri.com/careers/5172051007?gh_jid=5172051007,2026-06-23T14:57:33-04:00,2026-06-23T14:57:33-04:00
-Esri,Software Development Engineer II – Front-End (Mission-Focused | ArcGIS),"St. Louis, MO - Globe",https://www.esri.com/careers/5172068007?gh_jid=5172068007,2026-06-23T15:02:18-04:00,2026-06-23T15:03:31-04:00
-Esri,Software Development Engineer II – Front-End (Mission-Focused | ArcGIS),"Vienna, Virginia, United States",https://www.esri.com/careers/5172071007?gh_jid=5172071007,2026-06-23T15:03:13-04:00,2026-06-23T15:03:13-04:00
-Esri,Software Development Engineer II – Front-End (Mission-Focused | ArcGIS),"Redlands, CA",https://www.esri.com/careers/5172074007?gh_jid=5172074007,2026-06-23T15:04:23-04:00,2026-06-23T15:04:23-04:00
-Esri,System Engineer – Enterprise Data Engineer (Mission-Focused),"Vienna, Virginia, United States",https://www.esri.com/careers/5171930007?gh_jid=5171930007,2026-06-23T14:04:13-04:00,2026-06-23T14:06:20-04:00
-Esri,System Engineer – Enterprise Data Engineer (Mission-Focused),"St. Louis, MO - Globe",https://www.esri.com/careers/5171928007?gh_jid=5171928007,2026-06-23T14:03:39-04:00,2026-06-23T14:03:39-04:00
-Esri,System Engineer – Enterprise Data Engineer (Mission-Focused),"Redlands, CA",https://www.esri.com/careers/5171937007?gh_jid=5171937007,2026-06-23T14:07:05-04:00,2026-06-23T14:07:05-04:00
-Formlabs,Manufacturing Test Software Intern (Fall 2026),"Somerville, MA",https://careers.formlabs.com/job/8021679/apply/?gh_jid=8021679,2026-06-23T12:50:49-04:00,2026-06-23T12:50:49-04:00
-genpt,Store Paint Specialist,"Williamsville, NY, USA",https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Williamsville-NY-USA/Store-Paint-Specialist_R26_0000020488,Posted Today,
-KLA,Software Engineer,"Milpitas, CA",https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineer_2637811-1,Posted Today,
-Micron,"New College Graduate - Product Yield Enhancement Engineer, HBM","Boise, ID - Main Site",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Staff-Product-Yield-Enhancement-Engineer--HBM_JR86051,Posted Today,
-MongoDB,Software Engineer 3,New York City,https://www.mongodb.com/careers/job/?gh_jid=8015792,2026-06-23T13:05:51-04:00,2026-06-23T13:05:51-04:00
-nVent,Material Handler - 1st Shift,"Blaine, MN, US",https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Blaine-MN-US/Material-Handler---1st-Shift_R22429,Posted Today,
-Snowflake,Forward Deployed Engineer – Data Engineer,US-CA-Menlo Park,https://jobs.ashbyhq.com/snowflake/9bbafaf2-240d-4cfb-8e95-b289f0350be5,2026-06-23T11:51:03.716+00:00,
-spacex,"Application Software Engineer (C#/ Python), Data","Starbase, TX",https://boards.greenhouse.io/spacex/jobs/8604664002?gh_jid=8604664002,2026-06-23T14:28:30-04:00,2026-06-23T14:28:30-04:00
-VSP,Test Software Engineer,Remote US,https://vsp.wd1.myworkdayjobs.com/en-US/vspvisioncareers/job/Remote-US/Test-Software-Engineer_R-9639,Posted Today,
+ALTEN Technology USA,Data Collection Operator,"San Francisco, California, United States",https://job-boards.greenhouse.io/altentechnologyusa/jobs/5172430007,2026-06-23T20:50:25-04:00,2026-06-23T20:50:25-04:00
+Anduril Industries,Curriculum Developer,"Quincy, Massachusetts, United States",https://boards.greenhouse.io/andurilindustries/jobs/5168629007?gh_jid=5168629007,2026-06-23T17:43:43-04:00,2026-06-23T17:43:43-04:00
+Anduril Industries,Naval Architect Co-op - Winter 2027,"Costa Mesa, California, United States",https://boards.greenhouse.io/andurilindustries/jobs/5170844007?gh_jid=5170844007,2026-06-23T16:18:41-04:00,2026-06-23T16:38:02-04:00
+AQR Capital Management,"Research Associate (AQR Capital Management, LLC, Greenwich, CT)","Greenwich, CT",https://careers.aqr.com/jobs?gh_jid=8024788&gh_jid=8024788,2026-06-23T16:59:46-04:00,2026-06-23T17:01:08-04:00
+ASMLEXT1,"Optical Fabrication Technician CWW Back End Nights (6:00pm-6:00am Thursday- Saturday, every other Wednesday) - 15% Differential","Wilton, CT, USA",https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Back-End-Nights--6-00pm-6-00am-Thursday--Saturday--every-other-Wednesday----15--Differential_J-00343931-1,Posted Today,
+Applied Materials,"Summer 2026 Market Analyst Internship- Bachelor's (Santa Clara, CA)","Santa Clara,CA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Summer-2026-Market-Analyst-Internship--Bachelor-s--Santa-Clara--CA-_R2622482,Posted Today,
+BAH,Software Developer,"Fayetteville, NC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Software-Developer_R0242899,Posted Today,
+BAH,"Mobile App Developer, Mid","Montgomery, AL",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Montgomery-AL/Mobile-App-Developer--Mid_R0242885,Posted Today,
+BAH,ICAM & Okta Developer,"San Antonio, TX",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/ICAM---Okta-Developer_R0242869,Posted Today,
+BAH,Cloud Infrastructure Support Engineer,"Fort Belvoir, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Cloud-Infrastructure-Support-Engineer_R0242853,Posted Today,
+Citi,"Banamex Banamex Administrador Interno en Distrito Vallejo, Convocatoria 23-6-26",Ciudad De Mexico Distrito Federal Mexico,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Banamex-Administrador-Interno-en-Distrito-Vallejo--Convocatoria-23-6-26_26974325-1,Posted Today,
+Concentrix,Mainframe Developer,"Omaha, NE 68179",https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/Omaha-NE-68179/Mainframe-Developer_R1740944-2,Posted Today,
+genpt,Material Handler I,"Salt Lake City, UT, USA",https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Salt-Lake-City-UT-USA/Material-Handler-I_R26_0000019871,Posted Today,
+Micron,TDIT Software Engineer,"Boise, ID - Main Site",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/TDIT-Software-Engineer_JR104311,Posted Today,
+Natera ,Medical Science Liaison ,US Remote,https://job-boards.greenhouse.io/natera/jobs/6098974004,2026-06-23T17:23:10-04:00,2026-06-23T17:43:54-04:00
+nVent,Program Specialist - Data Center Solutions,"Anoka, MN, US",https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Program-Specialist---Data-Center-Solutions_R22162,Posted Today,
+OpenAI,AI Deployment Engineer,New York City,https://jobs.ashbyhq.com/openai/6bacc51d-6580-4089-93ca-7df3bce4b635,2026-06-23T23:36:49.823+00:00,
+Qualtrics,Software Engineer I - Core Topics Platform,"Provo, Utah, United States",https://www.qualtrics.com/careers/us/en/job/8018763?gh_jid=8018763,2026-06-23T18:12:05-04:00,2026-06-23T18:12:05-04:00
+spacex,Network Software Integration Engineer (Starlink) ,"Redmond, WA",https://boards.greenhouse.io/spacex/jobs/8599648002?gh_jid=8599648002,2026-06-23T17:12:17-04:00,2026-06-23T17:12:17-04:00
+Toast,"Software Engineer II, Voice AI Platform","Remote, US",https://careers.toasttab.com/jobs?gh_jid=8013367,2026-06-23T17:04:07-04:00,2026-06-23T17:04:07-04:00
+Zipline,Applications Engineer Intern (Fall 2026),"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7765099003,2026-06-08T15:25:24-04:00,2026-06-23T20:43:10-04:00
+Zipline,Autonomy Perception CV/ML SWE,"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=4359084003,2021-02-09T14:47:58-05:00,2026-06-23T20:43:10-04:00
+Zipline,Autonomy Platform Software Engineer,"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7516682003,2025-12-12T19:20:23-05:00,2026-06-23T20:43:10-04:00
+Zipline,Autonomy Software Engineer,"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=6570283003,2025-05-20T00:01:24-04:00,2026-06-23T20:43:10-04:00
+Zipline,Business Data Analyst,"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7765198003,2026-06-05T17:16:40-04:00,2026-06-23T20:43:10-04:00
+Zipline,Community Engagement Intern (Fall 2026),"Austin, Texas, USA; Dallas-Fort Worth, Texas, USA; Phoenix, Arizona, USA",https://www.zipline.com/open-roles?gh_jid=7765288003,2026-06-08T12:09:26-04:00,2026-06-23T20:43:10-04:00
+Zipline,Computational Physics Intern (Fall 2026),"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7766408003,2026-06-08T16:52:32-04:00,2026-06-23T20:43:10-04:00
+Zipline,Controls Engineer Intern (Fall 2026),"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7772233003,2026-06-12T19:56:07-04:00,2026-06-23T20:43:10-04:00
+Zipline,Electrical Engineer Intern (Fall 2026),"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7743207003,2026-05-22T11:03:50-04:00,2026-06-23T20:43:10-04:00
+Zipline,Electrical Project Engineer Intern (Fall 2026),"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7763835003,2026-06-04T16:29:37-04:00,2026-06-23T20:43:10-04:00
+Zipline,Enterprise Systems Software Engineer Intern (Fall 2026),"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7767667003,2026-06-09T18:14:31-04:00,2026-06-23T20:43:10-04:00
+Zipline,Flight Test Engineer Intern (Fall 2026),"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7767622003,2026-06-17T10:57:15-04:00,2026-06-23T20:43:10-04:00
+Zipline,Fullstack - Data Platform (Autonomy) ,"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7607673003,2026-01-28T13:10:59-05:00,2026-06-23T20:43:10-04:00
+Zipline,Hardware Technician – Autonomy Data Systems,"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7703718003,2026-04-17T00:22:47-04:00,2026-06-23T20:43:10-04:00
+Zipline,Hardware Test Intern (Fall 2026),"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7747248003,2026-05-26T11:15:57-04:00,2026-06-23T20:43:10-04:00
+Zipline,Join Our Fall 2026 Internships Mailing List!,"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7603255003,2026-02-02T15:50:45-05:00,2026-06-23T20:43:10-04:00
+Zipline,Material Planning Intern (Fall 2026),"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7772351003,2026-06-12T20:36:58-04:00,2026-06-23T20:43:10-04:00
+Zipline,Mechatronics Perception Intern (Fall 2026),"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7763697003,2026-06-05T14:48:27-04:00,2026-06-23T20:43:10-04:00
+Zipline,People Operations Intern (Fall 2026),"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7761825003,2026-06-04T11:47:38-04:00,2026-06-23T20:43:10-04:00
+Zipline,Perception Intern (Fall 2026),"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7761650003,2026-06-02T20:20:55-04:00,2026-06-23T20:43:10-04:00
+Zipline,Quality & Manufacturing Intern (Fall 2026),"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7743224003,2026-05-22T11:03:42-04:00,2026-06-23T20:43:10-04:00
+Zipline,Software Engineer – Marketplace Growth,"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7747190003,2026-05-22T14:59:14-04:00,2026-06-23T20:43:10-04:00
+Zipline,Software Engineer - Systems Validation Infrastructure ,"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7564211003,2025-12-16T02:18:45-05:00,2026-06-23T20:43:10-04:00
+Zipline,Software Systems Validation Intern (Fall 2026),"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7780103003,2026-06-22T15:57:53-04:00,2026-06-23T20:43:10-04:00
+Zipline,Strategic Operations Program Management Intern (Fall 2026),"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7772054003,2026-06-12T21:30:19-04:00,2026-06-23T20:43:10-04:00
+Zipline,Supplier Industrialization Engineering Intern (Fall 2026),"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7766424003,2026-06-11T14:01:07-04:00,2026-06-23T20:43:10-04:00
