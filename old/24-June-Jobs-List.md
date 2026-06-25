@@ -4,9 +4,307 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-24 19:44:31](#batch-2026-06-24-19-44-31)
 - [Batch at 2026-06-24 12:37:01](#batch-2026-06-24-12-37-01)
 - [Batch at 2026-06-24 07:20:58](#batch-2026-06-24-07-20-58)
 - [Batch at 2026-06-24 02:04:14](#batch-2026-06-24-02-04-14)
+
+<h3 id='batch-2026-06-24-19-44-31'>🕐 Batch at 2026-06-24 19:44:31</h3>
+
+📊 **Total jobs in this batch: 36**
+
+**Per company:**
+- Abnormal Security: 1 job
+- Motorola Solutions, Inc: 1 job
+- Anduril Industries: 1 job
+- BAH: 7 jobs
+- Brink: 1 job
+- Citi: 4 jobs
+- Empower: 1 job
+- Esri: 2 jobs
+- Fivetran: 1 job
+- flir: 1 job
+- genpt: 2 jobs
+- LexisNexis Risk Solutions: 1 job
+- KLA: 2 jobs
+- Natera : 2 jobs
+- nVent: 1 job
+- PlayStation Global: 1 job
+- Ridgeline : 1 job
+- Roku: 1 job
+- Scoutm Otors: 1 job
+- Snowflake: 1 job
+- spacex: 1 job
+- The Walt Disney Company: 1 job
+- Verily: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Abnormal Security</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer II - Cloud Infrastructure Engineer</td>
+      <td><a href='https://abnormal.ai/careers/jobs/7782567003?gh_jid=7782567003'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Colorado Remote Work, More...</td>
+      <td>Field Engineer - Emergency Call Handling</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Colorado-Remote-Work/Field-Engineer---Emergency-Call-Handling_R63978'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Fort Collins, Colorado, United States</td>
+      <td>Software Engineer, Tooling</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5131150007?gh_jid=5131150007'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Software-Engineer_R0242981'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0242980'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>El Segundo, CA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Data-Scientist--Mid_R0242986-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Annapolis Junction, MD</td>
+      <td>Software Test Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Software-Test-Engineer_R0242978'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Annapolis Junction, MD</td>
+      <td>Full Stack Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Full-Stack-Software-Engineer_R0242974'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>AI/ML Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/AI-ML-Engineer_R0242971'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0243259'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Brink</b></td>
+      <td>Philadelphia PA</td>
+      <td>CDL Driver</td>
+      <td><a href='https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Philadelphia-PA/CDL-Driver_R75948'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex- Data Science-CRM</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex--Data-Science-CRM_26969679'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>THE SUMMIT - CIUDAD DE MEXICO</td>
+      <td>Full Stack - Lider Técnico - COBOL/TANDEM</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/FULL-STACK-TECH-LEAD-FOR-WEALTH-MANAGEMENT-CS--TANDEM-_26962696'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>New York New York United States</td>
+      <td>Gen AI Engineer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Gen-AI-Engineer_26961067'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Tampa Florida United States</td>
+      <td>Devops Release Engineer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Devops-Release-Engineer_26969826'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Empower</b></td>
+      <td>CT Hartford</td>
+      <td>Software Engineer</td>
+      <td><a href='https://empower.wd12.myworkdayjobs.com/en-US/empower/job/CT-Hartford/Software-Engineer_R0059597'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>St. Louis, MO - Westport</td>
+      <td>Data Scientist I</td>
+      <td><a href='https://www.esri.com/careers/5173232007?gh_jid=5173232007'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>St. Louis, MO - Westport</td>
+      <td>Software Development Engineer I</td>
+      <td><a href='https://www.esri.com/careers/5173239007?gh_jid=5173239007'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Fivetran</b></td>
+      <td>Oakland, California, United States, AMER</td>
+      <td>Software Engineer</td>
+      <td><a href='https://www.fivetran.com/careers/job?gh_jid=7778979003'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Rancho Cordova, CA (TDY)</td>
+      <td>Sustaining Engineer</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Rancho-Cordova-CA-TDY/Sustaining-Engineer_REQ35077'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Coopers Plains, Queensland, Australia</td>
+      <td>NAPA Mining Coordinator - Coopers Plains</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Coopers-Plains-Queensland-Australia/Export-Sales-Support--NAPA--Coopers-Plains_R26_0000012017'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Material-Handler-I_R26_0000020327'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>LexisNexis Risk Solutions</b></td>
+      <td>Alpharetta, GA</td>
+      <td>Software Architect</td>
+      <td><a href='https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Software-Architect_R115293'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Material Handler</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Material-Handler_2637619-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Associate Test Engineer Trainee</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Associate-Test-Engineer-Trainee_2637886'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Forward Deployed AI Solutions Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6099223004'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Software Test Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6101026004'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Centralia, IL, US</td>
+      <td>Truck Driver - Part Time/ Full Time available</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Centralia-IL-US/Truck-Driver---Part-Time--Full-Time-available_R22456'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Mateo, CA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6101023004'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Ridgeline </b></td>
+      <td>San Ramon, CA</td>
+      <td>Content Developer</td>
+      <td><a href='https://boards.greenhouse.io/ridgeline/jobs/7784169003?gh_jid=7784169003'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Roku</b></td>
+      <td>New York, New York</td>
+      <td>Technical Architect - Business Applications </td>
+      <td><a href='https://www.weareroku.com/jobs/7908405?gh_jid=7908405'>Apply</a></td>
+      <td>May 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Scoutm Otors</b></td>
+      <td>Columbia, South Carolina, United States</td>
+      <td>IT Infrastructure Planning Specialist</td>
+      <td><a href='https://job-boards.greenhouse.io/scoutmotors/jobs/5170591007'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-WA-Bellevue</td>
+      <td>Prinicpal Software Engineer - Data Engineering & Streaming Primitives</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/dd0b29a3-6bc8-4d6c-8fa6-79da445c70bd'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Engineer, Telemetry (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8606724002?gh_jid=8606724002'>Apply</a></td>
+      <td>Jun 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Orlando, FL, USA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Software-Engineer_10146416-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Verily</b></td>
+      <td>Dallas, Texas</td>
+      <td>Software Engineer - Consumer Web</td>
+      <td><a href='https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers/job/Dallas-Texas/Software-Engineer---Consumer-Web_REQ-801'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-24-12-37-01'>🕐 Batch at 2026-06-24 12:37:01</h3>
 
@@ -382,7 +680,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-24-07-20-58'>🕐 Batch at 2026-06-24 07:20:58</h3>
 
 📊 **Total jobs in this batch: 8**
@@ -467,8 +764,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-24-02-04-14'>🕐 Batch at 2026-06-24 02:04:14</h3>
+---<h3 id='batch-2026-06-24-02-04-14'>🕐 Batch at 2026-06-24 02:04:14</h3>
 
 📊 **Total jobs in this batch: 5**
 
