@@ -4,7 +4,54 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-25 07:17:51](#batch-2026-06-25-07-17-51)
 - [Batch at 2026-06-25 01:58:48](#batch-2026-06-25-01-58-48)
+
+<h3 id='batch-2026-06-25-07-17-51'>🕐 Batch at 2026-06-25 07:17:51</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- ASMLEXT1: 1 job
+- nVent: 1 job
+- Snowflake: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Wilton Factory Optics Fabrication Technician CWW- Back End Nights (6:00PM-6:00AM)</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Wilton-Factory-Optics-Fabrication-Technician-CWW--Back-End-Nights--6-00PM-6-00AM-_J-00344031'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Blaine, MN, US</td>
+      <td>Material Handler - WKND Shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Blaine-MN-US/Material-Handler---WKND-Shift_R22430'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Remote</td>
+      <td>AI/ML Flex Solution Engineer</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/7c0fa868-20c5-4727-9f22-a5ab4bfbc08b'>Apply</a></td>
+      <td>Jun 25, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-25-01-58-48'>🕐 Batch at 2026-06-25 01:58:48</h3>
 
@@ -59,4 +106,3 @@
 <table>
 
 ---
-
