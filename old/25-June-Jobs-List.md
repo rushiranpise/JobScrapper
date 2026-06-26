@@ -4,9 +4,165 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-25 19:48:16](#batch-2026-06-25-19-48-16)
 - [Batch at 2026-06-25 12:56:53](#batch-2026-06-25-12-56-53)
 - [Batch at 2026-06-25 07:17:51](#batch-2026-06-25-07-17-51)
 - [Batch at 2026-06-25 01:58:48](#batch-2026-06-25-01-58-48)
+
+<h3 id='batch-2026-06-25-19-48-16'>🕐 Batch at 2026-06-25 19:48:16</h3>
+
+📊 **Total jobs in this batch: 17**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- Anduril Industries: 1 job
+- BAH: 4 jobs
+- careers: 1 job
+- Esri: 1 job
+- KLA: 1 job
+- Natera : 1 job
+- Pinterest: 1 job
+- Roblox: 1 job
+- SharkNinja: 1 job
+- SRK Supplylogix LLC: 1 job
+- The Walt Disney Company: 1 job
+- Vast: 1 job
+- Workday: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Arvada, Colorado</td>
+      <td>Software Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5174695007'>Apply</a></td>
+      <td>Jun 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Software Engineer, Robotics</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/4959625007?gh_jid=4959625007'>Apply</a></td>
+      <td>Jan 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>DevOps and Site Reliability Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-and-Site-Reliability-Engineer_R0242915'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Scott AFB, IL</td>
+      <td>Cloud Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Scott-AFB-IL/Cloud-Engineer_R0243063'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Scott AFB, IL</td>
+      <td>Data Loss Prevention Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Scott-AFB-IL/Data-Loss-Prevention-Engineer_R0243088'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Langley AFB, VA</td>
+      <td>Full Stack Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/Full-Stack-Software-Engineer_R0243053'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>careers</b></td>
+      <td>Santa Rosa, CA USA</td>
+      <td>R&D Summer Intern</td>
+      <td><a href='https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Santa-Rosa-CA-USA/R-D-Summer-Intern_260004786-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer II – Geoprocessing and Map Viewer Analysis</td>
+      <td><a href='https://www.esri.com/careers/5155940007?gh_jid=5155940007'>Apply</a></td>
+      <td>Jun 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Totowa, NJ</td>
+      <td>Applications Development Engineer</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Totowa-NJ/Applications-Development-Engineer_2637623'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Software Engineer - Patient Experience</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6033356004'>Apply</a></td>
+      <td>Jun 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Pinterest</b></td>
+      <td>Toronto, ON, CA</td>
+      <td>Software Engineer II, Web</td>
+      <td><a href='https://www.pinterestcareers.com/jobs/?gh_jid=8024883'>Apply</a></td>
+      <td>Jun 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>San Mateo, CA, United States</td>
+      <td>Software Engineer, Data Engineering</td>
+      <td><a href='https://careers.roblox.com/jobs/8025021?gh_jid=8025021'>Apply</a></td>
+      <td>Jun 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SharkNinja</b></td>
+      <td>Needham, MA, United States</td>
+      <td>Fall 2026: Environmental Health & Safety Co-op (July/August to December)</td>
+      <td><a href='https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4647085006'>Apply</a></td>
+      <td>Jan 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, TX, Irving</td>
+      <td>Full-Stack Java Developer</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Full-Stack-Java-Developer_JR0149412'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Lake Buena Vista, FL, USA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Data-Engineer_10153225'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Vast</b></td>
+      <td>Long Beach, California, United States</td>
+      <td>2026 Fall Internship - Supplier Quality Engineering Intern</td>
+      <td><a href='https://boards.greenhouse.io/vast/jobs/4691428006?gh_jid=4691428006'>Apply</a></td>
+      <td>Jun 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA, CO, Boulder</td>
+      <td>Software Development Engineer, AI Platform</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Software-Development-Engineer--AI-Platform_JR-0107870'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-25-12-56-53'>🕐 Batch at 2026-06-25 12:56:53</h3>
 
@@ -287,7 +443,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-25-07-17-51'>🕐 Batch at 2026-06-25 07:17:51</h3>
 
 📊 **Total jobs in this batch: 3**
@@ -332,8 +487,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-25-01-58-48'>🕐 Batch at 2026-06-25 01:58:48</h3>
+---<h3 id='batch-2026-06-25-01-58-48'>🕐 Batch at 2026-06-25 01:58:48</h3>
 
 📊 **Total jobs in this batch: 4**
 
