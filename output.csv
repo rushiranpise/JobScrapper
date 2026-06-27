@@ -1,21 +1,3 @@
-company,title,location,link,postedOn,updatedOn
-Anduril Industries,"Software Engineer, Agent Platform","Washington, District of Columbia, United States",https://boards.greenhouse.io/andurilindustries/jobs/5174717007?gh_jid=5174717007,2026-06-26T15:50:28-04:00,2026-06-26T20:05:43-04:00
-BAH,Software Defined Network Engineer,"Scott AFB, IL",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Scott-AFB-IL/Zero-Trust-Engineer_R0241663,Posted Today,
-BAH,Cloud Automation Developer,"Washington, DC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Cloud-Automation-Developer_R0243230,Posted Today,
-BAH,Data Management Analyst,"Washington, DC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Management-Analyst_R0241938,Posted Today,
-BAH,AI/ML Engineer,"Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/AI-ML-Engineer_R0241833,Posted Today,
-Citi,Junior Applications Developer - Programmer Analyst,Jacksonville Florida United States,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/Junior-Applications-Developer---Programmer-Analyst_26971294,Posted Today,
-Core Weave,"Solution Specialist, AI Runtime Services","Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA",https://coreweave.com/careers/job?4692585006&board=coreweave&gh_jid=4692585006,2026-06-26T15:52:50-04:00,2026-06-26T15:52:50-04:00
-Core Weave,"Solution Specialist, Infrastructure","Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA / Dallas, TX",https://coreweave.com/careers/job?4687147006&board=coreweave&gh_jid=4687147006,2026-06-08T11:38:14-04:00,2026-06-26T19:04:16-04:00
-genpt,Material Handler I,"Houston, TX, USA",https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Houston-TX-USA/Material-Handler-I_R26_0000020823,Posted Today,
-Salesforce,Software Engineering PMTS,Washington - Bellevue,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-PMTS_JR349476,Posted Today,
-Salesforce,Software Engineering PMTS,Washington - Bellevue,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-PMTS_JR347863,Posted Today,
-spacex,Application Software Engineer,"Palo Alto, CA",https://boards.greenhouse.io/spacex/jobs/8611189002?gh_jid=8611189002,2026-06-26T19:50:20-04:00,2026-06-26T19:50:20-04:00
-spacex,Application Software Engineer,"Starbase, TX",https://boards.greenhouse.io/spacex/jobs/8611118002?gh_jid=8611118002,2026-06-26T19:48:31-04:00,2026-06-26T19:48:31-04:00
-spacex,Application Software Engineer,"Memphis, TN",https://boards.greenhouse.io/spacex/jobs/8611191002?gh_jid=8611191002,2026-06-26T19:50:33-04:00,2026-06-26T19:50:33-04:00
-spacex,Full Stack Software Engineer (Starshield),"Hawthorne, CA",https://boards.greenhouse.io/spacex/jobs/8610872002?gh_jid=8610872002,2026-06-26T19:45:45-04:00,2026-06-26T19:45:45-04:00
-spacex,Software Engineer (Starshield),"Hawthorne, CA",https://boards.greenhouse.io/spacex/jobs/8605075002?gh_jid=8605075002,2026-06-26T16:27:46-04:00,2026-06-26T16:29:06-04:00
-spacex,"Software Engineer, Vehicle Operations (Starshield)","Hawthorne, CA",https://boards.greenhouse.io/spacex/jobs/8609228002?gh_jid=8609228002,2026-06-26T17:41:12-04:00,2026-06-26T17:41:12-04:00
-Verkada ,Global Sourcing Specialist (Co-op),"San Mateo, CA United States",https://job-boards.greenhouse.io/verkada/jobs/5175755007,2026-06-26T19:02:26-04:00,2026-06-26T19:02:26-04:00
-Zipline,Software Engineer Intern (Fall 2026),"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7787509003,2026-06-26T20:04:48-04:00,2026-06-26T20:04:48-04:00
-Zoox,Software Engineer - Robot Link Platform,"Foster City, CA",https://jobs.lever.co/zoox/44136143-ba13-4839-bdc5-26a7633080a3,2026-06-26 19:53:40,N/A
+company,title,location,postedOn,link
+Allstate,Exposure Intelligence Analyst – Cloud Platforms (AWS / Azure / GCP / Cloud Posture),US - Remote,Posted Yesterday,https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Exposure-Intelligence-Analyst---Cloud-Platforms--AWS---Azure---GCP---Cloud-Posture-_R32030-1
+Allstate,Exposure Intelligence Analyst – Infrastructure & Systems (Servers / Containers / K8s / OS),US - Remote,Posted Yesterday,https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Exposure-Intelligence-Analyst---Infrastructure---Systems--Servers---Containers---K8s---OS-_R32029
