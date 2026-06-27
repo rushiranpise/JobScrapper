@@ -4,9 +4,182 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-26 19:40:40](#batch-2026-06-26-19-40-40)
 - [Batch at 2026-06-26 12:38:29](#batch-2026-06-26-12-38-29)
 - [Batch at 2026-06-26 07:17:23](#batch-2026-06-26-07-17-23)
 - [Batch at 2026-06-26 01:59:20](#batch-2026-06-26-01-59-20)
+
+<h3 id='batch-2026-06-26-19-40-40'>🕐 Batch at 2026-06-26 19:40:40</h3>
+
+📊 **Total jobs in this batch: 20**
+
+**Per company:**
+- Anduril Industries: 1 job
+- BAH: 4 jobs
+- Citi: 1 job
+- Core Weave: 2 jobs
+- genpt: 1 job
+- Salesforce: 2 jobs
+- spacex: 6 jobs
+- Verkada : 1 job
+- Zipline: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Washington, District of Columbia, United States</td>
+      <td>Software Engineer, Agent Platform</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5174717007?gh_jid=5174717007'>Apply</a></td>
+      <td>Jun 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Scott AFB, IL</td>
+      <td>Software Defined Network Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Scott-AFB-IL/Zero-Trust-Engineer_R0241663'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Cloud Automation Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Cloud-Automation-Developer_R0243230'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Management Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Management-Analyst_R0241938'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>AI/ML Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/AI-ML-Engineer_R0241833'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Jacksonville Florida United States</td>
+      <td>Junior Applications Developer - Programmer Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/Junior-Applications-Developer---Programmer-Analyst_26971294'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA</td>
+      <td>Solution Specialist, AI Runtime Services</td>
+      <td><a href='https://coreweave.com/careers/job?4692585006&board=coreweave&gh_jid=4692585006'>Apply</a></td>
+      <td>Jun 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA / Dallas, TX</td>
+      <td>Solution Specialist, Infrastructure</td>
+      <td><a href='https://coreweave.com/careers/job?4687147006&board=coreweave&gh_jid=4687147006'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Houston, TX, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Houston-TX-USA/Material-Handler-I_R26_0000020823'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Washington - Bellevue</td>
+      <td>Software Engineering PMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-PMTS_JR349476'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Washington - Bellevue</td>
+      <td>Software Engineering PMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-PMTS_JR347863'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Application Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8611189002?gh_jid=8611189002'>Apply</a></td>
+      <td>Jun 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Application Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8611118002?gh_jid=8611118002'>Apply</a></td>
+      <td>Jun 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Memphis, TN</td>
+      <td>Application Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8611191002?gh_jid=8611191002'>Apply</a></td>
+      <td>Jun 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Full Stack Software Engineer (Starshield)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8610872002?gh_jid=8610872002'>Apply</a></td>
+      <td>Jun 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer (Starshield)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8605075002?gh_jid=8605075002'>Apply</a></td>
+      <td>Jun 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, Vehicle Operations (Starshield)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8609228002?gh_jid=8609228002'>Apply</a></td>
+      <td>Jun 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Verkada </b></td>
+      <td>San Mateo, CA United States</td>
+      <td>Global Sourcing Specialist (Co-op)</td>
+      <td><a href='https://job-boards.greenhouse.io/verkada/jobs/5175755007'>Apply</a></td>
+      <td>Jun 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Software Engineer Intern (Fall 2026)</td>
+      <td><a href='https://www.zipline.com/open-roles?gh_jid=7787509003'>Apply</a></td>
+      <td>Jun 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer - Robot Link Platform</td>
+      <td><a href='https://jobs.lever.co/zoox/44136143-ba13-4839-bdc5-26a7633080a3'>Apply</a></td>
+      <td>2026-06-26 19:53:40</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-26-12-38-29'>🕐 Batch at 2026-06-26 12:38:29</h3>
 
@@ -339,7 +512,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-26-07-17-23'>🕐 Batch at 2026-06-26 07:17:23</h3>
 
 📊 **Total jobs in this batch: 4**
@@ -391,8 +563,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-26-01-59-20'>🕐 Batch at 2026-06-26 01:59:20</h3>
+---<h3 id='batch-2026-06-26-01-59-20'>🕐 Batch at 2026-06-26 01:59:20</h3>
 
 📊 **Total jobs in this batch: 1**
 
