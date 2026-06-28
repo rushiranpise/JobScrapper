@@ -4,8 +4,39 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-27 19:52:26](#batch-2026-06-27-19-52-26)
 - [Batch at 2026-06-27 12:14:48](#batch-2026-06-27-12-14-48)
 - [Batch at 2026-06-27 01:36:34](#batch-2026-06-27-01-36-34)
+
+<h3 id='batch-2026-06-27-19-52-26'>🕐 Batch at 2026-06-27 19:52:26</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Micron: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - ID1</td>
+      <td>Industrial Engineer, US Front-End Expansion Planning</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/US-FE-Expansion-Planning-Engineer_JR95856'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-27-12-14-48'>🕐 Batch at 2026-06-27 12:14:48</h3>
 
@@ -44,7 +75,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-27-01-36-34'>🕐 Batch at 2026-06-27 01:36:34</h3>
 
 📊 **Total jobs in this batch: 2**
