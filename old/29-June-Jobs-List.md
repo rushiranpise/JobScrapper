@@ -4,7 +4,284 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-29 12:55:20](#batch-2026-06-29-12-55-20)
 - [Batch at 2026-06-29 08:43:11](#batch-2026-06-29-08-43-11)
+
+<h3 id='batch-2026-06-29-12-55-20'>🕐 Batch at 2026-06-29 12:55:20</h3>
+
+📊 **Total jobs in this batch: 34**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- Anduril Industries: 5 jobs
+- Art of Problem Solving: 1 job
+- CrowdStrike, Inc: 1 job
+- Applied Materials: 1 job
+- BAH: 15 jobs
+- Children's Hospital Medical Center: 1 job
+- Comcast : 1 job
+- genpt: 1 job
+- Morgan Stanley: 1 job
+- NVIDIA: 1 job
+- Reddit: 1 job
+- Salesforce: 1 job
+- The Walt Disney Company: 1 job
+- Waymo: 1 job
+- Zoom: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Foster City, California </td>
+      <td>Powertrain Reverse Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5176251007'>Apply</a></td>
+      <td>Jun 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Product Data Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5114652007?gh_jid=5114652007'>Apply</a></td>
+      <td>Jun 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Product Data Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5123282007?gh_jid=5123282007'>Apply</a></td>
+      <td>Jun 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Product Data Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5114654007?gh_jid=5114654007'>Apply</a></td>
+      <td>Jun 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Irvine, California, United States</td>
+      <td>Product Data Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5150089007?gh_jid=5150089007'>Apply</a></td>
+      <td>Jun 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5168961007?gh_jid=5168961007'>Apply</a></td>
+      <td>Jun 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Art of Problem Solving</b></td>
+      <td>Remote (United States)</td>
+      <td>Virtual Math Instructor - Wed/Fri Evening Availability Needed (Part-Time)</td>
+      <td><a href='https://artofproblemsolving.com/careers/job/6057447003?gh_jid=6057447003'>Apply</a></td>
+      <td>Jul 19, 2024</td>
+    </tr>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Remote</td>
+      <td>Data Scientist (Remote)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Data-Scientist--Remote-_R29081'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Logistics- Material Coordinator/Handler III - (O3)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Logistics--Material-Coordinator-Handler-III----O3-_R2622693'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dahlgren, VA</td>
+      <td>Software and Systems Integration Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dahlgren-VA/Software-and-Systems-Integration-Engineer_R0243333'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dahlgren, VA</td>
+      <td>Cyber Range Infrastructure Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dahlgren-VA/Cyber-Range-Infrastructure-Engineer_R0243326'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Rome, NY</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0243332'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Rome, NY</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0243331'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Rome, NY</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0243330'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Rome, NY</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0243329'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Full Stack Software Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Full-Stack-Software-Engineer--Mid_R0243316'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dayton, OH</td>
+      <td>Remote Sensing Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Remote-Sensing-Software-Engineer_R0243286'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dayton, OH</td>
+      <td>Remote Sensing Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Remote-Sensing-Software-Engineer_R0243285-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist--Mid_R0243318'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0243304-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dayton, OH</td>
+      <td>Full-Stack Software Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Full-Stack-Software-Engineer--Mid_R0243289'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dayton, OH</td>
+      <td>Computer Vision Software Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Computer-Vision-Software-Engineer--Mid_R0243287'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Wright Patterson AFB, OH</td>
+      <td>Intelligence Training Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wright-Patterson-AFB-OH/Intelligence-Training-Specialist_R0243283'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Cloud Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Cloud-Engineer_R0242855'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Children's Hospital Medical Center</b></td>
+      <td>Burnet Campus</td>
+      <td>Pulmonary Diagnostics -Resp Therapist III</td>
+      <td><a href='https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Burnet-Campus/Pulmonary-Diagnostics--Resp-Therapist-III_JR222398-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1800 Arch St</td>
+      <td>Software Engineer (Go / AWS, IoT Device Integration)</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Software-Engineer--Go---AWS--IoT-Device-Integration-_R439910'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Eden Prairie, MN, USA</td>
+      <td>Motion Automation Intelligence- Application Engineer</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Eden-Prairie-MN-USA/Motion-Ai--Senior-Application-Engineer_R25_0000033573'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>New York, New York, United States of America</td>
+      <td>Associate, Software Engineer</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Associate--Software-Engineer_JR025652'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Compiler Engineer - Smart Network Devices- New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer---Smart-Network-Devices--New-College-Grad-2026_JR2020535'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Reddit</b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/reddit/jobs/8026180'>Apply</a></td>
+      <td>Jun 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - Redwood City</td>
+      <td>Platform Engineer — Cloud Infrastructure (SMTS)</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Redwood-City/Platform-Engineer---Cloud-Infrastructure--SMTS-_JR347709'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Marne la Vallee Cedex 4, France</td>
+      <td>Médecin du Travail - F/H/NB</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Marne-la-Vallee-Cedex-4-France/Mdecin-du-Travail---F-H-NB_10154781-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York City, NY, USA</td>
+      <td>Foundation Model Data, Software Engineer</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8031883'>Apply</a></td>
+      <td>Jun 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zoom</b></td>
+      <td>San Jose (CA)</td>
+      <td>Audio Software Engineer</td>
+      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/Audio-Software-Engineer_R19284'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-29-08-43-11'>🕐 Batch at 2026-06-29 08:43:11</h3>
 
@@ -148,4 +425,3 @@
 <table>
 
 ---
-
