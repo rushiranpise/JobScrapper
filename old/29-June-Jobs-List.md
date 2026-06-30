@@ -4,8 +4,139 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-29 19:48:00](#batch-2026-06-29-19-48-00)
 - [Batch at 2026-06-29 12:55:20](#batch-2026-06-29-12-55-20)
 - [Batch at 2026-06-29 08:43:11](#batch-2026-06-29-08-43-11)
+
+<h3 id='batch-2026-06-29-19-48-00'>🕐 Batch at 2026-06-29 19:48:00</h3>
+
+📊 **Total jobs in this batch: 14**
+
+**Per company:**
+- Airbnb: 1 job
+- Anduril Industries: 2 jobs
+- Motorola Solutions, Inc: 1 job
+- Applied Materials: 2 jobs
+- BAH: 2 jobs
+- CMU: 1 job
+- genpt: 1 job
+- NVIDIA: 2 jobs
+- OpenEye: 1 job
+- Toast: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Airbnb</b></td>
+      <td>Remote - USA or Canada</td>
+      <td>Software Engineer, Cloud Networking</td>
+      <td><a href='https://careers.airbnb.com/positions/8037090?gh_jid=8037090'>Apply</a></td>
+      <td>Jun 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Frontend Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5147775007?gh_jid=5147775007'>Apply</a></td>
+      <td>Jun 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Washington, District of Columbia, United States</td>
+      <td>Software Engineer, Training Platform</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5175168007?gh_jid=5175168007'>Apply</a></td>
+      <td>Jun 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Illinois Remote Work, More...</td>
+      <td>FLEX Regional Software Specialist</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Illinois-Remote-Work/FLEX-Regional-Software-Specialist_R65807'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Gloucester,MA</td>
+      <td>2026 Fall Process Engineer Co-op - Adv Degree Gloucester, MA</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2026-Fall-Process-Engineer-Co-op---Adv-Degree-Gloucester--MA_R2611502'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>CW - Material Coordinator/Handler III - (O3)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/CW---Material-Coordinator-Handler-III----O3-_R2622042'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Development-Engineer_R0243339'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Rome, NY</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0243328'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Systems Software Engineer - Computing Services</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Systems-Software-Engineer---Computing-Services_2024765'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>West Sacramento, CA, USA</td>
+      <td>Store Counter Trainee (Part Time)</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/West-Sacramento-CA-USA/Store-Counter-Trainee--Part-Time-_R26_0000021120-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Java Engineering Intern - Fall 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>System Software Engineer - Performance Lab</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Performance-Lab_JR2019929'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenEye</b></td>
+      <td>Liberty Lake, Washington</td>
+      <td>Software QA Specialist II</td>
+      <td><a href='https://job-boards.greenhouse.io/alarmcom/jobs/8612752002'>Apply</a></td>
+      <td>Jun 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Toast</b></td>
+      <td>Boston, MA</td>
+      <td>MBA Intern - AI Ops Transformation</td>
+      <td><a href='https://careers.toasttab.com/jobs?gh_jid=7909139'>Apply</a></td>
+      <td>Jun 29, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-29-12-55-20'>🕐 Batch at 2026-06-29 12:55:20</h3>
 
@@ -282,7 +413,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-29-08-43-11'>🕐 Batch at 2026-06-29 08:43:11</h3>
 
 📊 **Total jobs in this batch: 16**
