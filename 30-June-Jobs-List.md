@@ -4,8 +4,313 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-30 12:53:44](#batch-2026-06-30-12-53-44)
 - [Batch at 2026-06-30 07:12:17](#batch-2026-06-30-07-12-17)
 - [Batch at 2026-06-30 02:08:56](#batch-2026-06-30-02-08-56)
+
+<h3 id='batch-2026-06-30-12-53-44'>🕐 Batch at 2026-06-30 12:53:44</h3>
+
+📊 **Total jobs in this batch: 37**
+
+**Per company:**
+- Abnormal Security: 1 job
+- Motorola Solutions, Inc: 3 jobs
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 3 jobs
+- AQR Capital Management: 1 job
+- Anduril Industries: 3 jobs
+- BAH: 4 jobs
+- Brink: 1 job
+- Citi: 1 job
+- Coinbase: 1 job
+- KLA: 1 job
+- Micron: 5 jobs
+- Penn Mutual: 1 job
+- Remitly: 1 job
+- Salesforce: 1 job
+- Snowflake: 1 job
+- Sony AI America Inc: 1 job
+- SRK Supplylogix LLC: 1 job
+- The Walt Disney Company: 1 job
+- Upstart: 2 jobs
+- Waymo: 1 job
+- Warner Bros: 1 job
+- Wiley Edge/mthree: 1 job
+- Workday: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Abnormal Security</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer II - Full Stack</td>
+      <td><a href='https://abnormal.ai/careers/jobs/7786309003?gh_jid=7786309003'>Apply</a></td>
+      <td>Jun 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Illinois, US Offsite, More...</td>
+      <td>Solution Architect - Emergency Call Handling</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Illinois-US-Offsite/Solution-Architect---Emergency-Call-Handling_R64041'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Illinois Remote Work, More...</td>
+      <td>Public Safety Software Application Specialist (Flex, CommandCentral, PremierOne)</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Illinois-Remote-Work/Public-Safety-Software-Application-Specialist--Flex--CommandCentral--PremierOne-_R66016'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Salt Lake City, UT (UT17)</td>
+      <td>Software Engineer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Salt-Lake-City-UT-UT17/Software-Engineer_R64168'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Child and Adolescent Health Intern, YRBS Support</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Child-and-Adolescent-Health-Intern--YRBS-Support_JR62036-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Texas County</td>
+      <td>Physical Therapist II or III</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Texas-County/Physical-Therapist-II-or-III_JR62001'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Texas County</td>
+      <td>Occupational Therapist I, II, or III</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Texas-County/Occupational-Therapist-I--II--or-III_JR61999'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>AQR Capital Management</b></td>
+      <td>Greenwich, CT</td>
+      <td>Analyst (AQR Capital Management, LLC, Greenwich, CT)</td>
+      <td><a href='https://careers.aqr.com/jobs?gh_jid=8038473&gh_jid=8038473'>Apply</a></td>
+      <td>Jun 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Controls System Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5155901007?gh_jid=5155901007'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Infrastructure Deployment Administrator</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5173215007?gh_jid=5173215007'>Apply</a></td>
+      <td>Jun 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Fort Benning, Georgia, United States</td>
+      <td>SIP | Ranger Regiment Trainer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5171001007?gh_jid=5171001007'>Apply</a></td>
+      <td>Jun 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>AI Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/AI-Software-Engineer_R0242886'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Web Application Quality Assurance & Test Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Web-Application-Quality-Assurance---Test-Engineer_R0243383'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Nellis AFB, NV</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Nellis-AFB-NV/Data-Engineer_R0243381'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Reston, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Reston-VA/Data-Scientist--Mid_R0243379'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Brink</b></td>
+      <td>Springfield Gardens NY</td>
+      <td>Data & Production Coordinator</td>
+      <td><a href='https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Springfield-Gardens-NY/Precious-Metals-Production-Coordinator_R73586'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Johnson City Tennessee United States</td>
+      <td>Collections Specialist - Train Onsite Work from Home. Salary up to $20/hourly - Johnson City, TN</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Johnson-City-Tennessee-United-States/Collections-Specialist---Train-Onsite-Work-from-Home-Salary-up-to--20-hourly---Johnson-City--TN_26975926'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8022068?gh_jid=8022068'>Apply</a></td>
+      <td>Jun 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Hillsboro, OR</td>
+      <td>Applications Development Engineer - FaST</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Hillsboro-OR/Applications-Development-Engineer---FaST_2638209-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>New College Grad - Product Yield Enhancement Engineer, HBM</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---Product-Yield-Enhancement-Engineer--HBM_JR104805'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>New College Grad - Product Yield Enhancement Engineer, HBM</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Product-Yield-Enhancement-Engineer--HBM_JR104804'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Product Yield & Analytics PYAi Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Product-Yield---Analytics-PYAi-Engineer_JR99163-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>New College Grad - ENGINEER - PYE</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---ENGINEER---PYE_JR93485'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - ID1</td>
+      <td>New College Grad - ID1 IT Network Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/New-College-Grad---ID1-IT-Network-Engineer_JR104898'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Penn Mutual</b></td>
+      <td>Remote - United States</td>
+      <td>CO-OP (Operations)</td>
+      <td><a href='https://pennmutual.wd1.myworkdayjobs.com/en-US/_penn-careers/job/Remote---United-States/CO-OP--Operations-_R-100619'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Remitly</b></td>
+      <td>Seattle, Washington United States</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer_R_106472'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Georgia - Atlanta</td>
+      <td>Software Engineer II, Datastores</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Georgia---Atlanta/Software-Engineer-II--Datastores_JR349661-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-WA-Bellevue</td>
+      <td>Data Platform Architect, Analytics - Applied Field Engineering</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/d769f62a-6dc5-4674-a9dc-04b042582633'>Apply</a></td>
+      <td>Jun 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Sony AI America Inc</b></td>
+      <td>Remote - New York</td>
+      <td>Research Intern on Generative and Protective AI for Content Creation</td>
+      <td><a href='https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, TX, Irving</td>
+      <td>Software Developer</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Software-Developer_JR0149946'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Remote Worker Location, USA</td>
+      <td>Software Development Engineer in Test (SDET)</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Remote-Worker-Location-USA/Software-Development-Engineer-in-Test--SDET-_10146997'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Upstart</b></td>
+      <td>United States | Remote</td>
+      <td>Data Analyst, Home Lending HMDA</td>
+      <td><a href='https://careers.upstart.com/jobs?gh_jid=8038452'>Apply</a></td>
+      <td>Jun 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Upstart</b></td>
+      <td>United States | Remote</td>
+      <td>Software Engineer, Conversion</td>
+      <td><a href='https://careers.upstart.com/jobs?gh_jid=8014391'>Apply</a></td>
+      <td>Jun 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, California, USA; San Francisco, California; USA; Pittsburg Pennsylvania, USA</td>
+      <td> Software Engineer, Planner (L4)</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8039191'>Apply</a></td>
+      <td>Jun 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Warner Bros</b></td>
+      <td>Mexico City, Paseo de las Palmas No.425-701</td>
+      <td>Supplier Master Data Analyst</td>
+      <td><a href='https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/Mexico-City-Paseo-de-las-Palmas-No425-701/Supplier-Master-Data-Analyst_R000106643'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Wiley Edge/mthree</b></td>
+      <td>Cary, NC, USA</td>
+      <td>Email Advertising Operations Specialist</td>
+      <td><a href='https://wiley.wd1.myworkdayjobs.com/en-US/wiley_careers/job/Cary-NC-USA/Email-Advertising-Operations-Specialist_R2600897'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA, CO, Boulder</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/DevOps-Engineer_JR-0108209'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-30-07-12-17'>🕐 Batch at 2026-06-30 07:12:17</h3>
 
@@ -84,7 +389,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-30-02-08-56'>🕐 Batch at 2026-06-30 02:08:56</h3>
 
 📊 **Total jobs in this batch: 5**
