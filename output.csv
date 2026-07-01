@@ -1,21 +1,3 @@
-company,title,location,postedOn,link,updatedOn
-"Samsung Electronics America, Inc",Fault Detection & Classification (FDC) Data Science Engineer,"12100 Samsung Blvd, Austin, TX, USA",Posted Today,https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Fault-Detection---Classification--FDC--Data-Science-Engineer_R118244-1,
-BAH,Unmanned Systems Software Developer,"San Diego, CA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Unmanned-Systems-Software-Developer_R0243439,
-BAH,TAK Developer,"McLean, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/TAK-Developer_R0243395,
-BAH,Maven Smart System Trainer,"Quantico, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/Maven-Smart-System-Trainer_R0243444,
-BAH,Data Migration Engineer,"Lanham, MD",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lanham-MD/Data-Migration-Engineer_R0243211,
-BAH,"Intelligence Training Specialist, Mid","Springfield, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Intelligence-Training-Specialist--Mid_R0243666,
-BAH,Generative AI Engineer,"Ashburn, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/Generative-AI-Engineer_R0243416,
-BAH,AL/ML Evaluation Engineer,"Atlanta, GA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/AL-ML-Evaluation-Engineer_R0243409,
-Children's Hospital Medical Center,"OR Tech, Main OR - Surgical Tech Students",Burnet Campus,Posted Today,https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Burnet-Campus/OR-Tech--Main-OR---Surgical-Tech-Students_JR222022,
-Citi,"SEM Budget Operations Specialist, Paid Search Activation",New York New York United States,Posted Today,https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/SEM-Budget-Operations-Specialist--Paid-Search-Activation_26975958,
-Citi,BANAMEX Risk Data Analyst,Ciudad De Mexico Distrito Federal Mexico,Posted Today,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Risk-Data-Analyst_26973148,
-CMU,DevOps Engineer,"Pittsburgh, PA",Posted Today,https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/DevOps-Engineer_2024788,
-CMU,Software Engineer,"Pittsburgh, PA",Posted Today,https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Software-Engineer_2024794,
-Enova,NetCredit Application Support Representative (Remote),"Chicago, IL",2026-06-30T16:48:53-04:00,https://job-boards.greenhouse.io/enova/jobs/8039600,2026-06-30T16:48:53-04:00
-Glean,"Software Engineer, Cloud Infrastructure","Mountain View, CA",2026-06-30T16:28:53-04:00,https://job-boards.greenhouse.io/gleanwork/jobs/4709327005,2026-06-30T16:28:58-04:00
-Scale AI,"Software Engineer, Identity","San Francisco, CA; New York, NY",2026-06-30T16:51:01-04:00,https://job-boards.greenhouse.io/scaleai/jobs/4710484005,2026-06-30T16:51:01-04:00
-Stripe,"Full Stack Engineer, Support Experience (Greater China Support)",US,2026-06-30T16:36:05-04:00,https://stripe.com/jobs/search?gh_jid=8039548,2026-06-30T16:36:05-04:00
-The Toro,"2nd shift Laser Programmer, $2,000 Sign on Bonus - Ventrac","Orrville, OH",Posted Today,https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Orrville-OH/Laser-Operator---2-000-Sign-on-Bonus---Ventrac_JR16507-1,
-Workday,Software Engineer/Software Development Engineer (P3),"USA, GA, Atlanta",Posted Today,https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-GA-Atlanta/Software-Engineer-Software-Development-Engineer--P3-_JR-0108515-2,
-Workday,Software Development Engineer,USA.VA.Reston,Posted Today,https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer_JR-0108422,
+company,title,location,link,postedOn
+Datamaxis,Fullstack Engineer - React Developer,"Hyderabad, IN",https://datamaxis.breezy.hr/p/0899eccc220a-fullstack-engineer-react-developer,2026-07-01T04:42:58.200Z
+Workday,Software Development Engineer,"USA, OH, Mason",https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-OH-Mason/Software-Development-Engineer_JR-0108529,Posted Today
