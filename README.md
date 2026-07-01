@@ -4,9 +4,183 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-06-30 19:54:16](#batch-2026-06-30-19-54-16)
 - [Batch at 2026-06-30 12:53:44](#batch-2026-06-30-12-53-44)
 - [Batch at 2026-06-30 07:12:17](#batch-2026-06-30-07-12-17)
 - [Batch at 2026-06-30 02:08:56](#batch-2026-06-30-02-08-56)
+
+<h3 id='batch-2026-06-30-19-54-16'>🕐 Batch at 2026-06-30 19:54:16</h3>
+
+📊 **Total jobs in this batch: 20**
+
+**Per company:**
+- Samsung Electronics America, Inc: 1 job
+- BAH: 7 jobs
+- Children's Hospital Medical Center: 1 job
+- Citi: 2 jobs
+- CMU: 2 jobs
+- Enova: 1 job
+- Glean: 1 job
+- Scale AI: 1 job
+- Stripe: 1 job
+- The Toro: 1 job
+- Workday: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>12100 Samsung Blvd, Austin, TX, USA</td>
+      <td>Fault Detection & Classification (FDC) Data Science Engineer</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Fault-Detection---Classification--FDC--Data-Science-Engineer_R118244-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Diego, CA</td>
+      <td>Unmanned Systems Software Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Unmanned-Systems-Software-Developer_R0243439'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>TAK Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/TAK-Developer_R0243395'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Quantico, VA</td>
+      <td>Maven Smart System Trainer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/Maven-Smart-System-Trainer_R0243444'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lanham, MD</td>
+      <td>Data Migration Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lanham-MD/Data-Migration-Engineer_R0243211'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Springfield, VA</td>
+      <td>Intelligence Training Specialist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Intelligence-Training-Specialist--Mid_R0243666'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Ashburn, VA</td>
+      <td>Generative AI Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/Generative-AI-Engineer_R0243416'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Atlanta, GA</td>
+      <td>AL/ML Evaluation Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/AL-ML-Evaluation-Engineer_R0243409'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Children's Hospital Medical Center</b></td>
+      <td>Burnet Campus</td>
+      <td>OR Tech, Main OR - Surgical Tech Students</td>
+      <td><a href='https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Burnet-Campus/OR-Tech--Main-OR---Surgical-Tech-Students_JR222022'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>New York New York United States</td>
+      <td>SEM Budget Operations Specialist, Paid Search Activation</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/SEM-Budget-Operations-Specialist--Paid-Search-Activation_26975958'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX Risk Data Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Risk-Data-Analyst_26973148'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/DevOps-Engineer_2024788'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Software-Engineer_2024794'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Enova</b></td>
+      <td>Chicago, IL</td>
+      <td>NetCredit Application Support Representative (Remote)</td>
+      <td><a href='https://job-boards.greenhouse.io/enova/jobs/8039600'>Apply</a></td>
+      <td>Jun 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Glean</b></td>
+      <td>Mountain View, CA</td>
+      <td>Software Engineer, Cloud Infrastructure</td>
+      <td><a href='https://job-boards.greenhouse.io/gleanwork/jobs/4709327005'>Apply</a></td>
+      <td>Jun 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Scale AI</b></td>
+      <td>San Francisco, CA; New York, NY</td>
+      <td>Software Engineer, Identity</td>
+      <td><a href='https://job-boards.greenhouse.io/scaleai/jobs/4710484005'>Apply</a></td>
+      <td>Jun 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>US</td>
+      <td>Full Stack Engineer, Support Experience (Greater China Support)</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=8039548'>Apply</a></td>
+      <td>Jun 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Orrville, OH</td>
+      <td>2nd shift Laser Programmer, $2,000 Sign on Bonus - Ventrac</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Orrville-OH/Laser-Operator---2-000-Sign-on-Bonus---Ventrac_JR16507-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA, GA, Atlanta</td>
+      <td>Software Engineer/Software Development Engineer (P3)</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-GA-Atlanta/Software-Engineer-Software-Development-Engineer--P3-_JR-0108515-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA.VA.Reston</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer_JR-0108422'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-06-30-12-53-44'>🕐 Batch at 2026-06-30 12:53:44</h3>
 
@@ -311,7 +485,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-06-30-07-12-17'>🕐 Batch at 2026-06-30 07:12:17</h3>
 
 📊 **Total jobs in this batch: 7**
@@ -388,8 +561,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-06-30-02-08-56'>🕐 Batch at 2026-06-30 02:08:56</h3>
+---<h3 id='batch-2026-06-30-02-08-56'>🕐 Batch at 2026-06-30 02:08:56</h3>
 
 📊 **Total jobs in this batch: 5**
 
