@@ -4,9 +4,157 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-01 19:44:24](#batch-2026-07-01-19-44-24)
 - [Batch at 2026-07-01 12:52:18](#batch-2026-07-01-12-52-18)
 - [Batch at 2026-07-01 07:24:30](#batch-2026-07-01-07-24-30)
 - [Batch at 2026-07-01 02:41:34](#batch-2026-07-01-02-41-34)
+
+<h3 id='batch-2026-07-01-19-44-24'>🕐 Batch at 2026-07-01 19:44:24</h3>
+
+📊 **Total jobs in this batch: 16**
+
+**Per company:**
+- Affirm : 1 job
+- Applied Materials: 1 job
+- BAH: 2 jobs
+- Citi: 1 job
+- Esri: 1 job
+- Intel Corporation: 1 job
+- KLA: 2 jobs
+- Nike: 1 job
+- NVIDIAExternalCareerSite: 2 jobs
+- palantir: 1 job
+- PlayStation Global: 1 job
+- spacex: 1 job
+- Zipline: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>AI Solutions Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/7778204003'>Apply</a></td>
+      <td>Jul 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>2026 NCG - Software Engineer, BS/MS (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2026-NCG---Software-Engineer--BS-MS-_R2619063'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Norfolk, VA</td>
+      <td>AI/ML Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/AI-ML-Engineer_R0243798'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Cleveland, OH</td>
+      <td>Data Management Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Cleveland-OH/Data-Management-Analyst_R0243489'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ofallon Missouri United States</td>
+      <td>Fraud Operations Specialist - Train On-Site Home Office Program Salary up to $21.05/HR</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ofallon-Missouri-United-States/Fraud-Servicing-Specialist---Contact-Center--Hybrid----Starting-at--2005-HR_26970958'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Olympia, WA</td>
+      <td>Software Development Engineer </td>
+      <td><a href='https://www.esri.com/careers/5174174007?gh_jid=5174174007'>Apply</a></td>
+      <td>Jul 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, California, Folsom</td>
+      <td>SOC AI Power and Performance Validation Undergrad Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/SOC-AI-Power-and-Performance-Validation-Undergrad-Intern_JR0285242-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineer_2638581-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Associate Test Engineer Trainee</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Associate-Test-Engineer-Trainee_2638034'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Beaverton, Oregon</td>
+      <td>Software Engineer</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer_R-86497'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIAExternalCareerSite</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>IT Infrastructure Compliance Engineer</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-IT-Auditor---Contract-Manufacturing-Partners_JR2019156'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIAExternalCareerSite</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Applied Research Intern, NLP - Fall 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>palantir</b></td>
+      <td>Washington, D.C.</td>
+      <td>Forward Deployed Software Engineer, Internship - Intel</td>
+      <td><a href='https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89'>Apply</a></td>
+      <td>2026-07-01 19:22:25</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, Los Angeles, CA</td>
+      <td>Software Development Engineer in Test Contractor (SDET Contractor)</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6102746004'>Apply</a></td>
+      <td>Jul 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Technical Trainer, CNC Machining (Starship Components)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8605834002?gh_jid=8605834002'>Apply</a></td>
+      <td>Jul 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Frontend - Data Platform (Autonomy)</td>
+      <td><a href='https://www.zipline.com/open-roles?gh_jid=7791991003'>Apply</a></td>
+      <td>Jul 01, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-01-12-52-18'>🕐 Batch at 2026-07-01 12:52:18</h3>
 
@@ -340,7 +488,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-07-01-07-24-30'>🕐 Batch at 2026-07-01 07:24:30</h3>
 
 📊 **Total jobs in this batch: 8**
@@ -424,8 +571,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-07-01-02-41-34'>🕐 Batch at 2026-07-01 02:41:34</h3>
+---<h3 id='batch-2026-07-01-02-41-34'>🕐 Batch at 2026-07-01 02:41:34</h3>
 
 📊 **Total jobs in this batch: 2**
 
