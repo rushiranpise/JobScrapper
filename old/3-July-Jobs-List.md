@@ -4,7 +4,46 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-03 06:55:54](#batch-2026-07-03-06-55-54)
 - [Batch at 2026-07-03 02:00:59](#batch-2026-07-03-02-00-59)
+
+<h3 id='batch-2026-07-03-06-55-54'>🕐 Batch at 2026-07-03 06:55:54</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- Concentrix: 1 job
+- MOOG: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>ESP Barcelona - C/ de la Selva de Mar, 129</td>
+      <td>Research and Go-to-Market Intern (English -speaking) - Hybrid</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/ESP-Barcelona---C-de-la-Selva-de-Mar-129/Research-and-Go-to-Market-Intern--English--speaking----Hybrid_R1741462'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Böblingen, DE</td>
+      <td>Teamleiter (m/w/d) Operativer Einkauf</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Bblingen-DE/Teamleiter--m-w-d--Operativer-Einkauf_R-26-18706'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-03-02-00-59'>🕐 Batch at 2026-07-03 02:00:59</h3>
 
@@ -51,4 +90,3 @@
 <table>
 
 ---
-
