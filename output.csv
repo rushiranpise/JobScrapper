@@ -1,23 +1,32 @@
-company,title,location,postedOn,link,updatedOn
-"Motorola Solutions, Inc",Demo Site Junior Engineer,"Allen, TX (TX139)",Posted Today,https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Allen-TX-TX139/Demo-Site-Junior-Engineer_R66335,
-BAH,Data Analyst,"San Diego, CA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Analyst_R0243644,
-BAH,DevOps Developer,"San Antonio, TX",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/DevOps-Developer_R0243649,
-BAH,"Open-Source Research Analyst, Junior","McLean, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0243862,
-BAH,Gaming Experience Full Stack Developer,"Washington, DC",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Gaming-Experience-Full-Stack-Developer_R0243512,
-BAH,Data Architect,"Warner Robins, GA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warner-Robins-GA/Data-Architect_R0243613,
-BAH,High Side Operations Software Engineer,"Alexandria, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/High-Side-Operations-Software-Engineer_R0240985,
-Cape,"Web Developer, Contract","New York, NY",2026-07-02T13:47:57.909+00:00,https://jobs.ashbyhq.com/cape/9c2ad71e-6529-4272-86fa-83307963f90c,
-Clear,Fullstack Software Engineer,"New York, New York, United States",2026-07-02T12:08:31-04:00,https://job-boards.greenhouse.io/clear/jobs/8043865,2026-07-02T12:08:31-04:00
-Enova,Software Engineer - SMB (Hybrid),"Chicago, IL",2026-07-02T11:32:30-04:00,https://job-boards.greenhouse.io/enova/jobs/8043813,2026-07-02T11:32:30-04:00
-Esri,Software Development Engineer II - Data Management,"Redlands, CA",2026-07-02T14:29:03-04:00,https://www.esri.com/careers/5178577007?gh_jid=5178577007,2026-07-02T14:29:03-04:00
-General Motors LLC,Stationary Engineer Journeyperson - Spring Hill Assembly (Evergreen),"Spring Hill, Tennessee, United States of America",Posted Today,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Spring-Hill-Tennessee-United-States-of-America/Stationary-Engineer-Journeyperson---Spring-Hill-Assembly--Evergreen-_JR-202614432,
-genpt,Store Paint Specialist,"Albuquerque, NM, USA",Posted Today,https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Albuquerque-NM-USA/Store-Paint-Specialist_R26_0000021762,
-Intel Corporation,DTCO Data Engineer Intern,"US, Texas, Austin",Posted Today,https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341,
-Intel Corporation,Automation Software Development Integration Engineer,"US, Arizona, Phoenix",Posted Today,https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Automation-Software-Development-Integration-Engineer_JR0277568,
-LexisNexis Risk Solutions,Software Engineer I,Delaware,Posted Today,https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Delaware/Software-Engineer-I_R115637,
-Micron,New College Grad - Firmware Engineer,"Boise, ID - Main Site",Posted Today,https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Staff-Firmware-Engineer_JR93178,
-Natera ,Bus Ops Trainer I,US Remote,2026-07-02T12:03:30-04:00,https://job-boards.greenhouse.io/natera/jobs/6107341004,2026-07-02T12:09:35-04:00
-Snowflake,"Data Cloud Architect, Analytics, Applied Field Engineering",US-CA-Menlo Park,2026-07-02T15:36:50.031+00:00,https://jobs.ashbyhq.com/snowflake/14c8cf8b-643e-44e0-89df-a0995f99fee6,
-SRK Supplylogix LLC,Consolidated Mail Outpatient Pharmacy (CMOP) Coordinator,"USA, MO, O Fallon",Posted Today,https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-MO-O-Fallon/Consolidated-Mail-Outpatient-Pharmacy--CMOP--Coordinator_JR0149998,
-The Walt Disney Company,Software Engineer II,"New York, NY, USA",Posted Today,https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Software-Engineer-II_10147340,
-Xylem Services USA LLC,Material Handler,"Rockford, Illinois",Posted Today,https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Rockford-Illinois/Material-Handler_R49375,
+company,title,location,link,postedOn,updatedOn
+Amperity,Software Development Engineer II - Infrastructure,"Seattle, WA",https://amperity.com/careers?gh_jid=7508164#openpositions,2025-12-31T19:18:22-05:00,2026-07-02T17:24:13-04:00
+Anduril Industries,Robotics Software Engineer,"Costa Mesa, California, United States",https://boards.greenhouse.io/andurilindustries/jobs/5136146007?gh_jid=5136146007,2026-07-02T16:12:00-04:00,2026-07-02T20:40:29-04:00
+Anduril Industries,Robotics Software Engineer,"Boston, Massachusetts, United States",https://boards.greenhouse.io/andurilindustries/jobs/5179580007?gh_jid=5179580007,2026-07-02T16:13:35-04:00,2026-07-02T20:40:29-04:00
+566 DEPARTMENT OF TOURISM AND RECREATION,Jr. Data Scientist,Oklahoma County,https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Jr-Data-Scientist_JR62116,Posted Today,
+Allstate,Field Auto Damage Appraiser - Nassau County,USA - NY (Remote),https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---NY-Remote/Field-Auto-Damage-Appraiser---Nassau-County_R31962,Posted Today,
+ASMLEXT1,Wilton Factory Optics Fabrication Technician - CWW Back End Days,"Wilton, CT, USA",https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Wilton-Factory-Optics-Fabrication-Technician---CWW-Back-End-Days_J-00346715-1,Posted Today,
+Applied Materials,Algorithm Developer,"Santa Clara,CA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Algorithm-Developer_R2612750,Posted Today,
+Applied Materials,CV/ML/DL Algorithm Developer,"Santa Clara,CA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/CV-ML-DL-Algorithm-Developer_R2612906,Posted Today,
+Applied Materials,Logistics Material Handler,"Phoenix,AZ",https://amat.wd1.myworkdayjobs.com/en-US/External/job/PhoenixAZ/Customer-Support-Technician-II--T2-_R2621643,Posted Today,
+BAH,"Signals Data Analyst, Mid","Buckley AFB, CO",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Buckley-AFB-CO/Signals-Data-Analyst--Mid_R0243646,Posted Today,
+BAH,"Signals Data Analyst, Mid","Dayton, OH",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Signals-Data-Analyst--Mid_R0243645,Posted Today,
+BAH,DevOps Engineer,"Dayton, OH",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/DevOps-Engineer_R0243690,Posted Today,
+BAH,Data Scientist,"Chantilly, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Data-Scientist_R0243682,Posted Today,
+BAH,Infrastructure Specialist,"North Charleston, SC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/North-Charleston-SC/Infrastructure-Specialist_R0242021,Posted Today,
+BAH,Data Scientist,"Washington, DC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0243614,Posted Today,
+BorgWarner,2nd Shift Fan Production Operator (Grade C - $21.01-$24.16),Arden - North Carolina - USA,https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/XMLNAME-2nd-Shift-Fan-Production-Operator--Grade-C----2101--2416-_R2026-2628,Posted Today,
+Broadcom ,Mainframe Software Development Engineer in Test,USA-IL Lisle Warrenville Road,https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-IL-Lisle-Warrenville-Road/Mainframe-Software-Development-Engineer-in-Test_R026354,Posted Today,
+Core Weave,Data Center Apprentice Program,"Ellendale, ND / Dalton, GA",https://coreweave.com/careers/job?4694103006&board=coreweave&gh_jid=4694103006,2026-07-02T15:44:40-04:00,2026-07-02T17:09:06-04:00
+Core Weave,Data Scientist,"New York, NY",https://coreweave.com/careers/job?4694223006&board=coreweave&gh_jid=4694223006,2026-07-02T16:33:23-04:00,2026-07-02T16:33:23-04:00
+DoorDash ,"Software Engineer, Spark Platform","San Francisco, CA; Seattle, WA; Sunnyvale, CA; New York, NY",https://job-boards.greenhouse.io/doordashusa/jobs/8044370,2026-07-02T15:22:51-04:00,2026-07-02T15:22:51-04:00
+Glean,"Software Engineer, Cloud Deployment Infrastructure","San Francisco, CA",https://job-boards.greenhouse.io/gleanwork/jobs/4711861005,2026-07-02T16:11:57-04:00,2026-07-02T16:11:57-04:00
+genpt,Material Handler I,"Birmingham, AL, USA",https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Material-Handler-I_R26_0000021067,Posted Today,
+genpt,Material Handler I,"Birmingham, AL, USA",https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Material-Handler-I_R26_0000021072,Posted Today,
+genpt,Release Train Engineer,"Birmingham, AL, USA",https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Release-Train-Engineer_R26_0000020765,Posted Today,
+IXL Learning,"Software Engineer, New Grad","San Mateo, CA",https://www.ixl.com/company/jobs?gh_jid=8615710002,2026-07-02T16:05:16-04:00,2026-07-02T16:53:02-04:00
+IXL Learning,"Software Engineer, New Grad","Raleigh, NC",https://www.ixl.com/company/jobs?gh_jid=8615717002,2026-07-02T16:05:48-04:00,2026-07-02T16:07:11-04:00
+Intel Corporation,Mfg Systems Software Development Engineer,"US, Oregon, Hillsboro",https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Mfg-Systems-Software-Development-Engineer_JR0284837,Posted Today,
+NVIDIA,Robotics Software Engineer - Robot Simulation and Benchmarking,"US, CA, Santa Clara",https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Software-Engineer---Robot-Simulation-and-Benchmarking_JR2020637,Posted Today,
+VSP,Data Engineer (Snowflake/DataStage),Remote US,https://vsp.wd1.myworkdayjobs.com/en-US/vspvisioncareers/job/Remote-US/Data-Engineer--Snowflake-DataStage-_R-9701,Posted Today,
+Zoox,Part-Time Student Worker – AI Validation and Benchmarking Engineer,"Foster City, CA",https://jobs.lever.co/zoox/6d8b31d2-6391-44b7-bf9f-93360172fae8,2026-07-02 21:29:06,N/A
+Zoox,Part-time Student Worker – Software Development Engineer in Test,"Foster City, CA",https://jobs.lever.co/zoox/019b636a-23c9-4366-90fd-5a95ad9e5049,2026-07-02 22:51:43,N/A

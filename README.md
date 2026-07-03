@@ -4,9 +4,267 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-02 19:19:10](#batch-2026-07-02-19-19-10)
 - [Batch at 2026-07-02 12:22:14](#batch-2026-07-02-12-22-14)
 - [Batch at 2026-07-02 06:51:54](#batch-2026-07-02-06-51-54)
 - [Batch at 2026-07-02 01:53:08](#batch-2026-07-02-01-53-08)
+
+<h3 id='batch-2026-07-02-19-19-10'>🕐 Batch at 2026-07-02 19:19:10</h3>
+
+📊 **Total jobs in this batch: 31**
+
+**Per company:**
+- Amperity: 1 job
+- Anduril Industries: 2 jobs
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- Allstate: 1 job
+- ASMLEXT1: 1 job
+- Applied Materials: 3 jobs
+- BAH: 6 jobs
+- BorgWarner: 1 job
+- Broadcom : 1 job
+- Core Weave: 2 jobs
+- DoorDash : 1 job
+- Glean: 1 job
+- genpt: 3 jobs
+- IXL Learning: 2 jobs
+- Intel Corporation: 1 job
+- NVIDIA: 1 job
+- VSP: 1 job
+- Zoox: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Amperity</b></td>
+      <td>Seattle, WA</td>
+      <td>Software Development Engineer II - Infrastructure</td>
+      <td><a href='https://amperity.com/careers?gh_jid=7508164#openpositions'>Apply</a></td>
+      <td>Dec 31, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Robotics Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5136146007?gh_jid=5136146007'>Apply</a></td>
+      <td>Jul 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Boston, Massachusetts, United States</td>
+      <td>Robotics Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5179580007?gh_jid=5179580007'>Apply</a></td>
+      <td>Jul 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Jr. Data Scientist</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Jr-Data-Scientist_JR62116'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - NY (Remote)</td>
+      <td>Field Auto Damage Appraiser - Nassau County</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---NY-Remote/Field-Auto-Damage-Appraiser---Nassau-County_R31962'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Wilton Factory Optics Fabrication Technician - CWW Back End Days</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Wilton-Factory-Optics-Fabrication-Technician---CWW-Back-End-Days_J-00346715-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Algorithm Developer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Algorithm-Developer_R2612750'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>CV/ML/DL Algorithm Developer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/CV-ML-DL-Algorithm-Developer_R2612906'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Phoenix,AZ</td>
+      <td>Logistics Material Handler</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/PhoenixAZ/Customer-Support-Technician-II--T2-_R2621643'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Buckley AFB, CO</td>
+      <td>Signals Data Analyst, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Buckley-AFB-CO/Signals-Data-Analyst--Mid_R0243646'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dayton, OH</td>
+      <td>Signals Data Analyst, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Signals-Data-Analyst--Mid_R0243645'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dayton, OH</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/DevOps-Engineer_R0243690'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Data-Scientist_R0243682'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>North Charleston, SC</td>
+      <td>Infrastructure Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/North-Charleston-SC/Infrastructure-Specialist_R0242021'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0243614'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Arden - North Carolina - USA</td>
+      <td>2nd Shift Fan Production Operator (Grade C - $21.01-$24.16)</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/XMLNAME-2nd-Shift-Fan-Production-Operator--Grade-C----2101--2416-_R2026-2628'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-IL Lisle Warrenville Road</td>
+      <td>Mainframe Software Development Engineer in Test</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-IL-Lisle-Warrenville-Road/Mainframe-Software-Development-Engineer-in-Test_R026354'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Ellendale, ND / Dalton, GA</td>
+      <td>Data Center Apprentice Program</td>
+      <td><a href='https://coreweave.com/careers/job?4694103006&board=coreweave&gh_jid=4694103006'>Apply</a></td>
+      <td>Jul 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>New York, NY</td>
+      <td>Data Scientist</td>
+      <td><a href='https://coreweave.com/careers/job?4694223006&board=coreweave&gh_jid=4694223006'>Apply</a></td>
+      <td>Jul 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>San Francisco, CA; Seattle, WA; Sunnyvale, CA; New York, NY</td>
+      <td>Software Engineer, Spark Platform</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/8044370'>Apply</a></td>
+      <td>Jul 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Glean</b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer, Cloud Deployment Infrastructure</td>
+      <td><a href='https://job-boards.greenhouse.io/gleanwork/jobs/4711861005'>Apply</a></td>
+      <td>Jul 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Material-Handler-I_R26_0000021067'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Material-Handler-I_R26_0000021072'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Release Train Engineer</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Release-Train-Engineer_R26_0000020765'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>IXL Learning</b></td>
+      <td>San Mateo, CA</td>
+      <td>Software Engineer, New Grad</td>
+      <td><a href='https://www.ixl.com/company/jobs?gh_jid=8615710002'>Apply</a></td>
+      <td>Jul 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>IXL Learning</b></td>
+      <td>Raleigh, NC</td>
+      <td>Software Engineer, New Grad</td>
+      <td><a href='https://www.ixl.com/company/jobs?gh_jid=8615717002'>Apply</a></td>
+      <td>Jul 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Mfg Systems Software Development Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Mfg-Systems-Software-Development-Engineer_JR0284837'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Robotics Software Engineer - Robot Simulation and Benchmarking</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Software-Engineer---Robot-Simulation-and-Benchmarking_JR2020637'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>VSP</b></td>
+      <td>Remote US</td>
+      <td>Data Engineer (Snowflake/DataStage)</td>
+      <td><a href='https://vsp.wd1.myworkdayjobs.com/en-US/vspvisioncareers/job/Remote-US/Data-Engineer--Snowflake-DataStage-_R-9701'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Part-Time Student Worker – AI Validation and Benchmarking Engineer</td>
+      <td><a href='https://jobs.lever.co/zoox/6d8b31d2-6391-44b7-bf9f-93360172fae8'>Apply</a></td>
+      <td>2026-07-02 21:29:06</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Part-time Student Worker – Software Development Engineer in Test</td>
+      <td><a href='https://jobs.lever.co/zoox/019b636a-23c9-4366-90fd-5a95ad9e5049'>Apply</a></td>
+      <td>2026-07-02 22:51:43</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-02-12-22-14'>🕐 Batch at 2026-07-02 12:22:14</h3>
 
@@ -199,7 +457,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-07-02-06-51-54'>🕐 Batch at 2026-07-02 06:51:54</h3>
 
 📊 **Total jobs in this batch: 7**
@@ -276,8 +533,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-07-02-01-53-08'>🕐 Batch at 2026-07-02 01:53:08</h3>
+---<h3 id='batch-2026-07-02-01-53-08'>🕐 Batch at 2026-07-02 01:53:08</h3>
 
 📊 **Total jobs in this batch: 4**
 
