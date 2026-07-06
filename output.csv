@@ -1,10 +1,41 @@
-company,title,location,postedOn,link,updatedOn
-Applied Materials,XRF Applications Engineer – Semiconductor Metrology III (E3),"Benicia,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/BeniciaCA/XRF-Applications-Engineer---Semiconductor-Metrology-III--E3-_R2622934,
-BAH,Experiment Campaign Analyst,"Jacksonville, FL",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Jacksonville-FL/Experiment-Campaign-Analyst_R0243742,
-BAH,Full Stack Developer,"San Antonio, TX",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Full-Stack-Developer_R0243706,
-Dematic Corp. (ILD-US),Servicetechniker (Wien/Niederösterreich/Burgendland),"Wiener Neudorf, Austria",Posted Today,https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Wiener-Neudorf-Austria/Servicetechniker--Wien-Niedersterreich-Burgendland-_JR-0089457-2,
-Hudl,Workplace Operations Intern,"Lincoln, NE, United States",2026-07-06T11:17:13-04:00,https://job-boards.greenhouse.io/hudl/jobs/7904224,2026-07-06T11:17:34-04:00
-Hudson River Trading,Junior Trading Systems Engineer,"Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States",2026-07-06T08:51:08-04:00,https://www.hudsonrivertrading.com/careers/job/?gh_jid=8046074,2026-07-06T08:51:08-04:00
-Precisely,AI Solutions Engineer - Professional Services,United States,2026-07-06T09:49:54-04:00,https://www.precisely.com/careers-and-culture/us-jobs/job/4711705005?gh_jid=4711705005,2026-07-06T09:49:54-04:00
-The Walt Disney Company,Software Engineer,"Lake Buena Vista, FL, USA",Posted Today,https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Software-Engineer_10150588-1,
-The Walt Disney Company,Ingénieur(e) Mécanique (Terrain) F/H/NB - CDI,"Marne la Vallee Cedex 4, France",Posted Today,https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Marne-la-Vallee-Cedex-4-France/Ingnieur-e--Mcanique--Maintenance--F-H-NB---CDI_10153638,
+company,title,location,link,postedOn,updatedOn
+Anduril Industries,Software Engineer- Battlespace Awareness,"Fort Collins, Colorado, United States",https://boards.greenhouse.io/andurilindustries/jobs/5180557007?gh_jid=5180557007,2026-07-06T14:37:19-04:00,2026-07-06T14:37:19-04:00
+Anduril Industries,"Software Engineer, Maneuver Dominance","Costa Mesa, California, United States",https://boards.greenhouse.io/andurilindustries/jobs/5113527007?gh_jid=5113527007,2026-04-27T14:56:15-04:00,2026-07-06T11:47:44-04:00
+"Motorola Solutions, Inc","Applications Engineer-I, USA","Los Angeles, CA",https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Los-Angeles-CA/Applications-Engineer-I--USA_R66460,Posted Today,
+"Motorola Solutions, Inc",Applications Engineer-I,"Irvine, CA",https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Irvine-CA/Applications-Engineer-I_R66459,Posted Today,
+"Samsung Electronics America, Inc",Failure Analysis Engineer,"1530 FM 973 Taylor, TX, USA",https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Failure-Analysis-Engineer_R117351,Posted Today,
+ASMLEXT1,DevOps Applications Engineer,"San Diego, CA, USA",https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/Senior-IT-Applications-Engineer_J-00325431,Posted Today,
+ASMLEXT1,"Material Handler, Alternate 1st Shift (10am-6:30pm)","Wilton, CT, USA",https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Material-Handler--Alternate-1st-Shift--10am-6-30pm-_J-00341781,Posted Today,
+Applied Materials,Algorithm Developer,"Santa Clara,CA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Algorithm-Developer_R2622876,Posted Today,
+Applied Materials,CV/ML/DL Algorithm Developer,"Santa Clara,CA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/CV-ML-DL-Algorithm-Developer_R2622877-1,Posted Today,
+BAH,Training Analyst,"San Diego, CA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Training-Analyst_R0243823,Posted Today,
+BAH,Software Engineer and Developer,"Beavercreek, OH",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Software-Engineer-and-Developer_R0243811,Posted Today,
+BAH,AI Cloud Operations Technologist,"McLean, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/AI-Cloud-Operations-Technologist_R0243802,Posted Today,
+BAH,"Computer Vision Software Engineer, Mid","Dayton, OH",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Computer-Vision-Software-Engineer--Mid_R0243809,Posted Today,
+BAH,Spanish SIGINT MDLA,"Fort Sam Houston, TX",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Sam-Houston-TX/Spanish-SIGINT-MDLA_R0243634,Posted Today,
+BAH,Remote Sensing Software Engineer,"Dayton, OH",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Remote-Sensing-Software-Engineer_R0243807,Posted Today,
+BAH,"AI/ML Engineer, Mid","Dayton, OH",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/AI-ML-Engineer--Mid_R0243806,Posted Today,
+BAH,Data Scientist,"Fayetteville, NC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Scientist_R0243800,Posted Today,
+BAH,API Engineer,"Scott AFB, IL",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Scott-AFB-IL/API-Engineer_R0243799,Posted Today,
+BAH,Software Engineer,"Chantilly, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-Engineer_R0243793,Posted Today,
+BAH,"DevOps Engineer, Mid","Chantilly, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer--Mid_R0243777,Posted Today,
+BAH,"Program Analyst, Junior","Lexington Park, MD",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/Program-Analyst--Junior_R0243780,Posted Today,
+Comcast ,Full Stack Engineer(Engineer 2) – AI Agentic  ,"PA - Philadelphia, 1800 Arch St",https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Full-Stack-Engineer-Engineer-2----AI-Agentic--_R434810,Posted Today,
+Dematic Corp. (ILD-US),Material Handler - 2nd shift,"Fort Worth, TX, United States",https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Fort-Worth-TX-United-States/Material-Handler---2nd-shift_JR-0090276-1,Posted Today,
+flir,IT Technical Specialist Intern,"US - Huntsville, AL",https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/IT-Technical-Specialist-Intern_REQ35332,Posted Today,
+genpt,DevOps Engineer III,USA GPC Remote - South Carolina,https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/USA-GPC-Remote---South-Carolina/DevOps-Engineer-III_R26_0000005456,Posted Today,
+genpt,Store Counter Trainee (Part Time),"Mason City, IA, USA",https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Mason-City-IA-USA/Store-Counter-Trainee--Part-Time-_R26_0000019065-1,Posted Today,
+Intel Corporation,AI Research Engineer/Scientist,"US, California, Santa Clara",https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Research-Engineer-Scientist_JR0285402,Posted Today,
+One,"Frontend Engineer, Servicing",United States (Remote),https://jobs.ashbyhq.com/oneapp/3e4b8b56-e938-4647-8b67-d580c400ae10,2026-07-06T18:42:06.536+00:00,
+One,"Software Engineer, Cash Advance",United States (Remote),https://jobs.ashbyhq.com/oneapp/45a38681-40cf-47fc-92ad-dbc2f2e07996,2026-07-06T19:21:34.523+00:00,
+OpenEye,Software Engineer II,"Tysons, Virginia",https://job-boards.greenhouse.io/alarmcom/jobs/8610334002,2026-07-06T11:26:17-04:00,2026-07-06T11:26:17-04:00
+nVent,Logistics Material Handler - 1st Shift,"New Berlin, WI, US",https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/New-Berlin-WI-US/Logistics-Material-Handler---1st-Shift_R22544,Posted Today,
+nVent,Logistics Material Handler - 2nd Shift,"New Berlin, WI, US",https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/New-Berlin-WI-US/Logistics-Material-Handler---2nd-Shift_R22546,Posted Today,
+Pendo,GTM AI Engineer,"Raleigh, NC",https://job-boards.greenhouse.io/pendo/jobs/8597810002,2026-06-25T09:11:19-04:00,2026-07-06T15:20:20-04:00
+NVIDIA,"Performance Engineer Intern, Systems Software-  Fall 2026","US, MO, St. Louis",https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779,Posted Today,
+Remitly,Software Development Engineer II-1,"Seattle, Washington United States",https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-II-1_R_106501,Posted Today,
+ServiceNow,Solution Architect - AI & Data,Austin,https://www.smartrecruiters.com/ServiceNow/744000136063259,2026-07-06T16:50:40.748Z,
+Stripe,"Backend Engineer, Financial Connections","NYC, Toronto, Remote in Canada",https://stripe.com/jobs/search?gh_jid=8047083,2026-07-06T15:24:30-04:00,2026-07-06T15:24:30-04:00
+SRK Supplylogix LLC,Software Engineer,"USA, TX, Irving",https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Software-Engineer_JR0150187,Posted Today,
+The Walt Disney Company,"Disney Entertainment Television Production Innovation Intern, Fall 2026","Burbank, CA, USA",https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Disney-Entertainment-Television-Production-Innovation-Intern--Fall-2026_10154490,Posted Today,
+Workday,"Software Engineer, DBaas - US Federal",USA.VA.Reston,https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer--DevOps---Lifecycle-Platform--US-Federal-_JR-0097425,Posted Today,
