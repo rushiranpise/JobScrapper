@@ -4,9 +4,169 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-06 19:32:54](#batch-2026-07-06-19-32-54)
 - [Batch at 2026-07-06 12:54:23](#batch-2026-07-06-12-54-23)
 - [Batch at 2026-07-06 08:25:04](#batch-2026-07-06-08-25-04)
 - [Batch at 2026-07-06 03:09:26](#batch-2026-07-06-03-09-26)
+
+<h3 id='batch-2026-07-06-19-32-54'>🕐 Batch at 2026-07-06 19:32:54</h3>
+
+📊 **Total jobs in this batch: 18**
+
+**Per company:**
+- Motorola Solutions, Inc: 1 job
+- ASMLEXT1: 1 job
+- Applied Materials: 1 job
+- BAH: 4 jobs
+- Children's Hospital Medical Center: 1 job
+- KLA: 2 jobs
+- Merck & Co.: 2 jobs
+- Salesforce: 1 job
+- Snowflake: 1 job
+- spacex: 3 jobs
+- The Walt Disney Company: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>West Valley City, UT, More...</td>
+      <td>Software Engineer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/West-Valley-City-UT/Software-Engineer_R66421-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>San Diego, CA, USA</td>
+      <td>Manufacturing Software Engineer</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/Manufacturing-Software-Engineer_J-00346633-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Algorithm Developer III</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Algorithm-Developer-III_R2621674'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-Engineer_R0243148'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dayton, OH</td>
+      <td>Software Engineer and Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Software-Engineer-and-Developer_R0243825'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Defense Critical Infrastructure All-Source Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Defense-Critical-Infrastructure-All-Source-Analyst_R0243827'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Defense Critical Infrastructure All-Source Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Defense-Critical-Infrastructure-All-Source-Analyst_R0243826'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Children's Hospital Medical Center</b></td>
+      <td>Burnet Campus</td>
+      <td>Clinical Research Coordinator III - (Training & Onboarding Spec) Cancer &  Blood Diseases Institute</td>
+      <td><a href='https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Burnet-Campus/Clinical-Research-Coordinator-III---Cancer----Blood-Diseases-Institute_JR222448'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Hillsboro, OR</td>
+      <td>Field Applications Engineer</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Hillsboro-OR/Field-Applications-Engineer_2638313-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Ann Arbor, MI</td>
+      <td>Applications Engineer</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Applications-Engineer_2637884-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Merck & Co.</b></td>
+      <td>USA - Florida - Gainesville</td>
+      <td>Cardiovascular Disease Specialist - Gainesville, FL</td>
+      <td><a href='https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Florida---Gainesville/Cardiovascular-Disease-Specialist---Gainesville--FL_R406241'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Merck & Co.</b></td>
+      <td>USA - Florida - St. Petersburg</td>
+      <td>Cardiovascular Disease Specialist -Saint Petersburg, FL</td>
+      <td><a href='https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Florida---St-Petersburg/Cardiovascular-Disease-Specialist--Saint-Petersburg--FL_R406307-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Software Engineering SMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR350380'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-WA-Bellevue</td>
+      <td>Software Engineer</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/7d626629-fe04-4cce-94c1-0b1a13c1d1fd'>Apply</a></td>
+      <td>Jul 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, High Performance Computing</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8621463002?gh_jid=8621463002'>Apply</a></td>
+      <td>Jul 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, Product Development (Starshield)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8621621002?gh_jid=8621621002'>Apply</a></td>
+      <td>Jul 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer (Starshield) - Top Secret Clearance</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8621649002?gh_jid=8621649002'>Apply</a></td>
+      <td>Jul 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Orlando, FL, USA</td>
+      <td>Mgr, Data Product Management</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Mgr--Data-Product-Management_10154707'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-06-12-54-23'>🕐 Batch at 2026-07-06 12:54:23</h3>
 
@@ -331,7 +491,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-07-06-08-25-04'>🕐 Batch at 2026-07-06 08:25:04</h3>
 
 📊 **Total jobs in this batch: 9**
@@ -422,8 +581,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-07-06-03-09-26'>🕐 Batch at 2026-07-06 03:09:26</h3>
+---<h3 id='batch-2026-07-06-03-09-26'>🕐 Batch at 2026-07-06 03:09:26</h3>
 
 📊 **Total jobs in this batch: 2**
 
