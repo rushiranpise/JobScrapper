@@ -4,9 +4,187 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-07 19:07:24](#batch-2026-07-07-19-07-24)
 - [Batch at 2026-07-07 12:53:02](#batch-2026-07-07-12-53-02)
 - [Batch at 2026-07-07 07:22:00](#batch-2026-07-07-07-22-00)
 - [Batch at 2026-07-07 02:36:46](#batch-2026-07-07-02-36-46)
+
+<h3 id='batch-2026-07-07-19-07-24'>🕐 Batch at 2026-07-07 19:07:24</h3>
+
+📊 **Total jobs in this batch: 20**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Motorola Solutions, Inc: 1 job
+- Applied Materials: 2 jobs
+- BAH: 5 jobs
+- Broadcom : 1 job
+- Chime: 1 job
+- Comcast : 1 job
+- Glean: 1 job
+- Nike: 1 job
+- NVIDIA: 1 job
+- Precisely: 1 job
+- Salesforce: 1 job
+- Vast: 1 job
+- Xylem Services USA LLC: 1 job
+- ZoomInfo: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Quincy, Massachusetts, United States</td>
+      <td>Software Engineer - Maritime Integrated Systems</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5167630007?gh_jid=5167630007'>Apply</a></td>
+      <td>Jul 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Oregon, US Offsite</td>
+      <td>Software Engineer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Oregon-US-Offsite/Software-Engineer_R66421-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Process Engineer New College Grad - Master Degree (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Process-Engineer_R2617274'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software Engineer II (New College Grad - Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Anchorage, AK</td>
+      <td>C-UAS Training Intergrator</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Anchorage-AK/C-UAS-Training-Intergrator_R0243908'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Engineer_R0243926'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lexington, MA</td>
+      <td>Cloud Computing Infrastructure Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/Cloud-Computing-Infrastructure-Architect_R0243676'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Honolulu, HI</td>
+      <td>OSINT Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/OSINT-Data-Scientist_R0243913'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Alexandria, VA</td>
+      <td>High Side Operations Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/High-Side-Operations-Software-Engineer_R0243907'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-CA San Jose Innovation Drive</td>
+      <td>Applications Engineer</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Staff-Applications-Engineer_R025119'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Chime</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Software Engineer, Membership</td>
+      <td><a href='https://boards.greenhouse.io/chime/jobs/8614188002?gh_jid=8614188002'>Apply</a></td>
+      <td>Jul 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>CO - Englewood, 183 Inverness Dr West</td>
+      <td>Junior Software Development Engineer - CDN OpsEng</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Junior-Software-Development-Engineer---CDN-OpsEng_R440501-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Glean</b></td>
+      <td>Mountain View, CA</td>
+      <td>Software Engineer, Billing & Revenue Platform</td>
+      <td><a href='https://job-boards.greenhouse.io/gleanwork/jobs/4656281005'>Apply</a></td>
+      <td>Feb 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Memphis, Tennessee</td>
+      <td>DC Athlete I (Material Handler)</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Memphis-Tennessee/DC-Athlete-I--Material-Handler-_R-86509-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>ASIC Verification Engineer - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2026_JR2020640'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Precisely</b></td>
+      <td>United States</td>
+      <td>Associate Software Engineer – Java (AI First)</td>
+      <td><a href='https://www.precisely.com/careers-and-culture/us-jobs/job/4710649005?gh_jid=4710649005'>Apply</a></td>
+      <td>Jul 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Cloud Development Environment Engineer</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Cloud-Development-Environment-Engineer_JR345973'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Vast</b></td>
+      <td>Long Beach, California, United States</td>
+      <td>2026 Fall Internship - Manufacturing</td>
+      <td><a href='https://boards.greenhouse.io/vast/jobs/4694238006?gh_jid=4694238006'>Apply</a></td>
+      <td>Jul 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Xylem Services USA LLC</b></td>
+      <td>Dubois, Pennsylvania</td>
+      <td>IT Intern</td>
+      <td><a href='https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Dubois-Pennsylvania/IT-Intern_R49447'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ZoomInfo</b></td>
+      <td>Waltham, Massachusetts, United States</td>
+      <td>DevOps Engineer III</td>
+      <td><a href='https://www.zoominfo.com/careers?gh_jid=8614660002'>Apply</a></td>
+      <td>Jul 07, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-07-12-53-02'>🕐 Batch at 2026-07-07 12:53:02</h3>
 
@@ -202,7 +380,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-07-07-07-22-00'>🕐 Batch at 2026-07-07 07:22:00</h3>
 
 📊 **Total jobs in this batch: 7**
@@ -277,8 +454,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-07-07-02-36-46'>🕐 Batch at 2026-07-07 02:36:46</h3>
+---<h3 id='batch-2026-07-07-02-36-46'>🕐 Batch at 2026-07-07 02:36:46</h3>
 
 📊 **Total jobs in this batch: 2**
 
