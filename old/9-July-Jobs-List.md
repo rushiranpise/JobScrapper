@@ -4,7 +4,93 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-09 07:45:52](#batch-2026-07-09-07-45-52)
 - [Batch at 2026-07-09 02:43:10](#batch-2026-07-09-02-43-10)
+
+<h3 id='batch-2026-07-09-07-45-52'>🕐 Batch at 2026-07-09 07:45:52</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- Applied Materials: 1 job
+- BAH: 1 job
+- Concentrix: 1 job
+- OpenEye: 2 jobs
+- Snowflake: 1 job
+- The Walt Disney Company: 1 job
+- Zoom: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Gloucester,MA</td>
+      <td>Material Handler II</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/Material-Handler-II_R2622941'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Diego, CA</td>
+      <td>Power Platform Business Analyst, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Power-Platform-Business-Analyst--Junior_R0243529'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>USA, GA, Work-at-Home</td>
+      <td>Cloud Infrastructure Engineer (AWS/Terraform)</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/USA-GA-Work-at-Home/Cloud-Infrastructure-Engineer--AWS-Terraform-_R1745061'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenEye</b></td>
+      <td>Lawrence, Kansas</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/alarmcom/jobs/8594797002'>Apply</a></td>
+      <td>Jul 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>OpenEye</b></td>
+      <td>Tysons, Virginia</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/alarmcom/jobs/8594796002'>Apply</a></td>
+      <td>Jul 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>DE-Munich-MSO</td>
+      <td>SDR Intern - Munich </td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/a4753822-7581-4cf3-8fcc-856f54d684b0'>Apply</a></td>
+      <td>Jul 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Bristol, CT, USA</td>
+      <td>Product Software Engineer II</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Bristol-CT-USA/Product-Software-Engineer-II_10155142'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoom</b></td>
+      <td>San Jose (CA)</td>
+      <td>AI Software Engineer</td>
+      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/AI-Software-Engineer_R19341'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-09-02-43-10'>🕐 Batch at 2026-07-09 02:43:10</h3>
 
@@ -88,4 +174,3 @@
 <table>
 
 ---
-
