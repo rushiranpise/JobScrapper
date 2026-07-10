@@ -4,9 +4,195 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-09 19:19:33](#batch-2026-07-09-19-19-33)
 - [Batch at 2026-07-09 12:34:41](#batch-2026-07-09-12-34-41)
 - [Batch at 2026-07-09 07:45:52](#batch-2026-07-09-07-45-52)
 - [Batch at 2026-07-09 02:43:10](#batch-2026-07-09-02-43-10)
+
+<h3 id='batch-2026-07-09-19-19-33'>🕐 Batch at 2026-07-09 19:19:33</h3>
+
+📊 **Total jobs in this batch: 21**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- Anduril Industries: 1 job
+- Aurora: 1 job
+- BAH: 1 job
+- Carbon : 1 job
+- Empower: 1 job
+- Esri: 6 jobs
+- Flexport: 1 job
+- homedepot: 1 job
+- Merck & Co.: 1 job
+- OpenEye: 1 job
+- NVIDIA: 1 job
+- spacex: 1 job
+- terex: 1 job
+- Xylem Services USA LLC: 1 job
+- Zoom: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Marina, California, United States</td>
+      <td>Controls/Automation Software Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5169239007'>Apply</a></td>
+      <td>Jun 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Lexington, Massachusetts, United States</td>
+      <td>Production Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5184036007?gh_jid=5184036007'>Apply</a></td>
+      <td>Jul 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Aurora</b></td>
+      <td>Mountain View, California</td>
+      <td>Software Engineer II,  Vehicle Platform Integrations </td>
+      <td><a href='https://aurora.tech/jobs/8620384002?gh_jid=8620384002'>Apply</a></td>
+      <td>Jul 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Joint Base Pearl Harbor - Hickam, HI</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Joint-Base-Pearl-Harbor---Hickam-HI/Data-Scientist_R0244112'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Carbon </b></td>
+      <td>Santa Clara, CA</td>
+      <td>Material Handler</td>
+      <td><a href='https://job-boards.greenhouse.io/carbon/jobs/5177172007'>Apply</a></td>
+      <td>Jul 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Empower</b></td>
+      <td>CT Hartford</td>
+      <td>Software Engineer</td>
+      <td><a href='https://empower.wd12.myworkdayjobs.com/en-US/empower/job/CT-Hartford/Software-Engineer_R0059894'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Vienna, Virginia, United States</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://www.esri.com/careers/5176556007?gh_jid=5176556007'>Apply</a></td>
+      <td>Jul 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://www.esri.com/careers/5176588007?gh_jid=5176588007'>Apply</a></td>
+      <td>Jul 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://www.esri.com/careers/5176568007?gh_jid=5176568007'>Apply</a></td>
+      <td>Jul 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://www.esri.com/careers/5176578007?gh_jid=5176578007'>Apply</a></td>
+      <td>Jul 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://www.esri.com/careers/5176581007?gh_jid=5176581007'>Apply</a></td>
+      <td>Jul 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>San Antonio, TX</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://www.esri.com/careers/5174132007?gh_jid=5174132007'>Apply</a></td>
+      <td>Jul 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Flexport</b></td>
+      <td>San Francisco, California, United States</td>
+      <td> Software Engineer II, Autonomous Freight Systems</td>
+      <td><a href='https://job-boards.greenhouse.io/flexport/jobs/7839346'>Apply</a></td>
+      <td>Apr 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>MASSACHUSETTS - VIRTUAL - MA01</td>
+      <td>Robotics Automation Data Scientist</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/MASSACHUSETTS---VIRTUAL---MA01/Robotics-Automation-Data-Scientist_Req186390'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Merck & Co.</b></td>
+      <td>USA - Pennsylvania - North Wales (Upper Gwynedd)</td>
+      <td>Training Coordinator, Hybrid</td>
+      <td><a href='https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Training-Coordinator--Hybrid_R404286-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenEye</b></td>
+      <td>Tysons, Virginia</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://job-boards.greenhouse.io/alarmcom/jobs/8498612002'>Apply</a></td>
+      <td>Apr 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Product Data Operations Engineering Systems Analyst</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Data-Operations-Engineering-Systems-Analyst_JR2019040'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>December 2026 New Graduate Engineer, Propulsion (Starship)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8627510002?gh_jid=8627510002'>Apply</a></td>
+      <td>Jul 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>US-WI Waukesha Factory</td>
+      <td>Finish Painter **3k Sign on Bonus**</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/US-WI-Waukesha-Factory/Finish-Painter---3k-Sign-on-Bonus--_REQ-13608'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Xylem Services USA LLC</b></td>
+      <td>Yellow Springs, Ohio</td>
+      <td>Manufacturing Engineering Process Improvement Technician Co-op</td>
+      <td><a href='https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Yellow-Springs-Ohio/Manufacturing-Engineering-Process-Improvement-Technician-Co-op_R49497'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoom</b></td>
+      <td>San Jose (CA)</td>
+      <td>Video AI Engineer</td>
+      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/Video-AI-Engineer_R19356-1'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-09-12-34-41'>🕐 Batch at 2026-07-09 12:34:41</h3>
 
@@ -230,7 +416,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-07-09-07-45-52'>🕐 Batch at 2026-07-09 07:45:52</h3>
 
 📊 **Total jobs in this batch: 8**
@@ -314,8 +499,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-07-09-02-43-10'>🕐 Batch at 2026-07-09 02:43:10</h3>
+---<h3 id='batch-2026-07-09-02-43-10'>🕐 Batch at 2026-07-09 02:43:10</h3>
 
 📊 **Total jobs in this batch: 8**
 
