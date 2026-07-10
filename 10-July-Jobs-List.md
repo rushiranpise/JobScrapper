@@ -4,7 +4,62 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-10 07:14:14](#batch-2026-07-10-07-14-14)
 - [Batch at 2026-07-10 02:29:35](#batch-2026-07-10-02-29-35)
+
+<h3 id='batch-2026-07-10-07-14-14'>🕐 Batch at 2026-07-10 07:14:14</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- Affirm : 1 job
+- Samsung Electronics America, Inc: 1 job
+- BAH: 1 job
+- Comcast : 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>Software Engineer II, Backend (Test Infra)</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/7727320003'>Apply</a></td>
+      <td>Jul 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>1530 FM 973 Taylor, TX, USA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Data-Scientist_R118449'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Backend Infrastructure & Agentic AI Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Backend-Infrastructure---Agentic-AI-Software-Engineer_R0243893'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>NY - New York, 1407 Broadway Floor 12</td>
+      <td>Software Engineer 3</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Software-Engineer-3_R440985'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-10-02-29-35'>🕐 Batch at 2026-07-10 02:29:35</h3>
 
@@ -67,4 +122,3 @@
 <table>
 
 ---
-
