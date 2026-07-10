@@ -1,22 +1,6 @@
-company,title,location,link,postedOn,updatedOn
-ALTEN Technology USA,Controls/Automation Software Engineer,"Marina, California, United States",https://job-boards.greenhouse.io/altentechnologyusa/jobs/5169239007,2026-06-18T20:11:26-04:00,2026-07-09T19:40:07-04:00
-Anduril Industries,Production Software Engineer,"Lexington, Massachusetts, United States",https://boards.greenhouse.io/andurilindustries/jobs/5184036007?gh_jid=5184036007,2026-07-09T19:50:02-04:00,2026-07-09T19:50:02-04:00
-Aurora,"Software Engineer II,  Vehicle Platform Integrations ","Mountain View, California",https://aurora.tech/jobs/8620384002?gh_jid=8620384002,2026-07-09T18:54:09-04:00,2026-07-09T18:54:09-04:00
-BAH,Data Scientist,"Joint Base Pearl Harbor - Hickam, HI",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Joint-Base-Pearl-Harbor---Hickam-HI/Data-Scientist_R0244112,Posted Today,
-Carbon ,Material Handler,"Santa Clara, CA",https://job-boards.greenhouse.io/carbon/jobs/5177172007,2026-07-09T21:38:52-04:00,2026-07-09T21:38:52-04:00
-Empower,Software Engineer,CT Hartford,https://empower.wd12.myworkdayjobs.com/en-US/empower/job/CT-Hartford/Software-Engineer_R0059894,Posted Today,
-Esri,Software Development Engineer,"Vienna, Virginia, United States",https://www.esri.com/careers/5176556007?gh_jid=5176556007,2026-07-09T21:30:07-04:00,2026-07-09T21:30:07-04:00
-Esri,Software Development Engineer,"Redlands, CA",https://www.esri.com/careers/5176588007?gh_jid=5176588007,2026-07-09T13:04:47-04:00,2026-07-09T15:45:22-04:00
-Esri,Software Development Engineer,"Redlands, CA",https://www.esri.com/careers/5176568007?gh_jid=5176568007,2026-07-09T15:44:21-04:00,2026-07-09T15:44:21-04:00
-Esri,Software Development Engineer,"Redlands, CA",https://www.esri.com/careers/5176578007?gh_jid=5176578007,2026-07-09T15:44:40-04:00,2026-07-09T15:44:40-04:00
-Esri,Software Development Engineer,"Redlands, CA",https://www.esri.com/careers/5176581007?gh_jid=5176581007,2026-07-09T15:44:56-04:00,2026-07-09T15:44:56-04:00
-Esri,Software Development Engineer,"San Antonio, TX",https://www.esri.com/careers/5174132007?gh_jid=5174132007,2026-07-09T18:10:27-04:00,2026-07-09T18:10:27-04:00
-Flexport," Software Engineer II, Autonomous Freight Systems","San Francisco, California, United States",https://job-boards.greenhouse.io/flexport/jobs/7839346,2026-04-23T16:41:28-04:00,2026-07-09T19:28:21-04:00
-homedepot,Robotics Automation Data Scientist,MASSACHUSETTS - VIRTUAL - MA01,https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/MASSACHUSETTS---VIRTUAL---MA01/Robotics-Automation-Data-Scientist_Req186390,Posted Today,
-Merck & Co.,"Training Coordinator, Hybrid",USA - Pennsylvania - North Wales (Upper Gwynedd),https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Training-Coordinator--Hybrid_R404286-1,Posted Today,
-OpenEye,Software Engineer II,"Tysons, Virginia",https://job-boards.greenhouse.io/alarmcom/jobs/8498612002,2026-04-14T12:28:32-04:00,2026-07-09T17:54:15-04:00
-NVIDIA,Product Data Operations Engineering Systems Analyst,"US, CA, Santa Clara",https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Data-Operations-Engineering-Systems-Analyst_JR2019040,Posted Today,
-spacex,"December 2026 New Graduate Engineer, Propulsion (Starship)","Starbase, TX",https://boards.greenhouse.io/spacex/jobs/8627510002?gh_jid=8627510002,2026-07-09T18:30:03-04:00,2026-07-09T19:10:04-04:00
-terex,Finish Painter **3k Sign on Bonus**,US-WI Waukesha Factory,https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/US-WI-Waukesha-Factory/Finish-Painter---3k-Sign-on-Bonus--_REQ-13608,Posted Today,
-Xylem Services USA LLC,Manufacturing Engineering Process Improvement Technician Co-op,"Yellow Springs, Ohio",https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Yellow-Springs-Ohio/Manufacturing-Engineering-Process-Improvement-Technician-Co-op_R49497,Posted Today,
-Zoom,Video AI Engineer,San Jose (CA),https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/Video-AI-Engineer_R19356-1,,
+company,title,location,postedOn,link,updatedOn
+Becton Dickinson’s Integrated Diagnostics Systems,Engineering Intern,USA CT - Canaan,Posted Yesterday,https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-CT---Canaan/Engineering-Intern_R-549057-1,
+MKSCareersUniversity,SW PLC Engineer (Intern),Belarus Minsk,Posted Today,https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Belarus-Minsk/SW-PLC-Engineer--Intern-_R18603,
+NVIDIA,Material Handler,"US, CA, Santa Clara",Posted Today,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Material-Handler_JR2019401,
+spacex,RF Software Engineer (Starlink),"Bastrop, TX",2026-07-09T23:57:51-04:00,https://boards.greenhouse.io/spacex/jobs/8624761002?gh_jid=8624761002,2026-07-09T23:57:51-04:00
+The Walt Disney Company,Product Software Engineer I,"Bristol, CT, USA",Posted Today,https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Bristol-CT-USA/Product-Software-Engineer-I_10155293,
