@@ -4,9 +4,156 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-10 19:05:12](#batch-2026-07-10-19-05-12)
 - [Batch at 2026-07-10 12:26:45](#batch-2026-07-10-12-26-45)
 - [Batch at 2026-07-10 07:14:14](#batch-2026-07-10-07-14-14)
 - [Batch at 2026-07-10 02:29:35](#batch-2026-07-10-02-29-35)
+
+<h3 id='batch-2026-07-10-19-05-12'>🕐 Batch at 2026-07-10 19:05:12</h3>
+
+📊 **Total jobs in this batch: 16**
+
+**Per company:**
+- BAH: 2 jobs
+- Cape: 1 job
+- Chime: 1 job
+- Datamaxis: 1 job
+- genpt: 2 jobs
+- homedepot: 1 job
+- Intel Corporation: 1 job
+- One: 1 job
+- palantir: 3 jobs
+- Reddit: 1 job
+- Salesforce: 1 job
+- VSP: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Charlottesville, VA</td>
+      <td>SysML Enabled All-Source Intelligence Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/SysML-Enabled-All-Source-Intelligence-Analyst_R0244209'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dayton, OH</td>
+      <td>Signals Data Analyst, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Signals-Data-Analyst--Mid_R0244177'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Cape</b></td>
+      <td>New York, NY</td>
+      <td>Software Engineer, Developer Experience</td>
+      <td><a href='https://jobs.ashbyhq.com/cape/13f3921d-ace0-40e4-9b82-e00630878197'>Apply</a></td>
+      <td>Jun 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Chime</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Software Engineer, Support Foundations</td>
+      <td><a href='https://boards.greenhouse.io/chime/jobs/8607195002?gh_jid=8607195002'>Apply</a></td>
+      <td>Jul 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Datamaxis</b></td>
+      <td>Northbrook, IL</td>
+      <td>ABAP Developer Analyst</td>
+      <td><a href='https://datamaxis.breezy.hr/p/014d3e47943b-abap-developer-analyst'>Apply</a></td>
+      <td>Jul 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Denver, CO, USA</td>
+      <td>Store Paint Specialist</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Denver-CO-USA/Store-Paint-Specialist_R26_0000022764'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Anchorage, AK, USA</td>
+      <td>Store Counter Trainee</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Anchorage-AK-USA/Store-Counter-Trainee_R26_0000022483'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>MASSACHUSETTS - VIRTUAL - MA01</td>
+      <td>Robotics Automation Software Test Engineer</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/MASSACHUSETTS---VIRTUAL---MA01/Robotics-Automation-Software-Test-Engineer_Req186511'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, New Mexico, Albuquerque</td>
+      <td>New Mexico WPM Manufacturing Technician Internship</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/New-Mexico-WPM-Manufacturing-Technician-Internship_JR0285454'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>One</b></td>
+      <td>United States (Remote)</td>
+      <td>Data Analytics</td>
+      <td><a href='https://jobs.ashbyhq.com/oneapp/4ca0b7d4-60a9-48ac-b34a-575630063714'>Apply</a></td>
+      <td>Jul 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>palantir</b></td>
+      <td>Washington, D.C.</td>
+      <td>Forward Deployed Infrastructure Engineer, Internship - US Government</td>
+      <td><a href='https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9'>Apply</a></td>
+      <td>2026-07-10 22:42:13</td>
+    </tr>
+    <tr>
+      <td><b>palantir</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Forward Deployed Infrastructure Engineer, Internship - US Government</td>
+      <td><a href='https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69'>Apply</a></td>
+      <td>2026-07-10 22:43:13</td>
+    </tr>
+    <tr>
+      <td><b>palantir</b></td>
+      <td>New York, NY</td>
+      <td>Forward Deployed Infrastructure Engineer, Internship - US Government</td>
+      <td><a href='https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b'>Apply</a></td>
+      <td>2026-07-10 22:42:44</td>
+    </tr>
+    <tr>
+      <td><b>Reddit</b></td>
+      <td>Remote - United States</td>
+      <td>Backend Engineer, Moderation Enforcement</td>
+      <td><a href='https://job-boards.greenhouse.io/reddit/jobs/7922994'>Apply</a></td>
+      <td>Jul 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Virginia - Herndon</td>
+      <td>DevOps Engineering AMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Herndon/DevOps-Engineering-AMTS_JR345892-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>VSP</b></td>
+      <td>Remote US</td>
+      <td>Business Intelligence Developer</td>
+      <td><a href='https://vsp.wd1.myworkdayjobs.com/en-US/vspvisioncareers/job/Remote-US/Business-Intelligence-Developer_R-9745'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-10-12-26-45'>🕐 Batch at 2026-07-10 12:26:45</h3>
 
@@ -279,7 +426,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-07-10-07-14-14'>🕐 Batch at 2026-07-10 07:14:14</h3>
 
 📊 **Total jobs in this batch: 4**
@@ -332,8 +478,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-07-10-02-29-35'>🕐 Batch at 2026-07-10 02:29:35</h3>
+---<h3 id='batch-2026-07-10-02-29-35'>🕐 Batch at 2026-07-10 02:29:35</h3>
 
 📊 **Total jobs in this batch: 5**
 
