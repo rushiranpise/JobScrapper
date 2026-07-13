@@ -4,8 +4,484 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-13 12:24:04](#batch-2026-07-13-12-24-04)
 - [Batch at 2026-07-13 07:25:59](#batch-2026-07-13-07-25-59)
 - [Batch at 2026-07-13 02:02:50](#batch-2026-07-13-02-02-50)
+
+<h3 id='batch-2026-07-13-12-24-04'>🕐 Batch at 2026-07-13 12:24:04</h3>
+
+📊 **Total jobs in this batch: 60**
+
+**Per company:**
+- Airbnb: 1 job
+- Akuna Capital: 8 jobs
+- Appian : 1 job
+- Samsung Electronics America, Inc: 1 job
+- Applied Materials: 1 job
+- BAH: 6 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- Bank of Montreal: 2 jobs
+- Citi: 2 jobs
+- CMU: 4 jobs
+- Comcast : 1 job
+- Core Weave: 1 job
+- Formlabs: 1 job
+- Hudson River Trading: 5 jobs
+- homedepot: 1 job
+- Intel Corporation: 1 job
+- KLA: 1 job
+- Morgan Stanley: 1 job
+- NVIDIA: 1 job
+- PlayStation Global: 1 job
+- Pure storage: 1 job
+- Snowflake: 1 job
+- The Scion Group: 1 job
+- State Street: 1 job
+- The Toro: 2 jobs
+- spacex: 1 job
+- Toast: 1 job
+- Virtu Financial: 1 job
+- Waymo: 1 job
+- Workday: 1 job
+- Wyetech LLC: 6 jobs
+- ZoomInfo: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Airbnb</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer, Dev Tools</td>
+      <td><a href='https://careers.airbnb.com/positions/8055229?gh_jid=8055229'>Apply</a></td>
+      <td>Jul 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Akuna Capital</b></td>
+      <td>Chicago, IL </td>
+      <td>Hardware Engineer Intern, Summer 2027</td>
+      <td><a href='https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Akuna Capital</b></td>
+      <td>Chicago, IL </td>
+      <td>Junior Quantitative Researcher</td>
+      <td><a href='https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Akuna Capital</b></td>
+      <td>Chicago, IL</td>
+      <td>Platform Engineer Intern, Summer 2027</td>
+      <td><a href='https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Akuna Capital</b></td>
+      <td>Chicago, IL </td>
+      <td>Quantitative Research Intern, Summer 2027</td>
+      <td><a href='https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Akuna Capital</b></td>
+      <td>Chicago, IL</td>
+      <td>Software Engineer (Entry-Level) - Python</td>
+      <td><a href='https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Akuna Capital</b></td>
+      <td>Chicago, IL</td>
+      <td>Software Engineer Intern - C# .NET Desktop, Summer 2027</td>
+      <td><a href='https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Akuna Capital</b></td>
+      <td>Chicago, IL</td>
+      <td>Software Engineer Intern - Full Stack Web, Summer 2027</td>
+      <td><a href='https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Akuna Capital</b></td>
+      <td>Chicago, IL</td>
+      <td>Software Engineer Intern - Python, Summer 2027</td>
+      <td><a href='https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Appian </b></td>
+      <td>McLean, Virginia</td>
+      <td>Solution Architect (AI)</td>
+      <td><a href='https://job-boards.greenhouse.io/appian/jobs/8053960'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>Evert van de Beekstraat 310, Amsterdam, Netherlands</td>
+      <td>General Traineeship Track Netherlands</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Evert-van-de-Beekstraat-310-Amsterdam-Netherlands/General-Traineeship_R118505'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Summer 2026 Market Analyst Internship- Bachelor's (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Summer-2026-Market-Analyst-Internship--Bachelor-s--Santa-Clara--CA-_R2623802'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-Engineer_R0244279'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Software Signals Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Signals-Engineer_R0244250-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0244272'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Meade, MD</td>
+      <td>Cryptologic Data Flow Technician</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Cryptologic-Data-Flow-Technician_R0244267'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Scientist_R0244243'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Nellis AFB, NV</td>
+      <td>C2 Mission Systems Data Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Nellis-AFB-NV/C2-Mission-Systems-Data-Architect_R0244070'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA NE - Holdrege</td>
+      <td>Material Handler II</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Holdrege/Material-Handler-II_R-548744-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>Chicago, IL, USA</td>
+      <td>Data Management Risk Specialist</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Data-Management-Risk-Specialist_R260019683'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>Chicago, IL, USA</td>
+      <td>Data Management Risk Officer</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Data-Management-Risk-Officer_R260019682'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX  Data Quality & Data Governance Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Data-Quality---Data-Governance-Analyst_26977019'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Sculpture Intern - School of Art - College of Fine Arts</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Sculpture-Intern---School-of-Art---College-of-Fine-Arts_2024826'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Digital Fabrication Intern - School of Art - College of Fine Arts</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Digital-Fabrication-Intern---School-of-Art---College-of-Fine-Arts_2024824'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Print Intern - School of Art - College of Fine Arts</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Print-Intern---School-of-Art---College-of-Fine-Arts_2024825'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Temporary Employment Services (TES) - Temporary Package Window Handler</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Temporary-Employment-Services--TES----Temporary-Package-Window-Handler_2024848'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>New York New York United States</td>
+      <td>Debt Capital Markets, Transaction Execution Group, Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Debt-Capital-Markets--Transaction-Execution-Group--Analyst_26978492'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1701 John F Kennedy Blvd</td>
+      <td>Data Scientist</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Data-Scientist_R438877'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>New York, NY</td>
+      <td>Software Engineer, Gateway & Networking Infrastructure</td>
+      <td><a href='https://coreweave.com/careers/job?4696332006&board=coreweave&gh_jid=4696332006'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Software Engineer, Form Now</td>
+      <td><a href='https://careers.formlabs.com/job/8042078/apply/?gh_jid=8042078'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Hudson River Trading</b></td>
+      <td>New York, NY, United States; Singapore</td>
+      <td>Algorithm Developer (Quant Researcher) – 2027 Grads</td>
+      <td><a href='https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Hudson River Trading</b></td>
+      <td>New York, NY, United States; Singapore</td>
+      <td>Algorithm Developer (Quant Researcher) – 2027 PhDs</td>
+      <td><a href='https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059845'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Hudson River Trading</b></td>
+      <td>New York, NY, United States; Singapore</td>
+      <td>Algorithm Development (Quant Research) Internship – Summer 2027</td>
+      <td><a href='https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Hudson River Trading</b></td>
+      <td>New York, NY, United States; Singapore</td>
+      <td>Algorithm Development (Quant Research) PhD Internship – Summer 2027</td>
+      <td><a href='https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Hudson River Trading</b></td>
+      <td>London, United Kingdom; New York, NY, United States; Singapore</td>
+      <td>Data Production Engineer</td>
+      <td><a href='https://www.hudsonrivertrading.com/careers/job/?gh_jid=8060295'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>MARYLAND - VIRTUAL - MD01</td>
+      <td>Rental Delivery Driver I CDLA - Silver Spring, MD</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/MARYLAND---VIRTUAL---MD01/Rental-Delivery-Driver-I-CDLA---Silver-Spring--MD_Req186574'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Data Scientist</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Data-Scientist_JR0285516'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Westwood, MA</td>
+      <td>Material Handler 3</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Westwood-MA/Material-Handler-3_2638537'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>Dallas, Texas, United States of America</td>
+      <td>Data Analyst</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/Dallas-Texas-United-States-of-America/Data-Analyst_PT-JR040220'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, Remote</td>
+      <td>Software Engineer, OpenShell</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-Remote/Software-Engineer--OpenShell_JR2020825'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Mateo, CA</td>
+      <td>Software Development Engineer in Test Contractor (SDET Contractor)</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6015203004'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Pure storage</b></td>
+      <td>Santa Clara, California</td>
+      <td>AI Transformation Coordinator</td>
+      <td><a href='https://job-boards.greenhouse.io/purestorage/jobs/8060240'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Brand AI Architect</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/08614077-49b6-44a4-a659-3bda16b102d4'>Apply</a></td>
+      <td>Jul 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Scion Group</b></td>
+      <td>Chicago, Illinois, United States</td>
+      <td>Data Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/thesciongroupllc/jobs/8631764002'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>New York, New York</td>
+      <td>ETF Capital Markets Specialist - Officer, State Street Investment Management</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/New-York-New-York/ETF-Capital-Markets-Specialist---Officer--State-Street-Investment-Management_R-794099'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>El Paso, TX</td>
+      <td>Material Handler - The Toro Company</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/El-Paso-TX/Material-Handler---The-Toro-Company_JR16614'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Iron Mountain, MI</td>
+      <td>Painter, B Shift - BOSS Snowplow</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Iron-Mountain-MI/Painter--B-Shift---BOSS-Snowplow_JR16605'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Wi-Fi Software Engineer (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8631298002?gh_jid=8631298002'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Toast</b></td>
+      <td>Remote, US or Boston, MA (hybrid)</td>
+      <td>Capital Servicing Specialist I</td>
+      <td><a href='https://careers.toasttab.com/jobs?gh_jid=8048856'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Virtu Financial</b></td>
+      <td>New York</td>
+      <td>Women's Winternship</td>
+      <td><a href='https://job-boards.greenhouse.io/virtu/jobs/8021623002'>Apply</a></td>
+      <td>Jul 08, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA</td>
+      <td>Policy & Quality Specialist- ML Perception Data</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8053872'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA.VA.Reston</td>
+      <td>Software Development Engineer - ML Ops (US Federal)</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer---ML-Ops--US-Federal-_JR-0105400'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 1</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/bafed41c-803d-416d-bb6d-402e52b6ca18'>Apply</a></td>
+      <td>2026-07-13 18:15:11</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 2</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/17ab46a1-06b4-47c1-99a2-4e4f8f029759'>Apply</a></td>
+      <td>2026-07-13 15:45:04</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 2</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/8d2b9c7d-0632-472c-a87d-86e3203c9219'>Apply</a></td>
+      <td>2026-07-13 18:07:37</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 2</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/96699082-8042-4893-8bdd-852cb9be4732'>Apply</a></td>
+      <td>2026-07-13 18:17:55</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 2</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/e5db5fda-8a73-41b5-8cd4-938b43335e3a'>Apply</a></td>
+      <td>2026-07-13 18:11:53</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 2</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/e8d0f472-5ec7-4e7d-9102-2bc4cac1b4fa'>Apply</a></td>
+      <td>2026-07-13 15:58:20</td>
+    </tr>
+    <tr>
+      <td><b>ZoomInfo</b></td>
+      <td>Bethesda, Maryland, United States; Waltham, Massachusetts, United States</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://www.zoominfo.com/careers?gh_jid=8606563002'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>AI Engineer – Enterprise, Data & AI</td>
+      <td><a href='https://jobs.lever.co/zoox/ba2b9418-e041-43b9-9bb1-b19762a00bd6'>Apply</a></td>
+      <td>2026-07-09 23:31:54</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-13-07-25-59'>🕐 Batch at 2026-07-13 07:25:59</h3>
 
@@ -122,7 +598,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-07-13-02-02-50'>🕐 Batch at 2026-07-13 02:02:50</h3>
 
 📊 **Total jobs in this batch: 3**
