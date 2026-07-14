@@ -4,7 +4,54 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-14 06:24:11](#batch-2026-07-14-06-24-11)
 - [Batch at 2026-07-14 00:58:16](#batch-2026-07-14-00-58-16)
+
+<h3 id='batch-2026-07-14-06-24-11'>🕐 Batch at 2026-07-14 06:24:11</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Salesforce: 1 job
+- State Street: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Boston, Massachusetts, United States</td>
+      <td>Software Engineer, Robotics Data Foundation (Cloud)</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5185965007?gh_jid=5185965007'>Apply</a></td>
+      <td>Jul 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Software Engineer, MTS - Agentforce Optimization Agent & Agent Studio</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineer--MTS---Agentforce-Optimization-Agent---Agent-Studio_JR349901-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Quincy, Massachusetts</td>
+      <td>Software Engineering & Development</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Software-Engineering---Development_R-794161'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-14-00-58-16'>🕐 Batch at 2026-07-14 00:58:16</h3>
 
@@ -51,4 +98,3 @@
 <table>
 
 ---
-
