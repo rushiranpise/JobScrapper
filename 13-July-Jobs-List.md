@@ -4,9 +4,271 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-13 18:56:17](#batch-2026-07-13-18-56-17)
 - [Batch at 2026-07-13 12:24:04](#batch-2026-07-13-12-24-04)
 - [Batch at 2026-07-13 07:25:59](#batch-2026-07-13-07-25-59)
 - [Batch at 2026-07-13 02:02:50](#batch-2026-07-13-02-02-50)
+
+<h3 id='batch-2026-07-13-18-56-17'>🕐 Batch at 2026-07-13 18:56:17</h3>
+
+📊 **Total jobs in this batch: 31**
+
+**Per company:**
+- Adobe: 1 job
+- BAH: 2 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- Citi: 1 job
+- DoorDash : 1 job
+- General Motors LLC: 3 jobs
+- genpt: 1 job
+- homedepot: 1 job
+- Intel Corporation: 1 job
+- Lyft: 1 job
+- MongoDB: 1 job
+- NVIDIAExternalCareerSite: 3 jobs
+- Snowflake: 1 job
+- spacex: 4 jobs
+- Stripe: 1 job
+- State Street: 1 job
+- The Walt Disney Company: 1 job
+- Vast: 1 job
+- Wyetech LLC: 2 jobs
+- Zipline: 1 job
+- ZoomInfo: 1 job
+- Xylem Services USA LLC: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Adobe</b></td>
+      <td>New York</td>
+      <td>Software Quality Engineer</td>
+      <td><a href='https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/Software-Quality-Engineer_R169819'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Alexandria, VA</td>
+      <td>Software Test Automation Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Software-Test-Automation-Engineer_R0244295-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Honolulu, HI</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0244293'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA NE - Holdrege</td>
+      <td>Material Handler II, D Shift</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Holdrege/Material-Handler-II--D-Shift_R-550595-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex  Asesor de Capital Humano</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex--Asesor-de-Capital-Humano_26977822'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>New York, NY; San Francisco, CA; Los Angeles, CA; Seattle, WA; Sunnyvale, CA</td>
+      <td>Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/7263610'>Apply</a></td>
+      <td>Oct 01, 2025</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Software System Architect</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-System-Architect_JR-202613207'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Software System Architect</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-System-Architect_JR-202613288'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Work From Home - United States</td>
+      <td>AI & Data Governance Counsel</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Work-From-Home---United-States/AI---Data-Governance-Counsel_JR-202614932'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Baltimore, MD, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Baltimore-MD-USA/Material-Handler-I_R26_0000022547'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>HAWAII - VIRTUAL - HI01</td>
+      <td>Field Service Professional - Hawaii</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/HAWAII---VIRTUAL---HI01/Field-Service-Professional---Hawaii_Req186545'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>LTD RET Software Research Engineer/Scientist</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/LTD-RET-Software-Research-Engineer-Scientist_JR0285279'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Lyft</b></td>
+      <td>Seattle, WA</td>
+      <td>Software Engineer, Async Platform</td>
+      <td><a href='https://app.careerpuck.com/job-board/lyft/job/8631837002?gh_jid=8631837002'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>MongoDB</b></td>
+      <td>New York City; Palo Alto; Seattle</td>
+      <td>Software Engineer 3, Documentation Platform</td>
+      <td><a href='https://www.mongodb.com/careers/job/?gh_jid=8054991'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIAExternalCareerSite</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Backend Compiler Engineer - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIAExternalCareerSite</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Compiler Engineer, AI Inference- New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--AI-Inference--New-College-Grad-2026_JR2021230'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIAExternalCareerSite</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Material Handler</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Material-Handler_JR2019399'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>AI-Powered BI Intern: Fall 2026</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/634e9517-583c-446c-9a13-c0c5fe5960bb'>Apply</a></td>
+      <td>Jul 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Application Software Engineer, Employee Experience</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8632106002?gh_jid=8632106002'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Application Software Engineer, Employee Experience </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8632103002?gh_jid=8632103002'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Vandenberg, CA</td>
+      <td>IT Network Infrastructure Specialist</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8631780002?gh_jid=8631780002'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, Satellite Systems (Starshield)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8621508002?gh_jid=8621508002'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>New York, New York</td>
+      <td>Full Stack Engineer, Link</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=8062305'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Burlington Massachusetts</td>
+      <td>Database Architect/Engineer-PostgreSQL</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Database-Architect-Engineer-PostgreSQL_R-792666'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Bristol, CT, USA</td>
+      <td>Product Software Engineer II</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Bristol-CT-USA/Product-Software-Engineer-II_10151318'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Vast</b></td>
+      <td>Long Beach, California, United States</td>
+      <td>Software Engineer I, Mission Software</td>
+      <td><a href='https://boards.greenhouse.io/vast/jobs/4696685006?gh_jid=4696685006'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 2</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/5e5e9ac3-3597-483b-9b69-9011a1f25588'>Apply</a></td>
+      <td>2026-07-13 21:21:54</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Linthicum Heights, Maryland</td>
+      <td>Software Engineer 3</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/60d306a7-6880-419d-96c9-e947e8f4f75e'>Apply</a></td>
+      <td>2026-07-13 20:23:32</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Simulation Software Engineer</td>
+      <td><a href='https://www.zipline.com/open-roles?gh_jid=7802983003'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ZoomInfo</b></td>
+      <td>Bethesda, Maryland, United States</td>
+      <td>Software Engineer III </td>
+      <td><a href='https://www.zoominfo.com/careers?gh_jid=8623285002'>Apply</a></td>
+      <td>Jul 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Xylem Services USA LLC</b></td>
+      <td>Morrisville, North Carolina (Office)</td>
+      <td>Material Handler</td>
+      <td><a href='https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Morrisville-North-Carolina-Office/Material-Handler_R49062'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-13-12-24-04'>🕐 Batch at 2026-07-13 12:24:04</h3>
 
@@ -482,7 +744,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-07-13-07-25-59'>🕐 Batch at 2026-07-13 07:25:59</h3>
 
 📊 **Total jobs in this batch: 12**
@@ -597,8 +858,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-07-13-02-02-50'>🕐 Batch at 2026-07-13 02:02:50</h3>
+---<h3 id='batch-2026-07-13-02-02-50'>🕐 Batch at 2026-07-13 02:02:50</h3>
 
 📊 **Total jobs in this batch: 3**
 
