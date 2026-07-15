@@ -4,7 +4,54 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-15 06:27:57](#batch-2026-07-15-06-27-57)
 - [Batch at 2026-07-15 01:02:08](#batch-2026-07-15-01-02-08)
+
+<h3 id='batch-2026-07-15-06-27-57'>🕐 Batch at 2026-07-15 06:27:57</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- genpt: 1 job
+- LexisNexis Risk Solutions: 1 job
+- Otis: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Eden Prairie, MN, USA</td>
+      <td>Motion Automation Intelligence- Application Engineer</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Eden-Prairie-MN-USA/Motion-Automation-Intelligence--Application-Engineer_R26_0000023122'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>LexisNexis Risk Solutions</b></td>
+      <td>Alpharetta, GA</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Software-Engineer-III_R112946-3'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Otis</b></td>
+      <td>10 Rue Paule Raymondis, 31200, TOULOUSE, France</td>
+      <td>Apprenti technicien portes et portails (H/F)</td>
+      <td><a href='https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/10-Rue-Paule-Raymondis-31200-TOULOUSE-France/Apprenti-technicien-portes-et-portails--H-F-_20155660'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-15-01-02-08'>🕐 Batch at 2026-07-15 01:02:08</h3>
 
@@ -51,4 +98,3 @@
 <table>
 
 ---
-
