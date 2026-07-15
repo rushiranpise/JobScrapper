@@ -4,9 +4,219 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-14 18:53:05](#batch-2026-07-14-18-53-05)
 - [Batch at 2026-07-14 12:15:42](#batch-2026-07-14-12-15-42)
 - [Batch at 2026-07-14 06:24:11](#batch-2026-07-14-06-24-11)
 - [Batch at 2026-07-14 00:58:16](#batch-2026-07-14-00-58-16)
+
+<h3 id='batch-2026-07-14-18-53-05'>🕐 Batch at 2026-07-14 18:53:05</h3>
+
+📊 **Total jobs in this batch: 24**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Motorola Solutions, Inc: 2 jobs
+- Applied Materials: 2 jobs
+- ASMLEXT1: 1 job
+- BAH: 3 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 2 jobs
+- BorgWarner: 1 job
+- Concentrix: 1 job
+- Formlabs: 1 job
+- General Motors LLC: 1 job
+- KLA: 1 job
+- MongoDB: 1 job
+- NVIDIA: 1 job
+- OpenEye: 1 job
+- Roblox: 1 job
+- Rokt: 1 job
+- Salesforce: 1 job
+- Twitch: 1 job
+- Waymo: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>RFML Engineer, EW</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5187241007?gh_jid=5187241007'>Apply</a></td>
+      <td>Jul 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Colorado Remote Work, More...</td>
+      <td>Cloud Delivery Enablement Specialist - US Remote - West Coast Region</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Colorado-Remote-Work/Cloud-Delivery-Enablement-Specialist---US-Remote---West-Coast-Region_R66074-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Colorado Remote Work, More...</td>
+      <td>Cloud Delivery Enablement Specialist - US Remote - West Coast Region</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Colorado-Remote-Work/Cloud-Delivery-Enablement-Specialist---US-Remote---West-Coast-Region_R66401'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>New College Grad: Process Engineer III, Defects Technologist (PhD)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Process-Engineer-III--Defects-Technologist----E3-_R2619933'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Algorithm Developer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Algorithm-Developer_R2622135'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Boise, ID, USA</td>
+      <td>Field Application Engineer</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Boise-ID-USA/Field-Application-Engineer_J-00347307'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Blackstone, VA</td>
+      <td>Training Facilitator</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Blackstone-VA/Training-Facilitator_R0244454'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Smyrna, TN</td>
+      <td>Training Facilitator</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Smyrna-TN/Training-Facilitator_R0244435'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Alexandria, VA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/DevOps-Engineer_R0242746'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA GA - Covington BMD</td>
+      <td>R&D Co-op - Fall 2026</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-GA---Covington-BMD/R-D-Co-op---Fall-2026_R-550099'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA GA - Covington BMD</td>
+      <td>R&D Co-op - Fall 2026, returning</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-GA---Covington-BMD/R-D-Co-op---Fall-2026--returning_R-550096'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Arden - North Carolina - USA</td>
+      <td>Assembler -2nd Shift Turbo (Grade B, $19.96-$23.28)</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/Assembler--2nd-Shift-Turbo--Grade-B---1996--2328-_R2026-2808'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>Omaha, NE 68122</td>
+      <td>Solution Architect – Java Modernization & Identity Management</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/Omaha-NE-68122/Solution-Architect---Java-Modernization---Identity-Management_R1746507'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Boston, MA</td>
+      <td>Test Software - Manufacturing Intern (Fall 2026)</td>
+      <td><a href='https://careers.formlabs.com/job/8065543/apply/?gh_jid=8065543'>Apply</a></td>
+      <td>Jul 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>AI/ML Engineer - Model Inference</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/AI-ML-Engineer---Model-Inference_JR-202613719-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>AI Platform Engineer</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/AI-Platform-Engineer_2638542'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MongoDB</b></td>
+      <td>United States</td>
+      <td>Cloud Operations Engineer (2nd Shift, Weekend)</td>
+      <td><a href='https://www.mongodb.com/careers/job/?gh_jid=8045688'>Apply</a></td>
+      <td>Jul 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Site Reliability Engineer, Cloud</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Site-Reliability-Engineer--Cloud_JR2020831'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenEye</b></td>
+      <td>Tysons, Virginia</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://job-boards.greenhouse.io/alarmcom/jobs/8622529002'>Apply</a></td>
+      <td>Jul 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>Goodyear, Arizona, United States</td>
+      <td>Data Center Asset Management Specialist</td>
+      <td><a href='https://careers.roblox.com/jobs/8047847?gh_jid=8047847'>Apply</a></td>
+      <td>Jul 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Rokt</b></td>
+      <td>New York, New York</td>
+      <td>AI Systems Specialist</td>
+      <td><a href='https://apply.workable.com/rokt/j/8193C5FF76/'>Apply</a></td>
+      <td>Jul 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Software Engineering MTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR346837'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Twitch</b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer I, Discovery</td>
+      <td><a href='https://job-boards.greenhouse.io/twitch/jobs/8623578002'>Apply</a></td>
+      <td>Jul 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>City, State, Country [use ; to separate multiple locations]</td>
+      <td>[Software] - Job Template</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7902564'>Apply</a></td>
+      <td>Jul 14, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-14-12-15-42'>🕐 Batch at 2026-07-14 12:15:42</h3>
 
@@ -224,7 +434,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-07-14-06-24-11'>🕐 Batch at 2026-07-14 06:24:11</h3>
 
 📊 **Total jobs in this batch: 3**
@@ -269,8 +478,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-07-14-00-58-16'>🕐 Batch at 2026-07-14 00:58:16</h3>
+---<h3 id='batch-2026-07-14-00-58-16'>🕐 Batch at 2026-07-14 00:58:16</h3>
 
 📊 **Total jobs in this batch: 3**
 
