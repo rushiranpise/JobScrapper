@@ -4,9 +4,147 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-15 19:03:50](#batch-2026-07-15-19-03-50)
 - [Batch at 2026-07-15 12:07:56](#batch-2026-07-15-12-07-56)
 - [Batch at 2026-07-15 06:27:57](#batch-2026-07-15-06-27-57)
 - [Batch at 2026-07-15 01:02:08](#batch-2026-07-15-01-02-08)
+
+<h3 id='batch-2026-07-15-19-03-50'>🕐 Batch at 2026-07-15 19:03:50</h3>
+
+📊 **Total jobs in this batch: 15**
+
+**Per company:**
+- Anduril Industries: 2 jobs
+- BAH: 4 jobs
+- Citi: 1 job
+- Databricks: 1 job
+- Merck & Co.: 1 job
+- Natera : 1 job
+- One: 1 job
+- OpenEye: 1 job
+- The Pattern Data: 1 job
+- Wyetech LLC: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Trainer, Undersea Dominance</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5182818007?gh_jid=5182818007'>Apply</a></td>
+      <td>Jul 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Quincy, Massachusetts, United States</td>
+      <td>Trainer, Undersea Reconnaissance and Strike</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5181872007?gh_jid=5181872007'>Apply</a></td>
+      <td>Jul 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>AI Researcher</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/AI-Researcher_R0244539'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Moveworks & ServiceNow AI Technologist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Moveworks---ServiceNow-AI-Technologist_R0244557'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Winchester, VA</td>
+      <td>Cloud Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Winchester-VA/Cloud-Developer_R0244693'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Winchester, VA</td>
+      <td>Web Application Developer and SME</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Winchester-VA/Web-Application-Developer-and-SME_R0244691'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Tampa Florida United States</td>
+      <td>Junior Java Developer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Junior-Java-Developer_26941825-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Databricks</b></td>
+      <td>Mountain View, California</td>
+      <td>Software Engineer, Web Products</td>
+      <td><a href='https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002'>Apply</a></td>
+      <td>Jul 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Merck & Co.</b></td>
+      <td>USA - Pennsylvania - North Wales (Upper Gwynedd)</td>
+      <td>Vaccine Regional Trainer - EAST</td>
+      <td><a href='https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Vaccine-Regional-Trainer---EAST_R407775-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>Pleasanton, CA</td>
+      <td>Clinical Data Operator - Pleasanton, CA</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6116000004'>Apply</a></td>
+      <td>Jul 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>One</b></td>
+      <td>United States (Remote)</td>
+      <td>Software Engineer, Quality Engineering</td>
+      <td><a href='https://jobs.ashbyhq.com/oneapp/2e3129b5-8af9-435c-8bb2-51f1d3491277'>Apply</a></td>
+      <td>Jul 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>OpenEye</b></td>
+      <td>Centennial, Colorado</td>
+      <td>Software Engineer II (Mobile Engineer) </td>
+      <td><a href='https://job-boards.greenhouse.io/alarmcom/jobs/8635655002'>Apply</a></td>
+      <td>Jul 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Pattern Data</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Data Solutions Analyst</td>
+      <td><a href='https://job-boards.greenhouse.io/patterndata/jobs/5187872007'>Apply</a></td>
+      <td>Jul 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Ft. Meade, Maryland</td>
+      <td>Application Engineer 3 (24x7)</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/1c50e4a1-59fd-4966-8bcf-9488c8db7360'>Apply</a></td>
+      <td>2026-07-15 19:44:24</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Linthicum Heights, Maryland</td>
+      <td>Application Engineer 3 (SEAR)</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/a0e10eab-5383-49f5-afe5-09d2d508963a'>Apply</a></td>
+      <td>2026-07-15 19:37:16</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-15-12-07-56'>🕐 Batch at 2026-07-15 12:07:56</h3>
 
@@ -307,7 +445,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-07-15-06-27-57'>🕐 Batch at 2026-07-15 06:27:57</h3>
 
 📊 **Total jobs in this batch: 3**
@@ -352,8 +489,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-07-15-01-02-08'>🕐 Batch at 2026-07-15 01:02:08</h3>
+---<h3 id='batch-2026-07-15-01-02-08'>🕐 Batch at 2026-07-15 01:02:08</h3>
 
 📊 **Total jobs in this batch: 3**
 
