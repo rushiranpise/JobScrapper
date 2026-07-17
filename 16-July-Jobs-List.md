@@ -4,9 +4,194 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-16 19:07:22](#batch-2026-07-16-19-07-22)
 - [Batch at 2026-07-16 12:08:35](#batch-2026-07-16-12-08-35)
 - [Batch at 2026-07-16 06:35:51](#batch-2026-07-16-06-35-51)
 - [Batch at 2026-07-16 01:07:52](#batch-2026-07-16-01-07-52)
+
+<h3 id='batch-2026-07-16-19-07-22'>🕐 Batch at 2026-07-16 19:07:22</h3>
+
+📊 **Total jobs in this batch: 21**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Applied Materials: 1 job
+- BAH: 6 jobs
+- CMU: 1 job
+- Core Weave: 1 job
+- Duolingo: 2 jobs
+- nVent: 1 job
+- NVIDIA: 1 job
+- PlayStation Global: 1 job
+- Prudential Financial: 1 job
+- Roblox: 1 job
+- spacex: 1 job
+- Veeva Systems: 1 job
+- Woven: 1 job
+- Wyetech LLC: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Broomfield, Colorado, United States; Fort Collins, Colorado, United States</td>
+      <td>Algorithm Developer, Battlespace Awareness</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5189387007?gh_jid=5189387007'>Apply</a></td>
+      <td>Jul 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>AI Engineer - (B5)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/AI-Engineer----B5-_R2624035'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Pensacola, FL</td>
+      <td>Software Architect, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Pensacola-FL/Software-Architect--Mid_R0244631'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Cloud Operations Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cloud-Operations-Engineer_R0244647'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer_R0244653'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Warner Robins, GA</td>
+      <td>Cloud Computing Infrastructure Architect, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warner-Robins-GA/Cloud-Computing-Infrastructure-Architect--Mid_R0244396'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Winchester, VA</td>
+      <td>Software Developer SME</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Winchester-VA/Software-Developer-SME_R0244698'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Herndon, VA</td>
+      <td>Software Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Herndon-VA/Software-Engineer--Mid_R0244638'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Undergraduate Research Assistant - Mellon College of Science - Neuroscience Institute</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Undergraduate-Research-Assistant---Mellon-College-of-Science---Neuroscience-Institute_2024867'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Chantilly, VA</td>
+      <td>Data Center Technician - Chantilly</td>
+      <td><a href='https://coreweave.com/careers/job?4697714006&board=coreweave&gh_jid=4697714006'>Apply</a></td>
+      <td>Jul 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Duolingo</b></td>
+      <td>New York, NY</td>
+      <td>Software Engineer II, Backend</td>
+      <td><a href='https://careers.duolingo.com/jobs/8637306002?gh_jid=8637306002'>Apply</a></td>
+      <td>Jul 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Duolingo</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Software Engineer II, Backend</td>
+      <td><a href='https://careers.duolingo.com/jobs/8637300002?gh_jid=8637300002'>Apply</a></td>
+      <td>Jul 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Anoka, MN, US</td>
+      <td>Manufacturing Trainer - 2nd Shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Manufacturing-Trainer---2nd-Shift_R22727'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Data Administrator, Intellectual Property Records</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Administrator--Intellectual-Property-Records_JR2019316'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Mateo, CA</td>
+      <td>Software Engineer I</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6104600004'>Apply</a></td>
+      <td>Jul 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Prudential Financial</b></td>
+      <td>Rio de Janeiro, Brazil</td>
+      <td>ESTAGIO SOLUÇÕES DIGITAIS</td>
+      <td><a href='https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Rio-de-Janeiro-Brazil/ESTAGIO-SOLUES-DIGITAIS_R-124643'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>San Mateo, CA, United States</td>
+      <td>Software Engineer, Ads Platform</td>
+      <td><a href='https://careers.roblox.com/jobs/8047815?gh_jid=8047815'>Apply</a></td>
+      <td>Jul 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Data Engineer (Starlink Go-To-Market)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8637472002?gh_jid=8637472002'>Apply</a></td>
+      <td>Jul 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Veeva Systems</b></td>
+      <td>Massachusetts - Boston</td>
+      <td>Data Scientist</td>
+      <td><a href='https://jobs.lever.co/veeva/e38ab928-18d3-4907-901e-e3dc889aab1c'>Apply</a></td>
+      <td>2026-07-15 21:31:23</td>
+    </tr>
+    <tr>
+      <td><b>Woven</b></td>
+      <td>Ann Arbor, MI</td>
+      <td>Software Engineer, Calibration</td>
+      <td><a href='https://jobs.lever.co/woven-by-toyota/4afeadd3-5418-41d8-b292-0c65a2ce8191'>Apply</a></td>
+      <td>2026-07-16 19:22:56</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Linthicum Heights, Maryland</td>
+      <td>Application Engineer 4</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/9155fba1-a271-4746-9a8d-5f3fbadc89ab'>Apply</a></td>
+      <td>2026-07-16 20:17:48</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-16-12-08-35'>🕐 Batch at 2026-07-16 12:08:35</h3>
 
@@ -259,7 +444,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-07-16-06-35-51'>🕐 Batch at 2026-07-16 06:35:51</h3>
 
 📊 **Total jobs in this batch: 2**
@@ -296,8 +480,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-07-16-01-07-52'>🕐 Batch at 2026-07-16 01:07:52</h3>
+---<h3 id='batch-2026-07-16-01-07-52'>🕐 Batch at 2026-07-16 01:07:52</h3>
 
 📊 **Total jobs in this batch: 3**
 
