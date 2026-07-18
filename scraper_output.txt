@@ -1,9 +1,5 @@
 
-✅ Scraped 1 new jobs. Output saved to 'output.csv'.
-📦 Appended 1 jobs to 'output_old.csv'
-NEW_JOBS_START
-[{"company":"spacex","title":"Full Stack Software Engineer (Application Software)","location":"Starbase, TX","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8639573002?gh_jid=8639573002","postedOn":"2026-07-17T22:26:35-04:00","updatedOn":"2026-07-17T22:26:35-04:00"}]
-NEW_JOBS_END
+✅ Scraped 0 new jobs. Output saved to 'output.csv'.
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
 [ERROR] Altera: Ashby API failed - HTTP 404: Not Found
@@ -12,142 +8,67 @@ ERRORS_START
 [ERROR] Annalect : Greenhouse API failed: 404
 [ERROR] Applied Intuition: Greenhouse API failed: 404
 [ERROR] Magna Services of America, Inc: Invalid Workday URL
-[ERROR] 566 DEPARTMENT OF TOURISM AND RECREATION: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Motorola Solutions, Inc: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Adobe: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Allstate: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] CrowdStrike, Inc: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Bread Financial Payments, Inc: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] boomi: Greenhouse API failed: 404
-[ERROR] Applied Materials: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] athenahealth : Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Autodesk: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] BAH: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Autodesk: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Becton Dickinson’s Integrated Diagnostics Systems: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Canonical: Greenhouse API failed: 404
 [ERROR] Cdata: Greenhouse API failed: 404
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
 [ERROR] Chatham Financial: Greenhouse API failed: 404
-[ERROR] Brink: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] BorgWarner: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Broadcom : Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] cadence: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Calix: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"AA09A5MRQDHBM0","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Clever: Could not extract Lever company name
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"8EA34EMRQ218P9","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
-[ERROR] careers: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Children's Hospital Medical Center: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Circle: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Citi: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Dapper Labs: Lever API failed: https://api.lever.co/v0/postings/axiomzen?mode=json - 404
 [ERROR] Demandbase : Greenhouse API failed: 404
-[ERROR] Ciena: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Digital.ai: Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
-[ERROR] Cohesity: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] CMU: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Concentrix: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Comcast : Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"E39C01MRQDIC78","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
-[ERROR] Early  Warning: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Funnel: Breezy API failed: 403
 [ERROR] Galileo Financial Technologies (Sofi): Greenhouse API failed: 404
-[ERROR] Empower: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] f5jobs: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"F44D86MRQ21EHH","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] flir: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Grammarly : Greenhouse API failed: 404
 [ERROR] Groq: Greenhouse API failed: 404
 [ERROR] Handshake: Greenhouse API failed: 404
-[ERROR] GE Healthcare: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] genpt: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Genesys: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Illumio: Greenhouse API failed: 404
-[ERROR] General Motors LLC: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Jerry: Ashby API failed - HTTP 404: Not Found
 [ERROR] Kikoff: Ashby API failed - HTTP 404: Not Found
 [ERROR] Kobie: Greenhouse API failed: 404
 [ERROR] Kodiak Robotics: Lever API failed: https://api.lever.co/v0/postings/kodiak?mode=json - 404
-[ERROR] homedepot: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Intel Corporation: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] JDA: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] KLA: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Modernizing Medicine: Greenhouse API failed: 404
-[ERROR] Merck & Co.: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] MKSCareersUniversity: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Micron: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] MOOG: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"B7254BMRQDJRXX","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Notion: Greenhouse API failed: 404
-[ERROR] Morgan Stanley: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"C3B601MRQ21QN4","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Nike: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] nVent: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] NVIDIA: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Perplexity AI: Greenhouse API failed: 404
-[ERROR] NVIDIAExternalCareerSite: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
-[ERROR] Otis: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] Penn Mutual: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Pluralsight: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"D580A6MRQDKB3U","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Raptor Maps: Lever API failed: https://api.lever.co/v0/postings/RaptorMaps?mode=json - 404
-[ERROR] Prudential Financial: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"51054DMRQDKHGO","httpStatus":403,"message":"permission denied","messageParams":{}}
 [ERROR] Relativity Space: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"DA4028MRQ21X95","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
-[ERROR] Rakuten Marketing LLC: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Redfin: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Rakuten : Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Remitly: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Robert Half : Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Root: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] SabreJobs: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Salesforce: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] search: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Skydio: Greenhouse API failed: 404
-[ERROR] searchLFN: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Sentry : Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Shipt : Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Simons Foundation: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Snap: Invalid Workday URL
 [ERROR] Stitch Fix : Greenhouse API failed: 404
-[ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
 [ERROR] Strong Holdim: Greenhouse API failed: 404
+[ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
 [ERROR] Tandem: Ashby API failed - HTTP 404: Not Found
-[ERROR] Sony AI America Inc: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] Solera: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] STANDARD & POOR'S FINANCIAL SERVICE: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] State Street: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] terex: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] The Toro: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] The standard: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] The Walt Disney Company: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"471B4AMRQ22B07","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Shipt : Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Simons Foundation: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Sony AI America Inc: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] State Street: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] The standard: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] The Toro: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] terex: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] TRM labs: Greenhouse API failed: 404
-[ERROR] Tinuiti : Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"D66D24MRQ22BNO","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"69833FMRQDLWXY","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"BCC30FMRQDLX07","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Vimeo: Greenhouse API failed: 404
-[ERROR] Tricentis : Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Travellers: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] USAA: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Tricentis : Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Verily: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] USAA: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Walmart: Workday API failed: HTTP 410 - {"errorCode":"ERR_TENANT_MIGRATED","errorCaseId":"17104AMRQDM47B","httpStatus":410,"message":"","messageParams":{"outageUrl":"https://wd5.myworkday.com/wday/drs/outage?t\u003dwalmart\u0026s\u003dwalmartexternal"}}
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
-[ERROR] Verily: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Voya: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Warner Bros: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Walmart: Workday API failed: HTTP 410 - {"errorCode":"ERR_TENANT_MIGRATED","errorCaseId":"9F774EMRQ22GFO","httpStatus":410,"message":"","messageParams":{"outageUrl":"https://wd5.myworkday.com/wday/drs/outage?t\u003dwalmart\u0026s\u003dwalmartexternal"}}
-[ERROR] VSP: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] WEX: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"792F1EMRQ22IBA","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Workday: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Wiley Edge/mthree: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Xylem Services USA LLC: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] yahoo: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
-[ERROR] Zoom: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"260255MRQDMIG2","httpStatus":422,"message":"","messageParams":{}}
 ERRORS_END
