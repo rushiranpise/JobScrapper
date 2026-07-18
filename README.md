@@ -4,9 +4,196 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-17 18:57:24](#batch-2026-07-17-18-57-24)
 - [Batch at 2026-07-17 12:05:34](#batch-2026-07-17-12-05-34)
 - [Batch at 2026-07-17 06:19:37](#batch-2026-07-17-06-19-37)
 - [Batch at 2026-07-17 01:04:19](#batch-2026-07-17-01-04-19)
+
+<h3 id='batch-2026-07-17-18-57-24'>🕐 Batch at 2026-07-17 18:57:24</h3>
+
+📊 **Total jobs in this batch: 21**
+
+**Per company:**
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- Applied Materials: 1 job
+- BAH: 3 jobs
+- careers: 1 job
+- Cohesity: 1 job
+- Comcast : 1 job
+- Core Weave: 1 job
+- DoorDash : 1 job
+- Esri: 1 job
+- genpt: 2 jobs
+- homedepot: 1 job
+- KLA: 1 job
+- NVIDIA: 1 job
+- Salesforce: 1 job
+- spacex: 2 jobs
+- Verily: 1 job
+- Zipline: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Kiowa County</td>
+      <td>Seasonal Housekeeping/Custodial - Quartz Mountain State Park Lodge</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Kiowa-County/Seasonal-Housekeeping-Custodial---Quartz-Mountain-State-Park-Lodge_JR62668'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Data Scientist IV - (B4)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist-IV----B4-_R2623745-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Belvoir, VA</td>
+      <td>AI/ML Engineer and Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/AI-ML-Engineer-and-Data-Scientist_R0244749'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Twenty-Nine Palms, CA</td>
+      <td>Intelligence Training Instructor</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Twenty-Nine-Palms-CA/Intelligence-Training-Instructor_R0244747'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Data-Engineer_R0244707'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>careers</b></td>
+      <td>Home Office, USA</td>
+      <td>SW Development Intern/Data Analytics</td>
+      <td><a href='https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Home-Office-USA/SW-Development-Intern-Data-Analytics_260004919-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Cohesity</b></td>
+      <td>Santa Clara, CA - USA (Office)</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://cohesity.wd5.myworkdayjobs.com/en-US/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineer-III_R03422'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1800 Arch St</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Software-Development-Engineer_R440794'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA / United States - Data Centers</td>
+      <td>Operations Enablement Analyst, Data Center Operations</td>
+      <td><a href='https://coreweave.com/careers/job?4698084006&board=coreweave&gh_jid=4698084006'>Apply</a></td>
+      <td>Jul 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>Chandler, AZ</td>
+      <td>Material Handler Specialist, Logistics Labs</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/8072810'>Apply</a></td>
+      <td>Jul 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Engineer I - Front-End Engineer for ArcGIS Enterprise</td>
+      <td><a href='https://www.esri.com/careers/5190253007?gh_jid=5190253007'>Apply</a></td>
+      <td>Jul 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Moore, OK, USA</td>
+      <td>Store Counter Trainee</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Moore-OK-USA/Store-Counter-Trainee_R26_0000023475-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>API Management - Cloud Engineer</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/API-Management---Cloud-Engineer_R26_0000023626'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>TENNESSEE - VIRTUAL - TN01</td>
+      <td>Rental Delivery Driver I CDLA - Nashville, TN</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/TENNESSEE---VIRTUAL---TN01/Rental-Delivery-Driver-I-CDLA---Nashville--TN_Req187185'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>High Performance Computing (HPC) - Software Engineer</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/High-Performance-Computing--HPC----Software-Engineer_2638954'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, TX, Remote</td>
+      <td>Solutions Architect, Energy OT and Industrial AI</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Remote/Solutions-Architect--Energy-OT-and-Industrial-AI_JR2021478'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Software Engineering SMTS - Agentforce Reasoning Engine</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS---Agentforce-Reasoning-Engine_JR351830'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>Electrical Hardware Engineer, AI Satellites (Starmind)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8639247002?gh_jid=8639247002'>Apply</a></td>
+      <td>Jul 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>Power Electronics Engineer, AI Satellites (Starmind)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8639268002?gh_jid=8639268002'>Apply</a></td>
+      <td>Jul 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Verily</b></td>
+      <td>Raleigh, North Carolina</td>
+      <td>Software Engineer - Sponsor Solutions TL</td>
+      <td><a href='https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers/job/Raleigh-North-Carolina/Software-Engineer---Sponsor-Solutions-TL_REQ-829'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Electronics Engineering Technician, Powertrain</td>
+      <td><a href='https://www.zipline.com/open-roles?gh_jid=7807626003'>Apply</a></td>
+      <td>Jul 17, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-17-12-05-34'>🕐 Batch at 2026-07-17 12:05:34</h3>
 
@@ -231,7 +418,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-07-17-06-19-37'>🕐 Batch at 2026-07-17 06:19:37</h3>
 
 📊 **Total jobs in this batch: 2**
@@ -268,8 +454,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-07-17-01-04-19'>🕐 Batch at 2026-07-17 01:04:19</h3>
+---<h3 id='batch-2026-07-17-01-04-19'>🕐 Batch at 2026-07-17 01:04:19</h3>
 
 📊 **Total jobs in this batch: 2**
 
