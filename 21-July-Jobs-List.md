@@ -4,7 +4,54 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-21 06:30:11](#batch-2026-07-21-06-30-11)
 - [Batch at 2026-07-21 01:20:22](#batch-2026-07-21-01-20-22)
+
+<h3 id='batch-2026-07-21-06-30-11'>🕐 Batch at 2026-07-21 06:30:11</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- Ciena: 1 job
+- LexisNexis Risk Solutions: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA GA - Covington BMD</td>
+      <td>Analyst I, Complaint Investigation</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-GA---Covington-BMD/Analyst-I--Complaint-Investigation_R-550238-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Ciena</b></td>
+      <td>Remote-US</td>
+      <td>Professional Services Inventory Software Developer</td>
+      <td><a href='https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Remote-US/Professional-Services-Inventory-Software-Developer_R031368'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>LexisNexis Risk Solutions</b></td>
+      <td>UK - Grosvenor House (Southampton)</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---Grosvenor-House-Southampton/Software-Engineer-III_R114699-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-21-01-20-22'>🕐 Batch at 2026-07-21 01:20:22</h3>
 
@@ -51,4 +98,3 @@
 <table>
 
 ---
-
