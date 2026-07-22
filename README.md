@@ -4,9 +4,223 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-21 19:03:32](#batch-2026-07-21-19-03-32)
 - [Batch at 2026-07-21 12:16:18](#batch-2026-07-21-12-16-18)
 - [Batch at 2026-07-21 06:30:11](#batch-2026-07-21-06-30-11)
 - [Batch at 2026-07-21 01:20:22](#batch-2026-07-21-01-20-22)
+
+<h3 id='batch-2026-07-21-19-03-32'>🕐 Batch at 2026-07-21 19:03:32</h3>
+
+📊 **Total jobs in this batch: 25**
+
+**Per company:**
+- Airbnb: 1 job
+- Anduril Industries: 3 jobs
+- Motorola Solutions, Inc: 1 job
+- ASMLEXT1: 2 jobs
+- Applied Materials: 1 job
+- BAH: 3 jobs
+- DigiCert: 2 jobs
+- Esri: 1 job
+- Garner Health: 3 jobs
+- homedepot: 1 job
+- Micron: 1 job
+- Nike: 2 jobs
+- NVIDIA: 1 job
+- spacex: 1 job
+- Virtu Financial: 1 job
+- Zoom: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Airbnb</b></td>
+      <td>United States</td>
+      <td>Software Engineer, Dev Tools</td>
+      <td><a href='https://careers.airbnb.com/positions/8077787?gh_jid=8077787'>Apply</a></td>
+      <td>Jul 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Reston, Virginia, United States</td>
+      <td>Mission Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5192574007?gh_jid=5192574007'>Apply</a></td>
+      <td>Jul 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Santa Ana, California, United States</td>
+      <td>Sustainment Electrical Engineer, Intelligence Systems</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5186725007?gh_jid=5186725007'>Apply</a></td>
+      <td>Jul 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Technical Operations Engineer Trainer, Connected Warfare</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5189372007?gh_jid=5189372007'>Apply</a></td>
+      <td>Jul 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Schaumburg, IL</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Software-Engineer-II_R66729'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>San Jose, CA, USA</td>
+      <td>System Electrical Domain Architect</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Jose-CA-USA/System-Electrical-Architect--TT26-_J-00338808-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>San Diego, CA, USA</td>
+      <td>Material Handler 4</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/Material-Handler-4_J-00348393'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Material Coordinator/Handler - 1st Shift - (O2)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Coordinator-Handler---1st-Shift----O2-_R2622938'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Huntsville, AL</td>
+      <td>Data Analyst, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Data-Analyst--Mid_R0245026'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Detroit, MI</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Detroit-MI/Software-Engineer_R0245138'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Honolulu, HI</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Scientist--Mid_R0244946'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>DigiCert</b></td>
+      <td>Sunnyvale, CA</td>
+      <td>Associate Backend Engineer.</td>
+      <td><a href='https://www.digicert.com/careers/?gh_jid=8637536002'>Apply</a></td>
+      <td>Jul 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>DigiCert</b></td>
+      <td>United States</td>
+      <td>Devops Engineer</td>
+      <td><a href='https://www.digicert.com/careers/?gh_jid=8419202002'>Apply</a></td>
+      <td>Feb 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td> Imagery Product Engineer II- AI/Deep Learning</td>
+      <td><a href='https://www.esri.com/careers/5190363007?gh_jid=5190363007'>Apply</a></td>
+      <td>Jul 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Garner Health</b></td>
+      <td>New York City, New York</td>
+      <td>Data Analyst II, Business Insights</td>
+      <td><a href='https://job-boards.greenhouse.io/garnerhealth/jobs/6118254004'>Apply</a></td>
+      <td>Jul 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Garner Health</b></td>
+      <td>New York City, New York</td>
+      <td>Data Analyst III, Reporting & Analytics</td>
+      <td><a href='https://job-boards.greenhouse.io/garnerhealth/jobs/6118265004'>Apply</a></td>
+      <td>Jul 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Garner Health</b></td>
+      <td>New York City, New York</td>
+      <td>Data Analyst II, Reporting & Analytics</td>
+      <td><a href='https://job-boards.greenhouse.io/garnerhealth/jobs/6111789004'>Apply</a></td>
+      <td>Jul 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>NEW YORK - VIRTUAL - NY01</td>
+      <td>Rental Delivery Driver I CDLA - Wappingers Falls, NY</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/NEW-YORK---VIRTUAL---NY01/Rental-Delivery-Driver-I-CDLA---Wappingers-Falls--NY_Req187187'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Longmont-MAX- Office, CO</td>
+      <td>Quality Technician - SSD RMA Failure Analysis</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Longmont-MAX--Office-CO/Quality-Technician---SSD-RMA-Failure-Analysis_JR99499'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Beaverton, Oregon</td>
+      <td>Software Engineer 2 - iOS Engineering</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-2---iOS-Engineering_R-88505'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Beaverton, Oregon</td>
+      <td>Software Engineer 2 - Android Engineering</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-2---Android-Engineering_R-88501'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>RTL Power Optimization Engineer – New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/RTL-Power-Optimization-Engineer---New-College-Grad-2026_JR2021841'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Cape Canaveral, FL</td>
+      <td>Application Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8643772002?gh_jid=8643772002'>Apply</a></td>
+      <td>Jul 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Virtu Financial</b></td>
+      <td>Austin, TX; Chicago; New York</td>
+      <td>Internship - Quantitative Trading</td>
+      <td><a href='https://job-boards.greenhouse.io/virtu/jobs/8624408002'>Apply</a></td>
+      <td>Jul 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zoom</b></td>
+      <td>Seattle (WA)</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Seattle-WA/Software-Development-Engineer_R19408'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-21-12-16-18'>🕐 Batch at 2026-07-21 12:16:18</h3>
 
@@ -396,7 +610,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-07-21-06-30-11'>🕐 Batch at 2026-07-21 06:30:11</h3>
 
 📊 **Total jobs in this batch: 3**
@@ -441,8 +654,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-07-21-01-20-22'>🕐 Batch at 2026-07-21 01:20:22</h3>
+---<h3 id='batch-2026-07-21-01-20-22'>🕐 Batch at 2026-07-21 01:20:22</h3>
 
 📊 **Total jobs in this batch: 3**
 
