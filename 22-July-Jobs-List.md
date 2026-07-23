@@ -4,9 +4,219 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-22 19:12:09](#batch-2026-07-22-19-12-09)
 - [Batch at 2026-07-22 12:10:08](#batch-2026-07-22-12-10-08)
 - [Batch at 2026-07-22 06:34:21](#batch-2026-07-22-06-34-21)
 - [Batch at 2026-07-22 01:20:14](#batch-2026-07-22-01-20-14)
+
+<h3 id='batch-2026-07-22-19-12-09'>🕐 Batch at 2026-07-22 19:12:09</h3>
+
+📊 **Total jobs in this batch: 24**
+
+**Per company:**
+- Anduril Industries: 3 jobs
+- Motorola Solutions, Inc: 1 job
+- BAH: 2 jobs
+- Bank of Montreal: 1 job
+- BorgWarner: 1 job
+- Databricks: 1 job
+- Comcast : 1 job
+- Esri: 1 job
+- MOOG: 1 job
+- nVent: 1 job
+- NVIDIA: 2 jobs
+- palantir: 1 job
+- PlayStation Global: 2 jobs
+- PlusAI: 1 job
+- Roku: 1 job
+- searchLFN: 1 job
+- Snowflake: 1 job
+- The Walt Disney Company: 1 job
+- ZoomInfo: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Flight Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5102166007?gh_jid=5102166007'>Apply</a></td>
+      <td>Apr 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Broomfield, Colorado, United States; Fort Collins, Colorado, United States</td>
+      <td>Scientific Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5193934007?gh_jid=5193934007'>Apply</a></td>
+      <td>Jul 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Broomfield, Colorado, United States; Fort Collins, Colorado, United States</td>
+      <td>Software Engineer, Target Tracking</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5178387007?gh_jid=5178387007'>Apply</a></td>
+      <td>Jul 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Schaumburg, IL</td>
+      <td>Software Engineer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Software-Engineer_R66351'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>AI Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/AI-Engineer_R0244899'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Training Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Training-Developer_R0245085'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>Chicago, IL, USA</td>
+      <td>Data Scientist II, Anti Money Laundering Transaction Monitoring</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Data-Scientist-II--Anti-Money-Laundering-Transaction-Monitoring_R260021357'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Arden - North Carolina - USA</td>
+      <td>Material Handler 2nd Shift Receiving ($21.01-$24.16)</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/Material-Handler-2nd-Shift-Receiving---2101--2416-_R2026-2940'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Databricks</b></td>
+      <td>San Francisco, California</td>
+      <td>Partner Engineer: Partner Intelligence, AI & Apps</td>
+      <td><a href='https://databricks.com/company/careers/open-positions/job?gh_jid=8643542002'>Apply</a></td>
+      <td>Jul 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1701 John F Kennedy Blvd</td>
+      <td>Specialist, Internet Growth Comms</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Specialist--Internet-Growth-Comms_R441375'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>DevOps Systems Engineer</td>
+      <td><a href='https://www.esri.com/careers/5188226007?gh_jid=5188226007'>Apply</a></td>
+      <td>Jul 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Advanced Manufacturing</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Advanced-Manufacturing_R-26-19042'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Hitchcock, TX, US</td>
+      <td>Industrial Painter</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Hitchcock-TX-US/Industrial-Painter_R22739'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>ECAD PCB Tools Developer</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ECAD-PCB-Tools-Developer_JR2021476'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Developer Technology Engineer, Public Sector - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>palantir</b></td>
+      <td>Seattle, WA</td>
+      <td>Software Engineer - Edge AI Systems</td>
+      <td><a href='https://jobs.lever.co/palantir/67110929-adea-41c3-851a-8882e222d9e4'>Apply</a></td>
+      <td>2026-07-22 22:12:20</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Diego, CA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5712556004'>Apply</a></td>
+      <td>Dec 02, 2025</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, Los Angeles, CA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5712558004'>Apply</a></td>
+      <td>Mar 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>PlusAI</b></td>
+      <td>San Antonio, Texas</td>
+      <td>Software Integration Engineer</td>
+      <td><a href='https://jobs.lever.co/plus-2/3bb7ec4f-0afa-4f15-9c4e-4b01de4516cd'>Apply</a></td>
+      <td>2026-07-01 18:16:23</td>
+    </tr>
+    <tr>
+      <td><b>Roku</b></td>
+      <td>Austin, Texas</td>
+      <td>Software Engineer, Advanced Development</td>
+      <td><a href='https://www.weareroku.com/jobs/7821528?gh_jid=7821528'>Apply</a></td>
+      <td>Jul 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>searchLFN</b></td>
+      <td>Ramsey, MN</td>
+      <td>Painter - 1st Shift</td>
+      <td><a href='https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Ramsey-MN/Painter---1st-Shift_JR-025099'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-WA-Bellevue</td>
+      <td>Post-Doctoral AI Researcher (2 year Fixed-Term)</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/c392f794-c8f9-42f9-baf1-75eb27c56574'>Apply</a></td>
+      <td>Jul 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Bristol, CT, USA</td>
+      <td>Multiplatform Partnerships Associate (Disney Entertainment)</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Bristol-CT-USA/Multiplatform-Partnerships-Associate--Disney-Entertainment-_10155125'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ZoomInfo</b></td>
+      <td>Bethesda, Maryland, United States</td>
+      <td>Software Engineer III - PA 177</td>
+      <td><a href='https://www.zoominfo.com/careers?gh_jid=8634703002'>Apply</a></td>
+      <td>Jul 22, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-22-12-10-08'>🕐 Batch at 2026-07-22 12:10:08</h3>
 
@@ -321,7 +531,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-07-22-06-34-21'>🕐 Batch at 2026-07-22 06:34:21</h3>
 
 📊 **Total jobs in this batch: 7**
@@ -396,8 +605,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-07-22-01-20-14'>🕐 Batch at 2026-07-22 01:20:14</h3>
+---<h3 id='batch-2026-07-22-01-20-14'>🕐 Batch at 2026-07-22 01:20:14</h3>
 
 📊 **Total jobs in this batch: 5**
 
