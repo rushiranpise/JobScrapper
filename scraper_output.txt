@@ -1,14 +1,10 @@
 
-✅ Scraped 21 new jobs. Output saved to 'output.csv'.
-📦 Appended 21 jobs to 'output_old.csv'
-NEW_JOBS_START
-[{"company":"KLA","title":"Applications Development Engineer - Surfscan","location":"Milpitas, CA","link":"https:\/\/kla.wd1.myworkdayjobs.com\/en-US\/Search\/job\/Milpitas-CA\/Applications-Development-Engineer---Surfscan_2638818","postedOn":"Posted Yesterday","updatedOn":null},{"company":"KLA","title":"Applications Development Engineer - Surfscan","location":"Milpitas, CA","link":"https:\/\/kla.wd1.myworkdayjobs.com\/en-US\/Search\/job\/Milpitas-CA\/Applications-Development-Engineer---Surfscan_2638817-1","postedOn":"Posted Yesterday","updatedOn":null},{"company":"Natera\u00a0","title":"Training Supervisor, Quality Assurance","location":"Austin, TX","link":"https:\/\/job-boards.greenhouse.io\/natera\/jobs\/6119749004","postedOn":"2026-07-23T00:53:26-04:00","updatedOn":"2026-07-23T00:53:26-04:00"},{"company":"Natera\u00a0","title":"Training Supervisor, Quality Assurance","location":"San Carlos, CA","link":"https:\/\/job-boards.greenhouse.io\/natera\/jobs\/6123095004","postedOn":"2026-07-23T00:53:27-04:00","updatedOn":"2026-07-23T00:53:27-04:00"},{"company":"State Street","title":"Software Engineering & Development","location":"Boston, Massachusetts","link":"https:\/\/statestreet.wd1.myworkdayjobs.com\/en-US\/Global\/job\/Boston-Massachusetts\/Software-Engineering---Development_R-794939","postedOn":"Posted Today","updatedOn":null},{"company":"The Toro","title":"Junior Engineer , Supplier Quality","location":"Pune, IN","link":"https:\/\/ttc.wd1.myworkdayjobs.com\/en-US\/Toro_External_Careers\/job\/Pune-IN\/Junior-Engineer---Supplier-Quality_JR15827","postedOn":"Posted Today","updatedOn":null},{"company":"Warner Bros","title":"CNN & TNT Sports Inclusion Intern: ATL - Fall 2026","location":"GA Atlanta 1050 Techwood Drive NW","link":"https:\/\/warnerbros.wd5.myworkdayjobs.com\/en-US\/global\/job\/GA-Atlanta-1050-Techwood-Drive-NW\/CNN---TNT-Sports-Inclusion-Intern--ATL---Fall-2026_R000107151","postedOn":"Posted Today","updatedOn":null},{"company":"Warner Bros","title":"CNN Editorial and Newsgathering Internships: ATL - Fall 2026","location":"GA Atlanta 1050 Techwood Drive NW","link":"https:\/\/warnerbros.wd5.myworkdayjobs.com\/en-US\/global\/job\/GA-Atlanta-1050-Techwood-Drive-NW\/CNN-Editorial-and-Newsgathering-Internships--ATL---Fall-2026_R000107124","postedOn":"Posted Today","updatedOn":null},{"company":"Warner Bros","title":"CNN Fact Check Internships: ATL - Fall 2026","location":"GA Atlanta 1050 Techwood Drive NW","link":"https:\/\/warnerbros.wd5.myworkdayjobs.com\/en-US\/global\/job\/GA-Atlanta-1050-Techwood-Drive-NW\/CNN-Fact-Check-Internships--ATL---Fall-2026_R000107125","postedOn":"Posted Today","updatedOn":null},{"company":"Warner Bros","title":"CNN Health Internships: ATL - Fall 2026","location":"GA Atlanta 1050 Techwood Drive NW","link":"https:\/\/warnerbros.wd5.myworkdayjobs.com\/en-US\/global\/job\/GA-Atlanta-1050-Techwood-Drive-NW\/CNN-Health-Internships--ATL---Fall-2026_R000107126","postedOn":"Posted Today","updatedOn":null},{"company":"Warner Bros","title":"CNN Image+Sound Field Production Intern: DC - Fall 2026","location":"DC Washington 820 1st Street NE","link":"https:\/\/warnerbros.wd5.myworkdayjobs.com\/en-US\/global\/job\/DC-Washington-820-1st-Street-NE\/CNN-Image-Sound-Field-Production-Intern--DC---Fall-2026_R000107145","postedOn":"Posted Today","updatedOn":null},{"company":"Warner Bros","title":"CNN International Internships: ATL - Fall 2026","location":"GA Atlanta 1050 Techwood Drive NW","link":"https:\/\/warnerbros.wd5.myworkdayjobs.com\/en-US\/global\/job\/GA-Atlanta-1050-Techwood-Drive-NW\/CNN-International-Internships--ATL---Fall-2026_R000107127","postedOn":"Posted Today","updatedOn":null},{"company":"Warner Bros","title":"CNN International Show Teams Internships: NYC - Fall 2026","location":"NY New York 30 Hudson Yards","link":"https:\/\/warnerbros.wd5.myworkdayjobs.com\/en-US\/global\/job\/NY-New-York-30-Hudson-Yards\/CNN-International-Show-Teams-Internships--NYC---Fall-2026_R000107128","postedOn":"Posted Today","updatedOn":null},{"company":"Warner Bros","title":"CNN News Show Team Internships: DC - Fall 2026","location":"DC Washington 820 1st Street NE","link":"https:\/\/warnerbros.wd5.myworkdayjobs.com\/en-US\/global\/job\/DC-Washington-820-1st-Street-NE\/CNN-News-Show-Team-Internships--DC---Fall-2026_R000107139","postedOn":"Posted Today","updatedOn":null},{"company":"Warner Bros","title":"CNN News Show Team Internships: NYC - Fall 2026","location":"NY New York 30 Hudson Yards","link":"https:\/\/warnerbros.wd5.myworkdayjobs.com\/en-US\/global\/job\/NY-New-York-30-Hudson-Yards\/CNN-News-Show-Team-Internships--NYC---Fall-2026_R000107140","postedOn":"Posted Today","updatedOn":null},{"company":"Warner Bros","title":"CNN Newsgathering Internships: NYC - Fall 2026","location":"NY New York 30 Hudson Yards","link":"https:\/\/warnerbros.wd5.myworkdayjobs.com\/en-US\/global\/job\/NY-New-York-30-Hudson-Yards\/CNN-Newsgathering-Internships--NYC---Fall-2026_R000107141","postedOn":"Posted Today","updatedOn":null},{"company":"Warner Bros","title":"CNN Sports Internships: ATL - Fall 2026","location":"GA Atlanta 1050 Techwood Drive NW","link":"https:\/\/warnerbros.wd5.myworkdayjobs.com\/en-US\/global\/job\/GA-Atlanta-1050-Techwood-Drive-NW\/CNN-Sports-Internships--ATL---Fall-2026_R000107143","postedOn":"Posted Today","updatedOn":null},{"company":"Warner Bros","title":"Documentary Internships: NYC -Fall 2026","location":"NY New York 30 Hudson Yards","link":"https:\/\/warnerbros.wd5.myworkdayjobs.com\/en-US\/global\/job\/NY-New-York-30-Hudson-Yards\/Documentary-Internships--NYC--Fall-2026_R000107148","postedOn":"Posted Today","updatedOn":null},{"company":"Warner Bros","title":"Documentary Production Internships: ATL - Fall 2026","location":"GA Atlanta 1050 Techwood Drive NW","link":"https:\/\/warnerbros.wd5.myworkdayjobs.com\/en-US\/global\/job\/GA-Atlanta-1050-Techwood-Drive-NW\/Documentary-Production-Internships--ATL---Fall-2026_R000107149","postedOn":"Posted Today","updatedOn":null},{"company":"Warner Bros","title":"Video and Audio Editing Internships: ATL - Fall 2026","location":"NY New York 30 Hudson Yards","link":"https:\/\/warnerbros.wd5.myworkdayjobs.com\/en-US\/global\/job\/NY-New-York-30-Hudson-Yards\/Video-and-Audio-Editing-Internships--ATL---Fall-2026_R000107182","postedOn":"Posted Today","updatedOn":null},{"company":"Warner Bros","title":"Video and Audio Editing Internships: NYC - Fall 2026","location":"NY New York 30 Hudson Yards","link":"https:\/\/warnerbros.wd5.myworkdayjobs.com\/en-US\/global\/job\/NY-New-York-30-Hudson-Yards\/Video-and-Audio-Editing-Internships--NYC---Fall-2026_R000107181","postedOn":"Posted Today","updatedOn":null}]
-NEW_JOBS_END
+✅ Scraped 0 new jobs. Output saved to 'output.csv'.
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
 [ERROR] Altera: Ashby API failed - HTTP 404: Not Found
-[ERROR] Ambrook: Lever API failed: https://api.lever.co/v0/postings/ambrook?mode=json - 404
 [ERROR] Amidon Heavy Industries: Ashby API failed - HTTP 404: Not Found
+[ERROR] Ambrook: Lever API failed: https://api.lever.co/v0/postings/ambrook?mode=json - 404
 [ERROR] Annalect : Greenhouse API failed: 404
 [ERROR] Applied Intuition: Greenhouse API failed: 404
 [ERROR] Magna Services of America, Inc: Invalid Workday URL
@@ -17,7 +13,7 @@ ERRORS_START
 [ERROR] Cdata: Greenhouse API failed: 404
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
 [ERROR] Chatham Financial: Greenhouse API failed: 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"A3DEF6MRX8MUNM","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"2F630FMRXJV0T3","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Clever: Could not extract Lever company name
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
 [ERROR] Dapper Labs: Lever API failed: https://api.lever.co/v0/postings/axiomzen?mode=json - 404
@@ -25,18 +21,10 @@ ERRORS_START
 [ERROR] Digital.ai: Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"DD9B9EMRX8NW1R","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
-[ERROR] Galileo Financial Technologies (Sofi): Greenhouse API failed: 404
 [ERROR] Funnel: Breezy API failed: 403
-[ERROR] GE Healthcare: Workday API failed: HTTP 502 - <html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>cloudflare</center>
-</body>
-</html>
-
+[ERROR] Galileo Financial Technologies (Sofi): Greenhouse API failed: 404
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"9E3130MRXJW6UW","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Grammarly : Greenhouse API failed: 404
 [ERROR] Groq: Greenhouse API failed: 404
 [ERROR] Handshake: Greenhouse API failed: 404
@@ -47,40 +35,55 @@ ERRORS_START
 [ERROR] Kodiak Robotics: Lever API failed: https://api.lever.co/v0/postings/kodiak?mode=json - 404
 [ERROR] Modernizing Medicine: Greenhouse API failed: 404
 [ERROR] Notion: Greenhouse API failed: 404
-[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"F6E15EMRX8PI1Z","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"B25710MRXJXSX7","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Perplexity AI: Greenhouse API failed: 404
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"40041FMRX8Q883","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"F016D2MRXJYGK7","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Raptor Maps: Lever API failed: https://api.lever.co/v0/postings/RaptorMaps?mode=json - 404
-[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"9460F8MRX8QC5X","httpStatus":403,"message":"permission denied","messageParams":{}}
+[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"F6E15EMRXJYMOA","httpStatus":403,"message":"permission denied","messageParams":{}}
 [ERROR] Relativity Space: Greenhouse API failed: 404
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
 [ERROR] Skydio: Greenhouse API failed: 404
 [ERROR] Snap: Invalid Workday URL
-[ERROR] Sony AI America Inc: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Sentry : Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Shipt : Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Robert Half : Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] SabreJobs: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Simons Foundation: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Stitch Fix : Greenhouse API failed: 404
-[ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
+[ERROR] Rakuten Marketing LLC: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Sentry : Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Strong Holdim: Greenhouse API failed: 404
-[ERROR] searchLFN: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
 [ERROR] Tandem: Ashby API failed - HTTP 404: Not Found
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"41A567MRX8RM3Z","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"403184MRX8RP5S","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] The standard: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] State Street: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Tricentis : Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] searchLFN: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Sony AI America Inc: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"187C68MRXJZU9P","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"953D3BMRXJZV5Z","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] TRM labs: Greenhouse API failed: 404
-[ERROR] The Toro: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] terex: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Vimeo: Greenhouse API failed: 404
 [ERROR] Walmart: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"B31E96MRX8SGME","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"DF3C00MRXK13Z8","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] WEX: Workday API failed: HTTP 502 - <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+
+[ERROR] Workday: Workday API failed: HTTP 520 - <!DOCTYPE html>
+[ERROR] Zoom: Workday API failed: HTTP 502 - <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+
 ERRORS_END
