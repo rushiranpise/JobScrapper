@@ -4,7 +4,38 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-24 06:30:24](#batch-2026-07-24-06-30-24)
 - [Batch at 2026-07-24 01:20:32](#batch-2026-07-24-01-20-32)
+
+<h3 id='batch-2026-07-24-06-30-24'>🕐 Batch at 2026-07-24 06:30:24</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- BAH: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>DevOps Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer--Mid_R0245243'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-24-01-20-32'>🕐 Batch at 2026-07-24 01:20:32</h3>
 
@@ -35,4 +66,3 @@
 <table>
 
 ---
-
