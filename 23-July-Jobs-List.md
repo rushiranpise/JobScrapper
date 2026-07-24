@@ -4,8 +4,170 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-23 19:06:41](#batch-2026-07-23-19-06-41)
 - [Batch at 2026-07-23 12:09:52](#batch-2026-07-23-12-09-52)
 - [Batch at 2026-07-23 01:23:50](#batch-2026-07-23-01-23-50)
+
+<h3 id='batch-2026-07-23-19-06-41'>🕐 Batch at 2026-07-23 19:06:41</h3>
+
+📊 **Total jobs in this batch: 18**
+
+**Per company:**
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 2 jobs
+- BAH: 2 jobs
+- Bank of Montreal: 1 job
+- Citi: 1 job
+- KLA: 1 job
+- nVent: 1 job
+- NVIDIA: 2 jobs
+- Schonfeld: 1 job
+- spacex: 2 jobs
+- Twilio: 1 job
+- The Walt Disney Company: 1 job
+- ZoomInfo: 1 job
+- yahoo: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Cloud Architect</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Cloud-Architect_JR62986'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Application Architect</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Application-Architect_JR62985'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Platform DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Platform-DevOps-Engineer_R0245223'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Meade, MD</td>
+      <td>Cyber Training Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Cyber-Training-Developer_R0245214'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>Chicago, IL, USA</td>
+      <td>Data Scientist - AI Enablement</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Data-Scientist---AI-Enablement_R260021899'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX - Analista y programador de aplicaciones en .Net y Java - Officer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX---Analista-y-programador-de-aplicaciones-en-Net-y-Java---Officer_26980442'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Product Development Applications Engineer - eBeam Metrology (E)</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Product-Development-Applications-Engineer---eBeam-Metrology--E-_2639240'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Oregon, WI, US</td>
+      <td>Material Handler</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Oregon-WI-US/Material-Handler_R22806'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Software Engineer, Performance Lab and Tools</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Performance-Lab-and-Tools_JR2014711'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Remote</td>
+      <td>Global Immigration Speciaist</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Global-Immigration-Speciaist_JR2021601'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Schonfeld</b></td>
+      <td>New York, New York, United States</td>
+      <td>AI Training & Education Analyst</td>
+      <td><a href='https://job-boards.greenhouse.io/schonfeld/jobs/8081878'>Apply</a></td>
+      <td>Jul 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Memphis, TN</td>
+      <td>Full Stack Software Engineer (Application Software)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8648213002?gh_jid=8648213002'>Apply</a></td>
+      <td>Jul 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>McGregor, TX</td>
+      <td>HVAC Programmer</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8647921002?gh_jid=8647921002'>Apply</a></td>
+      <td>Jul 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Twilio</b></td>
+      <td>Remote - US</td>
+      <td>Software Engineer (L2) Email</td>
+      <td><a href='https://job-boards.greenhouse.io/twilio/jobs/7689461'>Apply</a></td>
+      <td>Jul 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Orlando, FL, USA</td>
+      <td>Data Product Mgr</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Data-Product-Mgr_10155281-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ZoomInfo</b></td>
+      <td>Waltham, Massachusetts, United States</td>
+      <td>Software Engineer III - PA085</td>
+      <td><a href='https://www.zoominfo.com/careers?gh_jid=8604692002'>Apply</a></td>
+      <td>Jul 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>yahoo</b></td>
+      <td>United States of America</td>
+      <td>Data Center Warehouse Associate (On-site in La Vista, NE)</td>
+      <td><a href='https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Data-Center-Warehouse-Associate--On-site-in-La-Vista--NE-_JR0027382'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>yahoo</b></td>
+      <td>United States of America</td>
+      <td>Full Stack Engineer II, Platforms</td>
+      <td><a href='https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Full-Stack-Engineer-II--Platforms_JR0027339'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-23-12-09-52'>🕐 Batch at 2026-07-23 12:09:52</h3>
 
@@ -309,7 +471,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-07-23-01-23-50'>🕐 Batch at 2026-07-23 01:23:50</h3>
 
 📊 **Total jobs in this batch: 21**
