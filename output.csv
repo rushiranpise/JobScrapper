@@ -1,24 +1,26 @@
-company,title,location,link,postedOn,updatedOn
-Anduril Industries,RFML Engineer,"Costa Mesa, California, United States",https://boards.greenhouse.io/andurilindustries/jobs/5031495007?gh_jid=5031495007,2026-02-02T13:07:22-05:00,2026-07-24T12:47:20-04:00
-Anduril Industries,"Software Engineer, Battlespace Awareness","Broomfield, Colorado, United States; Fort Collins, Colorado, United States",https://boards.greenhouse.io/andurilindustries/jobs/5195728007?gh_jid=5195728007,2026-07-24T12:13:27-04:00,2026-07-24T12:47:20-04:00
-BAH,Data Scientist,"Washington, DC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0245271-1,Posted Today,
-BAH,"Data Scientist, Mid","Washington, DC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist--Mid_R0245282,Posted Today,
-BAH,"Cloud Computing Infrastructure Architect, Mid","Warner Robins, GA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warner-Robins-GA/Cloud-Computing-Infrastructure-Architect--Mid_R0245279,Posted Today,
-BAH,"DevOps Engineer, Mid","Chantilly, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer--Mid_R0245245,Posted Today,
-Becton Dickinson’s Integrated Diagnostics Systems,"Medical Device Field Service Technician, (Entry Level) Cedar Rapids IA",USA - Iowa - Cedar Rapids,https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA---Iowa---Cedar-Rapids/Medical-Device-Field-Service-Technician---Entry-Level--Cedar-Rapids-IA_R-551149-1,Posted Today,
-Brink,Driver non cdl,Jacksonville FL,https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Jacksonville-FL/Driver-non-cdl_R77326,Posted Today,
-Core Weave,"Data Center Technician - Dalton, GA ","Dalton, GA",https://coreweave.com/careers/job?4699663006&board=coreweave&gh_jid=4699663006,2026-07-24T09:42:09-04:00,2026-07-24T09:42:09-04:00
-Dematic Corp. (ILD-US),Material Handler,"Fort Worth, TX, United States",https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Fort-Worth-TX-United-States/Material-Handler_JR-0092103-1,Posted Today,
-General Motors LLC,Data Analyst,"Warren, Michigan, United States of America",https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Analyst_JR-202615362,Posted Today,
-General Motors LLC,Computer Aided Engineering (CAE) Training Instructor/Developer,"Warren, Michigan, United States of America",https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Computer-Aided-Engineering--CAE--Training-Instructor-Developer_JR-202615506,Posted Today,
-OpenAI,AI Success Engineer - Healthcare & Life Sciences,New York City,https://jobs.ashbyhq.com/openai/07522b43-7861-4e71-b18c-f43aab192e20,2026-07-24T16:43:01.573+00:00,
-NVIDIAExternalCareerSite,GPU Verification Engineer - New College Grad 2026,"US, MA, Westford",https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2022102,Posted Today,
-Pinterest,"Software Engineer II, tvScientific","Toronto, ON, CA",https://www.pinterestcareers.com/jobs/?gh_jid=7782535,2026-07-24T13:07:53-04:00,2026-07-24T13:07:53-04:00
-Precisely,Software Engineer,United States,https://www.precisely.com/careers-and-culture/us-jobs/job/4718405005?gh_jid=4718405005,2026-07-24T11:43:54-04:00,2026-07-24T11:43:54-04:00
-Scoutm Otors,"Specialist, Drive Train Engineer","Columbia, South Carolina, United States",https://job-boards.greenhouse.io/scoutmotors/jobs/5188310007,2026-07-24T14:28:09-04:00,2026-07-24T14:28:09-04:00
-The Walt Disney Company,"Risk Management Intern, Fall 2026","Burbank, CA, USA",https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Risk-Management-Intern--Fall-2026_10156876,Posted Today,
-Twilio,Software Engineer (L2),Remote - US,https://job-boards.greenhouse.io/twilio/jobs/7946610,2026-07-24T10:02:19-04:00,2026-07-24T10:24:30-04:00
-Verkada ,Backend Engineer - Connectivity,"San Mateo, CA United States",https://job-boards.greenhouse.io/verkada/jobs/5194598007,2026-07-24T13:18:48-04:00,2026-07-24T13:18:48-04:00
-Wyetech LLC,Data Scientist 3,"Linthicum Heights, Maryland",https://jobs.lever.co/wyetechllc/34c1e88f-fd8a-426d-9f7f-b2f58fbbf174,2026-07-24 16:55:02,N/A
-Wyetech LLC,Front End Developer (Hybrid) - 29216,"San Antonio, Texas",https://jobs.lever.co/wyetechllc/8743a565-94d6-490e-8569-e7563d7ddc44,2026-07-24 14:18:21,N/A
-Xylem Services USA LLC,Material Handler,"Rockford, Illinois",https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Rockford-Illinois/Material-Handler_R49437,Posted Today,
+company,title,location,postedOn,link,updatedOn
+Applied Materials,"2026 Process Engineer Co-op - Adv Degree (Gloucester, MA)","Gloucester,MA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2026-Process-Engineer-Co-op---Adv-Degree--Gloucester--MA-_R2623409,
+BAH,Data Scientist,"Fort Meade, MD",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist_R0245296-1,
+Citi,BANAMEX -Data Governance Operations & Financial Analyst,Ciudad De Mexico Distrito Federal Mexico,Posted Today,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Data-Governance-Operations---Financial-Analyst_26979656,
+Fivetran,Software Engineer III,"Oakland, California, United States, AMER",2026-07-24T16:56:54-04:00,https://www.fivetran.com/careers/job?gh_jid=7811889003,2026-07-24T17:12:15-04:00
+Jump Trading,Software Engineer,"New York, Chicago",2026-07-24T16:15:10-04:00,https://www.jumptrading.com/hr/job?gh_jid=7156979,2026-07-24T20:00:03-04:00
+Micron,"Intern – Process Development Engineer, 3D DRAM Wet Etch","Boise, ID - Main Site",Posted Today,https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Wet-Etch_JR106729,
+Nike,Software Engineer II,"Beaverton, Oregon",Posted Today,https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-II_R-88276,
+NVIDIA,"Research Scientist, Robotics Research -  PhD New College Grad 2026","US, WA, Seattle",Posted Today,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473,
+palantir,"Forward Deployed Infrastructure Engineer, New Grad - US Government","Palo Alto, CA",2025-10-29 20:26:17,https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0,N/A
+palantir,"Forward Deployed Infrastructure Engineer, New Grad - US Government","Washington, D.C.",2025-10-29 20:27:12,https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8,N/A
+palantir,"Forward Deployed Infrastructure Engineer, New Grad - US Government","New York, NY",2025-10-29 18:27:22,https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8,N/A
+PDT Partners,Summer 2027 Software Engineering Intern,"New York, NY",2026-07-24T16:16:09-04:00,https://job-boards.greenhouse.io/pdtpartners/jobs/8077685,2026-07-24T19:19:21-04:00
+PDT Partners,Summer 2027 Systems Engineering Intern,"New York, NY",2026-07-24T16:16:11-04:00,https://job-boards.greenhouse.io/pdtpartners/jobs/8083292,2026-07-24T19:20:01-04:00
+PlayStation Global,Software QA Engineer ,"United States, San Mateo, CA",2026-07-24T17:35:27-04:00,https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6118771004,2026-07-24T17:36:42-04:00
+searchLFN,Weekend Shift Material Handler,"Ramsey, MN",Posted Today,https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Ramsey-MN/Weekend-Shift-Material-Handler_JR-025106,
+Snowflake,Software Engineer- Postgres,US-CA-Menlo Park,2026-07-24T19:59:32.556+00:00,https://jobs.ashbyhq.com/snowflake/494fcbd0-1cf3-4248-b5cf-b35d982ced00,
+spacex,Material Handler (Starshield) - Temporary Position,"Hawthorne, CA",2026-07-24T19:44:35-04:00,https://boards.greenhouse.io/spacex/jobs/8648202002?gh_jid=8648202002,2026-07-24T19:44:35-04:00
+spacex,"Production Engineer, Site Reliability (Application Software)","Hawthorne, CA",2026-07-24T16:11:09-04:00,https://boards.greenhouse.io/spacex/jobs/8649729002?gh_jid=8649729002,2026-07-24T17:18:21-04:00
+Stripe,"Backend Engineer, Credit Decisions ","Chicago, IL ",2026-07-24T16:10:18-04:00,https://stripe.com/jobs/search?gh_jid=8084195,2026-07-24T16:10:18-04:00
+Stripe,Software Engineer - Full Stack,"South San Francisco, California",2026-07-24T16:10:08-04:00,https://stripe.com/jobs/search?gh_jid=8084193,2026-07-24T16:10:08-04:00
+Toast,"Software Engineer II, Payments","Remote, US or Boston, MA",2026-07-24T15:45:45-04:00,https://careers.toasttab.com/jobs?gh_jid=8059808,2026-07-24T15:45:45-04:00
+Travellers,Agile Product Owner- Data and Analytics,CT - Hartford,Posted Today,https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Agile-Product-Owner--Data-and-Analytics_R-51614,
+Verkada ,Frontend Engineer - Access Control,"San Mateo, CA United States",2026-07-24T16:24:35-04:00,https://job-boards.greenhouse.io/verkada/jobs/5195281007,2026-07-24T16:24:35-04:00
+Woven,Software Engineer - Data Workflows,"Ann Arbor, MI",2026-07-24 20:58:29,https://jobs.lever.co/woven-by-toyota/ba39a024-c4c3-4966-a696-95db0e1dc445,N/A
+Zoox,"Software Engineer, Fleet Simulation (Core Data Science)","Foster City, CA",2026-07-24 22:20:20,https://jobs.lever.co/zoox/18b6dfa0-d581-4d29-ac79-5d6e666aa9c3,N/A
