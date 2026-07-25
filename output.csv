@@ -1,26 +1,2 @@
-company,title,location,postedOn,link,updatedOn
-Applied Materials,"2026 Process Engineer Co-op - Adv Degree (Gloucester, MA)","Gloucester,MA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2026-Process-Engineer-Co-op---Adv-Degree--Gloucester--MA-_R2623409,
-BAH,Data Scientist,"Fort Meade, MD",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist_R0245296-1,
-Citi,BANAMEX -Data Governance Operations & Financial Analyst,Ciudad De Mexico Distrito Federal Mexico,Posted Today,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Data-Governance-Operations---Financial-Analyst_26979656,
-Fivetran,Software Engineer III,"Oakland, California, United States, AMER",2026-07-24T16:56:54-04:00,https://www.fivetran.com/careers/job?gh_jid=7811889003,2026-07-24T17:12:15-04:00
-Jump Trading,Software Engineer,"New York, Chicago",2026-07-24T16:15:10-04:00,https://www.jumptrading.com/hr/job?gh_jid=7156979,2026-07-24T20:00:03-04:00
-Micron,"Intern – Process Development Engineer, 3D DRAM Wet Etch","Boise, ID - Main Site",Posted Today,https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Wet-Etch_JR106729,
-Nike,Software Engineer II,"Beaverton, Oregon",Posted Today,https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-II_R-88276,
-NVIDIA,"Research Scientist, Robotics Research -  PhD New College Grad 2026","US, WA, Seattle",Posted Today,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473,
-palantir,"Forward Deployed Infrastructure Engineer, New Grad - US Government","Palo Alto, CA",2025-10-29 20:26:17,https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0,N/A
-palantir,"Forward Deployed Infrastructure Engineer, New Grad - US Government","Washington, D.C.",2025-10-29 20:27:12,https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8,N/A
-palantir,"Forward Deployed Infrastructure Engineer, New Grad - US Government","New York, NY",2025-10-29 18:27:22,https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8,N/A
-PDT Partners,Summer 2027 Software Engineering Intern,"New York, NY",2026-07-24T16:16:09-04:00,https://job-boards.greenhouse.io/pdtpartners/jobs/8077685,2026-07-24T19:19:21-04:00
-PDT Partners,Summer 2027 Systems Engineering Intern,"New York, NY",2026-07-24T16:16:11-04:00,https://job-boards.greenhouse.io/pdtpartners/jobs/8083292,2026-07-24T19:20:01-04:00
-PlayStation Global,Software QA Engineer ,"United States, San Mateo, CA",2026-07-24T17:35:27-04:00,https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6118771004,2026-07-24T17:36:42-04:00
-searchLFN,Weekend Shift Material Handler,"Ramsey, MN",Posted Today,https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Ramsey-MN/Weekend-Shift-Material-Handler_JR-025106,
-Snowflake,Software Engineer- Postgres,US-CA-Menlo Park,2026-07-24T19:59:32.556+00:00,https://jobs.ashbyhq.com/snowflake/494fcbd0-1cf3-4248-b5cf-b35d982ced00,
-spacex,Material Handler (Starshield) - Temporary Position,"Hawthorne, CA",2026-07-24T19:44:35-04:00,https://boards.greenhouse.io/spacex/jobs/8648202002?gh_jid=8648202002,2026-07-24T19:44:35-04:00
-spacex,"Production Engineer, Site Reliability (Application Software)","Hawthorne, CA",2026-07-24T16:11:09-04:00,https://boards.greenhouse.io/spacex/jobs/8649729002?gh_jid=8649729002,2026-07-24T17:18:21-04:00
-Stripe,"Backend Engineer, Credit Decisions ","Chicago, IL ",2026-07-24T16:10:18-04:00,https://stripe.com/jobs/search?gh_jid=8084195,2026-07-24T16:10:18-04:00
-Stripe,Software Engineer - Full Stack,"South San Francisco, California",2026-07-24T16:10:08-04:00,https://stripe.com/jobs/search?gh_jid=8084193,2026-07-24T16:10:08-04:00
-Toast,"Software Engineer II, Payments","Remote, US or Boston, MA",2026-07-24T15:45:45-04:00,https://careers.toasttab.com/jobs?gh_jid=8059808,2026-07-24T15:45:45-04:00
-Travellers,Agile Product Owner- Data and Analytics,CT - Hartford,Posted Today,https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Agile-Product-Owner--Data-and-Analytics_R-51614,
-Verkada ,Frontend Engineer - Access Control,"San Mateo, CA United States",2026-07-24T16:24:35-04:00,https://job-boards.greenhouse.io/verkada/jobs/5195281007,2026-07-24T16:24:35-04:00
-Woven,Software Engineer - Data Workflows,"Ann Arbor, MI",2026-07-24 20:58:29,https://jobs.lever.co/woven-by-toyota/ba39a024-c4c3-4966-a696-95db0e1dc445,N/A
-Zoox,"Software Engineer, Fleet Simulation (Core Data Science)","Foster City, CA",2026-07-24 22:20:20,https://jobs.lever.co/zoox/18b6dfa0-d581-4d29-ac79-5d6e666aa9c3,N/A
+company,title,location,postedOn,link
+GE Healthcare,AI Engineer,WA07-01-Bellevue-1100-112th Avenue NE,Posted Yesterday,https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/WA07-01-Bellevue-1100-112th-Avenue-NE/AI-Engineer_R4044184-1
