@@ -1,14 +1,3 @@
-company,title,location,link,postedOn,updatedOn
-ALTEN Technology USA,Robotics Software Engineer,"North Reading, MA",https://job-boards.greenhouse.io/altentechnologyusa/jobs/5197168007,2026-07-27T19:10:45-04:00,2026-07-27T19:10:45-04:00
-Adobe,"Software Engineer, ML Tech Transfer",Remote California,https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Remote-California/Software-Engineer--ML-Tech-Transfer_R170714,Posted Today,
-BAH,Data Scientist,"Shaw AFB, SC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Shaw-AFB-SC/Data-Scientist_R0245391,Posted Today,
-BAH,AI and ML Engineer,"Chantilly, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/AI-and-ML-Engineer_R0245368,Posted Today,
-Becton Dickinson’s Integrated Diagnostics Systems,Applications Scientist I,USA CA - San Diego (BDB),https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-BDB/Applications-Scientist-I_R-544739-1,Posted Today,
-Citi,Banamex Analista KYC AML de cumplimiento CDMX,Ciudad De Mexico Distrito Federal Mexico,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-KYC-AML-de-cumplimiento-CDMX_26980683,Posted Today,
-Citi,Reference Data Services Associate Analyst,Getzville New York United States,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Reference-Data-Services-Associate-Analyst_26980590-1,Posted Today,
-Hyanni Sportresearch,Applications Engineer II,"Needham, MA",https://job-boards.greenhouse.io/hyannisportresearch/jobs/7814257003,2026-07-27T15:25:51-04:00,2026-07-27T15:25:51-04:00
-Salesforce,Cloud Readiness Architect - Education and Non-profit Cloud,Illinois - Chicago,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois---Chicago/Cloud-Readiness-Architect---Financial-Services_JR352324,Posted Today,
-Truveta,Software Engineer - Data Processing,"Seattle, WA",https://job-boards.greenhouse.io/truveta/jobs/6128329004,2026-07-27T20:27:16-04:00,2026-07-27T20:27:16-04:00
-Warner Bros,Software Engineer II,GA Atlanta 1050 Techwood Drive NW,https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Software-Engineer-II_R000105680,Posted Today,
-Xylem Services USA LLC,Application Engineer,"Holland, Michigan (Office)",https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Holland-Michigan-Office/Application-Engineer_R49767-1,Posted Today,
-Zipline,Failure Analysis Engineer,"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7817824003,2026-07-27T16:01:30-04:00,2026-07-27T16:01:30-04:00
+company,title,location,postedOn,link
+Citi,Banamex Analista 2 de KYC de AML CDMX,Ciudad De Mexico Distrito Federal Mexico,Posted Yesterday,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-2-de-KYC-de-AML-CDMX_26981526
+State Street,Alpha Product Development Data Integration,"Boston, Massachusetts",Posted Today,https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Alpha-Product-Development-Data-Integration_R-794996
