@@ -4,9 +4,134 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-27 18:59:13](#batch-2026-07-27-18-59-13)
 - [Batch at 2026-07-27 12:25:22](#batch-2026-07-27-12-25-22)
 - [Batch at 2026-07-27 07:24:02](#batch-2026-07-27-07-24-02)
 - [Batch at 2026-07-27 02:44:19](#batch-2026-07-27-02-44-19)
+
+<h3 id='batch-2026-07-27-18-59-13'>🕐 Batch at 2026-07-27 18:59:13</h3>
+
+📊 **Total jobs in this batch: 13**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- Adobe: 1 job
+- BAH: 2 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- Citi: 2 jobs
+- Hyanni Sportresearch: 1 job
+- Salesforce: 1 job
+- Truveta: 1 job
+- Warner Bros: 1 job
+- Xylem Services USA LLC: 1 job
+- Zipline: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>North Reading, MA</td>
+      <td>Robotics Software Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5197168007'>Apply</a></td>
+      <td>Jul 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Adobe</b></td>
+      <td>Remote California</td>
+      <td>Software Engineer, ML Tech Transfer</td>
+      <td><a href='https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Remote-California/Software-Engineer--ML-Tech-Transfer_R170714'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Shaw AFB, SC</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Shaw-AFB-SC/Data-Scientist_R0245391'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>AI and ML Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/AI-and-ML-Engineer_R0245368'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA CA - San Diego (BDB)</td>
+      <td>Applications Scientist I</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-BDB/Applications-Scientist-I_R-544739-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex Analista KYC AML de cumplimiento CDMX</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-KYC-AML-de-cumplimiento-CDMX_26980683'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Getzville New York United States</td>
+      <td>Reference Data Services Associate Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Reference-Data-Services-Associate-Analyst_26980590-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Hyanni Sportresearch</b></td>
+      <td>Needham, MA</td>
+      <td>Applications Engineer II</td>
+      <td><a href='https://job-boards.greenhouse.io/hyannisportresearch/jobs/7814257003'>Apply</a></td>
+      <td>Jul 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Illinois - Chicago</td>
+      <td>Cloud Readiness Architect - Education and Non-profit Cloud</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois---Chicago/Cloud-Readiness-Architect---Financial-Services_JR352324'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Truveta</b></td>
+      <td>Seattle, WA</td>
+      <td>Software Engineer - Data Processing</td>
+      <td><a href='https://job-boards.greenhouse.io/truveta/jobs/6128329004'>Apply</a></td>
+      <td>Jul 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Warner Bros</b></td>
+      <td>GA Atlanta 1050 Techwood Drive NW</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Software-Engineer-II_R000105680'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Xylem Services USA LLC</b></td>
+      <td>Holland, Michigan (Office)</td>
+      <td>Application Engineer</td>
+      <td><a href='https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Holland-Michigan-Office/Application-Engineer_R49767-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Failure Analysis Engineer</td>
+      <td><a href='https://www.zipline.com/open-roles?gh_jid=7817824003'>Apply</a></td>
+      <td>Jul 27, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-27-12-25-22'>🕐 Batch at 2026-07-27 12:25:22</h3>
 
@@ -317,7 +442,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-07-27-07-24-02'>🕐 Batch at 2026-07-27 07:24:02</h3>
 
 📊 **Total jobs in this batch: 8**
@@ -401,8 +525,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-07-27-02-44-19'>🕐 Batch at 2026-07-27 02:44:19</h3>
+---<h3 id='batch-2026-07-27-02-44-19'>🕐 Batch at 2026-07-27 02:44:19</h3>
 
 📊 **Total jobs in this batch: 1**
 
