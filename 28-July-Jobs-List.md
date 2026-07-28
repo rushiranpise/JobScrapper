@@ -4,7 +4,46 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-28 06:55:05](#batch-2026-07-28-06-55-05)
 - [Batch at 2026-07-28 01:28:34](#batch-2026-07-28-01-28-34)
+
+<h3 id='batch-2026-07-28-06-55-05'>🕐 Batch at 2026-07-28 06:55:05</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- Anduril Industries: 1 job
+- BAH: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Lexington, Massachusetts, United States</td>
+      <td>Production Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5193738007?gh_jid=5193738007'>Apply</a></td>
+      <td>Jul 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Databricks Lakehouse Engineer and Analyst, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Databricks-Lakehouse-Engineer-and-Analyst--Mid_R0245401'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-28-01-28-34'>🕐 Batch at 2026-07-28 01:28:34</h3>
 
@@ -43,4 +82,3 @@
 <table>
 
 ---
-
