@@ -4,8 +4,286 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-29 12:10:31](#batch-2026-07-29-12-10-31)
 - [Batch at 2026-07-29 07:00:31](#batch-2026-07-29-07-00-31)
 - [Batch at 2026-07-29 01:29:17](#batch-2026-07-29-01-29-17)
+
+<h3 id='batch-2026-07-29-12-10-31'>🕐 Batch at 2026-07-29 12:10:31</h3>
+
+📊 **Total jobs in this batch: 34**
+
+**Per company:**
+- Anduril Industries: 3 jobs
+- Motorola Solutions, Inc: 1 job
+- BAH: 5 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- Comcast : 1 job
+- HRL Laboratories: 2 jobs
+- KLA: 2 jobs
+- MongoDB: 1 job
+- Morgan Stanley: 1 job
+- Natera : 1 job
+- Pure storage: 1 job
+- Remitly: 1 job
+- searchLFN: 3 jobs
+- spacex: 6 jobs
+- tp-link: 1 job
+- Wyetech LLC: 3 jobs
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Waltham, Massachusetts, United States</td>
+      <td>Field Operations Trainer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5197421007?gh_jid=5197421007'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Waltham, Massachusetts, United States</td>
+      <td>Field Operations Trainer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5183246007?gh_jid=5183246007'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Seattle, Washington, United States</td>
+      <td>Software Engineer, Nix </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/4903334007?gh_jid=4903334007'>Apply</a></td>
+      <td>Sep 18, 2025</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Massachusetts, US Offsite, More...</td>
+      <td>Software Engineering, Co-Op</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Massachusetts-US-Offsite/Software-Engineering--Co-Op_R66728'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Bethesda, MD</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Data-Engineer_R0245442'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Bethesda, MD</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Data-Engineer_R0245444'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Bethesda, MD</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Data-Scientist_R0245439'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>AI/ML Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/AI-ML-Engineer_R0243093'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Springfield, VA</td>
+      <td>Software Engineer, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Software-Engineer--Junior_R0245572'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA SC - Sumter</td>
+      <td>Material Handler</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-SC---Sumter/Material-Handler_R-549069-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>VA - Reston, 11951 Freedom Dr Ste 900</td>
+      <td>Software Engineer 3 - FreeWheel</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Software-Engineer-3---FreeWheel_R441946-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>HRL Laboratories</b></td>
+      <td>Calabasas, CA</td>
+      <td>Agentic AI & Graph Machine Learning Research Engineer</td>
+      <td><a href='https://jobs.lever.co/dodmg/40d15ccf-a504-468f-80cc-7ed01028450a'>Apply</a></td>
+      <td>2026-07-29 17:55:22</td>
+    </tr>
+    <tr>
+      <td><b>HRL Laboratories</b></td>
+      <td>Calabasas, CA</td>
+      <td>Machine Learning Engineer - Advanced AI and Cognitive Systems</td>
+      <td><a href='https://jobs.lever.co/dodmg/f097cef6-6f81-4134-8e40-cecf740271e9'>Apply</a></td>
+      <td>2026-07-29 17:36:32</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Regional Applications Development Engineer</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Regional-Applications-Development-Engineer_2638921-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>AI engineer</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/AI-engineer_2638674-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MongoDB</b></td>
+      <td>New York City</td>
+      <td>Software Engineer 3</td>
+      <td><a href='https://www.mongodb.com/careers/job/?gh_jid=8083761'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>Newport, Rhode Island, United States of America</td>
+      <td>Intern</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/Newport-Rhode-Island-United-States-of-America/Intern_JR040738'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Floater Phlebotomist-Gaithersburg, MD - Temp</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6129429004'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Pure storage</b></td>
+      <td>Dallas, Texas</td>
+      <td>Software Engineer - DDI Solution</td>
+      <td><a href='https://job-boards.greenhouse.io/purestorage/jobs/8084209'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Remitly</b></td>
+      <td>Arlington Virginia, United States</td>
+      <td>Fullstack Software Development Engineer I, Card</td>
+      <td><a href='https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Arlington-Virginia-United-States/Fullstack-Software-Development-Engineer-I--Card_R_106624'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>searchLFN</b></td>
+      <td>Ramsey, MN</td>
+      <td>Materials Handler III - 2nd Shift</td>
+      <td><a href='https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Ramsey-MN/Materials-Handler-III---2nd-Shift_JR-024732'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>searchLFN</b></td>
+      <td>Ramsey, MN</td>
+      <td>Paint Line Loader/Unloader - Weekend Shift</td>
+      <td><a href='https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Ramsey-MN/Paint-Line-Loader-Unloader---Weekend-Shift_JR-025113'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>searchLFN</b></td>
+      <td>Ramsey, MN</td>
+      <td>Powder Coat Painter - Weekend Shift</td>
+      <td><a href='https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Ramsey-MN/Powder-Coat-Painter---Weekend-Shift_JR-025112'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Full Stack Software Engineer, Data (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8656465002?gh_jid=8656465002'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Software Engineer, CDN (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8656579002?gh_jid=8656579002'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Engineer, CDN (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8632172002?gh_jid=8632172002'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, Data (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8631217002?gh_jid=8631217002'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Engineer, Telemetry (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8656526002?gh_jid=8656526002'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, Telemetry (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8631930002?gh_jid=8631930002'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>tp-link</b></td>
+      <td>Irvine, California</td>
+      <td>Full Stack Software Engineer</td>
+      <td><a href='https://apply.workable.com/tp-link-usa-corp/j/52C0F94BE9/'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 3</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/2594b5d8-cf6d-40de-86ec-9053fda4cc9f'>Apply</a></td>
+      <td>2026-07-29 19:04:33</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Software Engineer 4</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/11e8f36c-83da-4d50-b5e5-ddeac84f6b6c'>Apply</a></td>
+      <td>2026-07-29 18:10:33</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Ft. Meade, Maryland</td>
+      <td>Software Integration Engineer (SIE) 2</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/11799eba-23ee-4b9e-bd4c-87a740a3723d'>Apply</a></td>
+      <td>2026-07-29 18:16:44</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>System Verification and Validation Engineer - Fail Operational Systems</td>
+      <td><a href='https://jobs.lever.co/zoox/fe41af48-f0ec-46ec-b840-00f9d9f872de'>Apply</a></td>
+      <td>2026-06-30 19:31:47</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-29-07-00-31'>🕐 Batch at 2026-07-29 07:00:31</h3>
 
@@ -67,7 +345,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-07-29-01-29-17'>🕐 Batch at 2026-07-29 01:29:17</h3>
 
 📊 **Total jobs in this batch: 2**
