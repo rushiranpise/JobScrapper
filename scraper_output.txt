@@ -1,69 +1,165 @@
 
-✅ Scraped 21 new jobs. Output saved to 'output.csv'.
-📦 Appended 21 jobs to 'output_old.csv'
+✅ Scraped 2 new jobs. Output saved to 'output.csv'.
+📦 Appended 2 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"Anduril Industries","title":"Data Analyst, Manufacturing","location":"Santa Ana, California, United States","link":"https:\/\/boards.greenhouse.io\/andurilindustries\/jobs\/5198002007?gh_jid=5198002007","postedOn":"2026-07-28T17:22:21-04:00","updatedOn":"2026-07-28T18:10:48-04:00"},{"company":"Allstate","title":"Inside Property Adjuster- Trainee - In Office \/ Hybrid - Frederick, MD","location":"MD - Frederick","link":"https:\/\/allstate.wd5.myworkdayjobs.com\/en-US\/allstate_careers\/job\/MD---Frederick\/Inside-Property-Adjuster--Trainee---In-Office---Hybrid---Frederick--MD_R32936","postedOn":"Posted Today","updatedOn":null},{"company":"Applied Materials","title":"Data Scientist","location":"Santa Clara,CA","link":"https:\/\/amat.wd1.myworkdayjobs.com\/en-US\/External\/job\/Santa-ClaraCA\/Data-Scientist_R2624867","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Data Analyst, Mid","location":"MacDill AFB, FL","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/MacDill-AFB-FL\/Data-Analyst--Mid_R0245563-1","postedOn":"Posted Today","updatedOn":null},{"company":"Becton Dickinson\u2019s Integrated Diagnostics Systems","title":"Material Handler (3rd shift)","location":"USA TX - El Paso - Northwestern Dr.","link":"https:\/\/bdx.wd1.myworkdayjobs.com\/en-US\/EXTERNAL_CAREER_SITE_USA\/job\/USA-TX---El-Paso---Northwestern-Dr\/Material-Handler--3rd-shift-_R-551375","postedOn":"Posted Today","updatedOn":null},{"company":"Citi","title":"BANAMEX ANALISTA DE CAPTURA JUNIOR CONTRATOS DE INVERSION","location":"Ciudad De Mexico Distrito Federal Mexico","link":"https:\/\/citi.wd5.myworkdayjobs.com\/en-US\/2\/job\/Ciudad-De-Mexico-Distrito-Federal-Mexico\/BANAMEX-ANALISTA-DE-CAPTURA-JUNIOR-CONTRATOS-DE-INVERSION_26976052","postedOn":"Posted Today","updatedOn":null},{"company":"LaunchDarkly\u00a0","title":"Developer Advocate, Growth","location":"Remote - US","link":"https:\/\/job-boards.greenhouse.io\/launchdarkly\/jobs\/7819879003","postedOn":"2026-07-28T19:45:23-04:00","updatedOn":"2026-07-28T19:45:23-04:00"},{"company":"Liaison Edu","title":"Data Curator","location":"Hybrid, US","link":"https:\/\/www.liaisonedu.com\/open-positions\/?gh_jid=5372990008","postedOn":"2026-07-28T16:34:16-04:00","updatedOn":"2026-07-28T16:34:16-04:00"},{"company":"Micron","title":"RAM Operations Trainer","location":"Boise, ID - ID1","link":"https:\/\/micron.wd1.myworkdayjobs.com\/en-US\/External\/job\/Boise-ID---ID1\/RAM-Operations-Trainer_JR106531","postedOn":"Posted Today","updatedOn":null},{"company":"Natera\u00a0","title":"Forward Deployed AI Solutions Engineer","location":"US Remote","link":"https:\/\/job-boards.greenhouse.io\/natera\/jobs\/6115022004","postedOn":"2026-07-28T16:57:33-04:00","updatedOn":"2026-07-28T16:57:33-04:00"},{"company":"Nike","title":"Software Engineer II","location":"Beaverton, Oregon","link":"https:\/\/nike.wd1.myworkdayjobs.com\/en-US\/nke\/job\/Beaverton-Oregon\/Software-Engineer-II_R-88765","postedOn":"Posted Today","updatedOn":null},{"company":"nVent","title":"Painter","location":"Oregon, WI, US","link":"https:\/\/nvent.wd5.myworkdayjobs.com\/en-US\/nVent\/job\/Oregon-WI-US\/Painter_R22863","postedOn":"Posted Today","updatedOn":null},{"company":"spacex","title":"Operations Engineer, Applied AI (Application Software) ","location":"Cape Canaveral, FL","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8652299002?gh_jid=8652299002","postedOn":"2026-07-28T19:21:49-04:00","updatedOn":"2026-07-28T19:21:49-04:00"},{"company":"spacex","title":"Operations Engineer, Applied AI (Application Software) ","location":"Starbase, TX","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8652236002?gh_jid=8652236002","postedOn":"2026-07-28T19:21:47-04:00","updatedOn":"2026-07-28T19:21:47-04:00"},{"company":"spacex","title":"Operations Engineer, Applied AI (Application Software) ","location":"McGregor, TX","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8652296002?gh_jid=8652296002","postedOn":"2026-07-28T19:21:48-04:00","updatedOn":"2026-07-28T19:21:48-04:00"},{"company":"spacex","title":"Operations Engineer, Applied AI (Application Software) ","location":"Hawthorne, CA","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8652229002?gh_jid=8652229002","postedOn":"2026-07-28T19:21:45-04:00","updatedOn":"2026-07-28T19:21:45-04:00"},{"company":"spacex","title":"Operations Engineer, Applied AI (Application Software) ","location":"Bastrop, TX","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8652235002?gh_jid=8652235002","postedOn":"2026-07-28T19:21:46-04:00","updatedOn":"2026-07-28T19:21:46-04:00"},{"company":"spacex","title":"Operations Engineer, Applied AI (Application Software) ","location":"Redmond, WA","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8652301002?gh_jid=8652301002","postedOn":"2026-07-28T19:21:50-04:00","updatedOn":"2026-07-28T19:21:50-04:00"},{"company":"spacex","title":"Operations Engineer, Applied AI (Application Software) ","location":"Vandenberg, CA","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8652304002?gh_jid=8652304002","postedOn":"2026-07-28T19:21:51-04:00","updatedOn":"2026-07-28T19:21:51-04:00"},{"company":"State Street","title":"Application, Infastructure and Service Management","location":"Burlington Massachusetts","link":"https:\/\/statestreet.wd1.myworkdayjobs.com\/en-US\/Global\/job\/Burlington-Massachusetts\/Application--Infastructure-and-Service-Management_R-778404-1","postedOn":"Posted Today","updatedOn":null},{"company":"terex","title":"CNC Programmer, *$3,000 Sign-on Bonus*","location":"US-SD Huron","link":"https:\/\/terex.wd1.myworkdayjobs.com\/en-US\/terexcareers\/job\/US-SD-Huron\/CNC-Programmer----3-000-Sign-on-Bonus-_REQ-12528","postedOn":"Posted Today","updatedOn":null}]
+[{"company":"Abnormal Security","title":"Software Engineer I, Data Platform","location":"Remote - USA","link":"https:\/\/abnormal.ai\/careers\/jobs\/7814567003?gh_jid=7814567003","postedOn":"2026-07-29T01:16:04-04:00","updatedOn":"2026-07-29T01:16:04-04:00"},{"company":"CrowdStrike, Inc","title":"Software Engineer, Cloud - Auth Platform (Hybrid)","location":"USA - Sunnyvale, CA","link":"https:\/\/crowdstrike.wd5.myworkdayjobs.com\/en-US\/crowdstrikecareers\/job\/USA---Sunnyvale-CA\/Software-Engineer--Cloud---Auth-Platform--Hybrid-_R29073","postedOn":"Posted Yesterday","updatedOn":null}]
 NEW_JOBS_END
 ERRORS_START
-[ERROR] Airbyte : Greenhouse API failed: 404
 [ERROR] Altera: Ashby API failed - HTTP 404: Not Found
 [ERROR] Ambrook: Lever API failed: https://api.lever.co/v0/postings/ambrook?mode=json - 404
 [ERROR] Amidon Heavy Industries: Ashby API failed - HTTP 404: Not Found
+[ERROR] Airbyte : Greenhouse API failed: 404
+[ERROR] Anon: Ashby REST API scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Annalect : Greenhouse API failed: 404
 [ERROR] Applied Intuition: Greenhouse API failed: 404
+[ERROR] Asana: Greenhouse error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Magna Services of America, Inc: Invalid Workday URL
 [ERROR] Ascend Analytics: Greenhouse API failed: 404
+[ERROR] Bread Financial Payments, Inc: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Applied Materials: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] 566 DEPARTMENT OF TOURISM AND RECREATION: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] CrowdStrike, Inc: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] ASMLEXT1: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Autodesk: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] boomi: Greenhouse API failed: 404
+[ERROR] BAH: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Adobe: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Samsung Electronics America, Inc: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] BorgWarner: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Autodesk: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Canonical: Greenhouse API failed: 404
+[ERROR] Calix: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Broadcom : Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Cdata: Greenhouse API failed: 404
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
 [ERROR] Chatham Financial: Greenhouse API failed: 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"0801D8MS5FNNIZ","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Bank of Montreal: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"0D69AEMS5TMGI7","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] cadence: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Brink: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Clever: Could not extract Lever company name
+[ERROR] Ciena: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
+[ERROR] Cohesity: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Allstate: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] CMU: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Dapper Labs: Lever API failed: https://api.lever.co/v0/postings/axiomzen?mode=json - 404
+[ERROR] athenahealth : Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Comcast : Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Demandbase : Greenhouse API failed: 404
 [ERROR] Digital.ai: Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"5D3401MS5FP07T","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Children's Hospital Medical Center: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"F7DD70MS5TMYQ7","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
-[ERROR] Funnel: Breezy API failed: 403
+[ERROR] Empower: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Circle: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Galileo Financial Technologies (Sofi): Greenhouse API failed: 404
+[ERROR] Funnel: Breezy API failed: 403
+[ERROR] Concentrix: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Genesys: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] GE Healthcare: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] General Motors LLC: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Grammarly : Greenhouse API failed: 404
-[ERROR] Groq: Greenhouse API failed: 404
+[ERROR] Groq: Greenhouse error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Handshake: Greenhouse API failed: 404
 [ERROR] Illumio: Greenhouse API failed: 404
+[ERROR] homedepot: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] genpt: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Jerry: Ashby API failed - HTTP 404: Not Found
 [ERROR] Kikoff: Ashby API failed - HTTP 404: Not Found
+[ERROR] Intel Corporation: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Kobie: Greenhouse API failed: 404
 [ERROR] Kodiak Robotics: Lever API failed: https://api.lever.co/v0/postings/kodiak?mode=json - 404
+[ERROR] flir: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Lightricks: Greenhouse error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Early  Warning: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Merck & Co.: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] MicroStrategy: SmartRecruiters: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Modernizing Medicine: Greenhouse API failed: 404
+[ERROR] LexisNexis Risk Solutions: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Citi: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] KLA: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] MKSCareersUniversity: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Notion: Greenhouse API failed: 404
-[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"406842MS5FQYW1","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"720DF3MS5TNTAC","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] f5jobs: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Elekta: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Micron: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Orb : Ashby REST API scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Orkes : Greenhouse error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Nike: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Perplexity AI: Greenhouse API failed: 404
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
+[ERROR] MOOG: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] nVent: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Penn Mutual: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"661884MS5FROJW","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Otis: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Raptor Maps: Lever API failed: https://api.lever.co/v0/postings/RaptorMaps?mode=json - 404
-[ERROR] Relativity Space: Greenhouse API failed: 404
-[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"753F58MS5FRS0A","httpStatus":403,"message":"permission denied","messageParams":{}}
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"1386DCMS5TO3XN","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Relativity Space: Greenhouse error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Rakuten : Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
+[ERROR] Prudential Financial: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Morgan Stanley: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"5A3C5FMS5TO6S8","httpStatus":403,"message":"permission denied","messageParams":{}}
+[ERROR] Pluralsight: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] NVIDIA: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Schrdinger: Greenhouse error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] searchLFN: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Root: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Remitly: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Skydio: Greenhouse API failed: 404
+[ERROR] Rakuten Marketing LLC: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Snap: Invalid Workday URL
+[ERROR] Snowflake: Ashby REST API scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] search: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Robert Half : Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Sentry : Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Simons Foundation: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Solera: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Stitch Fix : Greenhouse API failed: 404
 [ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
 [ERROR] Strong Holdim: Greenhouse API failed: 404
 [ERROR] Tandem: Ashby API failed - HTTP 404: Not Found
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"187C68MS5FU4OL","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"D5864AMS5FU7XV","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] SabreJobs: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] The Scion Group: Greenhouse error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Shipt : Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] NVIDIAExternalCareerSite: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Sony AI America Inc: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] terex: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Toast: Greenhouse error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] STANDARD & POOR'S FINANCIAL SERVICE: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"2154B4MS5TOZSC","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"0078DAMS5TOZU0","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] TRM labs: Greenhouse API failed: 404
+[ERROR] Truveta: Greenhouse error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] State Street: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Travellers: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Vimeo: Greenhouse API failed: 404
+[ERROR] The Walt Disney Company: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Tinuiti : Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Tricentis : Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Walmart: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
 [ERROR] Whatnot: Greenhouse API failed: 404
+[ERROR] Voya: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"FDEAFCMS5FV3OE","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] The Toro: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] WEX: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] VSP: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"41A567MS5TPCSU","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Warner Bros: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Verily: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] yahoo: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Workday: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Xylem Services USA LLC: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Wiley Edge/mthree: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] Zoom: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] The standard: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ERROR] SRK Supplylogix LLC: Workday scraping failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 ERRORS_END
