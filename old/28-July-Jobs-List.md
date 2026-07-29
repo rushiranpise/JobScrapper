@@ -4,9 +4,194 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-28 19:04:18](#batch-2026-07-28-19-04-18)
 - [Batch at 2026-07-28 12:20:45](#batch-2026-07-28-12-20-45)
 - [Batch at 2026-07-28 06:55:05](#batch-2026-07-28-06-55-05)
 - [Batch at 2026-07-28 01:28:34](#batch-2026-07-28-01-28-34)
+
+<h3 id='batch-2026-07-28-19-04-18'>🕐 Batch at 2026-07-28 19:04:18</h3>
+
+📊 **Total jobs in this batch: 21**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Allstate: 1 job
+- Applied Materials: 1 job
+- BAH: 1 job
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- Citi: 1 job
+- LaunchDarkly : 1 job
+- Liaison Edu: 1 job
+- Micron: 1 job
+- Natera : 1 job
+- Nike: 1 job
+- nVent: 1 job
+- spacex: 7 jobs
+- State Street: 1 job
+- terex: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Santa Ana, California, United States</td>
+      <td>Data Analyst, Manufacturing</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5198002007?gh_jid=5198002007'>Apply</a></td>
+      <td>Jul 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>MD - Frederick</td>
+      <td>Inside Property Adjuster- Trainee - In Office / Hybrid - Frederick, MD</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/MD---Frederick/Inside-Property-Adjuster--Trainee---In-Office---Hybrid---Frederick--MD_R32936'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist_R2624867'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>MacDill AFB, FL</td>
+      <td>Data Analyst, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/MacDill-AFB-FL/Data-Analyst--Mid_R0245563-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA TX - El Paso - Northwestern Dr.</td>
+      <td>Material Handler (3rd shift)</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-TX---El-Paso---Northwestern-Dr/Material-Handler--3rd-shift-_R-551375'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX ANALISTA DE CAPTURA JUNIOR CONTRATOS DE INVERSION</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-ANALISTA-DE-CAPTURA-JUNIOR-CONTRATOS-DE-INVERSION_26976052'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>LaunchDarkly </b></td>
+      <td>Remote - US</td>
+      <td>Developer Advocate, Growth</td>
+      <td><a href='https://job-boards.greenhouse.io/launchdarkly/jobs/7819879003'>Apply</a></td>
+      <td>Jul 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Liaison Edu</b></td>
+      <td>Hybrid, US</td>
+      <td>Data Curator</td>
+      <td><a href='https://www.liaisonedu.com/open-positions/?gh_jid=5372990008'>Apply</a></td>
+      <td>Jul 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - ID1</td>
+      <td>RAM Operations Trainer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/RAM-Operations-Trainer_JR106531'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Forward Deployed AI Solutions Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6115022004'>Apply</a></td>
+      <td>Jul 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Beaverton, Oregon</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-II_R-88765'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Oregon, WI, US</td>
+      <td>Painter</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Oregon-WI-US/Painter_R22863'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Cape Canaveral, FL</td>
+      <td>Operations Engineer, Applied AI (Application Software) </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8652299002?gh_jid=8652299002'>Apply</a></td>
+      <td>Jul 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Operations Engineer, Applied AI (Application Software) </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8652236002?gh_jid=8652236002'>Apply</a></td>
+      <td>Jul 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>McGregor, TX</td>
+      <td>Operations Engineer, Applied AI (Application Software) </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8652296002?gh_jid=8652296002'>Apply</a></td>
+      <td>Jul 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Operations Engineer, Applied AI (Application Software) </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8652229002?gh_jid=8652229002'>Apply</a></td>
+      <td>Jul 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>Operations Engineer, Applied AI (Application Software) </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8652235002?gh_jid=8652235002'>Apply</a></td>
+      <td>Jul 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Operations Engineer, Applied AI (Application Software) </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8652301002?gh_jid=8652301002'>Apply</a></td>
+      <td>Jul 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Vandenberg, CA</td>
+      <td>Operations Engineer, Applied AI (Application Software) </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8652304002?gh_jid=8652304002'>Apply</a></td>
+      <td>Jul 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Burlington Massachusetts</td>
+      <td>Application, Infastructure and Service Management</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Application--Infastructure-and-Service-Management_R-778404-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>US-SD Huron</td>
+      <td>CNC Programmer, *$3,000 Sign-on Bonus*</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/US-SD-Huron/CNC-Programmer----3-000-Sign-on-Bonus-_REQ-12528'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-28-12-20-45'>🕐 Batch at 2026-07-28 12:20:45</h3>
 
@@ -214,7 +399,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-07-28-06-55-05'>🕐 Batch at 2026-07-28 06:55:05</h3>
 
 📊 **Total jobs in this batch: 2**
@@ -251,8 +435,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-07-28-01-28-34'>🕐 Batch at 2026-07-28 01:28:34</h3>
+---<h3 id='batch-2026-07-28-01-28-34'>🕐 Batch at 2026-07-28 01:28:34</h3>
 
 📊 **Total jobs in this batch: 2**
 
