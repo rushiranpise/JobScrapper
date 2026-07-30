@@ -4,9 +4,257 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-29 18:54:25](#batch-2026-07-29-18-54-25)
 - [Batch at 2026-07-29 12:10:31](#batch-2026-07-29-12-10-31)
 - [Batch at 2026-07-29 07:00:31](#batch-2026-07-29-07-00-31)
 - [Batch at 2026-07-29 01:29:17](#batch-2026-07-29-01-29-17)
+
+<h3 id='batch-2026-07-29-18-54-25'>🕐 Batch at 2026-07-29 18:54:25</h3>
+
+📊 **Total jobs in this batch: 30**
+
+**Per company:**
+- Anduril Industries: 3 jobs
+- Samsung Electronics America, Inc: 1 job
+- Applied Materials: 1 job
+- Aurora: 1 job
+- BAH: 4 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- Children's Hospital Medical Center: 2 jobs
+- Commvault: 1 job
+- Citi: 1 job
+- Esri: 9 jobs
+- IXL Learning: 1 job
+- The Walt Disney Company: 2 jobs
+- Upstart: 1 job
+- Virtu Financial: 1 job
+- Wyetech LLC: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Software Engineer, Quality Integration  </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5199074007?gh_jid=5199074007'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Boston, Massachusetts, United States</td>
+      <td>Software Engineer, Quality Integration  </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5199077007?gh_jid=5199077007'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Atlanta, Georgia, United States</td>
+      <td>Technician Trainer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5189351007?gh_jid=5189351007'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>Mapletree Business City, Singapore, Singapore</td>
+      <td>Regional Business Data Analyst (2 years Contract)</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Mapletree-Business-City-Singapore-Singapore/Regional-Business-Data-Analyst--2-years-Contract-_R118796'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Gloucester,MA</td>
+      <td>Process Engineer III New College Grad - Doctorate (Gloucester, MA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/Process-Engineer-III-New-College-Grad---Doctorate--Gloucester--MA-_R2624953'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Aurora</b></td>
+      <td>Pittsburgh, Pennsylvania</td>
+      <td>Software Engineer II, Vehicle Platform Integrations</td>
+      <td><a href='https://aurora.tech/jobs/8627496002?gh_jid=8627496002'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0245622'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Agentic AI Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Agentic-AI-Engineer_R0245274'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Meade, MD</td>
+      <td>AI Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/AI-Data-Scientist_R0245653'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dayton, OH</td>
+      <td>AI and ML Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/AI-and-ML-Engineer--Mid_R0245636'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA TX - El Paso - Northwestern Dr.</td>
+      <td>Material Handler</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-TX---El-Paso---Northwestern-Dr/Material-Handler_R-551392'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Children's Hospital Medical Center</b></td>
+      <td>Burnet Campus</td>
+      <td>Student Co-Op - Psychiatry</td>
+      <td><a href='https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Burnet-Campus/Student-Co-Op---Psychiatry_JR223514'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Children's Hospital Medical Center</b></td>
+      <td>Burnet Campus</td>
+      <td>Developer I</td>
+      <td><a href='https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Burnet-Campus/Developer-I_JR223867'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Commvault</b></td>
+      <td>United States</td>
+      <td>Technical Content Engineer, Cloud Native</td>
+      <td><a href='https://job-boards.greenhouse.io/commvault/jobs/5371666008'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Analista de Datos, Control, Riesgo AML y Sanciones</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Analista-de-Datos--Control--Riesgo-AML-y-Sanciones_26983332'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Minneapolis, MN</td>
+      <td>Application Developer - JavaScript</td>
+      <td><a href='https://www.esri.com/careers/5197139007?gh_jid=5197139007'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Vienna, Virginia, United States</td>
+      <td>Application Developer - JavaScript</td>
+      <td><a href='https://www.esri.com/careers/5197151007?gh_jid=5197151007'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Application Developer - JavaScript</td>
+      <td><a href='https://www.esri.com/careers/5197121007?gh_jid=5197121007'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>St. Louis, MO - Globe</td>
+      <td>Application Developer - JavaScript</td>
+      <td><a href='https://www.esri.com/careers/5197148007?gh_jid=5197148007'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>San Antonio, TX</td>
+      <td>Application Developer - JavaScript</td>
+      <td><a href='https://www.esri.com/careers/5197146007?gh_jid=5197146007'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Philadelphia, PA</td>
+      <td>Application Developer - JavaScript</td>
+      <td><a href='https://www.esri.com/careers/5197144007?gh_jid=5197144007'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Charlotte, NC - Ballantyne</td>
+      <td>Application Developer - JavaScript</td>
+      <td><a href='https://www.esri.com/careers/5197131007?gh_jid=5197131007'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Denver, CO - Louisville</td>
+      <td>Application Developer - JavaScript</td>
+      <td><a href='https://www.esri.com/careers/5197137007?gh_jid=5197137007'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Olympia, WA</td>
+      <td>Application Developer - JavaScript</td>
+      <td><a href='https://www.esri.com/careers/5197142007?gh_jid=5197142007'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>IXL Learning</b></td>
+      <td>United States</td>
+      <td>Spain Spanish Language Tutor, Rosetta Stone (US - PT)</td>
+      <td><a href='https://www.ixl.com/company/jobs?gh_jid=8656119002'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>Executive Assistant, Main Street - Creative Operations</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Executive-Assistant--Main-Street---Creative-Operations_10156357'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>Walt Disney Television Labor Relations JD Intern, Fall 2026</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Walt-Disney-Television-Labor-Relations-JD-Intern--Fall-2026_10156498-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Upstart</b></td>
+      <td>Burlingame, CA, USA</td>
+      <td>Mail Operations, Systems Excellence Specialist</td>
+      <td><a href='https://careers.upstart.com/jobs?gh_jid=8053323'>Apply</a></td>
+      <td>Jul 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Virtu Financial</b></td>
+      <td>New York</td>
+      <td>2027 Internship - Frontend & User Experience</td>
+      <td><a href='https://job-boards.greenhouse.io/virtu/jobs/8657500002'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Ft. Meade, Maryland</td>
+      <td>Software Engineer 1</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/0ab1ffe2-3cdd-4b96-bda6-4eb0d6d3e06b'>Apply</a></td>
+      <td>2026-01-27 16:55:42</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-29-12-10-31'>🕐 Batch at 2026-07-29 12:10:31</h3>
 
@@ -284,7 +532,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-07-29-07-00-31'>🕐 Batch at 2026-07-29 07:00:31</h3>
 
 📊 **Total jobs in this batch: 5**
@@ -344,8 +591,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-07-29-01-29-17'>🕐 Batch at 2026-07-29 01:29:17</h3>
+---<h3 id='batch-2026-07-29-01-29-17'>🕐 Batch at 2026-07-29 01:29:17</h3>
 
 📊 **Total jobs in this batch: 2**
 
