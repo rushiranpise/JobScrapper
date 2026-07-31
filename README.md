@@ -4,8 +4,265 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-30 19:13:05](#batch-2026-07-30-19-13-05)
 - [Batch at 2026-07-30 12:22:40](#batch-2026-07-30-12-22-40)
 - [Batch at 2026-07-30 06:50:45](#batch-2026-07-30-06-50-45)
+
+<h3 id='batch-2026-07-30-19-13-05'>🕐 Batch at 2026-07-30 19:13:05</h3>
+
+📊 **Total jobs in this batch: 31**
+
+**Per company:**
+- Anduril Industries: 2 jobs
+- Samsung Electronics America, Inc: 1 job
+- ASMLEXT1: 1 job
+- BAH: 6 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 2 jobs
+- Formlabs: 1 job
+- flir: 1 job
+- General Motors LLC: 1 job
+- Natera : 2 jobs
+- Quantinuum: 1 job
+- Roblox: 1 job
+- Salesforce: 1 job
+- SoFi: 1 job
+- spacex: 7 jobs
+- Twilio: 1 job
+- Vast: 1 job
+- Zoom: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Chantilly, Virginia, United States</td>
+      <td>Ground Software Engineer, Space</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5199990007?gh_jid=5199990007'>Apply</a></td>
+      <td>Jul 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Chantilly, Virginia, United States</td>
+      <td>Ground Software Engineer, Space</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5197127007?gh_jid=5197127007'>Apply</a></td>
+      <td>Jul 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>12100 Samsung Blvd, Austin, TX, USA</td>
+      <td>Sustainability Engineer</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Sustainability-Engineer_R118981'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Cloud Engineer</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Senior-Cloud-Engineer_J-00341708-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Ashburn, VA</td>
+      <td>Cloud Infrastructure Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/Cloud-Infrastructure-Engineer_R0245753'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lanham, MD</td>
+      <td>Cloud Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lanham-MD/Cloud-Architect_R0245752'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Ashburn, VA</td>
+      <td>AI and ML Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/AI-and-ML-Engineer_R0245749'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Honolulu, HI</td>
+      <td>Kafka Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Kafka-Data-Engineer_R0241130'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dayton, OH</td>
+      <td>Full Stack Software Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Full-Stack-Software-Engineer--Mid_R0245713'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dayton, OH</td>
+      <td>Full-stack Software Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Full-stack-Software-Engineer--Mid_R0245707'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA SC - Sumter</td>
+      <td>Material Handler</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-SC---Sumter/Material-Handler_R-549230'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA PR - Anasco</td>
+      <td>Training System Administrator</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-PR---Anasco/Training-System-Administrator_R-551132'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Hardware R&D Engineering Intern (Fall 2026)</td>
+      <td><a href='https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694'>Apply</a></td>
+      <td>Jul 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Billerica, MA</td>
+      <td>Full Stack Developer</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Billerica-MA/Full-Stack-Developer_REQ35778'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Business Data Architect</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Business-Data-Architect_JR-202615898'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Medical Science Liaison</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6128416004'>Apply</a></td>
+      <td>Jul 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Training Specialist, PX & Patient Coordinators</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6130285004'>Apply</a></td>
+      <td>Jul 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Quantinuum</b></td>
+      <td>US Broomfield, CO</td>
+      <td>Advanced Software Engineer - Hybrid Quantum-HPC Orchestration  | 904</td>
+      <td><a href='https://jobs.eu.lever.co/quantinuum/d4b67fc3-0bd6-43d7-b121-999f322c4dbf'>Apply</a></td>
+      <td>2026-07-30 20:32:43</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>San Mateo, CA, United States</td>
+      <td>Software Engineer, User Frameworks</td>
+      <td><a href='https://careers.roblox.com/jobs/8080438?gh_jid=8080438'>Apply</a></td>
+      <td>Jul 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>New York - New York</td>
+      <td>Distributed Systems Software Engineer SMTS/LMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Distributed-Systems-Engineer-SMTS-LMTS_JR347084'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SoFi</b></td>
+      <td>CA - San Francisco; WA - Seattle; UT - Cottonwood Heights</td>
+      <td>Data Analyst, Pricing</td>
+      <td><a href='https://sofi.com/careers/job/7820964003?gh_jid=7820964003'>Apply</a></td>
+      <td>Jul 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Cape Canaveral, FL</td>
+      <td>Application Software Engineer, Applied AI</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8658743002?gh_jid=8658743002'>Apply</a></td>
+      <td>Jul 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Application Software Engineer, Applied AI</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002'>Apply</a></td>
+      <td>Jul 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>McGregor, TX</td>
+      <td>Application Software Engineer, Applied AI</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002'>Apply</a></td>
+      <td>Jul 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Application Software Engineer, Applied AI</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8658744002?gh_jid=8658744002'>Apply</a></td>
+      <td>Jul 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Vandenberg, CA</td>
+      <td>Application Software Engineer, Applied AI</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8658742002?gh_jid=8658742002'>Apply</a></td>
+      <td>Jul 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Application Software Engineer, Applied AI</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002'>Apply</a></td>
+      <td>Jul 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>Application Software Engineer, Applied AI</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002'>Apply</a></td>
+      <td>Jul 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Twilio</b></td>
+      <td>Remote - US</td>
+      <td>Software Engineer (L2)</td>
+      <td><a href='https://job-boards.greenhouse.io/twilio/jobs/8097672'>Apply</a></td>
+      <td>Jul 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Vast</b></td>
+      <td>Long Beach, California, United States</td>
+      <td>Subcontracts Specialist, IT Support, Software </td>
+      <td><a href='https://boards.greenhouse.io/vast/jobs/4701358006?gh_jid=4701358006'>Apply</a></td>
+      <td>Jul 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zoom</b></td>
+      <td>San Jose (CA)</td>
+      <td>Software Engineer</td>
+      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/Software-Engineer_R19426-1'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-30-12-22-40'>🕐 Batch at 2026-07-30 12:22:40</h3>
 
@@ -235,7 +492,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-07-30-06-50-45'>🕐 Batch at 2026-07-30 06:50:45</h3>
 
 📊 **Total jobs in this batch: 4**
