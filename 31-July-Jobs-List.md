@@ -4,9 +4,143 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-07-31 19:13:49](#batch-2026-07-31-19-13-49)
 - [Batch at 2026-07-31 12:20:53](#batch-2026-07-31-12-20-53)
 - [Batch at 2026-07-31 06:55:03](#batch-2026-07-31-06-55-03)
 - [Batch at 2026-07-31 01:46:19](#batch-2026-07-31-01-46-19)
+
+<h3 id='batch-2026-07-31-19-13-49'>🕐 Batch at 2026-07-31 19:13:49</h3>
+
+📊 **Total jobs in this batch: 14**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Archer 56: 1 job
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- BAH: 1 job
+- Brink: 1 job
+- CMU: 1 job
+- Databricks: 1 job
+- Rain: 1 job
+- Reddit: 1 job
+- Scale AI: 1 job
+- Snorkel AI: 1 job
+- spacex: 2 jobs
+- Twilio: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Morrisville, North Carolina, United States</td>
+      <td>CNC Programmer/Operator</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5179736007?gh_jid=5179736007'>Apply</a></td>
+      <td>Jul 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Archer 56</b></td>
+      <td>San Jose, California, United States</td>
+      <td>Software Integration Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/archer56/jobs/7823272003'>Apply</a></td>
+      <td>Jul 31, 2026</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Infrastructure Optimization and Modernization Coordinator</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Infrastructure-Optimization-and-Modernization-Coordinator_JR63284'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist--Mid_R0245790'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Brink</b></td>
+      <td>Houston TX</td>
+      <td>CDL Driver</td>
+      <td><a href='https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Houston-TX/CDL-Driver_R77751'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Senior-Software-Engineer_2024584'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Databricks</b></td>
+      <td>United States</td>
+      <td>Specialist Solutions Architect - Cloud Platform & Infrastructure</td>
+      <td><a href='https://databricks.com/company/careers/open-positions/job?gh_jid=8659539002'>Apply</a></td>
+      <td>Jul 31, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Rain</b></td>
+      <td>New York, NY</td>
+      <td>Data Scientist - Fraud Risk</td>
+      <td><a href='https://jobs.ashbyhq.com/rain/d801cb1d-0500-487f-8732-39a4afe3c741'>Apply</a></td>
+      <td>Jul 31, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Reddit</b></td>
+      <td>Remote - United States</td>
+      <td>Frontend Engineer III, Moderation Enforcement</td>
+      <td><a href='https://job-boards.greenhouse.io/reddit/jobs/8093021'>Apply</a></td>
+      <td>Jul 31, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Scale AI</b></td>
+      <td>San Francisco, CA; Seattle, WA; New York, NY</td>
+      <td>Frontier Agents Engineer (Applied AI)</td>
+      <td><a href='https://job-boards.greenhouse.io/scaleai/jobs/4720573005'>Apply</a></td>
+      <td>Jul 31, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snorkel AI</b></td>
+      <td>New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote)</td>
+      <td>Applied AI Engineer, Federal - Top Secret Clearance</td>
+      <td><a href='https://job-boards.greenhouse.io/snorkelai/jobs/5721276004'>Apply</a></td>
+      <td>Nov 24, 2025</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>Full Stack Software Engineer, Internal Systems </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8663562002?gh_jid=8663562002'>Apply</a></td>
+      <td>Jul 31, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>Technical Training Specialist (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8661853002?gh_jid=8661853002'>Apply</a></td>
+      <td>Jul 31, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Twilio</b></td>
+      <td>Remote - US</td>
+      <td>Software Engineer (L2)</td>
+      <td><a href='https://job-boards.greenhouse.io/twilio/jobs/8100236'>Apply</a></td>
+      <td>Jul 31, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-07-31-12-20-53'>🕐 Batch at 2026-07-31 12:20:53</h3>
 
@@ -216,7 +350,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-07-31-06-55-03'>🕐 Batch at 2026-07-31 06:55:03</h3>
 
 📊 **Total jobs in this batch: 5**
@@ -277,8 +410,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-07-31-01-46-19'>🕐 Batch at 2026-07-31 01:46:19</h3>
+---<h3 id='batch-2026-07-31-01-46-19'>🕐 Batch at 2026-07-31 01:46:19</h3>
 
 📊 **Total jobs in this batch: 2**
 
