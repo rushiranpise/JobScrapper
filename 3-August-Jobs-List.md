@@ -4,9 +4,209 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-03 18:57:32](#batch-2026-08-03-18-57-32)
 - [Batch at 2026-08-03 12:29:44](#batch-2026-08-03-12-29-44)
 - [Batch at 2026-08-03 07:30:23](#batch-2026-08-03-07-30-23)
 - [Batch at 2026-08-03 02:37:01](#batch-2026-08-03-02-37-01)
+
+<h3 id='batch-2026-08-03-18-57-32'>🕐 Batch at 2026-08-03 18:57:32</h3>
+
+📊 **Total jobs in this batch: 23**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 2 jobs
+- Allstate: 1 job
+- Aptos Labs: 1 job
+- Applied Materials: 2 jobs
+- BAH: 1 job
+- Databricks: 1 job
+- GE Healthcare: 1 job
+- homedepot: 1 job
+- Intel Corporation: 2 jobs
+- Just Works: 1 job
+- Micron: 1 job
+- Scoutm Otors: 2 jobs
+- spacex: 3 jobs
+- State Street: 1 job
+- Twilio: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Kinston, North Carolina, United States</td>
+      <td>Shop Floor Application Engineer (IT/OT)</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5147443007'>Apply</a></td>
+      <td>Aug 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>CDL Safety Specialist</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/CDL-Safety-Specialist_JR63319'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Wildlife Technician</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Wildlife-Technician_JR63320'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>MI - Grand Rapids</td>
+      <td>Large Loss Property Adjuster - Field Estimating Grand Rapids, MI</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/MI---Grand-Rapids/Large-Loss-Property-Adjuster---Field-Estimating-Grand-Rapids--MI_R33257'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Aptos Labs</b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer, Trading Product</td>
+      <td><a href='https://job-boards.greenhouse.io/aptoslabs/jobs/4720895005'>Apply</a></td>
+      <td>Aug 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Application Engineer III New College Grad</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Application-Engineer-III-New-College-Grad_R2622545'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>FP&A Analyst New College Grad (MBA - Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/FP-A-Analyst-New-College-Grad--MBA---Santa-Clara--CA-_R2624935'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Ashburn, VA</td>
+      <td>Front-end Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/Front-end-Software-Engineer_R0245975'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Databricks</b></td>
+      <td>San Francisco, California</td>
+      <td>P2P Data & Automation Analyst</td>
+      <td><a href='https://databricks.com/company/careers/open-positions/job?gh_jid=8633071002'>Apply</a></td>
+      <td>Aug 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>GE Healthcare</b></td>
+      <td>WA07-01-Bellevue-1100-112th Avenue NE</td>
+      <td>AI Scientist</td>
+      <td><a href='https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/WA07-01-Bellevue-1100-112th-Avenue-NE/AI-Scientist_R4044576-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>TEXAS - VIRTUAL - TX01</td>
+      <td>Software Engineer II - Backend Java (Remote)</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/TEXAS---VIRTUAL---TX01/Software-Engineer-II---Backend-Java--Remote-_Req187572-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Data Scientist</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Data-Scientist_JR0286110'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>Virtual US</td>
+      <td>AI Software Engineer Graduate Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Just Works</b></td>
+      <td>New York, New York</td>
+      <td>Onboarding Specialist (International)</td>
+      <td><a href='https://boards.greenhouse.io/justworks/jobs/8080334?gh_jid=8080334'>Apply</a></td>
+      <td>Aug 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - ID1</td>
+      <td>Capital Planning Engineer - Front-End US Expansion</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Capital-Planning-Engineer---Front-End-US-Expansion_JR107314'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Scoutm Otors</b></td>
+      <td>Charlotte, North Carolina, United States</td>
+      <td>AI Infrastructure Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/scoutmotors/jobs/5201286007'>Apply</a></td>
+      <td>Aug 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Scoutm Otors</b></td>
+      <td>Charlotte, North Carolina, United States; Columbia, South Carolina, United States; Fremont, California, United States</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/scoutmotors/jobs/5201280007'>Apply</a></td>
+      <td>Aug 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Memphis, TN</td>
+      <td>Data Center Safety Engineer</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8660139002?gh_jid=8660139002'>Apply</a></td>
+      <td>Aug 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Full Stack Engineer (Application Software)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8675232002?gh_jid=8675232002'>Apply</a></td>
+      <td>Aug 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Welding Technical Trainer, GTAW (Starship)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8674753002?gh_jid=8674753002'>Apply</a></td>
+      <td>Aug 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Boston, Massachusetts</td>
+      <td>Data Engineer, Officer - State Street Investment Management</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Data-Engineer--Officer---State-Street-Investment-Management_R-795510-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Twilio</b></td>
+      <td>Remote - US</td>
+      <td>Software Engineer (L4)</td>
+      <td><a href='https://job-boards.greenhouse.io/twilio/jobs/8103253'>Apply</a></td>
+      <td>Aug 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Twilio</b></td>
+      <td>Remote - US</td>
+      <td>Software Engineer (L4)</td>
+      <td><a href='https://job-boards.greenhouse.io/twilio/jobs/8098945'>Apply</a></td>
+      <td>Aug 03, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-03-12-29-44'>🕐 Batch at 2026-08-03 12:29:44</h3>
 
@@ -336,7 +536,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-03-07-30-23'>🕐 Batch at 2026-08-03 07:30:23</h3>
 
 📊 **Total jobs in this batch: 6**
@@ -405,8 +604,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-08-03-02-37-01'>🕐 Batch at 2026-08-03 02:37:01</h3>
+---<h3 id='batch-2026-08-03-02-37-01'>🕐 Batch at 2026-08-03 02:37:01</h3>
 
 📊 **Total jobs in this batch: 2**
 
