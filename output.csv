@@ -1,6 +1,49 @@
-company,title,location,postedOn,link
-BorgWarner,Human Resources Intern,Bellwood - Illinois - USA,Posted Today,https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Bellwood---Illinois---USA/Human-Resources-Intern_R2026-3152
-GE Healthcare,RCIS FP&A Intern,RUS06-01-Moscow-Naberezhnaya Tower,Posted Today,https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/RUS06-01-Moscow-Naberezhnaya-Tower/RCIS-FP-A-Intern_R4043851-1
-General Motors LLC,Software Engineer,"Warren, Michigan, United States of America",Posted Today,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Engineer_JR-202616842
-Intel Corporation,AI Product Integrator,"US, California, Folsom",Posted Today,https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/AI-Product-Integrator_JR0286037
-The Toro,"Material Handler, 1st Shift - Exmark","Beatrice, NE",Posted Today,https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Beatrice-NE/Material-Handler--1st-Shift---Exmark_JR16702
+company,title,location,link,postedOn,updatedOn
+Anduril Industries,Robotics Software Engineer ,"Atlanta, Georgia, United States",https://boards.greenhouse.io/andurilindustries/jobs/4968127007?gh_jid=4968127007,2025-11-05T09:50:23-05:00,2026-08-04T11:40:41-04:00
+Anduril Industries,Scientific Software Engineer,"Broomfield, Colorado, United States; Fort Collins, Colorado, United States",https://boards.greenhouse.io/andurilindustries/jobs/5203050007?gh_jid=5203050007,2026-08-04T10:03:32-04:00,2026-08-04T10:03:32-04:00
+"Samsung Electronics America, Inc","Price, Promotion & Master Data Analyst","6625 Excellence Way, Plano, TX, USA",https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Price--Promotion---Master-Data-Analyst_R119090,Posted Today,
+"Samsung Electronics America, Inc",2027 New Grad (SEED) Program,"1530 FM 973 Taylor, TX, USA",https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-New-Grad--SEED--Program_R119156-1,Posted Today,
+"Samsung Electronics America, Inc",2027 Summer Internship,"1530 FM 973 Taylor, TX, USA",https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-Summer-Internship_R119158,Posted Today,
+BAH,Infrastructure Automation Engineer,"Dahlgren, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dahlgren-VA/Infrastructure-Automation-Engineer_R0246023,Posted Today,
+BAH,Command and Control Information Systems & Simulations Trainer,"Fort McCoy, WI",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-McCoy-WI/Command-and-Control-Information-Systems---Simulations-Trainer_R0246013,Posted Today,
+BAH,Data Scientist,"Doral, FL",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Doral-FL/Data-Scientist_R0245993,Posted Today,
+BAH,Data Engineer,"McLean, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Engineer_R0245992,Posted Today,
+BAH,Software Developer,"Colorado Springs, CO",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Colorado-Springs-CO/Software-Developer_R0245998,Posted Today,
+BAH,Data Scientist,"Fayetteville, NC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Scientist_R0246011-1,Posted Today,
+BAH,Data Governance and Metadata Scientist,"Doral, FL",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Doral-FL/Data-Governance-and-Metadata-Scientist_R0245985,Posted Today,
+BAH,Data Engineer,"Honolulu, HI",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0245942,Posted Today,
+BAH,Data Lake Engineer,"Doral, FL",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Doral-FL/Data-Lake-Engineer_R0245982,Posted Today,
+BAH,Software Engineer,"McLean, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer_R0246152,Posted Today,
+BAH,Data Visualization Specialist,"Alexandria, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Visualization-Specialist_R0245988-1,Posted Today,
+BAH,Data Scientist,"Fort Meade, MD",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist_R0245953,Posted Today,
+BAH,Data Scientist,"Washington, DC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0245950,Posted Today,
+BorgWarner,Market Research Intern (Year-Round) – (Corporate - GMR) ,Auburn Hills - Michigan - USA,https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Market-Research-Intern--Year-Round-----Corporate---GMR--_R2026-3095,Posted Today,
+Cape,"Software Engineer, Infrastructure",Remote USA,https://jobs.ashbyhq.com/cape/4c39666a-92c9-40fa-9d63-fd591aaf64ff,2025-10-20T19:30:19.441+00:00,
+Databricks,Specialist Solutions Architect - Cloud Platform & Infrastructure (Azure),United States,https://databricks.com/company/careers/open-positions/job?gh_jid=8672336002,2026-08-03T12:06:34-04:00,2026-08-04T13:24:06-04:00
+Dematic Corp. (ILD-US),Controls Engineering Intern/Co-Op,"Grand Rapids, MI, United States",https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-Op_JR-0094003-1,Posted Today,
+flir,Material Handler,"US - Lewisburg, TN",https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Lewisburg-TN/Material-Handler_REQ36027-1,Posted Today,
+General Motors LLC,Application Engineer - vECU Development,"Milford, Michigan, United States of America",https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Application-Engineer---vECU-Development_JR-202616854,Posted Today,
+GOAT ,Junior Authentication Specialist,"Fontana, California, United States",https://job-boards.greenhouse.io/goatgroup/jobs/4721282005,2026-08-04T14:15:14-04:00,2026-08-04T14:15:14-04:00
+GOAT ,Junior Authentication Specialist,"Atlanta, Georgia, United States",https://job-boards.greenhouse.io/goatgroup/jobs/4721125005,2026-08-04T11:41:00-04:00,2026-08-04T12:55:09-04:00
+Merck & Co.,"Assoc. Dir , Data Analysis",USA - New Jersey - Rahway,https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/Assoc-Dir---Data-Analysis_R410591-1,Posted Today,
+Micron,"New College Grad - Device Engineer, DRAM","Boise, ID - ID1",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/New-College-Grad---Device-Engineer--DRAM_JR106588,Posted Today,
+Micron,"Intern - Process Pathfinding, DRAM Dry Etch","Boise, ID - Main Site",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Pathfinding--DRAM-Dry-Etch_JR107347,Posted Today,
+Micron,"Intern - Process Development Engineer, Dry Etch","Boise, ID - Main Site",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Dry-Etch_JR107326,Posted Today,
+Micron,Intern - Process Development,"Boise, ID - Main Site",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development_JR107319,Posted Today,
+Micron,"Intern - Process Development Engineer, 3D DRAM Photo","Boise, ID - Main Site",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Photo_JR107312,Posted Today,
+Micron,"Intern - Process Development Engineer, 3D DRAM Dry Etch","Boise, ID - Main Site",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330,Posted Today,
+Micron,"Intern - Process Development Engineer, DRAM Thin Films","Boise, ID - Main Site",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--DRAM-Thin-Films_JR107203,Posted Today,
+Micron,Intern - TPG Global IE,"Boise, ID - Main Site",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---TPG-Global-IE_JR107486,Posted Today,
+Micron,Intern - Photolithography Process,"Boise, ID - Main Site",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Photolithography-Process_JR107508,Posted Today,
+Micron,"New College Grad - Business Analyst, Digital Workplace","Boise, ID - Main Site",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---Business-Analyst--Digital-Workplace_JR107764,Posted Today,
+Natera ,"Software Engineer, Full Stack",US Remote,https://job-boards.greenhouse.io/natera/jobs/5993307004,2026-05-12T12:10:31-04:00,2026-08-04T11:49:28-04:00
+NVIDIA,AI and ML Power Methodology Engineer,"US, CA, Santa Clara",https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Power-Methodology-Engineer_JR2022456,Posted Today,
+Pinterest,"Software Engineer II, Backend, tvScientific","San Francisco, CA, US; Remote, US",https://www.pinterestcareers.com/jobs/?gh_jid=8041770,2026-08-04T12:35:51-04:00,2026-08-04T12:35:51-04:00
+Samsara,AI Architect - GTM Systems,Remote - US,https://www.samsara.com/company/careers/roles/7578952?gh_jid=7578952,2026-02-05T19:00:35-05:00,2026-08-04T11:07:53-04:00
+Snowflake,Data Engineering Solutions Specialist ,US-NY-New York,https://jobs.ashbyhq.com/snowflake/ecd08904-f188-4336-bf8c-f75f97df1a02,2026-08-03T06:03:05.234+00:00,
+spacex,"Software Engineer, AI Satellites (Starmind)","Bastrop, TX",https://boards.greenhouse.io/spacex/jobs/8676015002?gh_jid=8676015002,2026-08-04T12:06:43-04:00,2026-08-04T12:06:43-04:00
+The Toro,"Paint Line, $2,000 Sign-on Bonus - Ventrac","Orrville, OH",https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Orrville-OH/Paint-Line---2-000-Sign-on-Bonus---Ventrac_JR16828,Posted Today,
+The Walt Disney Company,Project Data Administrator (Part-Time),"Lake Buena Vista, FL, USA",https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Project-Data-Administrator--Part-Time-_10155720,Posted Today,
+The Walt Disney Company,Executive Assistant (Project Hire/Internal Assignment),"Glendale, CA, USA",https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Executive-Assistant--Project-Hire-_10155718,Posted Today,
+Travellers,Gen AI - Data Engineer II,GA - Atlanta,https://travelers.wd5.myworkdayjobs.com/en-US/External/job/GA---Atlanta/Gen-AI---Data-Engineer-II_R-51257,Posted Today,
+Vermont Information Processing,Master Data Implementation Specialist ,"Colchester, Vermont, United States",https://job-boards.greenhouse.io/vipvermontinformationprocessing2/jobs/5203468007,2026-08-04T14:43:38-04:00,2026-08-04T14:43:38-04:00
