@@ -4,9 +4,282 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-04 18:58:29](#batch-2026-08-04-18-58-29)
 - [Batch at 2026-08-04 12:29:27](#batch-2026-08-04-12-29-27)
 - [Batch at 2026-08-04 07:01:04](#batch-2026-08-04-07-01-04)
 - [Batch at 2026-08-04 01:33:39](#batch-2026-08-04-01-33-39)
+
+<h3 id='batch-2026-08-04-18-58-29'>🕐 Batch at 2026-08-04 18:58:29</h3>
+
+📊 **Total jobs in this batch: 33**
+
+**Per company:**
+- Affirm : 1 job
+- Anduril Industries: 1 job
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- Allstate: 2 jobs
+- ASMLEXT1: 1 job
+- Applied Materials: 2 jobs
+- BAH: 6 jobs
+- Clear: 1 job
+- Citi: 1 job
+- homedepot: 1 job
+- KLA: 1 job
+- NVIDIA: 1 job
+- palantir: 3 jobs
+- Remitly: 1 job
+- Scale AI: 1 job
+- SoFi: 1 job
+- spacex: 3 jobs
+- Stripe: 3 jobs
+- Twilio: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>Internal Events Specialist I</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/7808243003'>Apply</a></td>
+      <td>Aug 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Robotic Software Engineer, Omen</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5183150007?gh_jid=5183150007'>Apply</a></td>
+      <td>Aug 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Kiowa County</td>
+      <td>Seasonal Groundskeeper - Quartz Mountain State Park Lodge</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Kiowa-County/Seasonal-Groundskeeper---Quartz-Mountain-State-Park-Lodge_JR63407'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>US - Remote</td>
+      <td>Exposure Intelligence Analyst – Applications & APIs (OWASP / SAST-DAST / Auth)</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Exposure-Intelligence-Analyst---Applications---APIs--OWASP---SAST-DAST---Auth-_R33669'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>US - Remote</td>
+      <td>Exposure Intelligence Analyst – Databases & Data Stores (RDBMS / NoSQL / Object Storage / Permissions)</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Exposure-Intelligence-Analyst---Databases---Data-Stores--RDBMS---NoSQL---Object-Storage---Permissions-_R33667'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Austin, TX, USA</td>
+      <td>Upgrade Install and Relocation Engineer</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Austin-TX-USA/Upgrade-Install-and-Relocation-Engineer_J-00349541-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Chemist  (Co-Op - Santa Clara)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Chemist---Co-Op---Santa-Clara-_R2624992'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Global Software Support Engineer III - (E3)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Global-Software-Support-Engineer-III----E3-_R2625244'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Power Platform Solution Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Power-Platform-Solution-Developer_R0245792-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/DevOps-Engineer_R0246042'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>Full Stack Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Full-Stack-Developer_R0246030'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Scientist_R0246027'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Engineer_R0245967-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-Engineer_R0246016'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Clear</b></td>
+      <td>New York, New York, United States</td>
+      <td>Software Engineer Backend (Java)</td>
+      <td><a href='https://job-boards.greenhouse.io/clear/jobs/8107053'>Apply</a></td>
+      <td>Aug 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Getzville New York United States</td>
+      <td>Entity Data Management - Data Quality Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Entity-Data-Management---Data-Quality-Analyst_26982938'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>NEW JERSEY - VIRTUAL - NJ01</td>
+      <td>Rental Delivery Driver I CDLA - Clifton, NJ</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/NEW-JERSEY---VIRTUAL---NJ01/Rental-Delivery-Driver-I-CDLA---Clifton--NJ_Req188054'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Austin, TX</td>
+      <td>Software Engineer (AI/ML)</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Austin-TX/Software-Engineer--AI-ML-_2639414'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Systems Software Engineer - Infrastructure</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---Infrastructure_JR2022783'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>palantir</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Platform Engineer - Identity Infrastructure</td>
+      <td><a href='https://jobs.lever.co/palantir/721fe5ca-73b8-4223-826e-93a528194821'>Apply</a></td>
+      <td>2026-08-04 21:07:54</td>
+    </tr>
+    <tr>
+      <td><b>palantir</b></td>
+      <td>Washington, D.C.</td>
+      <td>Platform Engineer - Identity Infrastructure</td>
+      <td><a href='https://jobs.lever.co/palantir/a80afc2b-2564-4a98-84c2-34cdcc0402df'>Apply</a></td>
+      <td>2026-08-04 21:07:28</td>
+    </tr>
+    <tr>
+      <td><b>palantir</b></td>
+      <td>New York, NY</td>
+      <td>Platform Engineer - Identity Infrastructure</td>
+      <td><a href='https://jobs.lever.co/palantir/cf08f44c-bf75-45ed-9fab-f4836e51013e'>Apply</a></td>
+      <td>2026-07-28 19:52:46</td>
+    </tr>
+    <tr>
+      <td><b>Remitly</b></td>
+      <td>Seattle, Washington United States</td>
+      <td>Software Development Engineer I- IHUB</td>
+      <td><a href='https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I--IHUB_R_106706'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Scale AI</b></td>
+      <td>New York, NY</td>
+      <td>Business Development Representative, Partnerships (Physical AI)</td>
+      <td><a href='https://job-boards.greenhouse.io/scaleai/jobs/4694836005'>Apply</a></td>
+      <td>May 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SoFi</b></td>
+      <td>Frisco, TX </td>
+      <td>Fraud Model Developer</td>
+      <td><a href='https://sofi.com/careers/job/7826869003?gh_jid=7826869003'>Apply</a></td>
+      <td>Aug 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Application Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8675909002?gh_jid=8675909002'>Apply</a></td>
+      <td>Aug 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Full Stack Engineer (Application Software)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8681166002?gh_jid=8681166002'>Apply</a></td>
+      <td>Aug 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Full Stack Software Engineer, Internal Systems </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8681167002?gh_jid=8681167002'>Apply</a></td>
+      <td>Aug 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>South San Francisco, CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=8107379'>Apply</a></td>
+      <td>Aug 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>South San Francisco, California</td>
+      <td>Software Engineer, Sending</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=8107302'>Apply</a></td>
+      <td>Aug 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>US - Remote</td>
+      <td>Software Engineer, Vulnerability Management</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=8089353'>Apply</a></td>
+      <td>Aug 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Twilio</b></td>
+      <td>Remote - US</td>
+      <td>Software Engineer, Platform Engineering (L2)</td>
+      <td><a href='https://job-boards.greenhouse.io/twilio/jobs/8026207'>Apply</a></td>
+      <td>Aug 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Twilio</b></td>
+      <td>Remote - US</td>
+      <td>Software Engineer-Platform Engineering (L3)</td>
+      <td><a href='https://job-boards.greenhouse.io/twilio/jobs/8026203'>Apply</a></td>
+      <td>Aug 04, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-04-12-29-27'>🕐 Batch at 2026-08-04 12:29:27</h3>
 
@@ -387,7 +660,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-04-07-01-04'>🕐 Batch at 2026-08-04 07:01:04</h3>
 
 📊 **Total jobs in this batch: 5**
@@ -448,8 +720,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-08-04-01-33-39'>🕐 Batch at 2026-08-04 01:33:39</h3>
+---<h3 id='batch-2026-08-04-01-33-39'>🕐 Batch at 2026-08-04 01:33:39</h3>
 
 📊 **Total jobs in this batch: 2**
 
