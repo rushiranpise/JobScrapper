@@ -4,7 +4,54 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-05 06:57:35](#batch-2026-08-05-06-57-35)
 - [Batch at 2026-08-05 01:31:34](#batch-2026-08-05-01-31-34)
+
+<h3 id='batch-2026-08-05-06-57-35'>🕐 Batch at 2026-08-05 06:57:35</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Intel Corporation: 1 job
+- LexisNexis Risk Solutions: 1 job
+- State Street: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>AI Full Stack Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Full-Stack-Engineer_JR0286065'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>LexisNexis Risk Solutions</b></td>
+      <td>UK - Grosvenor House (Southampton)</td>
+      <td>Junior Software Engineer</td>
+      <td><a href='https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---Grosvenor-House-Southampton/Junior-Software-Engineer_R115585'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Quincy, Massachusetts</td>
+      <td>Software Engineering & Development</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Software-Engineering---Development_R-795595'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-05-01-31-34'>🕐 Batch at 2026-08-05 01:31:34</h3>
 
@@ -74,4 +121,3 @@
 <table>
 
 ---
-
