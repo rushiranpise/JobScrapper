@@ -4,9 +4,187 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-05 18:59:52](#batch-2026-08-05-18-59-52)
 - [Batch at 2026-08-05 12:27:15](#batch-2026-08-05-12-27-15)
 - [Batch at 2026-08-05 06:57:35](#batch-2026-08-05-06-57-35)
 - [Batch at 2026-08-05 01:31:34](#batch-2026-08-05-01-31-34)
+
+<h3 id='batch-2026-08-05-18-59-52'>🕐 Batch at 2026-08-05 18:59:52</h3>
+
+📊 **Total jobs in this batch: 20**
+
+**Per company:**
+- CrowdStrike, Inc: 1 job
+- Samsung Electronics America, Inc: 1 job
+- ASMLEXT1: 1 job
+- Applied Materials: 1 job
+- BAH: 3 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- Brink: 1 job
+- Broadcom : 1 job
+- Comcast : 2 jobs
+- genpt: 2 jobs
+- Morgan Stanley: 1 job
+- OpenEye: 1 job
+- Remitly: 1 job
+- Salesforce: 1 job
+- spacex: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Austin, TX</td>
+      <td>Software Engineer II, LogScale Search Integrations (Hybrid)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Austin-TX/Software-Engineer-II--LogScale-Search-Integrations--Hybrid-_R29420'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>200 Connell Drive, Berkeley Heights, NJ, USA</td>
+      <td>Professional Ⅱ, Software Verification</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/200-Connell-Drive-Berkeley-Heights-NJ-USA/Professional----Software-Verification_R119208'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>CNC Generating Technician CWW Back End Nights (6:00pm-6:00am Thursday- Saturday, every other Wednesday) - 15% Differential</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/CNC-Generating-Technician-CWW-Back-End-Nights--6-00pm-6-00am-Thursday--Saturday--every-other-Wednesday----15--Differential_J-00348292'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Material Coordinator/Handler III</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Coordinator-Handler-III_R2625473'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Data-Scientist_R0246131'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Data-Scientist_R0246129-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Signals & Defense Engineer, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Signals---Defense-Engineer--Junior_R0246098'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA NE - Columbus (West)</td>
+      <td>Controls Tech Intern</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-West/Controls-Tech-Intern_R-552429'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Brink</b></td>
+      <td>San Bernardino CA</td>
+      <td>CDL Driver</td>
+      <td><a href='https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/San-Bernardino-CA/CDL-Driver_R77736'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-CA San Jose Innovation Drive</td>
+      <td>System Software Engineer</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/System-Software-Engineer_R026604'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>VA - Reston, 11951 Freedom Dr Ste 900</td>
+      <td>Software Engineer 3 (AI) - Hybrid - Reston, Va - Freewheel</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Software-Engineer-3--AI----Hybrid---Reston--Va---Freewheel_R442250'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>VA - Reston, 11951 Freedom Dr Ste 900</td>
+      <td>Software Engineer 2 (AI) - Hybrid - Reston, VA - Freewheel</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Software-Engineer-2--AI----Hybrid---Reston--VA---Freewheel_R442248'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Material-Handler-I_R26_0000025888-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Material-Handler-I_R26_0000025892'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>New York, New York, United States of America</td>
+      <td>MSIM Infrastructure Partners, Pre-MBA Associate (2026 Program)</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/MSIM-Infrastructure-Partners--Acquisitions-Associate--2026-Program-_JR040759-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenEye</b></td>
+      <td>Tysons, Virginia</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://job-boards.greenhouse.io/alarmcom/jobs/8679965002'>Apply</a></td>
+      <td>Aug 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Remitly</b></td>
+      <td>Arlington Virginia, United States</td>
+      <td>Fullstack Software Development Engineer II, Card</td>
+      <td><a href='https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Arlington-Virginia-United-States/Fullstack-Software-Development-Engineer-II--Card_R_106738'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Software Engineering - Core Software Engineering - Software Engineering PMTS-2</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering---Core-Software-Engineering---Software-Engineering-PMTS-2_JR355156-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Memphis, TN</td>
+      <td>Full Stack Software Engineer, Internal Systems </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8686286002?gh_jid=8686286002'>Apply</a></td>
+      <td>Aug 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Cape Canaveral, FL</td>
+      <td>Sourcing Specialist, LNG Capital</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8686804002?gh_jid=8686804002'>Apply</a></td>
+      <td>Aug 05, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-05-12-27-15'>🕐 Batch at 2026-08-05 12:27:15</h3>
 
@@ -211,7 +389,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-05-06-57-35'>🕐 Batch at 2026-08-05 06:57:35</h3>
 
 📊 **Total jobs in this batch: 3**
@@ -256,8 +433,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-08-05-01-31-34'>🕐 Batch at 2026-08-05 01:31:34</h3>
+---<h3 id='batch-2026-08-05-01-31-34'>🕐 Batch at 2026-08-05 01:31:34</h3>
 
 📊 **Total jobs in this batch: 6**
 
