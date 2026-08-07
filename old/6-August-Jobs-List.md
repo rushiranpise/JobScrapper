@@ -4,9 +4,40 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-06 19:22:32](#batch-2026-08-06-19-22-32)
 - [Batch at 2026-08-06 17:00:03](#batch-2026-08-06-17-00-03)
 - [Batch at 2026-08-06 06:54:44](#batch-2026-08-06-06-54-44)
 - [Batch at 2026-08-06 01:28:39](#batch-2026-08-06-01-28-39)
+
+<h3 id='batch-2026-08-06-19-22-32'>🕐 Batch at 2026-08-06 19:22:32</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Ramp: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Ramp</b></td>
+      <td>New York, NY (HQ)</td>
+      <td>Associate, Capital Markets</td>
+      <td><a href='https://jobs.ashbyhq.com/ramp/59ae3776-2d0a-41b0-a5b2-ffd1262b92d2'>Apply</a></td>
+      <td>Aug 07, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-06-17-00-03'>🕐 Batch at 2026-08-06 17:00:03</h3>
 
@@ -395,7 +426,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-06-06-54-44'>🕐 Batch at 2026-08-06 06:54:44</h3>
 
 📊 **Total jobs in this batch: 5**
@@ -456,8 +486,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-08-06-01-28-39'>🕐 Batch at 2026-08-06 01:28:39</h3>
+---<h3 id='batch-2026-08-06-01-28-39'>🕐 Batch at 2026-08-06 01:28:39</h3>
 
 📊 **Total jobs in this batch: 5**
 
