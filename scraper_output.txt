@@ -1,25 +1,25 @@
 
-✅ Scraped 1 new jobs. Output saved to 'output.csv'.
-📦 Appended 1 jobs to 'output_old.csv'
+✅ Scraped 2 new jobs. Output saved to 'output.csv'.
+📦 Appended 2 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"Ramp","title":"Associate, Capital Markets","location":"New York, NY (HQ)","link":"https:\/\/jobs.ashbyhq.com\/ramp\/59ae3776-2d0a-41b0-a5b2-ffd1262b92d2","postedOn":"2026-08-07T01:12:02.946+00:00","updatedOn":null}]
+[{"company":"Morgan Stanley","title":"Software Engineer - Backend","location":"New York, New York, United States of America","link":"https:\/\/ms.wd5.myworkdayjobs.com\/en-US\/External\/job\/New-York-New-York-United-States-of-America\/Software-Engineer---Backend_PT-JR041639","postedOn":"Posted Yesterday","updatedOn":null},{"company":"The standard","title":"Actuarial Internship","location":"Portland, OR","link":"https:\/\/standard.wd1.myworkdayjobs.com\/en-US\/Search\/job\/Portland-OR\/Actuarial-Internship_REQ006847","postedOn":"Posted Today","updatedOn":null}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
+[ERROR] Ambrook: Lever API failed: https://api.lever.co/v0/postings/ambrook?mode=json - 404
 [ERROR] Altera: Ashby API failed - HTTP 404: Not Found
 [ERROR] Amidon Heavy Industries: Ashby API failed - HTTP 404: Not Found
-[ERROR] Ambrook: Lever API failed: https://api.lever.co/v0/postings/ambrook?mode=json - 404
 [ERROR] Annalect : Greenhouse API failed: 404
 [ERROR] Applied Intuition: Greenhouse API failed: 404
-[ERROR] Ascend Analytics: Greenhouse API failed: 404
 [ERROR] Magna Services of America, Inc: Invalid Workday URL
+[ERROR] Ascend Analytics: Greenhouse API failed: 404
 [ERROR] Aurora: Greenhouse API failed: 404
 [ERROR] boomi: Greenhouse API failed: 404
 [ERROR] Canonical: Greenhouse API failed: 404
 [ERROR] Cdata: Greenhouse API failed: 404
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
 [ERROR] Chatham Financial: Greenhouse API failed: 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"5DA0BDMSIBBTIK","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"E74F93MSILNPQ6","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Clever: Could not extract Lever company name
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
 [ERROR] Dapper Labs: Lever API failed: https://api.lever.co/v0/postings/axiomzen?mode=json - 404
@@ -27,10 +27,10 @@ ERRORS_START
 [ERROR] Digital.ai: Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"07EF68MSIBCRZ5","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"B86CD1MSILPBIK","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
-[ERROR] Galileo Financial Technologies (Sofi): Greenhouse API failed: 404
 [ERROR] Funnel: Breezy API failed: 403
+[ERROR] Galileo Financial Technologies (Sofi): Greenhouse API failed: 404
 [ERROR] Grammarly : Greenhouse API failed: 404
 [ERROR] Groq: Greenhouse API failed: 404
 [ERROR] Handshake: Greenhouse API failed: 404
@@ -41,13 +41,13 @@ ERRORS_START
 [ERROR] Kodiak Robotics: Lever API failed: https://api.lever.co/v0/postings/kodiak?mode=json - 404
 [ERROR] Modernizing Medicine: Greenhouse API failed: 404
 [ERROR] Notion: Greenhouse API failed: 404
-[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"24640EMSIBEC5Z","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"3FDC4DMSILRSIL","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Perplexity AI: Greenhouse API failed: 404
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"89CDA1MSIBEW8W","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"664F36MSILSF4H","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Raptor Maps: Lever API failed: https://api.lever.co/v0/postings/RaptorMaps?mode=json - 404
-[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"E2997CMSIBF1PH","httpStatus":403,"message":"permission denied","messageParams":{}}
+[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"721BAAMSILSUSY","httpStatus":403,"message":"permission denied","messageParams":{}}
 [ERROR] Relativity Space: Greenhouse API failed: 404
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
 [ERROR] Skydio: Greenhouse API failed: 404
@@ -57,14 +57,14 @@ ERRORS_START
 [ERROR] Strong Holdim: Greenhouse API failed: 404
 [ERROR] Tandem: Ashby API failed - HTTP 404: Not Found
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"6A8494MSIBH0MG","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"F5CAC0MSIBH2HL","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"6A8494MSILVJVE","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"B11019MSILVMZQ","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] TRM labs: Greenhouse API failed: 404
 [ERROR] Vimeo: Greenhouse API failed: 404
+[ERROR] Walmart: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
-[ERROR] Walmart: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"9E9066MSIBHJQJ","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"5E1E36MSILWQQD","httpStatus":422,"message":"","messageParams":{}}
 ERRORS_END
