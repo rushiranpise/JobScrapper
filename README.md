@@ -4,9 +4,175 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-07 18:10:00](#batch-2026-08-07-18-10-00)
 - [Batch at 2026-08-07 11:51:48](#batch-2026-08-07-11-51-48)
 - [Batch at 2026-08-07 05:52:10](#batch-2026-08-07-05-52-10)
 - [Batch at 2026-08-07 00:14:42](#batch-2026-08-07-00-14-42)
+
+<h3 id='batch-2026-08-07-18-10-00'>🕐 Batch at 2026-08-07 18:10:00</h3>
+
+📊 **Total jobs in this batch: 19**
+
+**Per company:**
+- Anduril Industries: 1 job
+- ASMLEXT1: 1 job
+- BAH: 7 jobs
+- BorgWarner: 1 job
+- Core Weave: 1 job
+- General Motors LLC: 2 jobs
+- KLA: 2 jobs
+- Salesforce: 2 jobs
+- The Walt Disney Company: 1 job
+- Verkada : 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Business Systems Infrastructure Coordinator</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5203778007?gh_jid=5203778007'>Apply</a></td>
+      <td>Aug 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>1st Shift Material Handler - Optical</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/XMLNAME-1st-Shift-Material-Handler---Optical_J-00349549'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>AI Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/AI-Engineer--Mid_R0246103'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Silverdale, WA</td>
+      <td>Data Systems Integrator</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Silverdale-WA/Data-Systems-Integrator_R0246372-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>Content Development Trainer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Content-Development-Trainer_R0246370'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>Cyber Content Development Trainer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Cyber-Content-Development-Trainer_R0246375'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Silverdale, WA</td>
+      <td>Data Systems Integrator</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Silverdale-WA/Data-Systems-Integrator_R0246369'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Web Developer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Web-Developer--Mid_R0246297'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Cloud Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Cloud-Engineer_R0246307'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Hendersonville - North Carolina - USA</td>
+      <td>IT Technician Intern (Industrial Solutions)</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Hendersonville---North-Carolina---USA/IT-Technician-Intern_R2026-3203'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Sunnyvale, CA / San Francisco, CA</td>
+      <td>Forward Deployed Engineer, AI Agents</td>
+      <td><a href='https://coreweave.com/careers/job?4703200006&board=coreweave&gh_jid=4703200006'>Apply</a></td>
+      <td>Aug 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Software Test Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Test-Engineer_JR-202613803'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Metrology Training Specialist in Virtual Matching</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Metrology-Training-Specialist-in-Virtual-Matching_JR-202615603-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Hillsboro, OR</td>
+      <td>Reginal Development Applications Engineer</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Hillsboro-OR/Reginal-Development-Applications-Engineer_2639441'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Hillsboro, OR</td>
+      <td>Regional Development Applications Engineer</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Hillsboro-OR/Regional-Development-Applications-Engineer_2639439'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Washington - Bellevue</td>
+      <td>Software Engineering MTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-MTS_JR354808'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Washington - Bellevue</td>
+      <td>Software Engineering LMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-LMTS_JR353837'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Orlando, FL, USA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Data-Engineer_10155280'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Verkada </b></td>
+      <td>San Mateo, CA United States</td>
+      <td>Software Engineer - Data Platform</td>
+      <td><a href='https://job-boards.greenhouse.io/verkada/jobs/4129304007'>Apply</a></td>
+      <td>Nov 10, 2023</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-07-11-51-48'>🕐 Batch at 2026-08-07 11:51:48</h3>
 
@@ -293,7 +459,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-07-05-52-10'>🕐 Batch at 2026-08-07 05:52:10</h3>
 
 📊 **Total jobs in this batch: 2**
@@ -330,8 +495,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-08-07-00-14-42'>🕐 Batch at 2026-08-07 00:14:42</h3>
+---<h3 id='batch-2026-08-07-00-14-42'>🕐 Batch at 2026-08-07 00:14:42</h3>
 
 📊 **Total jobs in this batch: 2**
 
