@@ -4,7 +4,54 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-10 05:59:56](#batch-2026-08-10-05-59-56)
 - [Batch at 2026-08-10 00:23:59](#batch-2026-08-10-00-23-59)
+
+<h3 id='batch-2026-08-10-05-59-56'>🕐 Batch at 2026-08-10 05:59:56</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Concentrix: 1 job
+- flir: 1 job
+- State Street: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>DEU Work-at-Home Dusseldorf</td>
+      <td>Cloud Solution Architect (CSA) – Exchange Online & Exchange Server (M/F/D)</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/DEU-Work-at-Home-Dusseldorf/Cloud-Solution-Architect--CSA----Exchange-Online---Exchange-Server--M-F-D-_R1748034'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Miamisburg, OH</td>
+      <td>Electrical Engineering Intern</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Miamisburg-OH/Electrical-Engineering-Intern_REQ35563'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Quincy, Massachusetts</td>
+      <td>Application, Infrastructure & Service Management</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Application--Infrastructure---Service-Management_R-795874'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-10-00-23-59'>🕐 Batch at 2026-08-10 00:23:59</h3>
 
@@ -80,4 +127,3 @@
 <table>
 
 ---
-
