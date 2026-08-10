@@ -4,7 +4,38 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-09 18:16:03](#batch-2026-08-09-18-16-03)
 - [Batch at 2026-08-09 11:35:53](#batch-2026-08-09-11-35-53)
+
+<h3 id='batch-2026-08-09-18-16-03'>🕐 Batch at 2026-08-09 18:16:03</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Sony AI America Inc: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Sony AI America Inc</b></td>
+      <td>New York</td>
+      <td>Intern, Financial Planning & Analysis</td>
+      <td><a href='https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/New-York/Intern--Financial-Planning---Analysis_JR-119444-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-09-11-35-53'>🕐 Batch at 2026-08-09 11:35:53</h3>
 
@@ -35,4 +66,3 @@
 <table>
 
 ---
-
