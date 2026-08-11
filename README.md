@@ -4,9 +4,171 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-10 18:15:50](#batch-2026-08-10-18-15-50)
 - [Batch at 2026-08-10 11:53:01](#batch-2026-08-10-11-53-01)
 - [Batch at 2026-08-10 05:59:56](#batch-2026-08-10-05-59-56)
 - [Batch at 2026-08-10 00:23:59](#batch-2026-08-10-00-23-59)
+
+<h3 id='batch-2026-08-10-18-15-50'>🕐 Batch at 2026-08-10 18:15:50</h3>
+
+📊 **Total jobs in this batch: 18**
+
+**Per company:**
+- Applied Materials: 1 job
+- BAH: 5 jobs
+- Citi: 1 job
+- Esri: 1 job
+- flir: 1 job
+- General Motors LLC: 1 job
+- Intel Corporation: 1 job
+- KLA: 1 job
+- nVent: 1 job
+- PlayStation Global: 1 job
+- SharkNinja: 2 jobs
+- The Toro: 1 job
+- State Street: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software QA Engineer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-1800381---Software-QA-Engineer_R2625695'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Reston, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Reston-VA/Data-Scientist--Mid_R0246463'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lexington Park, MD</td>
+      <td>Scrum Master, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/Scrum-Master--Junior_R0246784'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Norfolk, VA</td>
+      <td>Palantir Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Palantir-Data-Engineer_R0244009-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Ashburn, VA</td>
+      <td>Power BI Data Visualization Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/Power-BI-Data-Visualization-Specialist_R0246442'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Belvoir, VA</td>
+      <td>Azure Cloud Developer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Azure-Cloud-Developer--Mid_R0237587'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>26983179 Analista de Datos, Control, Riesgo AML y Sanciones</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/XMLNAME-26983179-Analista-de-Datos--Control--Riesgo-AML-y-Sanciones_26983179'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Data Engineer II - Street Data</td>
+      <td><a href='https://www.esri.com/careers/5208470007?gh_jid=5208470007'>Apply</a></td>
+      <td>Aug 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Goleta, CA</td>
+      <td>Applications Engineer</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Goleta-CA/Applications-Engineer_REQ36087'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Roanoke, Indiana, United States of America</td>
+      <td>Paint Process Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Roanoke-Indiana-United-States-of-America/Paint-Process-Engineer_JR-202616844'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Mfg Systems Software Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Mfg-Systems-Software-Engineer_JR0286221'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Applications Development Engineer  (Broadband Plasma Division)</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Applications-Development-Engineer---Broadband-Plasma-Division-_2639355-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Dayton, MN, US</td>
+      <td>Logistics Material Handler-1st shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Dayton-MN-US/Logistics-Material-Handler-1st-shift_R23049'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Mateo, CA</td>
+      <td>Software Engineer I SDK</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6119793004'>Apply</a></td>
+      <td>Aug 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SharkNinja</b></td>
+      <td>Needham, MA, United States</td>
+      <td>Associate Product Developer - Indoor Heated</td>
+      <td><a href='https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4702969006'>Apply</a></td>
+      <td>Aug 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SharkNinja</b></td>
+      <td>Needham, MA, United States</td>
+      <td>Associate Product Developer - Ninja APAC</td>
+      <td><a href='https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703760006'>Apply</a></td>
+      <td>Aug 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Beatrice, NE</td>
+      <td>Material Handler, 1st Shift - Exmark</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Beatrice-NE/Material-Handler--1st-Shift---Exmark_JR16871'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Quincy, Massachusetts</td>
+      <td>Data Engineer, Officer - State Street Investment Management</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Data-Engineer--Officer---State-Street-Investment-Management_R-795510-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-10-11-53-01'>🕐 Batch at 2026-08-10 11:53:01</h3>
 
@@ -410,7 +572,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-10-05-59-56'>🕐 Batch at 2026-08-10 05:59:56</h3>
 
 📊 **Total jobs in this batch: 3**
@@ -455,8 +616,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-08-10-00-23-59'>🕐 Batch at 2026-08-10 00:23:59</h3>
+---<h3 id='batch-2026-08-10-00-23-59'>🕐 Batch at 2026-08-10 00:23:59</h3>
 
 📊 **Total jobs in this batch: 7**
 
