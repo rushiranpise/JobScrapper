@@ -4,7 +4,61 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-11 05:53:25](#batch-2026-08-11-05-53-25)
 - [Batch at 2026-08-11 00:01:18](#batch-2026-08-11-00-01-18)
+
+<h3 id='batch-2026-08-11-05-53-25'>🕐 Batch at 2026-08-11 05:53:25</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- Autodesk: 2 jobs
+- Core Weave: 1 job
+- State Street: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Autodesk</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Software Engineer, ECAD Architect</td>
+      <td><a href='https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Software-Engineer--ECAD-Architect_26WD100513'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Autodesk</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100510'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA</td>
+      <td>Solution Specialist, Data Services</td>
+      <td><a href='https://coreweave.com/careers/job?4692600006&board=coreweave&gh_jid=4692600006'>Apply</a></td>
+      <td>Aug 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Princeton, New Jersey</td>
+      <td>Application, Infrastructure & Service Management</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Princeton-New-Jersey/Application--Infrastructure---Service-Management_R-795912'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-11-00-01-18'>🕐 Batch at 2026-08-11 00:01:18</h3>
 
@@ -67,4 +121,3 @@
 <table>
 
 ---
-
