@@ -4,7 +4,46 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-12 05:59:16](#batch-2026-08-12-05-59-16)
 - [Batch at 2026-08-12 00:20:54](#batch-2026-08-12-00-20-54)
+
+<h3 id='batch-2026-08-12-05-59-16'>🕐 Batch at 2026-08-12 05:59:16</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- Samsung Electronics America, Inc: 1 job
+- flir: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>Mapletree Business City, Singapore, Singapore</td>
+      <td>AI Solutions & Technical Support (2-year Contract)</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Mapletree-Business-City-Singapore-Singapore/AI-Solutions---Technical-Support--2-year-Contract-_R119397'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Chestnut Ridge, NY</td>
+      <td>Application Software Developer/Analyst</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Chestnut-Ridge-NY/Application-Software-Developer-Analyst_REQ32569'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-12-00-20-54'>🕐 Batch at 2026-08-12 00:20:54</h3>
 
@@ -50,4 +89,3 @@
 <table>
 
 ---
-
