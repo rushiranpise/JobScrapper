@@ -4,9 +4,245 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-11 18:23:03](#batch-2026-08-11-18-23-03)
 - [Batch at 2026-08-11 12:00:19](#batch-2026-08-11-12-00-19)
 - [Batch at 2026-08-11 05:53:25](#batch-2026-08-11-05-53-25)
 - [Batch at 2026-08-11 00:01:18](#batch-2026-08-11-00-01-18)
+
+<h3 id='batch-2026-08-11-18-23-03'>🕐 Batch at 2026-08-11 18:23:03</h3>
+
+📊 **Total jobs in this batch: 28**
+
+**Per company:**
+- Akuna Capital: 1 job
+- CrowdStrike, Inc: 1 job
+- Applied Materials: 1 job
+- Autodesk: 1 job
+- BAH: 6 jobs
+- Brink: 1 job
+- Cohesity: 1 job
+- Elekta: 1 job
+- genpt: 1 job
+- KLA: 2 jobs
+- Micron: 1 job
+- SRK Supplylogix LLC: 1 job
+- spacex: 6 jobs
+- The Toro: 1 job
+- The Walt Disney Company: 1 job
+- Truveta: 1 job
+- Zscaler: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Akuna Capital</b></td>
+      <td>Chicago, IL</td>
+      <td>Software Engineer - Python, Business Operations</td>
+      <td><a href='https://www.akunacapital.com/careers/job/8096516/?gh_jid=8096516'>Apply</a></td>
+      <td>Aug 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Sunnyvale, CA</td>
+      <td>Front End Engineer III (Hybrid, Sunnyvale)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Front-End-Engineer-III--Hybrid--Sunnyvale-_R29618'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer_R2625679'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Autodesk</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100506-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lexington, MA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/Software-Engineer_R0246686'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lexington, MA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/Software-Engineer_R0246684'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0246681'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Peterson AFB, CO</td>
+      <td>Domain Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Peterson-AFB-CO/Domain-Analyst_R0246699-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Belvoir, VA</td>
+      <td>AI/ML Engineer and Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/AI-ML-Engineer-and-Data-Scientist_R0246671'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Aurora, CO</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Data-Scientist--Mid_R0246471'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Brink</b></td>
+      <td>Beltsville MD</td>
+      <td>CDL Driver</td>
+      <td><a href='https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Beltsville-MD/CDL-Driver_R78475'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Cohesity</b></td>
+      <td>Santa Clara, CA - USA (Office)</td>
+      <td>Software Engineer (New Grad 2026)</td>
+      <td><a href='https://cohesity.wd5.myworkdayjobs.com/en-US/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Elekta</b></td>
+      <td>Georgia - Home Based</td>
+      <td>Software Integration Specialist</td>
+      <td><a href='https://elekta.wd3.myworkdayjobs.com/en-US/Elekta_Careers/job/Georgia--Home-Based/Software-Integration-Specialist_R2026-0981'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>USA, TN - Remote</td>
+      <td>CDL A Local Driver</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/USA-TN---Remote/CDL-A-Local-Driver_R26_0000026595'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Ann Arbor, MI</td>
+      <td>Product Development Applications Engineer</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Product-Development-Applications-Engineer_2639703-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Software Quality Engineer</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Quality-Engineer_2638595'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Intern - Process Development Engineer, 3D DRAM Metals</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Metals_JR107311'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, TX, Irving</td>
+      <td>Software Engineer</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Software-Engineer_JR0148631'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>CMM Programmer (Starlink) - 2nd Shift</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8694895002?gh_jid=8694895002'>Apply</a></td>
+      <td>Aug 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Flight Software Infrastructure Engineer (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8692260002?gh_jid=8692260002'>Apply</a></td>
+      <td>Aug 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>Manufacturing Engineer, AI Satellites (Starmind)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8697063002?gh_jid=8697063002'>Apply</a></td>
+      <td>Aug 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Platform Engineer, Flight Software (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8692268002?gh_jid=8692268002'>Apply</a></td>
+      <td>Aug 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>RFIC Engineer, AI Satellites (Starmind)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8697007002?gh_jid=8697007002'>Apply</a></td>
+      <td>Aug 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Infrastructure Engineer, Flight Software (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8692270002?gh_jid=8692270002'>Apply</a></td>
+      <td>Aug 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Bloomington, MN</td>
+      <td>PDL Prototype Machinist – The Toro Company</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Bloomington-MN/PDL-Prototype-Machinist---The-Toro-Company_JR16905'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Santa Monica, CA, USA</td>
+      <td>Product Software Engineer II</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Product-Software-Engineer-II_10157638'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Truveta</b></td>
+      <td>Seattle, WA</td>
+      <td>Software Engineer - Live Link</td>
+      <td><a href='https://job-boards.greenhouse.io/truveta/jobs/6140479004'>Apply</a></td>
+      <td>Aug 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zscaler</b></td>
+      <td>Santa Clara, California, USA</td>
+      <td>Applied AI Architect, People & Culture</td>
+      <td><a href='https://job-boards.greenhouse.io/zscaler/jobs/5208825007'>Apply</a></td>
+      <td>Aug 11, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-11-12-00-19'>🕐 Batch at 2026-08-11 12:00:19</h3>
 
@@ -339,7 +575,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-11-05-53-25'>🕐 Batch at 2026-08-11 05:53:25</h3>
 
 📊 **Total jobs in this batch: 4**
@@ -391,8 +626,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-08-11-00-01-18'>🕐 Batch at 2026-08-11 00:01:18</h3>
+---<h3 id='batch-2026-08-11-00-01-18'>🕐 Batch at 2026-08-11 00:01:18</h3>
 
 📊 **Total jobs in this batch: 5**
 
