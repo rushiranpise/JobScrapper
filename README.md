@@ -4,9 +4,173 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-12 18:24:47](#batch-2026-08-12-18-24-47)
 - [Batch at 2026-08-12 12:00:14](#batch-2026-08-12-12-00-14)
 - [Batch at 2026-08-12 05:59:16](#batch-2026-08-12-05-59-16)
 - [Batch at 2026-08-12 00:20:54](#batch-2026-08-12-00-20-54)
+
+<h3 id='batch-2026-08-12-18-24-47'>🕐 Batch at 2026-08-12 18:24:47</h3>
+
+📊 **Total jobs in this batch: 18**
+
+**Per company:**
+- Anduril Industries: 3 jobs
+- Applied Materials: 1 job
+- BAH: 2 jobs
+- Circle: 1 job
+- General Motors LLC: 1 job
+- Intel Corporation: 1 job
+- LaunchDarkly : 1 job
+- Micron: 1 job
+- KLA: 1 job
+- Natera : 1 job
+- Nike: 1 job
+- OKX: 1 job
+- Quantinuum: 1 job
+- spacex: 1 job
+- Zipline: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Software Engineer (C#)</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5211022007?gh_jid=5211022007'>Apply</a></td>
+      <td>Aug 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Boston, Massachusetts, United States</td>
+      <td>Software Engineer, Developer Platform</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5210930007?gh_jid=5210930007'>Apply</a></td>
+      <td>Aug 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Software Engineer, Factory Systems </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5135811007?gh_jid=5135811007'>Apply</a></td>
+      <td>Aug 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Materials Project Management I New College Grad- Bachelor's (Austin, TX)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Buyer-I-New-College-Grad--Bachelor-s--Austin--TX-_R2624725'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Tampa, FL</td>
+      <td>Program Financial Analyst, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Tampa-FL/Program-Financial-Analyst--Junior_R0246826'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Power Platform Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Power-Platform-Developer_R0246802'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Circle</b></td>
+      <td>Taipei City - remote first in Taiwan</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://circle.wd1.myworkdayjobs.com/en-US/Circle/job/Taipei-City---remote-first-in-Taiwan/Software-Engineer-II_JR101098'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Austin, Texas, United States of America</td>
+      <td>Agentic Data Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Austin-Texas-United-States-of-America/Agentic-Data-Engineer_JR-202616159'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Texas, Austin</td>
+      <td>Software Enabling and Optimization Architect</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Software-Enabling-and-Optimization-Architect_JR0285886'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>LaunchDarkly </b></td>
+      <td>Remote - US</td>
+      <td>Backend Engineer, Flag Delivery</td>
+      <td><a href='https://job-boards.greenhouse.io/launchdarkly/jobs/7861151003'>Apply</a></td>
+      <td>Aug 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>AI/ML Engineer/Architect</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/AI-ML-Engineer-Architect_JR108536'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Regional Applications Engineer</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Regional-Applications-Engineer_2639474-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Medical Science Liaison, Oncology</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6139464004'>Apply</a></td>
+      <td>Aug 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Beaverton, Oregon</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-III_R-88280'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OKX</b></td>
+      <td>San Jose, California, United States</td>
+      <td>Software Engineer, Mobile</td>
+      <td><a href='https://job-boards.greenhouse.io/okx/jobs/7786383003'>Apply</a></td>
+      <td>Aug 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Quantinuum</b></td>
+      <td>US Broomfield, CO</td>
+      <td>Software Engineer I - Lab - 934</td>
+      <td><a href='https://jobs.eu.lever.co/quantinuum/a03cd862-de02-4c62-9cfe-4034df484898'>Apply</a></td>
+      <td>2026-08-12 20:29:38</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Full Stack Engineer (Application Software)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8701392002?gh_jid=8701392002'>Apply</a></td>
+      <td>Aug 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Failure Analysis Engineer - Materials</td>
+      <td><a href='https://www.zipline.com/open-roles?gh_jid=7861528003'>Apply</a></td>
+      <td>Aug 12, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-12-12-00-14'>🕐 Batch at 2026-08-12 12:00:14</h3>
 
@@ -247,7 +411,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-12-05-59-16'>🕐 Batch at 2026-08-12 05:59:16</h3>
 
 📊 **Total jobs in this batch: 2**
@@ -284,8 +447,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-08-12-00-20-54'>🕐 Batch at 2026-08-12 00:20:54</h3>
+---<h3 id='batch-2026-08-12-00-20-54'>🕐 Batch at 2026-08-12 00:20:54</h3>
 
 📊 **Total jobs in this batch: 3**
 
