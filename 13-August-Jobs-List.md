@@ -4,8 +4,168 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-13 18:23:44](#batch-2026-08-13-18-23-44)
 - [Batch at 2026-08-13 12:00:47](#batch-2026-08-13-12-00-47)
 - [Batch at 2026-08-13 00:23:32](#batch-2026-08-13-00-23-32)
+
+<h3 id='batch-2026-08-13-18-23-44'>🕐 Batch at 2026-08-13 18:23:44</h3>
+
+📊 **Total jobs in this batch: 18**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- Altruist: 1 job
+- AppLovin : 1 job
+- Applied Materials: 2 jobs
+- BAH: 4 jobs
+- Broadcom : 2 jobs
+- Fastly: 1 job
+- Intel Corporation: 1 job
+- nVent: 2 jobs
+- Salesforce: 1 job
+- SRK Supplylogix LLC: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Auburn Hills, Michigan, United States</td>
+      <td>Junior HIL Test Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5211868007'>Apply</a></td>
+      <td>Aug 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Altruist</b></td>
+      <td>San Francisco, CA</td>
+      <td>Business Development Representative, Hazel AI</td>
+      <td><a href='https://altruist.com/join-altruist/5781991004?gh_jid=5781991004'>Apply</a></td>
+      <td>Jan 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>AppLovin </b></td>
+      <td>Palo Alto, CA</td>
+      <td>Data Scientist – Analytics </td>
+      <td><a href='https://boards.greenhouse.io/applovin/jobs/4705263006?gh_jid=4705263006'>Apply</a></td>
+      <td>Aug 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Physics AI Scientist III</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Physics-AI-Scientist-III--IV_R2626136'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer-II_R2619182'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Software Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Developer_R0246957'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Gaming Experience Full Stack Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Gaming-Experience-Full-Stack-Developer_R0246931'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dayton, OH</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/DevOps-Engineer_R0246926'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Enterprise Integration Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-Integration-Developer_R0246906'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-IL Lisle Warrenville Road</td>
+      <td>Support Engineer - Mainframe</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-IL-Lisle-Warrenville-Road/Support-Engineer---Mainframe_R026779'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-CA - Promontory E</td>
+      <td>R&D Software Engineer</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-E/R-D-Software-Engineer_R026809'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Fastly</b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://www.fastly.com/about/jobs/apply?gh_jid=8128535'>Apply</a></td>
+      <td>Aug 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Ocotillo Failure Analysis Technician – TEM Prep</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Ocotillo-Failure-Analysis-Technician---TEM-Prep_JR0286345'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Blaine, MN, US</td>
+      <td>Material Handler - WKND Shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Blaine-MN-US/Material-Handler---WKND-Shift_R23113'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Blaine, MN, US</td>
+      <td>Material Handler - 1st Shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Blaine-MN-US/Material-Handler---1st-Shift_R23110'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Software Engineering SMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR354359'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, TN, Memphis</td>
+      <td>Material Handler - DSCSA M-F 1p - 9:30p</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TN-Memphis/Material-Handler---DSCSA-M-F-1p---9-30p_JR0151028-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, TX, Irving</td>
+      <td>Data Steward</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Data-Steward_JR0152078-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-13-12-00-47'>🕐 Batch at 2026-08-13 12:00:47</h3>
 
@@ -324,7 +484,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-13-00-23-32'>🕐 Batch at 2026-08-13 00:23:32</h3>
 
 📊 **Total jobs in this batch: 7**
