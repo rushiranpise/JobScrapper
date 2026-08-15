@@ -4,9 +4,297 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-14 17:56:05](#batch-2026-08-14-17-56-05)
 - [Batch at 2026-08-14 11:50:50](#batch-2026-08-14-11-50-50)
 - [Batch at 2026-08-14 05:54:05](#batch-2026-08-14-05-54-05)
 - [Batch at 2026-08-14 00:20:48](#batch-2026-08-14-00-20-48)
+
+<h3 id='batch-2026-08-14-17-56-05'>🕐 Batch at 2026-08-14 17:56:05</h3>
+
+📊 **Total jobs in this batch: 35**
+
+**Per company:**
+- Anduril Industries: 2 jobs
+- AppLovin : 1 job
+- CrowdStrike, Inc: 5 jobs
+- ASMLEXT1: 1 job
+- Applied Materials: 2 jobs
+- BAH: 4 jobs
+- Citi: 2 jobs
+- Databricks: 1 job
+- General Motors LLC: 2 jobs
+- genpt: 2 jobs
+- Intel Corporation: 2 jobs
+- Lyft: 1 job
+- KLA: 2 jobs
+- Morgan Stanley: 1 job
+- Neuralink: 1 job
+- Schrdinger: 1 job
+- Snowflake: 1 job
+- spacex: 2 jobs
+- The Walt Disney Company: 1 job
+- Twitch: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Data Analyst, Manufacturing</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5126633007?gh_jid=5126633007'>Apply</a></td>
+      <td>May 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Reston, Virginia, United States</td>
+      <td>Mission Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5004359007?gh_jid=5004359007'>Apply</a></td>
+      <td>Aug 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>AppLovin </b></td>
+      <td>Palo Alto, CA</td>
+      <td>Measurement Data Scientist</td>
+      <td><a href='https://boards.greenhouse.io/applovin/jobs/4705264006?gh_jid=4705264006'>Apply</a></td>
+      <td>Aug 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Remote, CO</td>
+      <td>Engineer II - Full Stack / Backend Engineer (Remote)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-CO/Engineer-II---Full-Stack---Backend-Engineer--Remote-_R29761'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Sunnyvale, CA</td>
+      <td>SDET - AI Detection and Response (AIDR) (Hybrid)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/SDET---AI-Detection-and-Response--AIDR---Hybrid-_R29793'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Remote</td>
+      <td>Data Scientist, Applied AI/ML</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Data-Scientist--Applied-AI-ML_R29843'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Remote</td>
+      <td>Threat Hunter, FedCloud (Remote)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Threat-Hunter--FedCloud--Remote-_R29822'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Remote</td>
+      <td>AI Research Scientist (Remote)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/AI-Research-Scientist--Remote-_R29829'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>San Diego, CA, USA</td>
+      <td>Factory Material Handler</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/Factory-Material-Handler_J-00349625'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Data Governance and Protection Analyst</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Governance-and-Protection-Analyst_R2625922'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Gloucester,MA</td>
+      <td>2026-2027 Process Engineer Co-op - Doctorate (Gloucester, MA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2026-2027-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2626230'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Aurora, CO</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Data-Scientist--Mid_R0247078'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Business and Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Business-and-Data-Analyst_R0246987'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Scientific Data Engineering Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Scientific-Data-Engineering-Specialist_R0247081'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Diego, CA</td>
+      <td>Agile Coach and Solution Train Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Agile-Coach-and-Solution-Train-Engineer_R0247068-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex  Asesor de Capital Humano</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex--Asesor-de-Capital-Humano_26985601'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Irving Texas United States</td>
+      <td>Full Stack Software Engineer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Full-Stack-Software-Engineer_26986393'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Databricks</b></td>
+      <td>United States</td>
+      <td>Specialist Solutions Architect - AI/ML</td>
+      <td><a href='https://databricks.com/company/careers/open-positions/job?gh_jid=8697991002'>Apply</a></td>
+      <td>Aug 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Kansas City, Kansas, United States of America</td>
+      <td>Paint Automation Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Kansas-City-Kansas-United-States-of-America/Paint-Automation-Engineer_JR-202617076'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Kansas City, Kansas, United States of America</td>
+      <td>Paint Process Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Kansas-City-Kansas-United-States-of-America/Paint-Process-Engineer_JR-202617202'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Latham, NY, USA</td>
+      <td>Store Paint Specialist (Part Time)</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Latham-NY-USA/Store-Paint-Specialist--Part-Time-_R26_0000027109'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Dallas, TX, USA</td>
+      <td>CDL City Driver</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Dallas-TX-USA/CDL-City-Driver_R26_0000027061'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Ocotillo Failure Analysis Engineer – TEM/AutoTEM Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Ocotillo-Failure-Analysis-Engineer---TEM-AutoTEM-Engineer_JR0286343'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Ocotillo Failure Analysis Engineer – TEM/Probing Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Ocotillo-Failure-Analysis-Engineer---TEM-Probing-Engineer_JR0286340-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Lyft</b></td>
+      <td>Seattle, WA</td>
+      <td>Software Engineer, Fulfillment Core Services</td>
+      <td><a href='https://app.careerpuck.com/job-board/lyft/job/8716222002?gh_jid=8716222002'>Apply</a></td>
+      <td>Aug 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Hillsboro, OR</td>
+      <td>Product Applications Development Engineer, MACH Hillsboro/Beaverton</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Hillsboro-OR/Customer-Applications-Development-Engineer--MACH-Hillsboro-Beaverton_2638785'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>HQ Product Installation Upgrade Supervisor (Rapid Division)</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/HQ-Product-Installation-Upgrade-Supervisor--Rapid-Division-_2639344-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>New York, New York, United States of America</td>
+      <td>Agentic AI Engineer</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Agentic-AI-Engineer_PT-JR041931-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Neuralink</b></td>
+      <td>South San Francisco, California, United States</td>
+      <td>Biomedical Engineer Intern</td>
+      <td><a href='https://boards.greenhouse.io/neuralink/jobs/7872639003?gh_jid=7872639003'>Apply</a></td>
+      <td>Aug 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Schrdinger</b></td>
+      <td>New York; Portland</td>
+      <td>Cloud Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/schrdinger/jobs/7826914003'>Apply</a></td>
+      <td>Aug 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Software Engineer - AIM Virtualization</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/08ba6a41-fb63-4b51-aee7-be5501668909'>Apply</a></td>
+      <td>Aug 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, Simulation</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8695142002?gh_jid=8695142002'>Apply</a></td>
+      <td>Aug 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Test Engineer, Powertrain Components (Starship)  </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8716126002?gh_jid=8716126002'>Apply</a></td>
+      <td>Aug 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>Executive Assistant- Disney Entertainment & ESPN Product & Technology (DEEPT)</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Executive-Assistant--Disney-Entertainment---ESPN-Product---Technology--DEEPT-_10156453'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Twitch</b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer I, Payments</td>
+      <td><a href='https://job-boards.greenhouse.io/twitch/jobs/8700578002'>Apply</a></td>
+      <td>Aug 14, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-14-11-50-50'>🕐 Batch at 2026-08-14 11:50:50</h3>
 
@@ -335,7 +623,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-14-05-54-05'>🕐 Batch at 2026-08-14 05:54:05</h3>
 
 📊 **Total jobs in this batch: 7**
@@ -410,8 +697,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-08-14-00-20-48'>🕐 Batch at 2026-08-14 00:20:48</h3>
+---<h3 id='batch-2026-08-14-00-20-48'>🕐 Batch at 2026-08-14 00:20:48</h3>
 
 📊 **Total jobs in this batch: 3**
 
