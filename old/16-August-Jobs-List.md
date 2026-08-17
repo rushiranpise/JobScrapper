@@ -4,8 +4,61 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-16 23:45:16](#batch-2026-08-16-23-45-16)
 - [Batch at 2026-08-16 17:56:00](#batch-2026-08-16-17-56-00)
 - [Batch at 2026-08-16 05:30:15](#batch-2026-08-16-05-30-15)
+
+<h3 id='batch-2026-08-16-23-45-16'>🕐 Batch at 2026-08-16 23:45:16</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- Micron: 3 jobs
+- spacex: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Intern - EUV & Materials Lithography</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---EUV---Materials-Lithography_JR108053'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Intern - Process Development Engineer, Thin Films</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Thin-Films_JR107323'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Intern - Wet Etch Process Development Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Wet-Etch-Process-Development-Engineer_JR108050'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Sourcing Specialist, LNG Capital</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8720189002?gh_jid=8720189002'>Apply</a></td>
+      <td>Aug 16, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-16-17-56-00'>🕐 Batch at 2026-08-16 17:56:00</h3>
 
@@ -50,7 +103,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-16-05-30-15'>🕐 Batch at 2026-08-16 05:30:15</h3>
 
 📊 **Total jobs in this batch: 1**
