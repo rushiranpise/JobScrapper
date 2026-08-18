@@ -4,9 +4,72 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-17 23:36:47](#batch-2026-08-17-23-36-47)
 - [Batch at 2026-08-17 17:55:37](#batch-2026-08-17-17-55-37)
 - [Batch at 2026-08-17 11:34:50](#batch-2026-08-17-11-34-50)
 - [Batch at 2026-08-17 05:35:52](#batch-2026-08-17-05-35-52)
+
+<h3 id='batch-2026-08-17-23-36-47'>🕐 Batch at 2026-08-17 23:36:47</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- Formlabs: 1 job
+- Intel Corporation: 1 job
+- PlayStation Global: 1 job
+- spacex: 1 job
+- The Walt Disney Company: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Print Production Intern (Fall 2026)</td>
+      <td><a href='https://careers.formlabs.com/job/8138459/apply/?gh_jid=8138459'>Apply</a></td>
+      <td>Aug 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>AI Systems Software Engineer - Neuromorphic Computing</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Systems-Software-Engineer---Neuromorphic-Computing_JR0286514'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Mateo, CA</td>
+      <td>Software Development Engineer in Test II - Contractor</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145023004'>Apply</a></td>
+      <td>Aug 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Propulsion Engineer, Propulsion Simulation & Data Analysis </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8696839002?gh_jid=8696839002'>Apply</a></td>
+      <td>Aug 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Melbourne, Australia</td>
+      <td>Team Coordinator- Disney Destinations International</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Melbourne-Australia/Team-Coordinator--Disney-Destinations-International_10157857'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-17-17-55-37'>🕐 Batch at 2026-08-17 17:55:37</h3>
 
@@ -265,7 +328,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-17-11-34-50'>🕐 Batch at 2026-08-17 11:34:50</h3>
 
 📊 **Total jobs in this batch: 36**
@@ -554,8 +616,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-08-17-05-35-52'>🕐 Batch at 2026-08-17 05:35:52</h3>
+---<h3 id='batch-2026-08-17-05-35-52'>🕐 Batch at 2026-08-17 05:35:52</h3>
 
 📊 **Total jobs in this batch: 2**
 
