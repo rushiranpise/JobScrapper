@@ -1,8 +1,8 @@
 
-✅ Scraped 8 new jobs. Output saved to 'output.csv'.
-📦 Appended 8 jobs to 'output_old.csv'
+✅ Scraped 24 new jobs. Output saved to 'output.csv'.
+📦 Appended 24 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"Applied Materials","title":"AGS Training Services CMP New Product (NPI) Instructor V - (E4)","location":"Santa Clara,CA","link":"https:\/\/amat.wd1.myworkdayjobs.com\/en-US\/External\/job\/Santa-ClaraCA\/AGS-Training-Services-CMP-New-Product--NPI--Instructor-V----E4-_R2625903","postedOn":"Posted Today","updatedOn":null},{"company":"Cohesity","title":"Software Engineer","location":"Santa Clara, CA - USA (Office)","link":"https:\/\/cohesity.wd5.myworkdayjobs.com\/en-US\/Cohesity_Careers\/job\/Santa-Clara-CA---USA-Office\/Software-Engineer_R04460-1","postedOn":"Posted Today","updatedOn":null},{"company":"Micron","title":"Intern - Advanced DRAM Process Integration","location":"Boise, ID - Main Site","link":"https:\/\/micron.wd1.myworkdayjobs.com\/en-US\/External\/job\/Boise-ID---Main-Site\/Intern---Advanced-DRAM-Process-Integration_JR107205","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"System Software Engineer - Trusted Firmware","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/System-Software-Engineer---Trusted-Firmware_JR2023340","postedOn":"Posted Today","updatedOn":null},{"company":"spacex","title":"New Graduate Engineer, Electrical (Starship)","location":"Starbase, TX","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8729124002?gh_jid=8729124002","postedOn":"2026-08-19T01:55:03-04:00","updatedOn":"2026-08-19T01:55:03-04:00"},{"company":"spacex","title":"New Graduate Engineer, Manufacturing (Starship)","location":"Starbase, TX","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8729120002?gh_jid=8729120002","postedOn":"2026-08-19T00:33:49-04:00","updatedOn":"2026-08-19T00:33:49-04:00"},{"company":"spacex","title":"New Graduate Engineer, Propulsion (Starship)","location":"Starbase, TX","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8729085002?gh_jid=8729085002","postedOn":"2026-08-19T00:06:50-04:00","updatedOn":"2026-08-19T00:06:50-04:00"},{"company":"spacex","title":"New Graduate Engineer, Software (Starship)","location":"Starbase, TX","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8729121002?gh_jid=8729121002","postedOn":"2026-08-19T00:48:14-04:00","updatedOn":"2026-08-19T00:48:14-04:00"}]
+[{"company":"Samsung Electronics America, Inc","title":"Data Center Engineer (Joyent)","location":"Evert van de Beekstraat 310, Amsterdam, Netherlands","link":"https:\/\/sec.wd3.myworkdayjobs.com\/en-US\/Samsung_Careers\/job\/Evert-van-de-Beekstraat-310-Amsterdam-Netherlands\/Data-Center-Engineer--Joyent-_R119587","postedOn":"Posted Today","updatedOn":null},{"company":"Nike","title":"Footwear Product Developer","location":"Beaverton, Oregon","link":"https:\/\/nike.wd1.myworkdayjobs.com\/en-US\/nke\/job\/Beaverton-Oregon\/Footwear-Product-Developer_R-90233","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"NVIDIA 2027 Internships: Autonomous Vehicles and Robotics","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"NVIDIA 2027 Internships: Computer Architecture","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/NVIDIA-2027-Internships--Computer-Architecture_JR2023489","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"NVIDIA 2027 Internships: Deep Learning Computer Architecture","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"NVIDIA 2027 Internships: Deep Learning","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"NVIDIA 2027 Internships: Hardware Engineering","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"NVIDIA 2027 Internships: Hardware Verification","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/NVIDIA-2027-Internships--Hardware-Verification_JR2023500","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"NVIDIA 2027 Internships: Ph.D. Research Autonomous Vehicles","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"NVIDIA 2027 Internships: Ph.D. Research Computer Architecture and Systems","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/NVIDIA-2027-Internships--PhD-Research-Computer-Architecture-and-Systems_JR2023854","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"NVIDIA 2027 Internships: Ph.D. Research Computer Vision and Deep Learning","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"NVIDIA 2027 Internships: Ph.D. Research Generative AI","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"NVIDIA 2027 Internships: Ph.D. Research Graphics and Simulation","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/NVIDIA-2027-Internships--PhD-Research-Graphics-and-Simulation_JR2023835","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"NVIDIA 2027 Internships: Ph.D. Research Hardware","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/NVIDIA-2027-Internships--PhD-Research-Hardware_JR2023855","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"NVIDIA 2027 Internships: Ph.D. Research Large Language Models","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"NVIDIA 2027 Internships: Ph.D. Research Robotics","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/NVIDIA-2027-Internships--PhD-Research-Robotics_JR2023847","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"NVIDIA 2027 Internships: Software Engineering","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/NVIDIA-2027-Internships--Software-Engineering_JR2023495","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"NVIDIA 2027 Internships: Systems Software Engineering","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"NVIDIA 2027 Summer Internships: Ph.D. Engineering","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"NVIDIA Spring 2027 Internships: Developer and Performance Technology","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499","postedOn":"Posted Today","updatedOn":null},{"company":"OpenGov\u00a0","title":"Software Engineer I","location":"US | Massachusetts | Boston","link":"https:\/\/jobs.ashbyhq.com\/opengov\/608b9ab5-df88-4e42-813c-131c3d783172","postedOn":"2026-08-19T12:13:22.049+00:00","updatedOn":null},{"company":"OpenGov\u00a0","title":"Software Engineer I","location":"US | Massachusetts | Boston","link":"https:\/\/jobs.ashbyhq.com\/opengov\/28f7fa5e-1706-4696-a64d-ee38a888ab53","postedOn":"2026-08-19T12:13:55.108+00:00","updatedOn":null},{"company":"State Street","title":"Software Engineering & Development","location":"Boston, Massachusetts","link":"https:\/\/statestreet.wd1.myworkdayjobs.com\/en-US\/Global\/job\/Boston-Massachusetts\/Software-Engineering---Development_R-796249","postedOn":"Posted Today","updatedOn":null},{"company":"Workday","title":"Software Development Engineer - US Federal","location":"USA.VA.Reston","link":"https:\/\/workday.wd5.myworkdayjobs.com\/en-US\/Workday\/job\/USAVAReston\/Software-Development-Engineer---US-Federal_JR-0109352","postedOn":"Posted Today","updatedOn":null}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
@@ -14,20 +14,28 @@ ERRORS_START
 [ERROR] Ascend Analytics: Greenhouse API failed: 404
 [ERROR] Magna Services of America, Inc: Invalid Workday URL
 [ERROR] Aurora: Greenhouse API failed: 404
+[ERROR] Applied Materials: Workday API failed: HTTP 502 - <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+
 [ERROR] boomi: Greenhouse API failed: 404
 [ERROR] Canonical: Greenhouse API failed: 404
 [ERROR] Cdata: Greenhouse API failed: 404
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
 [ERROR] Chatham Financial: Greenhouse API failed: 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"6DCE6FMSZPQI6M","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"1BBDE4MT02LFKM","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Clever: Could not extract Lever company name
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
-[ERROR] Dapper Labs: Lever API failed: https://api.lever.co/v0/postings/axiomzen?mode=json - 404
 [ERROR] Demandbase : Greenhouse API failed: 404
 [ERROR] Digital.ai: Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"F1D0AEMSZPRGW5","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Dapper Labs: Lever API failed: https://api.lever.co/v0/postings/axiomzen?mode=json - 404
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"9B0182MT02MH81","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
 [ERROR] Fortra : Greenhouse API failed: 404
 [ERROR] Funnel: Breezy API failed: 403
@@ -41,17 +49,17 @@ ERRORS_START
 [ERROR] Kobie: Greenhouse API failed: 404
 [ERROR] Kodiak Robotics: Lever API failed: https://api.lever.co/v0/postings/kodiak?mode=json - 404
 [ERROR] Modernizing Medicine: Greenhouse API failed: 404
-[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"B4B98AMSZPSZIK","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"0C7004MT02O40E","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Notion: Greenhouse API failed: 404
-[ERROR] Otis: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"817A00MSZPTBJC","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Otis: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"0B74E3MT02ODM5","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Perplexity AI: Greenhouse API failed: 404
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"AD4069MSZPTH8F","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"6C0905MT02ONLU","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Raptor Maps: Lever API failed: https://api.lever.co/v0/postings/RaptorMaps?mode=json - 404
 [ERROR] Relativity Space: Greenhouse API failed: 404
+[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"B548CBMT02OQSB","httpStatus":403,"message":"permission denied","messageParams":{}}
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
-[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"D8B20CMSZPTQ9Y","httpStatus":403,"message":"permission denied","messageParams":{}}
 [ERROR] Skydio: Greenhouse API failed: 404
 [ERROR] Snap: Invalid Workday URL
 [ERROR] Stitch Fix : Greenhouse API failed: 404
@@ -59,20 +67,14 @@ ERRORS_START
 [ERROR] Strong Holdim: Greenhouse API failed: 404
 [ERROR] Tandem: Ashby API failed - HTTP 404: Not Found
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"4D81D7MSZPV7MI","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] The standard: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Sony AI America Inc: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] State Street: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"202826MSZPVAI4","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"27ECB2MT02QLNJ","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"D8B20CMT02QOA6","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] TRM labs: Greenhouse API failed: 404
-[ERROR] Tricentis : Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] USAA: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] The Toro: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Vimeo: Greenhouse API failed: 404
-[ERROR] Walmart: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
+[ERROR] Walmart: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"1CB108MSZPVYBV","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"3BB895MT02RCCX","httpStatus":422,"message":"","messageParams":{}}
 ERRORS_END
