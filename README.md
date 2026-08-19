@@ -4,9 +4,93 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-18 23:37:52](#batch-2026-08-18-23-37-52)
 - [Batch at 2026-08-18 17:55:25](#batch-2026-08-18-17-55-25)
 - [Batch at 2026-08-18 11:34:31](#batch-2026-08-18-11-34-31)
 - [Batch at 2026-08-18 05:37:29](#batch-2026-08-18-05-37-29)
+
+<h3 id='batch-2026-08-18-23-37-52'>🕐 Batch at 2026-08-18 23:37:52</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- Applied Materials: 1 job
+- Cohesity: 1 job
+- Micron: 1 job
+- NVIDIA: 1 job
+- spacex: 4 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>AGS Training Services CMP New Product (NPI) Instructor V - (E4)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/AGS-Training-Services-CMP-New-Product--NPI--Instructor-V----E4-_R2625903'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Cohesity</b></td>
+      <td>Santa Clara, CA - USA (Office)</td>
+      <td>Software Engineer</td>
+      <td><a href='https://cohesity.wd5.myworkdayjobs.com/en-US/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R04460-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Intern - Advanced DRAM Process Integration</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Advanced-DRAM-Process-Integration_JR107205'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>System Software Engineer - Trusted Firmware</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Trusted-Firmware_JR2023340'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>New Graduate Engineer, Electrical (Starship)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8729124002?gh_jid=8729124002'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>New Graduate Engineer, Manufacturing (Starship)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8729120002?gh_jid=8729120002'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>New Graduate Engineer, Propulsion (Starship)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8729085002?gh_jid=8729085002'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>New Graduate Engineer, Software (Starship)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-18-17-55-25'>🕐 Batch at 2026-08-18 17:55:25</h3>
 
@@ -301,7 +385,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-18-11-34-31'>🕐 Batch at 2026-08-18 11:34:31</h3>
 
 📊 **Total jobs in this batch: 37**
@@ -593,8 +676,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-08-18-05-37-29'>🕐 Batch at 2026-08-18 05:37:29</h3>
+---<h3 id='batch-2026-08-18-05-37-29'>🕐 Batch at 2026-08-18 05:37:29</h3>
 
 📊 **Total jobs in this batch: 3**
 
