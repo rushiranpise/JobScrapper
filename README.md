@@ -4,9 +4,69 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-19 23:39:51](#batch-2026-08-19-23-39-51)
 - [Batch at 2026-08-19 17:54:50](#batch-2026-08-19-17-54-50)
 - [Batch at 2026-08-19 11:30:47](#batch-2026-08-19-11-30-47)
 - [Batch at 2026-08-19 05:38:06](#batch-2026-08-19-05-38-06)
+
+<h3 id='batch-2026-08-19-23-39-51'>🕐 Batch at 2026-08-19 23:39:51</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- spacex: 2 jobs
+- Zipline: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Automation & Controls Specialist, Infrastructure & Utility (Starship) - Level 4/5</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8730117002?gh_jid=8730117002'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Automation & Controls Technician, Infrastructure & Utility (Starship)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8730577002?gh_jid=8730577002'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Applications Engineer Intern (Spring 2027)</td>
+      <td><a href='https://www.zipline.com/open-roles?gh_jid=7908677003'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Software Systems Validation Intern (Spring 2027)</td>
+      <td><a href='https://www.zipline.com/open-roles?gh_jid=7893955003'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Software Systems Validation Intern (Summer 2027)</td>
+      <td><a href='https://www.zipline.com/open-roles?gh_jid=7894335003'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-19-17-54-50'>🕐 Batch at 2026-08-19 17:54:50</h3>
 
@@ -309,7 +369,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-19-11-30-47'>🕐 Batch at 2026-08-19 11:30:47</h3>
 
 📊 **Total jobs in this batch: 47**
@@ -681,8 +740,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-08-19-05-38-06'>🕐 Batch at 2026-08-19 05:38:06</h3>
+---<h3 id='batch-2026-08-19-05-38-06'>🕐 Batch at 2026-08-19 05:38:06</h3>
 
 📊 **Total jobs in this batch: 24**
 
