@@ -4,8 +4,311 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-19 17:54:50](#batch-2026-08-19-17-54-50)
 - [Batch at 2026-08-19 11:30:47](#batch-2026-08-19-11-30-47)
 - [Batch at 2026-08-19 05:38:06](#batch-2026-08-19-05-38-06)
+
+<h3 id='batch-2026-08-19-17-54-50'>🕐 Batch at 2026-08-19 17:54:50</h3>
+
+📊 **Total jobs in this batch: 37**
+
+**Per company:**
+- Airbnb: 1 job
+- Anduril Industries: 1 job
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- Applied Materials: 1 job
+- ASMLEXT1: 1 job
+- Autodesk: 1 job
+- BAH: 8 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 2 jobs
+- CMU: 1 job
+- Coinbase: 1 job
+- Comcast : 1 job
+- Esri: 1 job
+- Micron: 2 jobs
+- Roblox: 1 job
+- Scoutm Otors: 1 job
+- searchLFN: 1 job
+- spacex: 6 jobs
+- Testnisc: 3 jobs
+- The Walt Disney Company: 1 job
+- Truveta: 1 job
+- Upstart: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Airbnb</b></td>
+      <td>Remote, United States</td>
+      <td>Software Engineer, Trust</td>
+      <td><a href='https://careers.airbnb.com/positions/8142827?gh_jid=8142827'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Compute Systems Architect - Expeditionary AI/HPC Data Centers</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5183431007?gh_jid=5183431007'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Administrative Aide</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Administrative-Aide_JR64154'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Billerica,MA</td>
+      <td>Software Test Automation Engineer (SQA Engineer) III - (E3)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/Software-Test-Automation-Engineer--SQA-Engineer--III----E3-_R2624791-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>San Diego, CA, USA</td>
+      <td>Material Handler 4</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/Material-Handler-4_J-00350177'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Autodesk</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Springfield, VA</td>
+      <td>Palantir Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Palantir-Data-Scientist_R0247243'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Full Stack Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Full-Stack-Software-Engineer_R0247416'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Project Control Analyst, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Project-Control-Analyst--Junior_R0247426'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>Data Scientist, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Data-Scientist--Junior_R0247418'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>AI Engineer, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/AI-Engineer--Junior_R0247417'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Atlanta, GA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Data-Scientist_R0247378'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0247406'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Norfolk, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Data-Scientist_R0245322'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA CA - Milpitas 155</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-CA---Milpitas-155/DevOps-Engineer_R-553112-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA MD - Sparks - 7 Loveton Circle</td>
+      <td>Engineer III - Software Developer Engineer in Test (SDET)</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Engineer-III---Software-Developer-Engineer-in-Test--SDET-_R-552362-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CMU</b></td>
+      <td>Pittsburgh, PA</td>
+      <td>Application Processing Assistant - Undergraduate Admission</td>
+      <td><a href='https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Application-Processing-Assistant---Undergraduate-Admission_2025008'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer, Frontend (Coinbase Advisor - Agentic Trading)</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8070574?gh_jid=8070574'>Apply</a></td>
+      <td>Jul 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Comcast </b></td>
+      <td>PA - Philadelphia, 1800 Arch St</td>
+      <td>Software Release and Triage Engineer</td>
+      <td><a href='https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Software-Release-and-Triage-Engineer_R442881'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Java Software Engineer II - ArcGIS Enterprise </td>
+      <td><a href='https://www.esri.com/careers/5216805007?gh_jid=5216805007'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>DRAM Product Engineer - AI</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/DRAM-Product-Engineer---AI_JR107769'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Manassas, VA -  Fab 6</td>
+      <td>New College Grad - Shift Operations Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/Shift-Operations-Engineer_JR108720'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>Goodyear, Arizona, United States</td>
+      <td>Data Center Engineer</td>
+      <td><a href='https://careers.roblox.com/jobs/8047875?gh_jid=8047875'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Scoutm Otors</b></td>
+      <td>Blythewood, South Carolina, United States</td>
+      <td>Automotive Painter</td>
+      <td><a href='https://job-boards.greenhouse.io/scoutmotors/jobs/5214513007'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>searchLFN</b></td>
+      <td>Ramsey, MN</td>
+      <td>Materials Handler II - Tugger Driver ATO</td>
+      <td><a href='https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Ramsey-MN/Materials-Handler-II---Tugger-Driver-ATO_JR-025154'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>NDE Inspector Trainee (Starship) - Temporary</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8731136002?gh_jid=8731136002'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>New Graduate Engineer, Software (Application Software)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Operations Engineer, Applied AI (Spaceport Facilities)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8731046002?gh_jid=8731046002'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer (Application Software)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8731256002?gh_jid=8731256002'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>Wi-Fi Software Engineer (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8715500002?gh_jid=8715500002'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Wi-Fi Software Engineer (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8715832002?gh_jid=8715832002'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Testnisc</b></td>
+      <td>Cedar Rapids, IA</td>
+      <td>Software Developer - Telecom Bill Calculations Software (Back End, Python)</td>
+      <td><a href='https://job-boards.greenhouse.io/testnisc/jobs/8142918'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Testnisc</b></td>
+      <td>Lake Saint Louis, MO</td>
+      <td>Software Developer - Telecom Bill Calculations Software (Back End, Python)</td>
+      <td><a href='https://job-boards.greenhouse.io/testnisc/jobs/8142921'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Testnisc</b></td>
+      <td>Mandan, ND</td>
+      <td>Software Developer - Telecom Bill Calculations Software (Back End, Python)</td>
+      <td><a href='https://job-boards.greenhouse.io/testnisc/jobs/8142924'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>Executive Assistant, Main Street - Creative Operations</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Executive-Assistant--Main-Street---Creative-Operations_10158384'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Truveta</b></td>
+      <td>Seattle, WA</td>
+      <td>Software Engineer – Commerce</td>
+      <td><a href='https://job-boards.greenhouse.io/truveta/jobs/6147526004'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Upstart</b></td>
+      <td>United States | Remote</td>
+      <td>Software Engineer, Cash Line</td>
+      <td><a href='https://careers.upstart.com/jobs?gh_jid=8142327'>Apply</a></td>
+      <td>Aug 19, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-19-11-30-47'>🕐 Batch at 2026-08-19 11:30:47</h3>
 
@@ -379,7 +682,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-19-05-38-06'>🕐 Batch at 2026-08-19 05:38:06</h3>
 
 📊 **Total jobs in this batch: 24**
