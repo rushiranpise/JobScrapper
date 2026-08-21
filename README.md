@@ -4,9 +4,55 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-20 23:41:04](#batch-2026-08-20-23-41-04)
 - [Batch at 2026-08-20 17:59:54](#batch-2026-08-20-17-59-54)
 - [Batch at 2026-08-20 11:36:08](#batch-2026-08-20-11-36-08)
 - [Batch at 2026-08-20 05:43:16](#batch-2026-08-20-05-43-16)
+
+<h3 id='batch-2026-08-20-23-41-04'>🕐 Batch at 2026-08-20 23:41:04</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- MongoDB: 1 job
+- spacex: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>MongoDB</b></td>
+      <td>New York City; United States</td>
+      <td>Software Engineer 3, Networking & Observability</td>
+      <td><a href='https://www.mongodb.com/careers/job/?gh_jid=8119841'>Apply</a></td>
+      <td>Aug 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Full Stack Software Engineer - Simulation & Flight Systems</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8731959002?gh_jid=8731959002'>Apply</a></td>
+      <td>Aug 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer - Simulation & Flight Systems</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8735368002?gh_jid=8735368002'>Apply</a></td>
+      <td>Aug 20, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-20-17-59-54'>🕐 Batch at 2026-08-20 17:59:54</h3>
 
@@ -242,7 +288,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-20-11-36-08'>🕐 Batch at 2026-08-20 11:36:08</h3>
 
 📊 **Total jobs in this batch: 37**
@@ -542,8 +587,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-08-20-05-43-16'>🕐 Batch at 2026-08-20 05:43:16</h3>
+---<h3 id='batch-2026-08-20-05-43-16'>🕐 Batch at 2026-08-20 05:43:16</h3>
 
 📊 **Total jobs in this batch: 1**
 
