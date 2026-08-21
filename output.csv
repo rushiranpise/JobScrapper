@@ -1,14 +1,29 @@
-company,title,location,postedOn,link
-"CrowdStrike, Inc",Backend Engineer III (Hybrid),"USA - New York, NY",Posted Today,https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---New-York-NY/Principal-Engineer--Hybrid-_R23913
-"CrowdStrike, Inc","Software Engineer 3, Sensor - Platform API (Remote)","USA - Remote, WA",Posted Today,https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-WA/Software-Engineer-3--Sensor---Platform-API--Remote-_R29896
-Applied Materials,Data Scientist,"Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist_R2626818
-Applied Materials,Data Scientist,"Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist_R2626819
-Applied Materials,Data Scientist,"Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist_R2626820
-Applied Materials,Data Scientist,"Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist_R2626821
-Applied Materials,Software Engineer,"Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer_R2626822
-Applied Materials,Software QA Engineer,"Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-QA-Engineer_R2626830
-Applied Materials,Software Engineer,"Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer_R2626785
-Applied Materials,Software Engineer,"Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer_R2626786
-Applied Materials,Software Engineer,"Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer_R2626787
-Applied Materials,Software Engineer,"Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer_R2626798
-Applied Materials,Software QA Engineer,"Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-QA-Engineer_R2626793
+company,title,location,link,postedOn,updatedOn
+Affirm ,"Software Engineer II, Fullstack (App Experience)",Remote US,https://job-boards.greenhouse.io/affirm/jobs/7819445003,2026-08-21T13:28:15-04:00,2026-08-21T13:28:15-04:00
+BAH,"Data Scientist, Mid","Reston, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Reston-VA/Data-Scientist--Mid_R0247640,Posted Today,
+BAH,AI/ML Engineer and Data Scientist,"Fort Belvoir, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/AI-ML-Engineer-and-Data-Scientist_R0247551,Posted Today,
+BAH,Software Engineer,"Rome, NY",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0247563,Posted Today,
+BAH,"Logistician, Junior","Oklahoma City, OK",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Oklahoma-City-OK/Logistician--Junior_R0247480,Posted Today,
+BAH,Data Scientist,"Huntsville, AL",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Data-Scientist_R0246868-1,Posted Today,
+BAH,Business Intelligence Developer,"Huntsville, AL",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Business-Intelligence-Developer_R0246885,Posted Today,
+BAH,Data Engineer,"Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Engineer_R0247542,Posted Today,
+Children's Hospital Medical Center,Pharmacy Technician Trainee Program,Burnet Campus,https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Burnet-Campus/Pharmacy-Technician-Trainee-Program_JR224832,Posted Today,
+Citi,BANAMEX Analista KYC AML de cumplimiento,Ciudad De Mexico Distrito Federal Mexico,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Analista-KYC-AML-de-cumplimiento_26988376,Posted Today,
+DoorDash ,"Software Engineer, Unified Gateway"," San Francisco, CA;Seattle, WA;Los Angeles, CA;New York, Ny",https://job-boards.greenhouse.io/doordashusa/jobs/8146670,2026-08-21T12:12:14-04:00,2026-08-21T12:48:14-04:00
+Esri,C# Software Engineer I – Feature Services,"Redlands, CA",https://www.esri.com/careers/5214134007?gh_jid=5214134007,2026-08-21T13:10:13-04:00,2026-08-21T13:10:13-04:00
+Exiger,"Database Engineer, Public Sector","McLean, Virginia, United States; New York, New York, United States; Richmond, Virginia, United States",https://www.exiger.com/careers/6150395004?gh_jid=6150395004,2026-08-21T13:37:26-04:00,2026-08-21T13:37:26-04:00
+General Motors LLC,"Software Engineer, AV Data Collection","Sunnyvale, California, United States of America",https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529,Posted Today,
+genpt,CDL A Regional Driver,"York, PA, USA",https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/York-PA-USA/CDL-A-Regional-Driver_R26_0000027598-1,Posted Today,
+MongoDB,"Software Engineer 3, Atlas Clusters Platform",New York City,https://www.mongodb.com/careers/job/?gh_jid=8089859,2026-08-21T13:39:19-04:00,2026-08-21T13:39:19-04:00
+MOOG,"Intern, Electrical Engineering","Buffalo, NY",https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-19569,Posted Today,
+nVent,Industrial Painter,"Hitchcock, TX, US",https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Hitchcock-TX-US/Industrial-Painter_R23266,Posted Today,
+nVent,Material Handler - 2nd Shift,"Anoka, MN, US",https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Material-Handler---2nd-Shift_R23259,Posted Today,
+spacex,"Electrical Engineer, Launch Infrastructure (Starship)","Cape Canaveral, FL",https://boards.greenhouse.io/spacex/jobs/8737393002?gh_jid=8737393002,2026-08-21T10:27:55-04:00,2026-08-21T10:27:55-04:00
+spacex,Electrical Training Specialist (Starlink),"Bastrop, TX",https://boards.greenhouse.io/spacex/jobs/8735328002?gh_jid=8735328002,2026-08-21T10:50:16-04:00,2026-08-21T10:50:16-04:00
+spacex,"Structural Engineer, Launch Infrastructure (Starship)","Cape Canaveral, FL",https://boards.greenhouse.io/spacex/jobs/8737416002?gh_jid=8737416002,2026-08-21T10:34:11-04:00,2026-08-21T10:34:11-04:00
+STANDARD & POOR'S FINANCIAL SERVICE,"AD, Software Engineering",IN - HYDERABAD SKYVIEW,https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/IN---HYDERABAD-SKYVIEW/Product-Manager_328344-1,Posted Today,
+The Toro,Paint/ Weld Supervisor - The Toro Company,"Windom, MN",https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Windom-MN/Paint--Weld-Supervisor---The-Toro-Company_JR16966,Posted Today,
+Upstart,"Software Engineer, Site Reliability",United States | Remote,https://careers.upstart.com/jobs?gh_jid=8147963,2026-08-21T13:45:39-04:00,2026-08-21T13:45:39-04:00
+Voya,CLO Data Analyst - BLGC,"Scottsdale, AZ",https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Scottsdale-AZ/CLO-Data-Analyst---BLGC_JR0033085,Posted Today,
+Workday,Software Development Engineer - US Federal,USA.VA.Reston,https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer---US-Federal_JR-0108664,Posted Today,
+Zipline,Software Engineer Intern (Summer 2027),"South San Francisco, California, USA",https://www.zipline.com/open-roles?gh_jid=7929236003,2026-08-21T12:59:06-04:00,2026-08-21T12:59:06-04:00
