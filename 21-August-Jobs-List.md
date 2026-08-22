@@ -4,8 +4,218 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-21 17:55:03](#batch-2026-08-21-17-55-03)
 - [Batch at 2026-08-21 11:33:49](#batch-2026-08-21-11-33-49)
 - [Batch at 2026-08-21 05:38:53](#batch-2026-08-21-05-38-53)
+
+<h3 id='batch-2026-08-21-17-55-03'>🕐 Batch at 2026-08-21 17:55:03</h3>
+
+📊 **Total jobs in this batch: 24**
+
+**Per company:**
+- Airbnb: 1 job
+- Anduril Industries: 1 job
+- Applied Materials: 2 jobs
+- BAH: 2 jobs
+- BorgWarner: 1 job
+- Citi: 1 job
+- Formlabs: 1 job
+- General Motors LLC: 1 job
+- Intel Corporation: 1 job
+- National Information Solutions Cooperative (NISC): 1 job
+- NVIDIA: 3 jobs
+- Snowflake: 1 job
+- spacex: 1 job
+- SRK Supplylogix LLC: 1 job
+- Testnisc: 1 job
+- The Walt Disney Company: 1 job
+- tp-link: 1 job
+- Twilio: 1 job
+- Zipline: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Airbnb</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer, Payments</td>
+      <td><a href='https://careers.airbnb.com/positions/8146265?gh_jid=8146265'>Apply</a></td>
+      <td>Aug 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>MSE, Vehicle Software, RUST</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5218934007?gh_jid=5218934007'>Apply</a></td>
+      <td>Aug 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Kalispell,MT</td>
+      <td>Software Engineer I - New College Grad (Bachelors - Kalispell, MT)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/KalispellMT/Software-Engineer-I---New-College-Grad--Bachelors---Kalispell--MT-_R2626859'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Birch Grove,MT</td>
+      <td>Production Control/Material Handler III - (O3)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Birch-GroveMT/Production-Control-Material-Handler-III----O3-_R2626214-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Springfield, VA</td>
+      <td>Data Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Architect_R0247634'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Data Visualization Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Visualization-Engineer_R0247642'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Hendersonville - North Carolina - USA</td>
+      <td>2nd Shift - Prototype / Production ME Technician (Industrial Solutions) - Grade G ($29.50 - $36.61)</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Hendersonville---North-Carolina---USA/XMLNAME-2nd-Shift---Prototype---Production-ME-Technician--Industrial-Solutions----Grade-G---2950----3661-_R2026-3198'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Irving Texas United States</td>
+      <td>Full Stack Cloud Engineer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Full-Stack-Cloud-Engineer_26987222'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Electrical Engineering Intern (Winter/Spring 2027)</td>
+      <td><a href='https://careers.formlabs.com/job/8148283/apply/?gh_jid=8148283'>Apply</a></td>
+      <td>Aug 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>Software Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer_JR-202617283-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>AIG Power Delivery Pathfinding Researcher</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AIG-Power-Delivery-Pathfinding-Researcher_JR0286631'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>National Information Solutions Cooperative (NISC)</b></td>
+      <td>Mandan, ND or Lake St. Louis, MO</td>
+      <td>Database Conversion (ETL) Programmer</td>
+      <td><a href='https://job-boards.greenhouse.io/nisc/jobs/8148217'>Apply</a></td>
+      <td>Aug 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Architecture Energy Modeling Engineer - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Systems Software Engineer - AI and Cloud</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud_JR2024087'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Research Engineer, Interactive World Models - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Engineer--Interactive-World-Models---New-College-Grad-2026_JR2023950'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Developer Advocate - AI & Developer Experiences</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/267d8514-2580-4ade-b5d1-0ea41d11cf62'>Apply</a></td>
+      <td>Aug 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>EEE Failure Analysis Specialist (Starlink Satellite PCB Engineering)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8703042002?gh_jid=8703042002'>Apply</a></td>
+      <td>Aug 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, TN, Nashville</td>
+      <td>Application Engineer II</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TN-Nashville/Application-Engineer-II_JR0151705-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Testnisc</b></td>
+      <td>Mandan, ND or Lake St. Louis, MO</td>
+      <td>Database Conversion (ETL) Programmer</td>
+      <td><a href='https://job-boards.greenhouse.io/testnisc/jobs/8148623'>Apply</a></td>
+      <td>Aug 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Glendale, CA, USA</td>
+      <td>Product Software Engineer II</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Product-Software-Engineer-II_10157837'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>tp-link</b></td>
+      <td>Irvine, California</td>
+      <td>Quality Assurance Engineer (Mobile Applications)</td>
+      <td><a href='https://apply.workable.com/tp-link-usa-corp/j/9EF1635F9C/'>Apply</a></td>
+      <td>Aug 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Twilio</b></td>
+      <td>Remote - US</td>
+      <td>Software Engineer L2-Messaging API</td>
+      <td><a href='https://job-boards.greenhouse.io/twilio/jobs/7816159'>Apply</a></td>
+      <td>Aug 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Computational Physics Intern (Spring 2027)</td>
+      <td><a href='https://www.zipline.com/open-roles?gh_jid=7904605003'>Apply</a></td>
+      <td>Aug 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Materials Engineer Intern (Spring & Summer 2027)</td>
+      <td><a href='https://www.zipline.com/open-roles?gh_jid=7905428003'>Apply</a></td>
+      <td>Aug 21, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-21-11-33-49'>🕐 Batch at 2026-08-21 11:33:49</h3>
 
@@ -243,7 +453,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-21-05-38-53'>🕐 Batch at 2026-08-21 05:38:53</h3>
 
 📊 **Total jobs in this batch: 13**
