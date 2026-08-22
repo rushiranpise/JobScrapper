@@ -4,7 +4,38 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-22 11:25:19](#batch-2026-08-22-11-25-19)
 - [Batch at 2026-08-22 05:29:41](#batch-2026-08-22-05-29-41)
+
+<h3 id='batch-2026-08-22-11-25-19'>🕐 Batch at 2026-08-22 11:25:19</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- BorgWarner: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Seneca - South Carolina - USA</td>
+      <td>Training Specialist - Operational Excellence</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Seneca---South-Carolina---USA/Training-Specialist---Operational-Excellence_R2026-3330'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-22-05-29-41'>🕐 Batch at 2026-08-22 05:29:41</h3>
 
@@ -50,4 +81,3 @@
 <table>
 
 ---
-
