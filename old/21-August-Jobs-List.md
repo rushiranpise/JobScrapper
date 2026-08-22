@@ -4,9 +4,47 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-21 23:27:02](#batch-2026-08-21-23-27-02)
 - [Batch at 2026-08-21 17:55:03](#batch-2026-08-21-17-55-03)
 - [Batch at 2026-08-21 11:33:49](#batch-2026-08-21-11-33-49)
 - [Batch at 2026-08-21 05:38:53](#batch-2026-08-21-05-38-53)
+
+<h3 id='batch-2026-08-21-23-27-02'>🕐 Batch at 2026-08-21 23:27:02</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- Databricks: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Databricks</b></td>
+      <td>United States</td>
+      <td>Specialist Solutions Architect - Cloud Infrastructure & Platform (AWS)</td>
+      <td><a href='https://databricks.com/company/careers/open-positions/job?gh_jid=8739506002'>Apply</a></td>
+      <td>Aug 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Databricks</b></td>
+      <td>United States</td>
+      <td>Specialist Solutions Architect - Cloud Infrastructure & Platform (Azure)</td>
+      <td><a href='https://databricks.com/company/careers/open-positions/job?gh_jid=8739507002'>Apply</a></td>
+      <td>Aug 21, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-21-17-55-03'>🕐 Batch at 2026-08-21 17:55:03</h3>
 
@@ -216,7 +254,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-21-11-33-49'>🕐 Batch at 2026-08-21 11:33:49</h3>
 
 📊 **Total jobs in this batch: 28**
@@ -452,8 +489,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-08-21-05-38-53'>🕐 Batch at 2026-08-21 05:38:53</h3>
+---<h3 id='batch-2026-08-21-05-38-53'>🕐 Batch at 2026-08-21 05:38:53</h3>
 
 📊 **Total jobs in this batch: 13**
 

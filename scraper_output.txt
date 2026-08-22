@@ -1,8 +1,8 @@
 
-✅ Scraped 24 new jobs. Output saved to 'output.csv'.
-📦 Appended 24 jobs to 'output_old.csv'
+✅ Scraped 2 new jobs. Output saved to 'output.csv'.
+📦 Appended 2 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"Airbnb","title":"Software Engineer, Payments","location":"Remote - USA","link":"https:\/\/careers.airbnb.com\/positions\/8146265?gh_jid=8146265","postedOn":"2026-08-21T16:27:49-04:00","updatedOn":"2026-08-21T16:27:49-04:00"},{"company":"Anduril Industries","title":"MSE, Vehicle Software, RUST","location":"Costa Mesa, California, United States","link":"https:\/\/boards.greenhouse.io\/andurilindustries\/jobs\/5218934007?gh_jid=5218934007","postedOn":"2026-08-21T15:48:46-04:00","updatedOn":"2026-08-21T15:48:46-04:00"},{"company":"Applied Materials","title":"Software Engineer I - New College Grad (Bachelors - Kalispell, MT)","location":"Kalispell,MT","link":"https:\/\/amat.wd1.myworkdayjobs.com\/en-US\/External\/job\/KalispellMT\/Software-Engineer-I---New-College-Grad--Bachelors---Kalispell--MT-_R2626859","postedOn":"Posted Today","updatedOn":null},{"company":"Applied Materials","title":"Production Control\/Material Handler III - (O3)","location":"Birch Grove,MT","link":"https:\/\/amat.wd1.myworkdayjobs.com\/en-US\/External\/job\/Birch-GroveMT\/Production-Control-Material-Handler-III----O3-_R2626214-1","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Data Architect","location":"Springfield, VA","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Springfield-VA\/Data-Architect_R0247634","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Data Visualization Engineer","location":"McLean, VA","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/McLean-VA\/Data-Visualization-Engineer_R0247642","postedOn":"Posted Today","updatedOn":null},{"company":"BorgWarner","title":"2nd Shift - Prototype \/ Production ME Technician (Industrial Solutions) - Grade G ($29.50 - $36.61)","location":"Hendersonville - North Carolina - USA","link":"https:\/\/borgwarner.wd5.myworkdayjobs.com\/en-US\/BorgWarner_Careers\/job\/Hendersonville---North-Carolina---USA\/XMLNAME-2nd-Shift---Prototype---Production-ME-Technician--Industrial-Solutions----Grade-G---2950----3661-_R2026-3198","postedOn":"Posted Today","updatedOn":null},{"company":"Citi","title":"Full Stack Cloud Engineer","location":"Irving Texas United States","link":"https:\/\/citi.wd5.myworkdayjobs.com\/en-US\/2\/job\/Irving-Texas-United-States\/Full-Stack-Cloud-Engineer_26987222","postedOn":"Posted Today","updatedOn":null},{"company":"Formlabs","title":"Electrical Engineering Intern (Winter\/Spring 2027)","location":"Somerville, MA","link":"https:\/\/careers.formlabs.com\/job\/8148283\/apply\/?gh_jid=8148283","postedOn":"2026-08-21T15:55:12-04:00","updatedOn":"2026-08-21T15:55:12-04:00"},{"company":"General Motors LLC","title":"Software Engineer","location":"Sunnyvale, California, United States of America","link":"https:\/\/generalmotors.wd5.myworkdayjobs.com\/en-US\/Careers_GM\/job\/Sunnyvale-California-United-States-of-America\/Software-Engineer_JR-202617283-1","postedOn":"Posted Today","updatedOn":null},{"company":"Intel Corporation","title":"AIG Power Delivery Pathfinding Researcher","location":"US, Oregon, Hillsboro","link":"https:\/\/intel.wd1.myworkdayjobs.com\/en-US\/External\/job\/US-Oregon-Hillsboro\/AIG-Power-Delivery-Pathfinding-Researcher_JR0286631","postedOn":"Posted Today","updatedOn":null},{"company":"National Information Solutions Cooperative (NISC)","title":"Database Conversion (ETL) Programmer","location":"Mandan, ND or Lake St. Louis, MO","link":"https:\/\/job-boards.greenhouse.io\/nisc\/jobs\/8148217","postedOn":"2026-08-21T17:21:57-04:00","updatedOn":"2026-08-21T18:06:24-04:00"},{"company":"NVIDIA","title":"Architecture Energy Modeling Engineer - New College Grad 2026","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"Systems Software Engineer - AI and Cloud","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/Systems-Software-Engineer---AI-and-Cloud_JR2024087","postedOn":"Posted Today","updatedOn":null},{"company":"NVIDIA","title":"Research Engineer, Interactive World Models - New College Grad 2026","location":"US, CA, Santa Clara","link":"https:\/\/nvidia.wd5.myworkdayjobs.com\/en-US\/NVIDIAExternalCareerSite\/job\/US-CA-Santa-Clara\/Research-Engineer--Interactive-World-Models---New-College-Grad-2026_JR2023950","postedOn":"Posted Today","updatedOn":null},{"company":"Snowflake","title":"Developer Advocate - AI & Developer Experiences","location":"US-CA-Menlo Park","link":"https:\/\/jobs.ashbyhq.com\/snowflake\/267d8514-2580-4ade-b5d1-0ea41d11cf62","postedOn":"2026-08-21T23:08:15.007+00:00","updatedOn":null},{"company":"spacex","title":"EEE Failure Analysis Specialist (Starlink Satellite PCB Engineering)","location":"Redmond, WA","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8703042002?gh_jid=8703042002","postedOn":"2026-08-21T15:46:50-04:00","updatedOn":"2026-08-21T15:46:50-04:00"},{"company":"SRK Supplylogix LLC","title":"Application Engineer II","location":"USA, TN, Nashville","link":"https:\/\/mckesson.wd3.myworkdayjobs.com\/en-US\/External_Careers\/job\/USA-TN-Nashville\/Application-Engineer-II_JR0151705-1","postedOn":"Posted Today","updatedOn":null},{"company":"Testnisc","title":"Database Conversion (ETL) Programmer","location":"Mandan, ND or Lake St. Louis, MO","link":"https:\/\/job-boards.greenhouse.io\/testnisc\/jobs\/8148623","postedOn":"2026-08-21T18:06:54-04:00","updatedOn":"2026-08-21T18:06:54-04:00"},{"company":"The Walt Disney Company","title":"Product Software Engineer II","location":"Glendale, CA, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Glendale-CA-USA\/Product-Software-Engineer-II_10157837","postedOn":"Posted Today","updatedOn":null},{"company":"tp-link","title":"Quality Assurance Engineer (Mobile Applications)","location":"Irvine, California","link":"https:\/\/apply.workable.com\/tp-link-usa-corp\/j\/9EF1635F9C\/","postedOn":"2026-08-22T00:00:00.000Z","updatedOn":null},{"company":"Twilio","title":"Software Engineer L2-Messaging API","location":"Remote - US","link":"https:\/\/job-boards.greenhouse.io\/twilio\/jobs\/7816159","postedOn":"2026-08-21T15:58:26-04:00","updatedOn":"2026-08-21T16:01:12-04:00"},{"company":"Zipline","title":"Computational Physics Intern (Spring 2027)","location":"South San Francisco, California, USA","link":"https:\/\/www.zipline.com\/open-roles?gh_jid=7904605003","postedOn":"2026-08-21T15:26:16-04:00","updatedOn":"2026-08-21T15:26:16-04:00"},{"company":"Zipline","title":"Materials Engineer Intern (Spring & Summer 2027)","location":"South San Francisco, California, USA","link":"https:\/\/www.zipline.com\/open-roles?gh_jid=7905428003","postedOn":"2026-08-21T16:40:43-04:00","updatedOn":"2026-08-21T16:40:43-04:00"}]
+[{"company":"Databricks","title":"Specialist Solutions Architect - Cloud Infrastructure & Platform (AWS)","location":"United States","link":"https:\/\/databricks.com\/company\/careers\/open-positions\/job?gh_jid=8739506002","postedOn":"2026-08-21T20:59:33-04:00","updatedOn":"2026-08-21T21:12:03-04:00"},{"company":"Databricks","title":"Specialist Solutions Architect - Cloud Infrastructure & Platform (Azure)","location":"United States","link":"https:\/\/databricks.com\/company\/careers\/open-positions\/job?gh_jid=8739507002","postedOn":"2026-08-21T20:59:35-04:00","updatedOn":"2026-08-21T21:12:03-04:00"}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
@@ -12,68 +12,149 @@ ERRORS_START
 [ERROR] Annalect : Greenhouse API failed: 404
 [ERROR] Applied Intuition: Greenhouse API failed: 404
 [ERROR] Ascend Analytics: Greenhouse API failed: 404
+[ERROR] Motorola Solutions, Inc: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Magna Services of America, Inc: Invalid Workday URL
 [ERROR] Aurora: Greenhouse API failed: 404
+[ERROR] 566 DEPARTMENT OF TOURISM AND RECREATION: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Samsung Electronics America, Inc: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Allstate: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Bread Financial Payments, Inc: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] CrowdStrike, Inc: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Adobe: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] boomi: Greenhouse API failed: 404
+[ERROR] Applied Materials: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] ASMLEXT1: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] athenahealth : Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Autodesk: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Canonical: Greenhouse API failed: 404
+[ERROR] BAH: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Autodesk: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Cdata: Greenhouse API failed: 404
-[ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
+[ERROR] Becton Dickinson’s Integrated Diagnostics Systems: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Bank of Montreal: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Chatham Financial: Greenhouse API failed: 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"041099MT3NTVZR","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
+[ERROR] Broadcom : Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] BorgWarner: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Clever: Could not extract Lever company name
+[ERROR] Brink: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
+[ERROR] cadence: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Calix: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] careers: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"97DA46MT3ZVTMG","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Dapper Labs: Lever API failed: https://api.lever.co/v0/postings/axiomzen?mode=json - 404
 [ERROR] Demandbase : Greenhouse API failed: 404
+[ERROR] Children's Hospital Medical Center: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Digital.ai: Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
+[ERROR] Circle: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Ciena: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Citi: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] CMU: Workday API failed: HTTP 520 - <!DOCTYPE html>
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"CB8584MT3NUQQE","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] CMU: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Comcast : Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Fetch: Greenhouse API failed: 404
+[ERROR] Cohesity: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Fortra : Greenhouse API failed: 404
-[ERROR] Funnel: Breezy API failed: 404
 [ERROR] Galileo Financial Technologies (Sofi): Greenhouse API failed: 404
+[ERROR] Concentrix: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Funnel: Breezy API failed: 404
+[ERROR] Dematic Corp. (ILD-US): Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Early  Warning: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Elekta: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Grammarly : Greenhouse API failed: 404
 [ERROR] Groq: Greenhouse API failed: 404
 [ERROR] Handshake: Greenhouse API failed: 404
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"9C49DBMT3ZVXUU","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] f5jobs: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Illumio: Greenhouse API failed: 404
+[ERROR] Genesys: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] flir: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] GE Healthcare: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Jerry: Ashby API failed - HTTP 404: Not Found
 [ERROR] Kikoff: Ashby API failed - HTTP 404: Not Found
 [ERROR] Kobie: Greenhouse API failed: 404
+[ERROR] General Motors LLC: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Kodiak Robotics: Lever API failed: https://api.lever.co/v0/postings/kodiak?mode=json - 404
+[ERROR] genpt: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Modernizing Medicine: Greenhouse API failed: 404
+[ERROR] homedepot: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Intel Corporation: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] KLA: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] JDA: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Notion: Greenhouse API failed: 404
-[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"834510MT3NW9XO","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Otis: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"FDC566MT3NWILN","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] LexisNexis Risk Solutions: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Micron: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Merck & Co.: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] MOOG: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] MKSCareersUniversity: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"20CE17MT3ZW47E","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Nike: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Perplexity AI: Greenhouse API failed: 404
+[ERROR] Morgan Stanley: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] nVent: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
+[ERROR] NVIDIA: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"E09124MT3NWPOC","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] NVIDIAExternalCareerSite: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Raptor Maps: Lever API failed: https://api.lever.co/v0/postings/RaptorMaps?mode=json - 404
+[ERROR] Otis: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"E09124MT3ZW6L3","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Relativity Space: Greenhouse API failed: 404
-[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"662684MT3NWVEU","httpStatus":403,"message":"permission denied","messageParams":{}}
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
+[ERROR] Penn Mutual: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"CC068EMT3ZW7FF","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Pluralsight: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Prudential Financial: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Rakuten Marketing LLC: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Rakuten : Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Redfin: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Remitly: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Robert Half : Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Skydio: Greenhouse API failed: 404
-[ERROR] Snap: Invalid Workday URL
+[ERROR] Root: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] SabreJobs: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Sentry : Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] searchLFN: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] search: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Shipt : Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] Stitch Fix : Greenhouse API failed: 404
 [ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
 [ERROR] Strong Holdim: Greenhouse API failed: 404
 [ERROR] Tandem: Ashby API failed - HTTP 404: Not Found
+[ERROR] Simons Foundation: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] The standard: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Simons Foundation: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] terex: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] State Street: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"87F6B3MT3NYC94","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"6077FBMT3NYD2J","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Snap: Invalid Workday URL
+[ERROR] Sony AI America Inc: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Solera: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] STANDARD & POOR'S FINANCIAL SERVICE: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] SRK Supplylogix LLC: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] State Street: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] The Toro: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] The standard: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] The Walt Disney Company: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] TRM labs: Greenhouse API failed: 404
-[ERROR] USAA: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] The Toro: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"549242MT3ZWGFB","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] terex: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"519902MT3ZWH9J","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Vimeo: Greenhouse API failed: 404
+[ERROR] Travellers: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Tricentis : Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] USAA: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] WeaveGrid: Greenhouse API failed: 404
+[ERROR] Verily: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 [ERROR] WebAI: Greenhouse API failed: 404
-[ERROR] Walmart: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"CA54F1MT3NYVZL","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"CD3B7DMT3NZ60S","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] VSP: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Walmart: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"7F94DAMT3ZWKMA","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Voya: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] WEX: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Warner Bros: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Wiley Edge/mthree: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Workday: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"6077FBMT3ZWMUA","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] yahoo: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Xylem Services USA LLC: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
+[ERROR] Zoom: Workday scraping failed: Expecting value: line 1 column 1 (char 0)
 ERRORS_END
