@@ -1,8 +1,8 @@
 
-✅ Scraped 21 new jobs. Output saved to 'output.csv'.
-📦 Appended 21 jobs to 'output_old.csv'
+✅ Scraped 17 new jobs. Output saved to 'output.csv'.
+📦 Appended 17 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"MOOG","title":"Paint Masker I","location":"Torrance, CA","link":"https:\/\/moog.wd5.myworkdayjobs.com\/en-US\/MOOG_External_Career_Site\/job\/Torrance-CA\/Paint-Masker-I_R-26-19495","postedOn":"Posted Today","updatedOn":null},{"company":"spacex","title":"Full Stack Software Engineer, Internal Systems","location":"Cape Canaveral, FL","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8741940002?gh_jid=8741940002","postedOn":"2026-08-23T21:55:50-04:00","updatedOn":"2026-08-23T21:55:50-04:00"},{"company":"The Walt Disney Company","title":"Assistive Technology Intern, Spring 2027","location":"Lake Buena Vista, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Lake-Buena-Vista-FL-USA\/Assistive-Technology-Intern--Spring-2027_10156692-1","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"Disney Signature Experiences Pricing & Revenue Management Intern, Spring 2027","location":"Celebration, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Celebration-FL-USA\/Disney-Signature-Experiences-Pricing---Revenue-Management-Intern--Spring-2027_10158469","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"Labor Systems Data Analytics & Integration Intern, Spring 2027","location":"Lake Buena Vista, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Lake-Buena-Vista-FL-USA\/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"Labor Systems Web Integration Intern, Spring 2027","location":"Lake Buena Vista, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Lake-Buena-Vista-FL-USA\/Labor-Systems-Web-Integration-Intern--Spring-2027_10158184","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"WDI Ride Control Engineering Intern, Orlando, Spring 2027","location":"Lake Buena Vista, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Lake-Buena-Vista-FL-USA\/WDI-Ride-Control-Engineering-Intern--Orlando--Spring-2027_10159013","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"WDI Ride Development Engineering Intern, Spring 2027","location":"Lake Buena Vista, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Lake-Buena-Vista-FL-USA\/WDI-Ride-Development-Engineering-Intern--Spring-2027_10158669","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"WDI Set Decorator Intern, Orlando, Spring 2027","location":"Lake Buena Vista, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Lake-Buena-Vista-FL-USA\/WDI-Set-Decorator-Intern--Orlando--Spring-2027_10158463-1","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"WDI Show Technical Production Management Intern, Orlando, Spring 2027","location":"Lake Buena Vista, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Lake-Buena-Vista-FL-USA\/WDI-Show-Technical-Production-Management-Intern--Orlando--Spring-2027_10158619","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"WDW Analytical & Strategic Planning Intern, Spring 2027","location":"Lake Buena Vista, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Lake-Buena-Vista-FL-USA\/WDW-Analytical---Strategic-Planning-Intern--Spring-2027_10158138","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"WDW Architecture Intern, Spring 2027","location":"Lake Buena Vista, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Lake-Buena-Vista-FL-USA\/WDW-Architecture-Intern--Spring-2027_10158147","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"WDW Computer Science \/ Computer Engineering Interns, Spring 2027","location":"Lake Buena Vista, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Lake-Buena-Vista-FL-USA\/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"WDW Engineering Interns, Spring 2027","location":"Lake Buena Vista, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Lake-Buena-Vista-FL-USA\/WDW-Engineering-Interns--Spring-2027_10158141","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"WDW Fire Protection Engineering Intern, Spring 2027","location":"Lake Buena Vista, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Lake-Buena-Vista-FL-USA\/WDW-Fire-Protection-Engineering-Intern--Spring-2027_10158135","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"WDW Occupational Safety & Industrial Hygiene Interns, Spring 2027","location":"Lake Buena Vista, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Lake-Buena-Vista-FL-USA\/WDW-Occupational-Safety---Industrial-Hygiene-Interns--Spring-2027_10158134-2","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"WDW Power and Facilities Electrical Engineering Interns, Spring 2027","location":"Lake Buena Vista, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Lake-Buena-Vista-FL-USA\/WDW-Power-and-Facilities-Electrical-Engineering-Interns--Spring-2027_10158139","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"Walt Disney World Procurement Services Intern, Spring 2027","location":"Lake Buena Vista, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Lake-Buena-Vista-FL-USA\/Walt-Disney-World-Procurement-Services-Intern--Spring-2027_10159048","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"Walt Disney World Strategic Sourcing Intern, Spring 2027","location":"Lake Buena Vista, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Lake-Buena-Vista-FL-USA\/Walt-Disney-World-Strategic-Sourcing-Intern--Spring-2027_10158738-1","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"Walt Disney World Transportation Logistics & Analytics Intern, Spring 2027","location":"Lake Buena Vista, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Lake-Buena-Vista-FL-USA\/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Spring-2027_10158253-1","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"Walt Disney World Workforce Management Industrial Engineering Intern, Spring\/Summer 2027","location":"Lake Buena Vista, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Lake-Buena-Vista-FL-USA\/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144","postedOn":"Posted Today","updatedOn":null}]
+[{"company":"CrowdStrike, Inc","title":"Network Development Engineer, IT Cloud & Infrastructure (Remote)","location":"USA - Remote","link":"https:\/\/crowdstrike.wd5.myworkdayjobs.com\/en-US\/crowdstrikecareers\/job\/USA---Remote\/Network-Development-Engineer--IT-Cloud---Infrastructure--Remote-_R29897","postedOn":"Posted Today","updatedOn":null},{"company":"Intel Corporation","title":"Process Integration and Yield Engineer PhD Intern","location":"US, Oregon, Hillsboro","link":"https:\/\/intel.wd1.myworkdayjobs.com\/en-US\/External\/job\/US-Oregon-Hillsboro\/Process-Integration-and-Yield-Engineer-PhD-Intern_JR0286268","postedOn":"Posted Today","updatedOn":null},{"company":"State Street","title":"Full Stack Software Engineer, Officer","location":"Burlington Massachusetts","link":"https:\/\/statestreet.wd1.myworkdayjobs.com\/en-US\/Global\/job\/Burlington-Massachusetts\/Full-Stack-Software-Engineer--Officer_R-796507","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"DLR Occupational Safety & Industrial Hygiene Interns, Spring 2027","location":"Anaheim, CA, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Anaheim-CA-USA\/DLR-Occupational-Safety---Industrial-Hygiene-Interns--Spring-2027_10158132","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"Disneyland Architecture Intern, Spring 2027","location":"Anaheim, CA, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Anaheim-CA-USA\/Disneyland-Architecture-Intern--Spring-2027_10158301","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"Disneyland Electrical Engineering Intern, Spring 2027","location":"Anaheim, CA, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Anaheim-CA-USA\/Disneyland-Electrical-Engineering-Intern--Spring-2027_10158423","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"Disneyland Facilities Controls Electrical Engineering Intern, Spring 2027","location":"Anaheim, CA, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Anaheim-CA-USA\/Disneyland-Facilities-Controls-Electrical-Engineering-Intern--Spring-2027_10158296","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"Disneyland Facilities Management Engineering Intern, Spring 2027","location":"Anaheim, CA, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Anaheim-CA-USA\/Disneyland-Facilities-Management-Engineering-Intern--Spring-2027_10158737","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"Disneyland Power and Facilities Electrical Engineering Intern, Spring 2027","location":"Anaheim, CA, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Anaheim-CA-USA\/Disneyland-Power-and-Facilities-Electrical-Engineering-Intern--Spring-2027_10158314","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"Disneyland Quality Engineering Intern, Fall 2026","location":"Anaheim, CA, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Anaheim-CA-USA\/Disneyland-Quality-Engineering-Intern--Fall-2026_10158416-2","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"Disneyland Strategic Sourcing Intern, Spring 2027","location":"Anaheim, CA, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Anaheim-CA-USA\/Disneyland-Strategic-Sourcing-Intern--Spring-2027_10158264-2","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"Geographic Information Systems (GIS) Intern, Spring 2027","location":"Anaheim, CA, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Anaheim-CA-USA\/Geographic-Information-Systems--GIS--Intern--Spring-2027_10158899","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"Glendale System Software Engineering Internship, Spring 2027","location":"Glendale, CA, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Glendale-CA-USA\/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"WDI Project Engineering Intern, Spring 2027","location":"Glendale, CA, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Glendale-CA-USA\/WDI-Project-Engineering-Intern--Spring-2027_10158179","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"WDI Ride Control Engineering Intern, Glendale, Spring 2027","location":"Glendale, CA, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Glendale-CA-USA\/WDI-Ride-Control-Hardware-Engineering-Intern--Spring-2027_10158186","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"WDI Show Control Hardware Intern, Glendale, Spring 2027","location":"Glendale, CA, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Glendale-CA-USA\/WDI-Show-Control-Hardware-Intern--Glendale--Spring-2027_10158467","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"WDI Show Technical Production Management Intern, Glendale, Spring 2027","location":"Glendale, CA, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Glendale-CA-USA\/WDI-Show-Technical-Production-Management-Intern--Glendale--Spring-2027_10158509","postedOn":"Posted Today","updatedOn":null}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
@@ -15,30 +15,37 @@ ERRORS_START
 [ERROR] Magna Services of America, Inc: Invalid Workday URL
 [ERROR] Aurora: Greenhouse API failed: 404
 [ERROR] boomi: Greenhouse API failed: 404
+[ERROR] Autodesk: Workday API failed: HTTP 503 - {"503":"service-unavailable"}
+[ERROR] Becton Dickinson’s Integrated Diagnostics Systems: Workday API failed: HTTP 503 - {"503":"service-unavailable"}
 [ERROR] Canonical: Greenhouse API failed: 404
 [ERROR] Cdata: Greenhouse API failed: 404
-[ERROR] Chatham Financial: Greenhouse API failed: 404
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"816F6EMT6VBJU5","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Calix: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Circle: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Chatham Financial: Greenhouse API failed: 404
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"EF3366MT77WFLP","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] BAH: Workday API failed: HTTP 503 - {"503":"service-unavailable"}
+[ERROR] Broadcom : Workday API failed: HTTP 503 - {"503":"service-unavailable"}
+[ERROR] careers: Workday API failed: HTTP 503 - {"503":"service-unavailable"}
 [ERROR] Clever: Could not extract Lever company name
-[ERROR] careers: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Calix: Workday API failed: HTTP 503 - {"503":"service-unavailable"}
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
-[ERROR] cadence: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Becton Dickinson’s Integrated Diagnostics Systems: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] CMU: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"CEB303MT77WU6I","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Comcast : Workday API failed: HTTP 410 - {"errorCode":"ERR_TENANT_MIGRATED","errorCaseId":"B059C5MT77WUR0","httpStatus":410,"message":"","messageParams":{"outageUrl":"https://wd5.myworkday.com/wday/drs/outage?t\u003dcomcast\u0026s\u003dcomcast_careers"}}
 [ERROR] Dapper Labs: Lever API failed: https://api.lever.co/v0/postings/axiomzen?mode=json - 404
 [ERROR] Demandbase : Greenhouse API failed: 404
-[ERROR] CMU: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"A57616MT6VBT4B","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Digital.ai: Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
-[ERROR] Comcast : Workday API failed: HTTP 410 - {"errorCode":"ERR_TENANT_MIGRATED","errorCaseId":"F95D7BMT6VBU7C","httpStatus":410,"message":"","messageParams":{"outageUrl":"https://wd5.myworkday.com/wday/drs/outage?t\u003dcomcast\u0026s\u003dcomcast_careers"}}
+[ERROR] cadence: Workday API failed: HTTP 503 - {"503":"service-unavailable"}
+[ERROR] 566 DEPARTMENT OF TOURISM AND RECREATION: Workday API failed: HTTP 520 - <!DOCTYPE html>
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"A85E17MT6VC0FR","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Circle: Workday API failed: HTTP 503 - {"503":"service-unavailable"}
+[ERROR] athenahealth : Workday API failed: HTTP 520 - <!DOCTYPE html>
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"97DA46MT77X8CC","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
+[ERROR] Concentrix: Workday API failed: HTTP 503 - {"503":"service-unavailable"}
 [ERROR] Fortra : Greenhouse API failed: 404
 [ERROR] Funnel: Breezy API failed: 404
 [ERROR] Galileo Financial Technologies (Sofi): Greenhouse API failed: 404
+[ERROR] flir: Workday API failed: HTTP 503 - {"503":"service-unavailable"}
 [ERROR] Grammarly : Greenhouse API failed: 404
 [ERROR] Groq: Greenhouse API failed: 404
 [ERROR] Handshake: Greenhouse API failed: 404
@@ -47,47 +54,43 @@ ERRORS_START
 [ERROR] Kikoff: Ashby API failed - HTTP 404: Not Found
 [ERROR] Kobie: Greenhouse API failed: 404
 [ERROR] Kodiak Robotics: Lever API failed: https://api.lever.co/v0/postings/kodiak?mode=json - 404
+[ERROR] KLA: Workday API failed: HTTP 500 - <!doctype html><html lang="en"><head><title>HTTP Status 500 – Internal Server Error</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 500 – Internal Server Error</h1></body></html>
+[ERROR] Genesys: Workday API failed: HTTP 504 - {"504":"timeout"}
 [ERROR] Modernizing Medicine: Greenhouse API failed: 404
+[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"3B81EAMT77YVQ9","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Notion: Greenhouse API failed: 404
-[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"024CFEMT6VDN3E","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Otis: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"24A140MT6VDXNC","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] genpt: Workday API failed: HTTP 503 - {"503":"service-unavailable"}
 [ERROR] Perplexity AI: Greenhouse API failed: 404
+[ERROR] Otis: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"C52AB5MT77Z6K1","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"DFE6B0MT6VE52U","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] MKSCareersUniversity: Workday API failed: HTTP 500 - <!doctype html><html lang="en"><head><title>HTTP Status 500 – Internal Server Error</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 500 – Internal Server Error</h1></body></html>
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"EF3366MT77ZHIP","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Raptor Maps: Lever API failed: https://api.lever.co/v0/postings/RaptorMaps?mode=json - 404
 [ERROR] Relativity Space: Greenhouse API failed: 404
-[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"F03839MT6VEBJP","httpStatus":403,"message":"permission denied","messageParams":{}}
+[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"5BB180MT77ZL7S","httpStatus":403,"message":"permission denied","messageParams":{}}
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
-[ERROR] Shipt : Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] searchLFN: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Sentry : Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Rakuten Marketing LLC: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Root: Workday API failed: HTTP 500 - <!doctype html><html lang="en"><head><title>HTTP Status 500 – Internal Server Error</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 500 – Internal Server Error</h1></body></html>
+[ERROR] Robert Half : Workday API failed: HTTP 500 - <!doctype html><html lang="en"><head><title>HTTP Status 500 – Internal Server Error</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 500 – Internal Server Error</h1></body></html>
+[ERROR] Rakuten : Workday API failed: HTTP 500 - <!doctype html><html lang="en"><head><title>HTTP Status 500 – Internal Server Error</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 500 – Internal Server Error</h1></body></html>
 [ERROR] Skydio: Greenhouse API failed: 404
-[ERROR] Simons Foundation: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Rakuten : Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] SabreJobs: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Snap: Invalid Workday URL
 [ERROR] Stitch Fix : Greenhouse API failed: 404
 [ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
 [ERROR] Strong Holdim: Greenhouse API failed: 404
 [ERROR] Tandem: Ashby API failed - HTTP 404: Not Found
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] Snap: Invalid Workday URL
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"07B6C2MT6VFONL","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] State Street: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Sony AI America Inc: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"7E2843MT6VFR4Q","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"A2230BMT7816KV","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"2BE093MT78190F","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] TRM labs: Greenhouse API failed: 404
-[ERROR] Tricentis : Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] The Toro: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Vimeo: Greenhouse API failed: 404
-[ERROR] Walmart: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"F95D7BMT6VG2XE","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Verily: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Tricentis : Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] USAA: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] VSP: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"514AF9MT6VGAJ9","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Walmart: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"EADE34MT781Y0F","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"788758MT781ZHK","httpStatus":422,"message":"","messageParams":{}}
 ERRORS_END
