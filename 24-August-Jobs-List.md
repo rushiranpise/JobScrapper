@@ -4,8 +4,142 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-24 17:56:53](#batch-2026-08-24-17-56-53)
 - [Batch at 2026-08-24 11:37:37](#batch-2026-08-24-11-37-37)
 - [Batch at 2026-08-24 05:40:46](#batch-2026-08-24-05-40-46)
+
+<h3 id='batch-2026-08-24-17-56-53'>🕐 Batch at 2026-08-24 17:56:53</h3>
+
+📊 **Total jobs in this batch: 14**
+
+**Per company:**
+- ASMLEXT1: 1 job
+- Applied Materials: 1 job
+- BAH: 2 jobs
+- Concentrix: 1 job
+- Esri: 1 job
+- Merck & Co.: 1 job
+- spacex: 1 job
+- Stripe: 1 job
+- The Walt Disney Company: 1 job
+- Travellers: 1 job
+- Voya: 1 job
+- Waymo: 1 job
+- WEX: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>J-00346826 System Integration and Test Engineer CWW Front End Nights or CWW Back End Nights</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/J-00346826-System-Integration-and-Test-Engineer-CWW-Front-End-Nights-or-CWW-Back-End-Nights_J-00350868'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Physics AI Scientist IV</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Physics-AI-Scientist-III_R2626857'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Monterey, CA</td>
+      <td>Data Visualization Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Monterey-CA/Data-Visualization-Engineer_R0247761'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Release Train Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Release-Train-Engineer_R0247923'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>USA Frisco, TX</td>
+      <td>React Web Developer</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/USA-Frisco-TX/React-Web-Developer_R1757708'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Training Representative </td>
+      <td><a href='https://www.esri.com/careers/5168790007?gh_jid=5168790007'>Apply</a></td>
+      <td>Aug 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Merck & Co.</b></td>
+      <td>USA - New Jersey - Rahway</td>
+      <td>Associate Specialist, Clinical Data Management, Hybrid</td>
+      <td><a href='https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Specialist--Clinical-Data-Management--Hybrid_R409501-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Dimensional Inspector (CMM Programmer)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8741932002?gh_jid=8741932002'>Apply</a></td>
+      <td>Aug 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>SEA, SF, NY, Toronto</td>
+      <td>Backend Engineer, Developer & End-user Experience Platform</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=7476555'>Apply</a></td>
+      <td>Mar 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Orlando, FL, USA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Software-Engineer_10157986'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Travellers</b></td>
+      <td>CT - Hartford</td>
+      <td>Data Engineer II - MLOps Engineer</td>
+      <td><a href='https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Data-Engineer-II---MLOps-Engineer_R-51996-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Voya</b></td>
+      <td>United States-Remote</td>
+      <td>Summer 2027 Actuarial Intern</td>
+      <td><a href='https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/United-States-Remote/Summer-2027-Actuarial-Intern_JR0033152'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA </td>
+      <td>Software Engineer</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8152556'>Apply</a></td>
+      <td>Aug 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>WEX</b></td>
+      <td>US - Remote</td>
+      <td>PhD Intern, AI/ML/NLP Engineer</td>
+      <td><a href='https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/PhD-Intern--AI-ML-NLP-Engineer_R22834'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-24-11-37-37'>🕐 Batch at 2026-08-24 11:37:37</h3>
 
@@ -299,7 +433,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-24-05-40-46'>🕐 Batch at 2026-08-24 05:40:46</h3>
 
 📊 **Total jobs in this batch: 17**
