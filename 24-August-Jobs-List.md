@@ -4,9 +4,63 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-24 23:41:00](#batch-2026-08-24-23-41-00)
 - [Batch at 2026-08-24 17:56:53](#batch-2026-08-24-17-56-53)
 - [Batch at 2026-08-24 11:37:37](#batch-2026-08-24-11-37-37)
 - [Batch at 2026-08-24 05:40:46](#batch-2026-08-24-05-40-46)
+
+<h3 id='batch-2026-08-24-23-41-00'>🕐 Batch at 2026-08-24 23:41:00</h3>
+
+📊 **Total jobs in this batch: 4**
+
+**Per company:**
+- Citi: 1 job
+- High Metric: 1 job
+- The Walt Disney Company: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex Analista KYC PLD AML PyME CDMX</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-KYC-PLD-AML-PyME-CDMX_26988619'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>High Metric</b></td>
+      <td>USA - Remote</td>
+      <td>Technology Trainer – Anthropic Enablement-Western US</td>
+      <td><a href='https://www.newrocket.com/careers/job?gh_jid=6161008004&gh_jid=6161008004'>Apply</a></td>
+      <td>Aug 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Lake Buena Vista, FL, USA</td>
+      <td>Attractions Operations and Sustainment Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Attractions-Operations-and-Sustainment-Intern--Spring-2027_10157953'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Lake Buena Vista, FL, USA</td>
+      <td>Park Operations Project Development Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Park-Operations-Project-Development-Intern--Spring-2027_10158439'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-24-17-56-53'>🕐 Batch at 2026-08-24 17:56:53</h3>
 
@@ -140,7 +194,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-24-11-37-37'>🕐 Batch at 2026-08-24 11:37:37</h3>
 
 📊 **Total jobs in this batch: 36**
@@ -432,8 +485,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-08-24-05-40-46'>🕐 Batch at 2026-08-24 05:40:46</h3>
+---<h3 id='batch-2026-08-24-05-40-46'>🕐 Batch at 2026-08-24 05:40:46</h3>
 
 📊 **Total jobs in this batch: 17**
 
