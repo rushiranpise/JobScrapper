@@ -4,8 +4,70 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-25 23:42:12](#batch-2026-08-25-23-42-12)
 - [Batch at 2026-08-25 18:00:13](#batch-2026-08-25-18-00-13)
 - [Batch at 2026-08-25 11:36:41](#batch-2026-08-25-11-36-41)
+
+<h3 id='batch-2026-08-25-23-42-12'>🕐 Batch at 2026-08-25 23:42:12</h3>
+
+📊 **Total jobs in this batch: 5**
+
+**Per company:**
+- Broadcom : 1 job
+- General Motors LLC: 2 jobs
+- Micron: 1 job
+- The Walt Disney Company: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>China-Shanghai-Zhangjiang Hi Tech</td>
+      <td>Application Engineer</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/China-Shanghai-Zhangjiang-Hi-Tech/Application-Engineer_R026920-4'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Port Melbourne, Victoria, Australia</td>
+      <td>Planning Co-Op – Portfolio Planning & Dealer Development</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Port-Melbourne-Victoria-Australia/Planning-Co-Op---Portfolio-Planning---Dealer-Development_JR-202618135'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Dandenong, Victoria, Australia</td>
+      <td>HSPO Warehouse Operations & Logistics Intern</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Dandenong-Victoria-Australia/HSPO-Warehouse-Operations---Logistics-Intern_JR-202617095'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>New College Grad - Wet Etch/CMP/Bond Shift Engineer </td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---Wet-Etch-CMP-Bond-Shift-Engineer-_JR110062'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Lake Buena Vista, FL, USA</td>
+      <td>Food & Beverage and Merchandise Stylized Photography Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Food---Beverage-and-Merchandise-Stylized-Photography-Intern--Spring-2027_10159304'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-25-18-00-13'>🕐 Batch at 2026-08-25 18:00:13</h3>
 
@@ -250,7 +312,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-25-11-36-41'>🕐 Batch at 2026-08-25 11:36:41</h3>
 
 📊 **Total jobs in this batch: 34**
