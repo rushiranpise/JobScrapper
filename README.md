@@ -4,8 +4,185 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-26 23:35:01](#batch-2026-08-26-23-35-01)
 - [Batch at 2026-08-26 12:47:39](#batch-2026-08-26-12-47-39)
 - [Batch at 2026-08-26 05:44:22](#batch-2026-08-26-05-44-22)
+
+<h3 id='batch-2026-08-26-23-35-01'>🕐 Batch at 2026-08-26 23:35:01</h3>
+
+📊 **Total jobs in this batch: 20**
+
+**Per company:**
+- Atlas Sand: 1 job
+- BAH: 2 jobs
+- Citi: 1 job
+- Discord: 1 job
+- GE Healthcare: 1 job
+- genpt: 1 job
+- High Metric: 5 jobs
+- homedepot: 1 job
+- Micron: 1 job
+- Ramp: 1 job
+- spacex: 2 jobs
+- Stripe: 1 job
+- Wyetech LLC: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Atlas Sand</b></td>
+      <td>Austin TX</td>
+      <td>AI Developer </td>
+      <td><a href='https://job-boards.greenhouse.io/atlassand/jobs/8753225002'>Apply</a></td>
+      <td>Aug 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Operational Technology AI Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Operational-Technology-AI-Engineer_R0247527'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Alexandria, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0248011-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Fremont California United States</td>
+      <td>Part-Time Teller (20 Hours), Bilingual Mandarin Speaking Preferred,  Fremont Warm Springs Branch</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Fremont-California-United-States/Part-Time-Teller--20-Hours---Bilingual-Mandarin-Speaking-Preferred---Fremont-Warm-Springs-Branch_26989746'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Discord</b></td>
+      <td>San Francisco Bay Area or Remote (U.S.)</td>
+      <td>Oracle ERP Fusion Technical Developer</td>
+      <td><a href='https://job-boards.greenhouse.io/discord/jobs/8627078002'>Apply</a></td>
+      <td>Jul 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>GE Healthcare</b></td>
+      <td>WA07-01-Bellevue-1100-112th Avenue NE</td>
+      <td>AI Engineer</td>
+      <td><a href='https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/WA07-01-Bellevue-1100-112th-Avenue-NE/AI-Engineer_R4045539-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Lakeland, FL, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Lakeland-FL-USA/Material-Handler-I_R26_0000027875'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>High Metric</b></td>
+      <td>USA - Remote</td>
+      <td>AI Platform Architect – Anthropic - US East</td>
+      <td><a href='https://www.newrocket.com/careers/job?gh_jid=6166166004&gh_jid=6166166004'>Apply</a></td>
+      <td>Aug 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>High Metric</b></td>
+      <td>USA - Remote</td>
+      <td>AI Platform Engineer-Anthropic-US East</td>
+      <td><a href='https://www.newrocket.com/careers/job?gh_jid=6166148004&gh_jid=6166148004'>Apply</a></td>
+      <td>Aug 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>High Metric</b></td>
+      <td>USA - Remote</td>
+      <td>AI Platform Engineer-Anthropic-US West</td>
+      <td><a href='https://www.newrocket.com/careers/job?gh_jid=6166144004&gh_jid=6166144004'>Apply</a></td>
+      <td>Aug 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>High Metric</b></td>
+      <td>USA - Remote</td>
+      <td>Forward Deployed AI Engineer/Anthropic – Data Intelligence-US East</td>
+      <td><a href='https://www.newrocket.com/careers/job?gh_jid=6165089004&gh_jid=6165089004'>Apply</a></td>
+      <td>Aug 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>High Metric</b></td>
+      <td>USA - Remote</td>
+      <td>Forward Deployed AI Engineer/Anthropic – Data Intelligence-US West</td>
+      <td><a href='https://www.newrocket.com/careers/job?gh_jid=6164705004&gh_jid=6164705004'>Apply</a></td>
+      <td>Aug 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>GEORGIA - VIRTUAL - GA01</td>
+      <td>Data Engineer, BlackLocus division</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Data-Engineer--BlackLocus-division_Req190946'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Intern - ADV DRAM Process Integration Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---ADV-DRAM-Process-Integration-Engineer_JR109595'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Ramp</b></td>
+      <td>New York, NY (HQ)</td>
+      <td>AI Solutions Engineer</td>
+      <td><a href='https://jobs.ashbyhq.com/ramp/8efd3a0a-fc66-46e2-9415-bffba10e2919'>Apply</a></td>
+      <td>Aug 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>IT Network Infrastructure Specialist</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8751830002?gh_jid=8751830002'>Apply</a></td>
+      <td>Aug 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Engineer, Flight Software (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8752581002?gh_jid=8752581002'>Apply</a></td>
+      <td>Aug 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>SF, NY, Remote</td>
+      <td>Specialist Solutions Architect, Data</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=8144262'>Apply</a></td>
+      <td>Aug 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Cloud Systems Administrator 2</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/55bc36e7-7832-465b-8942-38fa3981a257'>Apply</a></td>
+      <td>2026-05-05 15:21:01</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer, Wireless Technologies</td>
+      <td><a href='https://jobs.lever.co/zoox/7522162e-a518-444e-8fe7-49b8b45bbdd3'>Apply</a></td>
+      <td>2026-08-26 20:04:06</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-26-12-47-39'>🕐 Batch at 2026-08-26 12:47:39</h3>
 
@@ -390,7 +567,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-26-05-44-22'>🕐 Batch at 2026-08-26 05:44:22</h3>
 
 📊 **Total jobs in this batch: 4**
