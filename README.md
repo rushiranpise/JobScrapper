@@ -4,8 +4,100 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-28 22:09:08](#batch-2026-08-28-22-09-08)
 - [Batch at 2026-08-28 14:45:06](#batch-2026-08-28-14-45-06)
 - [Batch at 2026-08-28 01:25:46](#batch-2026-08-28-01-25-46)
+
+<h3 id='batch-2026-08-28-22-09-08'>🕐 Batch at 2026-08-28 22:09:08</h3>
+
+📊 **Total jobs in this batch: 9**
+
+**Per company:**
+- Broadcom : 1 job
+- NVIDIAExternalCareerSite: 1 job
+- Roblox: 1 job
+- SharkNinja: 1 job
+- Warner Bros: 1 job
+- Zipline: 4 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-TX Plano Legacy Drive Suite 700</td>
+      <td>Mainframe Software Engineer</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Mainframe-Cybersecurity-Software-Engineer--ICB-5-_R026564-4'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIAExternalCareerSite</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Product Engineer - Datacenter</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Engineer---Datacenter_JR2023146'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>San Mateo, CA, United States</td>
+      <td>Software Engineer, Economy Platform</td>
+      <td><a href='https://careers.roblox.com/jobs/8060254?gh_jid=8060254'>Apply</a></td>
+      <td>Aug 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SharkNinja</b></td>
+      <td>Needham, MA, United States</td>
+      <td>Associate Product Developer - Corded/Cordless</td>
+      <td><a href='https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4707165006'>Apply</a></td>
+      <td>Aug 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Warner Bros</b></td>
+      <td>GA Atlanta 1050 Techwood Drive NW</td>
+      <td>Associate Producer, CNN International</td>
+      <td><a href='https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Associate-Producer--CNN-International_R000107786'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Electrical Project Engineer Intern (Spring 2027)</td>
+      <td><a href='https://www.zipline.com/open-roles?gh_jid=7980874003'>Apply</a></td>
+      <td>Aug 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Engineering Technician, Powertrain</td>
+      <td><a href='https://www.zipline.com/open-roles?gh_jid=7978929003'>Apply</a></td>
+      <td>Aug 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Maps Intern (Summer 2027)</td>
+      <td><a href='https://www.zipline.com/open-roles?gh_jid=7980866003'>Apply</a></td>
+      <td>Aug 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Solder Engineering Technician, Powertrain</td>
+      <td><a href='https://www.zipline.com/open-roles?gh_jid=7978932003'>Apply</a></td>
+      <td>Aug 28, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-28-14-45-06'>🕐 Batch at 2026-08-28 14:45:06</h3>
 
@@ -511,7 +603,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-28-01-25-46'>🕐 Batch at 2026-08-28 01:25:46</h3>
 
 📊 **Total jobs in this batch: 15**
