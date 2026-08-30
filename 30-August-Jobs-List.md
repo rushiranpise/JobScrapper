@@ -4,7 +4,38 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-30 13:28:00](#batch-2026-08-30-13-28-00)
 - [Batch at 2026-08-30 04:06:19](#batch-2026-08-30-04-06-19)
+
+<h3 id='batch-2026-08-30-13-28-00'>🕐 Batch at 2026-08-30 13:28:00</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Snowflake: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>DE-Berlin-Trion Building</td>
+      <td>Software Engineer - Dynamic Tables</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/99dfc810-9487-4ac1-91a8-50acefd05bae'>Apply</a></td>
+      <td>Aug 30, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-30-04-06-19'>🕐 Batch at 2026-08-30 04:06:19</h3>
 
@@ -56,4 +87,3 @@
 <table>
 
 ---
-
