@@ -4,8 +4,160 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-08-31 20:02:01](#batch-2026-08-31-20-02-01)
 - [Batch at 2026-08-31 15:22:28](#batch-2026-08-31-15-22-28)
 - [Batch at 2026-08-31 05:27:29](#batch-2026-08-31-05-27-29)
+
+<h3 id='batch-2026-08-31-20-02-01'>🕐 Batch at 2026-08-31 20:02:01</h3>
+
+📊 **Total jobs in this batch: 17**
+
+**Per company:**
+- Archer 56: 1 job
+- Applied Materials: 2 jobs
+- BAH: 5 jobs
+- Citi: 2 jobs
+- Micron: 1 job
+- OpenAI: 1 job
+- Salesforce: 1 job
+- Stripe: 2 jobs
+- State Street: 1 job
+- Truveta: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Archer 56</b></td>
+      <td>San Jose, California, United States</td>
+      <td>Powertrain Architect — Hybrid-Electric Propulsion</td>
+      <td><a href='https://job-boards.greenhouse.io/archer56/jobs/7982301003'>Apply</a></td>
+      <td>Aug 31, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>New College Grad - Process Engineer - MS/PhD (Winter 2026)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/New-College-Grad---Process-Engineer---MS-PhD--Winter-2026-_R2627711'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Benicia,CA</td>
+      <td>Applications Engineer – Semiconductor 3D X-ray Solutions</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/BeniciaCA/Senior-Applications-Engineer---Semiconductor-3D-X-ray-Solutions_R2620290'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Winchester, VA</td>
+      <td>Python Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Winchester-VA/Python-Developer_R0248568'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Winchester, VA</td>
+      <td>C# Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Winchester-VA/C--Developer_R0248567'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Enterprise IT AI Solution Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-IT-AI-Solution-Architect_R0248343'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Winchester, VA</td>
+      <td>Java Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Winchester-VA/Java-Developer_R0248566'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Winchester, VA</td>
+      <td>Web Application Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Winchester-VA/Web-Application-Developer_R0248558'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex - Apps Dev Owner Intmd Programmer Analyst - C11</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Apps-Dev-Owner-Intmd-Programmer-Analyst---C11_26982632'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX - Apps Dev Programmer Analyst - Officer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX---Apps-Dev-Programmer-Analyst---Officer_26987266'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Manassas, VA -  Fab 6</td>
+      <td>New College Grad - Legacy DRAM Product Yield Enhancement Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/Legacy-DRAM-Product-Yield-Enhancement-Engineer_JR110017'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenAI</b></td>
+      <td>Washington, DC</td>
+      <td>Applied AI Architect, Government</td>
+      <td><a href='https://jobs.ashbyhq.com/openai/6882c919-600e-43c8-92f9-803d4eb3bcd2'>Apply</a></td>
+      <td>Sep 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Software Engineering LMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-LMTS_JR358245'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>San Francisco, Seattle, New York City</td>
+      <td>Software Engineer, Intern (Summer or Winter)</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=8128745'>Apply</a></td>
+      <td>Aug 31, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>San Francisco, Seattle, New York</td>
+      <td>Software Engineer, New Grad</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=8128744'>Apply</a></td>
+      <td>Aug 31, 2026</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Irvine, California</td>
+      <td>Software Developer, Officer</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Irvine-California/Software-Developer--Officer_R-795395-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Truveta</b></td>
+      <td>Seattle, WA</td>
+      <td>Clinical Data Analyst (Contractor)</td>
+      <td><a href='https://job-boards.greenhouse.io/truveta/jobs/6176598004'>Apply</a></td>
+      <td>Aug 31, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-08-31-15-22-28'>🕐 Batch at 2026-08-31 15:22:28</h3>
 
@@ -654,7 +806,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-08-31-05-27-29'>🕐 Batch at 2026-08-31 05:27:29</h3>
 
 📊 **Total jobs in this batch: 9**
