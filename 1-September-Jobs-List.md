@@ -4,8 +4,352 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-01 13:29:40](#batch-2026-09-01-13-29-40)
 - [Batch at 2026-09-01 08:59:49](#batch-2026-09-01-08-59-49)
 - [Batch at 2026-09-01 04:00:49](#batch-2026-09-01-04-00-49)
+
+<h3 id='batch-2026-09-01-13-29-40'>🕐 Batch at 2026-09-01 13:29:40</h3>
+
+📊 **Total jobs in this batch: 43**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Archer 56: 1 job
+- Applied Materials: 5 jobs
+- BAH: 14 jobs
+- Bank of Montreal: 1 job
+- Core Weave: 1 job
+- DoorDash : 1 job
+- Enova: 1 job
+- flir: 1 job
+- genpt: 3 jobs
+- homedepot: 1 job
+- Jump Trading: 2 jobs
+- Merck & Co.: 1 job
+- Micron: 3 jobs
+- MOOG: 2 jobs
+- Nike: 1 job
+- Stripe: 1 job
+- spacex: 1 job
+- Travellers: 1 job
+- Vast: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Broomfield, Colorado, United States; Fort Collins, Colorado, United States</td>
+      <td>Software Engineer, Tooling</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5227588007?gh_jid=5227588007'>Apply</a></td>
+      <td>Sep 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Archer 56</b></td>
+      <td>San Jose, California, United States</td>
+      <td>Software Integration EPM</td>
+      <td><a href='https://job-boards.greenhouse.io/archer56/jobs/7593385003'>Apply</a></td>
+      <td>May 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Algorithm Developer I New College Grad- Bachelor's (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>EHS Environmental Engineer New College Grad (Bachelors - Multiple Locations)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/EHS-Environmental-Engineer-New-College-Grad--Bachelors---Multiple-Locations-_R2626245'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Project/Program Management New College Grad- Bachelor's (Austin, TX)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Project-Program-Management-New-College-Grad--Bachelor-s--Austin--TX-_R2627670'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>EHS Safety Engineer New College Grad (Bachelors - Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/EHS-Safety-Engineer-New-College-Grad--Bachelors---Santa-Clara--CA-_R2626244'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Buyer I, New College Grad- Bachelor's (Austin, TX)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Buyer-I--New-College-Grad--Bachelor-s--Austin--TX-_R2627768'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Belvoir, VA</td>
+      <td>Azure Cloud Developer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Azure-Cloud-Developer--Mid_R0248657'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dayton, OH</td>
+      <td>Software Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Software-Developer_R0248420'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Springfield, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist--Mid_R0248456'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Charlottesville, VA</td>
+      <td>Full Stack Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/Full-Stack-Developer_R0248290'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Stennis Space Center, MS</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Stennis-Space-Center-MS/Data-Scientist--Senior_R0245289'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Annapolis Junction, MD</td>
+      <td>University - 2027 Summer Games Data Scientist Intern - Annapolis Junction, MD</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Data-Scientist-Intern---Annapolis-Junction--MD_R0248408'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Walton Beach, FL</td>
+      <td>University - 2027 Summer Games Software Developer Intern - Ft. Walton Beach, FL</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Software-Developer-Intern---Ft-Walton-Beach--FL_R0248404'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Huntsville, AL</td>
+      <td>University - 2027 Summer Games Data Scientist Intern - Huntsville, AL</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/University---2027-Summer-Games-Data-Scientist-Intern---Huntsville--AL_R0248407'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Honolulu, HI</td>
+      <td>University - 2027 Summer Games, Data Scientist Intern - Honolulu, HI</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Walton Beach, FL</td>
+      <td>University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach, FL</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Annapolis Junction, MD</td>
+      <td>University - 2027 Summer Games Software Developer Intern - Annapolis Junction, MD</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0248403'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Huntsville, AL</td>
+      <td>University - 2027 Summer Games Software Developer Intern - Huntsville, AL</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Data Scientist, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist--Junior_R0248402'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0248351'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>Virtual, IL, USA</td>
+      <td>Operations & Application Support Specialist</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Virtual-IL-USA/Operations---Application-Support-Specialist_R260024811'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA</td>
+      <td>IT Systems Engineer: Cloud Infrastructure</td>
+      <td><a href='https://coreweave.com/careers/job?4709849006&board=coreweave&gh_jid=4709849006'>Apply</a></td>
+      <td>Sep 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>San Francisco, CA; Sunnyvale, CA</td>
+      <td>Software Engineer, Data and AI Platform</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/8171620'>Apply</a></td>
+      <td>Sep 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Enova</b></td>
+      <td>Chicago, IL</td>
+      <td>CashNetUSA Application Support Representative (Remote)</td>
+      <td><a href='https://job-boards.greenhouse.io/enova/jobs/8171363'>Apply</a></td>
+      <td>Sep 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Lincoln, NE</td>
+      <td>International Logistics Coordinator</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Lincoln-NE/International-Logistics-Coordinator_REQ36220-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Cloud Developer Intern</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Business Application Support Engineer Intern</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Business-Application-Support-Engineer-Intern_R26_0000029131'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Agile PMO Intern</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Agile-PMO-Intern_R26_0000029128'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>GEORGIA - VIRTUAL - GA01</td>
+      <td>Software Engineer II - Platform Reliability Engineering (Remote)</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II---Platform-Reliability-Engineering--Remote-_Req191772'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Jump Trading</b></td>
+      <td>New York or Chicago</td>
+      <td>Data Engineer</td>
+      <td><a href='https://www.jumptrading.com/hr/job?gh_jid=8171060'>Apply</a></td>
+      <td>Sep 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Jump Trading</b></td>
+      <td>Chicago or New York</td>
+      <td>Derived Data Engineer</td>
+      <td><a href='https://www.jumptrading.com/hr/job?gh_jid=8171513'>Apply</a></td>
+      <td>Sep 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Merck & Co.</b></td>
+      <td>USA - New Jersey - Rahway</td>
+      <td>Network Data Analyst (Hybrid - NJ or TX)</td>
+      <td><a href='https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/Network-Data-Analyst--Hybrid---NJ-or-TX-_R414620-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Intern - DRAM Technology DTCO & PPA Assessment Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Technology-DTCO---PPA-Assessment-Engineer_JR109582'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - ID1</td>
+      <td>Yield Enhancement Electrical Failure Analysis Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Yield-Enhancement-Electrical-Failure-Analysis-Engineer_JR109607'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - ID1</td>
+      <td>New College Grad - Shift Process Engineer ID1</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Engineer--Shift-Process_JR89035'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Torrance, CA</td>
+      <td>Intern, Actuation Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Actuation-Engineer-Intern--Fall-2026-_R-26-19755'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Torrance, CA</td>
+      <td>Actuation Engineer Intern (Summer 2027)</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Actuation-Engineer-Intern--Summer-2027-_R-26-19612'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Beaverton, Oregon</td>
+      <td>NIKE, Inc. Apparel Development, Global Apparel Materials, Undergraduate Internship</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Apparel-Development--Global-Apparel-Materials--Undergraduate-Internship_R-91228'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>San Francisco, New York City, Seattle, Chicago, US-Remote</td>
+      <td>Software Engineer, Platform Infrastructure</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=8127182'>Apply</a></td>
+      <td>Sep 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Full Stack Engineer, Flight Software</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8769729002?gh_jid=8769729002'>Apply</a></td>
+      <td>Sep 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Travellers</b></td>
+      <td>CT - Hartford</td>
+      <td>Software Engineer II (.NET, AWS)</td>
+      <td><a href='https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Software-Engineer-II--NET--AWS-_R-51262'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Vast</b></td>
+      <td>Long Beach, California, United States</td>
+      <td>Software Engineer II, Enterprise Applications</td>
+      <td><a href='https://boards.greenhouse.io/vast/jobs/4709600006?gh_jid=4709600006'>Apply</a></td>
+      <td>Sep 01, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-01-08-59-49'>🕐 Batch at 2026-09-01 08:59:49</h3>
 
@@ -271,7 +615,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-01-04-00-49'>🕐 Batch at 2026-09-01 04:00:49</h3>
 
 📊 **Total jobs in this batch: 6**
