@@ -4,9 +4,280 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-01 19:22:53](#batch-2026-09-01-19-22-53)
 - [Batch at 2026-09-01 13:29:40](#batch-2026-09-01-13-29-40)
 - [Batch at 2026-09-01 08:59:49](#batch-2026-09-01-08-59-49)
 - [Batch at 2026-09-01 04:00:49](#batch-2026-09-01-04-00-49)
+
+<h3 id='batch-2026-09-01-19-22-53'>🕐 Batch at 2026-09-01 19:22:53</h3>
+
+📊 **Total jobs in this batch: 33**
+
+**Per company:**
+- Addepar: 1 job
+- Samsung Electronics America, Inc: 1 job
+- Applied Materials: 1 job
+- BAH: 2 jobs
+- Bank of Montreal: 7 jobs
+- Formlabs: 3 jobs
+- General Motors LLC: 5 jobs
+- genpt: 3 jobs
+- homedepot: 1 job
+- KLA: 1 job
+- Merck & Co.: 1 job
+- Micron: 1 job
+- NVIDIA: 2 jobs
+- Ridgeline : 1 job
+- Salesforce: 1 job
+- spacex: 1 job
+- Verkada : 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Addepar</b></td>
+      <td>New York, NY</td>
+      <td>Software Engineer - Platform Integration</td>
+      <td><a href='https://job-boards.greenhouse.io/addepar1/jobs/8765252002'>Apply</a></td>
+      <td>Sep 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>1530 FM 973 Taylor, TX, USA</td>
+      <td>Experienced Technical Training Coordinator</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Experienced-Technical-Training-Coordinator_R120222'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Chandler,AZ</td>
+      <td>Application Engineer III (E3)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/ChandlerAZ/Application-Engineer-III--E3-_R2622654-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Suffolk, VA</td>
+      <td>Software Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Suffolk-VA/Software-Developer_R0248463'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Suffolk, VA</td>
+      <td>Software Developer and Help Desk Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Suffolk-VA/Software-Developer-and-Help-Desk-Specialist_R0248460'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>Tampa, FL, USA</td>
+      <td>Credit Analyst Internship - Tampa, FL (Summer 2027)</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Tampa-FL-USA/Credit-Analyst-Internship---Tampa--FL--Summer-2027-_R260025783'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>Seattle, WA, USA</td>
+      <td>Credit Analyst Internship - Seattle, WA (Summer 2027)</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Seattle-WA-USA/Credit-Analyst-Internship---Seattle--WA--Summer-2027-_R260025784-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>Phoenix, AZ, USA</td>
+      <td>Credit Analyst Internship - Phoenix, AZ (Summer 2027)</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Phoenix-AZ-USA/Credit-Analyst-Internship---Phoenix--AZ--Summer-2027-_R260025780'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>Green Bay, WI, USA</td>
+      <td>Credit Analyst Internship - Green Bay, WI (Summer 2027)</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Green-Bay-WI-USA/Credit-Analyst-Internship---Green-Bay--WI--Summer-2027-_R260025761'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>Chicago, IL, USA</td>
+      <td>Credit Analyst Internship - Chicago, IL (Summer 2027)</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Credit-Analyst-Internship---Chicago--IL--Summer-2027-_R260025630-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>Atlanta, GA, USA</td>
+      <td>Credit Analyst Internship - Atlanta, GA (Summer 2027)</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Atlanta-GA-USA/Credit-Analyst-Internship---Atlanta--GA--Summer-2027-_R260025599'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Credit Analyst Internship - San Francisco, CA (Summer 2027)</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/San-Francisco-CA-USA/Credit-Analyst-Internship---San-Francisco--CA--Summer-2027-_R260025782'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Hardware R&D Engineering Intern (Winter/Spring 2027)</td>
+      <td><a href='https://careers.formlabs.com/job/8172226/apply/?gh_jid=8172226'>Apply</a></td>
+      <td>Sep 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Hardware Systems Integration Intern (Winter/Spring 2027)</td>
+      <td><a href='https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004'>Apply</a></td>
+      <td>Sep 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Print Optimization Intern (Winter/Spring 2027)</td>
+      <td><a href='https://careers.formlabs.com/job/8172256/apply/?gh_jid=8172256'>Apply</a></td>
+      <td>Sep 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>2027 Summer Intern – Global Manufacturing Electrical & SDV</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Manufacturing-Electrical---SDV_JR-202619352'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>2027 Summer Intern - Manufacturing Engineering— Global Propulsion Systems</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering--Global-Propulsion-Systems_JR-202619351'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>2027 Summer Intern – Manufacturing Engineering Global Automation</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>2027 Summer Intern – Manufacturing Engineering General Assembly</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-General-Assembly_JR-202619346'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>2027 Summer Intern – Global Workplace Safety (Ergonomics)</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Workplace-Safety--Ergonomics-_JR-202619337'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Platform Engineering Intern</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Platform-Engineering-Intern_R26_0000029141'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Software Developer Intern</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000029140'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Enterprise Intelligence Intern</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Enterprise-Intelligence-Intern_R26_0000029138'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>GEORGIA - VIRTUAL - GA01</td>
+      <td>Software Engineer II - Reliability Engineering Tooling (Remote)</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II---Reliability-Engineering-Tooling--Remote-_Req192135'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Ann Arbor, MI</td>
+      <td>AI Software Engineer - Operations</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/AI-Software-Engineer---Operations_2640067-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Merck & Co.</b></td>
+      <td>USA - Pennsylvania - West Point</td>
+      <td>Complaints Specialist, Quality</td>
+      <td><a href='https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---West-Point/Complaints-Specialist--Quality_R415336'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>New College Grad - Engineer, DPG Compute PE Y/Q</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---Engineer--DPG-Compute-PE-Y-Q_JR106445'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Applied Systems Engineering Rotation Engineer - New College Graduate 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Systems-Engineering-Rotation-Engineer---New-College-Graduate-2026_JR2024713'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>System Software Engineer, Performance - CUDA Driver</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Performance---CUDA-Driver_JR2024918'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Ridgeline </b></td>
+      <td>San Ramon, CA; Reno, NV</td>
+      <td>Custodian Data Operations Analyst</td>
+      <td><a href='https://boards.greenhouse.io/ridgeline/jobs/7983848003?gh_jid=7983848003'>Apply</a></td>
+      <td>Sep 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Software Engineering PMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-PMTS_JR356125'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Cape Canaveral, FL</td>
+      <td>IT Network Infrastructure Technician (Weekend Shift)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8771106002?gh_jid=8771106002'>Apply</a></td>
+      <td>Sep 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Verkada </b></td>
+      <td>San Mateo, CA United States</td>
+      <td>Hardware Engineer (Winter Co-op)</td>
+      <td><a href='https://job-boards.greenhouse.io/verkada/jobs/4321158007'>Apply</a></td>
+      <td>Mar 20, 2024</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-01-13-29-40'>🕐 Batch at 2026-09-01 13:29:40</h3>
 
@@ -350,7 +621,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-01-08-59-49'>🕐 Batch at 2026-09-01 08:59:49</h3>
 
 📊 **Total jobs in this batch: 33**
@@ -614,8 +884,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-09-01-04-00-49'>🕐 Batch at 2026-09-01 04:00:49</h3>
+---<h3 id='batch-2026-09-01-04-00-49'>🕐 Batch at 2026-09-01 04:00:49</h3>
 
 📊 **Total jobs in this batch: 6**
 
