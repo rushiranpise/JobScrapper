@@ -4,7 +4,131 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-02 08:52:21](#batch-2026-09-02-08-52-21)
 - [Batch at 2026-09-02 03:26:43](#batch-2026-09-02-03-26-43)
+
+<h3 id='batch-2026-09-02-08-52-21'>🕐 Batch at 2026-09-02 08:52:21</h3>
+
+📊 **Total jobs in this batch: 13**
+
+**Per company:**
+- Motorola Solutions, Inc: 1 job
+- BAH: 1 job
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- Databricks: 1 job
+- Enova: 2 jobs
+- genpt: 3 jobs
+- Intel Corporation: 1 job
+- Morgan Stanley: 1 job
+- The Toro: 1 job
+- The Walt Disney Company: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Washington DC Remote Work, More...</td>
+      <td>CAD/RMS System Administrator - Internship</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Washington-DC-Remote-Work/CAD-RMS-System-Administrator---Internship_R67897'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Suffolk, VA</td>
+      <td>Model and Simulation Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Suffolk-VA/Model-and-Simulation-Software-Engineer_R0248517'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA NJ - Franklin Lakes</td>
+      <td>Data & AI Architect – BD Excellence (BDE) Office</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Data---AI-Architect---BD-Excellence--BDE--Office_R-554337-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Databricks</b></td>
+      <td>Maryland; Virginia; Washington, D.C.</td>
+      <td>AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector</td>
+      <td><a href='https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002'>Apply</a></td>
+      <td>Aug 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Enova</b></td>
+      <td>Chicago, IL</td>
+      <td>Loan Application Support Supervisor (Hybrid)</td>
+      <td><a href='https://job-boards.greenhouse.io/enova/jobs/8171342'>Apply</a></td>
+      <td>Sep 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Enova</b></td>
+      <td>South Jordan, UT</td>
+      <td>Loan Application Support Supervisor (Hybrid)</td>
+      <td><a href='https://job-boards.greenhouse.io/enova/jobs/8173721'>Apply</a></td>
+      <td>Sep 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Web Developer Intern</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Web-Developer-Intern_R26_0000029238'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Software Engineer - QA Analyst Intern</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029236'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Software Engineer - QA Analyst Intern</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029235'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Quantum Error Correction Software Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Quantum-Error-Correction-Software-Engineer_JR0286851'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>Alpharetta, Georgia, United States of America</td>
+      <td>Associate, Software Engineer</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-Georgia-United-States-of-America/Associate--Software-Engineer_JR036749'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Iron Mountain, MI</td>
+      <td>Assembler Trainee, B-Shift - BOSS Snowplow</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Iron-Mountain-MI/Assembler-Trainee--B-Shift---BOSS-Snowplow_JR17036'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Glendale, CA, USA</td>
+      <td>Metadata Tagger</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Metadata-Tagger_10159921-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-02-03-26-43'>🕐 Batch at 2026-09-02 03:26:43</h3>
 
@@ -89,4 +213,3 @@
 <table>
 
 ---
-
