@@ -4,9 +4,206 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-02 19:29:48](#batch-2026-09-02-19-29-48)
 - [Batch at 2026-09-02 13:29:09](#batch-2026-09-02-13-29-09)
 - [Batch at 2026-09-02 08:52:21](#batch-2026-09-02-08-52-21)
 - [Batch at 2026-09-02 03:26:43](#batch-2026-09-02-03-26-43)
+
+<h3 id='batch-2026-09-02-19-29-48'>🕐 Batch at 2026-09-02 19:29:48</h3>
+
+📊 **Total jobs in this batch: 23**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- Allstate: 1 job
+- BAH: 3 jobs
+- Broadcom : 1 job
+- Formlabs: 1 job
+- General Motors LLC: 1 job
+- genpt: 1 job
+- Intel Corporation: 1 job
+- MOOG: 1 job
+- spacex: 1 job
+- SRK Supplylogix LLC: 7 jobs
+- Waymo: 1 job
+- Zipline: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Auburn Hills, Michigan, United States</td>
+      <td>Junior Interior Trim Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5229274007'>Apply</a></td>
+      <td>Sep 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - NY (Remote)</td>
+      <td>Field Auto Appraiser - Queens, NY</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---NY-Remote/Field-Auto-Appraiser---Queens--NY_R34356'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0248609'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Full Stack Signal Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Full-Stack-Signal-Software-Engineer_R0248599'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Digital Signal Processing Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Digital-Signal-Processing-Software-Engineer_R0248597'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-TX Plano Legacy Drive Suite 700</td>
+      <td>Solution Architect, Broadcom Software</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Solution-Architect--Broadcom-Software_R027016'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Global Sourcing Intern (Winter/Spring 2027)</td>
+      <td><a href='https://careers.formlabs.com/job/8161780/apply/?gh_jid=8161780'>Apply</a></td>
+      <td>Sep 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>2027 Summer Intern – Manufacturing Engineering – Body Center</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering---Body-Center_JR-202619475'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Brisbane Airport, Queensland, Australia</td>
+      <td>CRM Admin & Data Steward - GPC Asia Pacific - Brisbane</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Brisbane-Airport-Queensland-Australia/CRM-Operations-Coordinator---GPC-Asia-Pacific---Brisbane_R26_0000015547'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Module Engineering Undergraduate Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-Undergraduate-Intern_JR0286875'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Phoenix, AZ</td>
+      <td>Material handling and Warehousing</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Phoenix-AZ/Material-handling-and-Warehousing_R-26-19890'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>Site Reliability Engineer (Manufacturing Infrastructure) </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8776746002?gh_jid=8776746002'>Apply</a></td>
+      <td>Sep 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, OH, Columbus</td>
+      <td>Data Analyst Intern - Summer 2027</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-OH-Columbus/Data-Analyst-Intern---Summer-2027_JR0150844'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, TX, Irving</td>
+      <td>Pharmacy Solutions Intern - Summer 2027</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Pharmacy-Solutions-Intern---Summer-2027_JR0152252'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, CO, Longmont</td>
+      <td>Software Installation & IT Support Intern - Summer 2027</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-CO-Longmont/Software-Installation---IT-Support-Intern---Summer-2027_JR0152304'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, CO, Longmont</td>
+      <td>Software Engineer Intern - Summer 2027</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, TX, Irving</td>
+      <td>Software Development Intern - Summer 2027</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, CO, Longmont</td>
+      <td>Software Engineer Intern - Summer 2027</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152742'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, TX, Remote</td>
+      <td>Health Systems Optimization Intern - Summer 2027</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Remote/Health-Systems-Optimization-Intern---Summer-2027_JR0152892'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, California, USA</td>
+      <td>Data Infra Engineer </td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8171214'>Apply</a></td>
+      <td>Sep 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Launch & Scale Intern (Spring 2027)</td>
+      <td><a href='https://www.zipline.com/open-roles?gh_jid=7984998003'>Apply</a></td>
+      <td>Sep 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Launch & Scale Intern (Summer 2027)</td>
+      <td><a href='https://www.zipline.com/open-roles?gh_jid=7985004003'>Apply</a></td>
+      <td>Sep 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>Dallas-Fort Worth, Texas, USA</td>
+      <td>Partner Success Intern (Summer 2027)</td>
+      <td><a href='https://www.zipline.com/open-roles?gh_jid=7982502003'>Apply</a></td>
+      <td>Sep 02, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-02-13-29-09'>🕐 Batch at 2026-09-02 13:29:09</h3>
 
@@ -344,7 +541,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-02-08-52-21'>🕐 Batch at 2026-09-02 08:52:21</h3>
 
 📊 **Total jobs in this batch: 13**
@@ -466,8 +662,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-09-02-03-26-43'>🕐 Batch at 2026-09-02 03:26:43</h3>
+---<h3 id='batch-2026-09-02-03-26-43'>🕐 Batch at 2026-09-02 03:26:43</h3>
 
 📊 **Total jobs in this batch: 8**
 
