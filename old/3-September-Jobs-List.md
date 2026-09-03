@@ -4,8 +4,299 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-03 13:29:45](#batch-2026-09-03-13-29-45)
 - [Batch at 2026-09-03 08:42:23](#batch-2026-09-03-08-42-23)
 - [Batch at 2026-09-03 03:36:04](#batch-2026-09-03-03-36-04)
+
+<h3 id='batch-2026-09-03-13-29-45'>🕐 Batch at 2026-09-03 13:29:45</h3>
+
+📊 **Total jobs in this batch: 35**
+
+**Per company:**
+- Motorola Solutions, Inc: 1 job
+- CrowdStrike, Inc: 1 job
+- ASMLEXT1: 1 job
+- BAH: 6 jobs
+- Chime: 1 job
+- Core Weave: 2 jobs
+- Esri: 1 job
+- Formlabs: 1 job
+- General Motors LLC: 3 jobs
+- High Metric: 1 job
+- LaunchDarkly : 1 job
+- Micron: 3 jobs
+- MOOG: 1 job
+- Morgan Stanley: 1 job
+- Nike: 1 job
+- SharkNinja: 1 job
+- spacex: 2 jobs
+- Stripe: 1 job
+- The Scion Group: 1 job
+- The Toro: 1 job
+- The Walt Disney Company: 2 jobs
+- Verily: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Plantation, FL, More...</td>
+      <td>Android Platform Software Engineering Intern - Summer 2027</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Remote</td>
+      <td>Engineer III - Platform Data Engineer (Remote)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Engineer-III---Platform-Data-Engineer--Remote-_R29609'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Optical Fab technician- CWW Front End Nights, 6:00 PM – 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday)</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Optical-Fab-technician--CWW-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00346858'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Diego, CA</td>
+      <td>Cloud Computing Infrastructure Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Cloud-Computing-Infrastructure-Architect_R0248665'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Software System Safety Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-System-Safety-Engineer_R0248641'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer_R0248625'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Human Capital Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Human-Capital-Analyst_R0248622'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>University - Summer 2027 Electronic Warfare FPGA Engineering Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Data-Engineer_R0248636'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Chime</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Software Engineer, Growth</td>
+      <td><a href='https://boards.greenhouse.io/chime/jobs/8782503002?gh_jid=8782503002'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Hillsboro, OR</td>
+      <td>Data Center Technician - Hillsboro, OR</td>
+      <td><a href='https://coreweave.com/careers/job?4710771006&board=coreweave&gh_jid=4710771006'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Lynnwood, WA</td>
+      <td>Data Center Technician - Lynnwood, WA</td>
+      <td><a href='https://coreweave.com/careers/job?4710691006&board=coreweave&gh_jid=4710691006'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Spatial Data Engineer II</td>
+      <td><a href='https://www.esri.com/careers/5230512007?gh_jid=5230512007'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Manufacturing Engineering Intern (Winter/Spring 2027)</td>
+      <td><a href='https://careers.formlabs.com/job/8161817/apply/?gh_jid=8161817'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Remote - United States</td>
+      <td>Safety Data Analysis Engineer – AV Operational Safety and Issue Response (GPSSC)</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Remote---United-States/Safety-Data-Analysis-Engineer---AV-Operational-Safety-and-Issue-Response--GPSSC-_JR-202619090'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Kansas City, Kansas, United States of America</td>
+      <td>2027 Summer Intern – Manufacturing Tool and Die</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Kansas-City-Kansas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Tool-and-Die_JR-202619470'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Lake Orion, Michigan, United States of America</td>
+      <td>2027 Summer Intern – Manufacturing Weld Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Lake-Orion-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Weld-Engineer_JR-202619474'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>High Metric</b></td>
+      <td>USA - Remote</td>
+      <td>Forward Deployed AI Engineer-Anthropic-US East</td>
+      <td><a href='https://www.newrocket.com/careers/job?gh_jid=6164345004&gh_jid=6164345004'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>LaunchDarkly </b></td>
+      <td>Remote - US</td>
+      <td>Full Stack Engineer, Observability</td>
+      <td><a href='https://job-boards.greenhouse.io/launchdarkly/jobs/7985794003'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>New College Grad - HBM Product Development Failure Analysis Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---HBM-Product-Development-Failure-Analysis-Engineer_JR110630'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - ID1</td>
+      <td>New College Grad - Yield Enhancement Electrical Failure Analysis Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/New-College-Grad---Yield-Enhancement-Electrical-Failure-Analysis-Engineer_JR109479'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Product Yield Enhancement Development Failure Analysis Engineer (High Bandwidth Memory)</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Associate-or-Senior-Product-Yield-Enhancement-Development-Failure-Analysis-Engineer--High-Bandwidth-Memory-_JR110626'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Salt Lake City, UT</td>
+      <td>Intern, Operations</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Salt-Lake-City-UT/Intern--Operations_R-26-19675'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>New York, New York, United States of America</td>
+      <td>Associate, Software Engineer</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Associate--Software-Engineer_JR031776'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Memphis, Tennessee</td>
+      <td>NIKE, Inc. North America Distribution Centers (NADC) Operations Undergraduate Internship</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Memphis-Tennessee/NIKE--Inc-North-America-Distribution-Centers--NADC--Operations-Undergraduate-Internship_R-91419'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SharkNinja</b></td>
+      <td>Needham, MA, United States</td>
+      <td>Product Developer - Corded/Cordless</td>
+      <td><a href='https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4709328006'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Data Center Facilities Technician</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8782372002?gh_jid=8782372002'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>International Infrastructure Operations Specialist (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8766913002?gh_jid=8766913002'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>Seattle, WA</td>
+      <td>Software Engineer, Online Database Infrastructure</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=8177930'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Scion Group</b></td>
+      <td>University House Midtown, Atlanta, Georgia, United States</td>
+      <td>Painter</td>
+      <td><a href='https://job-boards.greenhouse.io/thesciongroupllc/jobs/8782288002'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Perry, OK</td>
+      <td>Paint Manufacturing Engineer - Ditch Witch</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Perry-OK/Paint-Manufacturing-Engineer---Ditch-Witch_JR17019'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Glendale, CA, USA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Software-Engineer-II_10157527'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Glendale, CA, USA</td>
+      <td>Associate NAM Hardlines (PH)</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Associate-NAM-Hardlines--PH-_10158785'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Verily</b></td>
+      <td>Boston, Massachusetts</td>
+      <td>Software Engineer III - Verily Me</td>
+      <td><a href='https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers/job/Boston-Massachusetts/Software-Engineer-III---Verily-Me_REQ-963'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer, Operational Tools</td>
+      <td><a href='https://jobs.lever.co/zoox/998ca0ca-4e3a-409f-bc84-f364d5451e01'>Apply</a></td>
+      <td>2026-09-03 16:30:37</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-03-08-42-23'>🕐 Batch at 2026-09-03 08:42:23</h3>
 
@@ -136,7 +427,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-03-03-36-04'>🕐 Batch at 2026-09-03 03:36:04</h3>
 
 📊 **Total jobs in this batch: 53**
