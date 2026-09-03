@@ -4,7 +4,138 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-03 08:42:23](#batch-2026-09-03-08-42-23)
 - [Batch at 2026-09-03 03:36:04](#batch-2026-09-03-03-36-04)
+
+<h3 id='batch-2026-09-03-08-42-23'>🕐 Batch at 2026-09-03 08:42:23</h3>
+
+📊 **Total jobs in this batch: 14**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Motorola Solutions, Inc: 2 jobs
+- Applied Materials: 3 jobs
+- BAH: 1 job
+- BorgWarner: 1 job
+- General Motors LLC: 2 jobs
+- Merck & Co.: 1 job
+- spacex: 1 job
+- The Toro: 1 job
+- Waymo: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Seattle, Washington, United States</td>
+      <td>Software Engineer, Distributed Simulation</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5228337007?gh_jid=5228337007'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Elgin, IL</td>
+      <td>Industrial Engineer: Continuous Improvement Summer Internship 2027</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Elgin-IL/Industrial-Engineer--Continuous-Improvement-Summer-Internship-2027_R68051'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Virginia Remote Work</td>
+      <td>Field Applications Engineer (DoD SkillBridge)</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Virginia-Remote-Work/Field-Applications-Engineer--DoD-SkillBridge-_R68484'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Logistics Material Coordinator/Handler III</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Logistics-Material-Coordinator-Handler-III_R2627388'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Material Handler II</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Handler-II_R2627252'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Material Handler ll - Inbound Put Away</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Handler-ll---Inbound-Put-Away_R2627827'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Software and Systems Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-and-Systems-Engineer--Mid_R0248533'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Arden - North Carolina - USA</td>
+      <td>IT Technician Intern</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/IT-Technician-Intern_R2026-2600'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Remote - United States</td>
+      <td>Data Scientist - Interactive Safety Visualizations and Reporting</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Remote---United-States/Data-Scientist---Interactive-Safety-Visualizations-and-Reporting_JR-202618806'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Calibration Engineer– Low Voltage Infrastructure</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Calibration-Engineer--Low-Voltage-Infrastructure_JR-202619076'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Merck & Co.</b></td>
+      <td>BEL - Brussels - Brussels (Souverain)</td>
+      <td>Procurement BRM Intern</td>
+      <td><a href='https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/BEL---Brussels---Brussels-Souverain/Procurement-BRM-Intern_R415964'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>Full-Stack Data Scientist, Hardware Reliability (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8782080002?gh_jid=8782080002'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Beatrice, NE</td>
+      <td>Paint Applicator, 2nd Shift - Exmark</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Beatrice-NE/Paint-Applicator--2nd-Shift---Exmark_JR17062'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, California, USA </td>
+      <td>2027 Summer Intern, BS, SysEng Software Engineer</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8174099'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-03-03-36-04'>🕐 Batch at 2026-09-03 03:36:04</h3>
 
@@ -402,4 +533,3 @@
 <table>
 
 ---
-
