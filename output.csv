@@ -1,25 +1,2 @@
-company,title,location,postedOn,link,updatedOn
-"Motorola Solutions, Inc",Junior Field Applications Engineer,"Reston, VA  (VA58)",Posted Today,https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Reston-VA--VA58/Junior-Field-Applications-Engineer_R68521,
-566 DEPARTMENT OF TOURISM AND RECREATION,Applications Developer,Oklahoma County,Posted Today,https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Applications-Developer_JR64875,
-ASMLEXT1,Factory Material Handler,"San Diego, CA, USA",Posted Today,https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/Factory-Material-Handler_J-00351015,
-Applied Materials,"Data Scientist II, New College Grad- Master's (Santa Clara, CA)","Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist-II--New-College-Grad--Master-s--Santa-Clara--CA-_R2627771,
-Applied Materials,"Software Engineer, New College Grad- Master's (Chandler, AZ)","Chandler,AZ",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911,
-BAH,"Data Scientist, Mid","Washington, DC",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist--Mid_R0248679,
-BAH,AI Systems Analyst,"Charlottesville, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/AI-Systems-Analyst_R0248681,
-careers,Optical & Electrical Engineering Intern,"Indianapolis, IN USA",Posted Today,https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Indianapolis-IN-USA/Optical---Electrical-Engineering-Intern_260004968-2,
-Citi,Apps Dev Intmd Programmer Analyst - Officer,Irving Texas United States,Posted Today,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Apps-Dev-Intmd-Programmer-Analyst---Officer_26975038,
-Coinbase,"Software Engineer, Blockchain Platform Nodes",Remote - USA,2026-08-20T12:21:28-04:00,https://www.coinbase.com/careers/positions/8105437?gh_jid=8105437,2026-09-03T19:25:10-04:00
-GE Healthcare,CT Applications Specialist A&NZ,"AUS08-01-Sydney-241 O'Riordan Street, 8F",Posted Today,https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/AUS08-01-Sydney-241-ORiordan-Street-8F/CT-Applications-Specialist-A-NZ_R4045990-1,
-GE Healthcare,Software Engineer,WA07-01-Bellevue-1100-112th Avenue NE,Posted Today,https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/WA07-01-Bellevue-1100-112th-Avenue-NE/Software-Engineer_R4045428-1,
-General Motors LLC,Data Scientist - Product Safety Data Analytics,"Warren, Michigan, United States of America",Posted Today,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Scientist---Product-Safety-Data-Analytics_JR-202618454-1,
-Intel Corporation,Graphics Software Engineer,Virtual US,Posted Today,https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Graphics-Software-Engineer_JR0286424,
-Micron,"Industrial Engineer, US Front-End Expansion Planning","Boise, ID - ID1",Posted Today,https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Industrial-Engineer--US-Front-End-Expansion-Planning_JR105472,
-spacex,Data Center Facilities Specialist ,"Hawthorne, CA",2026-09-03T16:29:26-04:00,https://boards.greenhouse.io/spacex/jobs/8782746002?gh_jid=8782746002,2026-09-03T16:30:20-04:00
-spacex,"New Graduate Engineer, Starship Components","Hawthorne, CA",2026-09-03T18:50:09-04:00,https://boards.greenhouse.io/spacex/jobs/8783046002?gh_jid=8783046002,2026-09-03T18:50:09-04:00
-spacex,Software Engineer (Flight Reliability),"Redmond, WA",2026-09-03T19:30:09-04:00,https://boards.greenhouse.io/spacex/jobs/8783281002?gh_jid=8783281002,2026-09-03T19:30:20-04:00
-spacex,Software Engineer (Flight Reliability),"Hawthorne, CA",2026-09-03T19:30:07-04:00,https://boards.greenhouse.io/spacex/jobs/8783243002?gh_jid=8783243002,2026-09-03T19:30:20-04:00
-spacex,Software Engineer (Flight Reliability),"Starbase, TX",2026-09-03T19:30:11-04:00,https://boards.greenhouse.io/spacex/jobs/8783284002?gh_jid=8783284002,2026-09-03T19:30:20-04:00
-Waymo,"2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer","San Francisco, California, USA ",2026-09-03T17:35:35-04:00,https://careers.withwaymo.com/jobs?gh_jid=8177651,2026-09-03T20:18:29-04:00
-Waymo,"2027 Summer Intern, MS, Software Engineering, Behavior Test ","San Francisco, California, USA",2026-09-03T16:44:52-04:00,https://careers.withwaymo.com/jobs?gh_jid=8174504,2026-09-03T20:19:33-04:00
-Zoox,Contract Student Worker - Autonomy Safety Data Engineer,"Foster City, CA",2026-09-03 22:01:30,https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819,N/A
-Zoox,Software Engineer - Collision Avoidance System Metrics,"Foster City, CA",2026-09-03 22:05:27,https://jobs.lever.co/zoox/d5d0608a-aa33-43c3-abe2-5ff8b40028d5,N/A
+company,title,location,postedOn,link
+MOOG,"Engineer I, Software Engineering","Vilnius, LT",Posted Today,https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Vilnius-LT/Engineer-I--Software-Engineering_R-26-19924
