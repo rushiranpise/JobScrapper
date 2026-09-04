@@ -4,9 +4,215 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-03 19:24:33](#batch-2026-09-03-19-24-33)
 - [Batch at 2026-09-03 13:29:45](#batch-2026-09-03-13-29-45)
 - [Batch at 2026-09-03 08:42:23](#batch-2026-09-03-08-42-23)
 - [Batch at 2026-09-03 03:36:04](#batch-2026-09-03-03-36-04)
+
+<h3 id='batch-2026-09-03-19-24-33'>🕐 Batch at 2026-09-03 19:24:33</h3>
+
+📊 **Total jobs in this batch: 24**
+
+**Per company:**
+- Motorola Solutions, Inc: 1 job
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- ASMLEXT1: 1 job
+- Applied Materials: 2 jobs
+- BAH: 2 jobs
+- careers: 1 job
+- Citi: 1 job
+- Coinbase: 1 job
+- GE Healthcare: 2 jobs
+- General Motors LLC: 1 job
+- Intel Corporation: 1 job
+- Micron: 1 job
+- spacex: 5 jobs
+- Waymo: 2 jobs
+- Zoox: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Reston, VA  (VA58)</td>
+      <td>Junior Field Applications Engineer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Reston-VA--VA58/Junior-Field-Applications-Engineer_R68521'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Applications Developer</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Applications-Developer_JR64875'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>San Diego, CA, USA</td>
+      <td>Factory Material Handler</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/Factory-Material-Handler_J-00351015'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Data Scientist II, New College Grad- Master's (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist-II--New-College-Grad--Master-s--Santa-Clara--CA-_R2627771'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Chandler,AZ</td>
+      <td>Software Engineer, New College Grad- Master's (Chandler, AZ)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist--Mid_R0248679'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Charlottesville, VA</td>
+      <td>AI Systems Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/AI-Systems-Analyst_R0248681'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>careers</b></td>
+      <td>Indianapolis, IN USA</td>
+      <td>Optical & Electrical Engineering Intern</td>
+      <td><a href='https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Indianapolis-IN-USA/Optical---Electrical-Engineering-Intern_260004968-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Irving Texas United States</td>
+      <td>Apps Dev Intmd Programmer Analyst - Officer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Apps-Dev-Intmd-Programmer-Analyst---Officer_26975038'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer, Blockchain Platform Nodes</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8105437?gh_jid=8105437'>Apply</a></td>
+      <td>Aug 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>GE Healthcare</b></td>
+      <td>AUS08-01-Sydney-241 O'Riordan Street, 8F</td>
+      <td>CT Applications Specialist A&NZ</td>
+      <td><a href='https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/AUS08-01-Sydney-241-ORiordan-Street-8F/CT-Applications-Specialist-A-NZ_R4045990-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>GE Healthcare</b></td>
+      <td>WA07-01-Bellevue-1100-112th Avenue NE</td>
+      <td>Software Engineer</td>
+      <td><a href='https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/WA07-01-Bellevue-1100-112th-Avenue-NE/Software-Engineer_R4045428-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Data Scientist - Product Safety Data Analytics</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Scientist---Product-Safety-Data-Analytics_JR-202618454-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>Virtual US</td>
+      <td>Graphics Software Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Graphics-Software-Engineer_JR0286424'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - ID1</td>
+      <td>Industrial Engineer, US Front-End Expansion Planning</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Industrial-Engineer--US-Front-End-Expansion-Planning_JR105472'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Data Center Facilities Specialist </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8782746002?gh_jid=8782746002'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>New Graduate Engineer, Starship Components</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8783046002?gh_jid=8783046002'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Engineer (Flight Reliability)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8783281002?gh_jid=8783281002'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer (Flight Reliability)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8783243002?gh_jid=8783243002'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Software Engineer (Flight Reliability)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8783284002?gh_jid=8783284002'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>San Francisco, California, USA </td>
+      <td>2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8177651'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>San Francisco, California, USA</td>
+      <td>2027 Summer Intern, MS, Software Engineering, Behavior Test </td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8174504'>Apply</a></td>
+      <td>Sep 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Contract Student Worker - Autonomy Safety Data Engineer</td>
+      <td><a href='https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819'>Apply</a></td>
+      <td>2026-09-03 22:01:30</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer - Collision Avoidance System Metrics</td>
+      <td><a href='https://jobs.lever.co/zoox/d5d0608a-aa33-43c3-abe2-5ff8b40028d5'>Apply</a></td>
+      <td>2026-09-03 22:05:27</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-03-13-29-45'>🕐 Batch at 2026-09-03 13:29:45</h3>
 
@@ -297,7 +503,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-03-08-42-23'>🕐 Batch at 2026-09-03 08:42:23</h3>
 
 📊 **Total jobs in this batch: 14**
@@ -426,8 +631,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-09-03-03-36-04'>🕐 Batch at 2026-09-03 03:36:04</h3>
+---<h3 id='batch-2026-09-03-03-36-04'>🕐 Batch at 2026-09-03 03:36:04</h3>
 
 📊 **Total jobs in this batch: 53**
 
