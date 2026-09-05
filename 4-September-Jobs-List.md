@@ -4,9 +4,234 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-04 19:24:43](#batch-2026-09-04-19-24-43)
 - [Batch at 2026-09-04 13:15:07](#batch-2026-09-04-13-15-07)
 - [Batch at 2026-09-04 08:40:27](#batch-2026-09-04-08-40-27)
 - [Batch at 2026-09-04 03:24:34](#batch-2026-09-04-03-24-34)
+
+<h3 id='batch-2026-09-04-19-24-43'>🕐 Batch at 2026-09-04 19:24:43</h3>
+
+📊 **Total jobs in this batch: 27**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- Applied Materials: 6 jobs
+- BAH: 2 jobs
+- Garner Health: 2 jobs
+- General Motors LLC: 2 jobs
+- NVIDIA: 2 jobs
+- Schonfeld: 3 jobs
+- searchLFN: 1 job
+- spacex: 1 job
+- Testnisc: 3 jobs
+- The Walt Disney Company: 1 job
+- Waymo: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Chelsea, Michigan, United States</td>
+      <td>Junior Brake/Suspension Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5231655007'>Apply</a></td>
+      <td>Sep 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Innovation Data Analyst</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Innovation-Data-Analyst_JR64930'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Summer 2027 Industrial Engineering Intern- Bachelor's (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Summer 2027 Business Operations & Management Intern- Bachelor's (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Summer-2027-Business-Operations---Management-Intern--Bachelor-s--Santa-Clara--CA-_R2626218'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Albany,NY</td>
+      <td>Summer 2027 Global Technical Learning Center Data Analyst Intern- Bachelor's/Master's (Albany, NY)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Electrical/Radio Frequency Engineer II, New College Grad- Master's (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Electrical-Radio-Frequency-Engineer-II--New-College-Grad--Master-s--Santa-Clara--CA-_R2628089'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Summer 2027 Business Operations Technical Project Manger Intern- Bachelor's (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Summer-2027-Business-Operations-Technical-Porject-Manger-Intern--Bachelor-s--Santa-Clara--CA-_R2628088'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Manufacturing Engineer I, New College Grad- Bachelor's (Austin, TX)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Manufacturing-Engineer-I--New-College-Grad--Bachelor-s--Austin--TX-_R2628090'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Belvoir, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Software-Engineer_R0248809-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Meade, MD</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist--Mid_R0248798'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Garner Health</b></td>
+      <td>New York City, New York</td>
+      <td>Associate Software Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004'>Apply</a></td>
+      <td>Sep 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Garner Health</b></td>
+      <td>New York City, New York</td>
+      <td>Software Engineering Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/garnerhealth/jobs/6164698004'>Apply</a></td>
+      <td>Sep 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>Software Engineer, AV HIL Platform</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-HIL-Platform_JR-202619689'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>2027 Summer Intern - Supplier Quality</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Supplier-Quality_JR-202617840'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Notebook Hardware Application Engineer</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Notebook-Hardware-Application-Engineer_JR2013587'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Solutions Architect, WWFO - New College Graduate 2027</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solutions-Architect--WWFO---New-College-Graduate-2027_JR2024999'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Schonfeld</b></td>
+      <td>New York, New York, United States</td>
+      <td>2027 DMFI Fixed Income Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/schonfeld/jobs/8172055'>Apply</a></td>
+      <td>Sep 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Schonfeld</b></td>
+      <td>New York, New York, United States</td>
+      <td>2027 PhD Quantitative Research Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/schonfeld/jobs/8172074'>Apply</a></td>
+      <td>Sep 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Schonfeld</b></td>
+      <td>Miami, Florida, United States</td>
+      <td>2027 PhD Quantitative Research Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/schonfeld/jobs/8172076'>Apply</a></td>
+      <td>Sep 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>searchLFN</b></td>
+      <td>Ramsey, MN</td>
+      <td>Paint Production Supervisor I</td>
+      <td><a href='https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Ramsey-MN/Paint-Production-Supervisor-I_JR-025182'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Data Center Administrator</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8784543002?gh_jid=8784543002'>Apply</a></td>
+      <td>Sep 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Testnisc</b></td>
+      <td>Mandan, ND</td>
+      <td>Cloud Networking & Infrastructure Developer</td>
+      <td><a href='https://job-boards.greenhouse.io/testnisc/jobs/8180807'>Apply</a></td>
+      <td>Sep 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Testnisc</b></td>
+      <td>Lake Saint Louis, MO</td>
+      <td>Cloud Networking & Infrastructure Developer</td>
+      <td><a href='https://job-boards.greenhouse.io/testnisc/jobs/8180806'>Apply</a></td>
+      <td>Sep 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Testnisc</b></td>
+      <td>Cedar Rapids, IA</td>
+      <td>Cloud Networking & Infrastructure Developer</td>
+      <td><a href='https://job-boards.greenhouse.io/testnisc/jobs/8180805'>Apply</a></td>
+      <td>Sep 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Kissimmee, FL, USA</td>
+      <td>Disney Live Entertainment Technical Direction Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Kissimmee-FL-USA/Disney-Live-Entertainment-Technical-Direction-Intern--Spring-2027_10159185'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>San Francisco, California, United States</td>
+      <td>2027 Summer Intern, MBA, Operations Planning</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8165014'>Apply</a></td>
+      <td>Sep 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, California, United States</td>
+      <td>Data Scientist</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8177515'>Apply</a></td>
+      <td>Sep 04, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-04-13-15-07'>🕐 Batch at 2026-09-04 13:15:07</h3>
 
@@ -326,7 +551,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-04-08-40-27'>🕐 Batch at 2026-09-04 08:40:27</h3>
 
 📊 **Total jobs in this batch: 13**
@@ -447,8 +671,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-09-04-03-24-34'>🕐 Batch at 2026-09-04 03:24:34</h3>
+---<h3 id='batch-2026-09-04-03-24-34'>🕐 Batch at 2026-09-04 03:24:34</h3>
 
 📊 **Total jobs in this batch: 1**
 
