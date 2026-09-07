@@ -4,7 +4,38 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-07 14:04:47](#batch-2026-09-07-14-04-47)
 - [Batch at 2026-09-07 04:19:33](#batch-2026-09-07-04-19-33)
+
+<h3 id='batch-2026-09-07-14-04-47'>🕐 Batch at 2026-09-07 14:04:47</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Citi: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>SUC. LA PERLA</td>
+      <td>Banamex Banquero Integral. Distrito Gdl.  Sur  723</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/SUC-LA-PERLA/Banamex-Banquero-Integral-Distrito-Gdl--Sur--723_26993299'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-07-04-19-33'>🕐 Batch at 2026-09-07 04:19:33</h3>
 
@@ -51,4 +82,3 @@
 <table>
 
 ---
-
