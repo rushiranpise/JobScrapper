@@ -4,9 +4,370 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-08 19:33:30](#batch-2026-09-08-19-33-30)
 - [Batch at 2026-09-08 13:40:59](#batch-2026-09-08-13-40-59)
 - [Batch at 2026-09-08 08:54:39](#batch-2026-09-08-08-54-39)
 - [Batch at 2026-09-08 03:29:36](#batch-2026-09-08-03-29-36)
+
+<h3 id='batch-2026-09-08-19-33-30'>🕐 Batch at 2026-09-08 19:33:30</h3>
+
+📊 **Total jobs in this batch: 46**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Allstate: 1 job
+- Applied Materials: 4 jobs
+- BAH: 9 jobs
+- BorgWarner: 1 job
+- Coinbase: 17 jobs
+- General Motors LLC: 1 job
+- High Metric: 1 job
+- Lendbuzz: 1 job
+- Logic gate: 1 job
+- Micron: 1 job
+- Ramp: 1 job
+- Salesforce: 1 job
+- spacex: 2 jobs
+- The Walt Disney Company: 1 job
+- Verkada : 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>2026 Junior Analyst, Threat Intelligence</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5233074007?gh_jid=5233074007'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - IL (Remote)</td>
+      <td>Quantum Algorithm Development Intern</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---IL-Remote/Quantum-Algorithm-Development-Intern_R34881'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>AI/Machine Learning New College Grad (Bachelors - Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/AI-Machine-Learning-New-College-Grad--Bachelors---Santa-Clara--CA-_R2627059'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Chemist Intern (Bachelors/Masters - Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Chemist-Intern--Bachelors-Masters---Santa-Clara--CA-_R2625702'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>2027 Software Engineering Intern (Masters - Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Product Line Management I- New College Grad- Bachelor's (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Product-Line-Management-I--New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2622280'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0248943'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Aurora, CO</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Data-Scientist_R0248952'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>ServiceNow Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/ServiceNow-Developer_R0248935'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0248922'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>El Segundo, CA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Data-Scientist_R0248937'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0248921'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0248936'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Applied AI Health Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Applied-AI-Health-Scientist_R0248933'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Aurora, CO</td>
+      <td>Cloud Computing Application Architect, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Cloud-Computing-Application-Architect--Mid_R0231428'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Arden - North Carolina - USA</td>
+      <td>1st Shift Automation and Controls Technician (Grade G, $29.50-$36.61)</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/XMLNAME-1st-Shift-Automation-and-Controls-Technician--Grade-G---2950--3661-_R2026-3558'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Hybrid - New York, NY</td>
+      <td>Accelerations Programs Intern</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8175363?gh_jid=8175363'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Hybrid - San Francisco, CA</td>
+      <td>Analytics Engineer Intern</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Hybrid - New York, NY</td>
+      <td>Business Controller Intern</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8175366?gh_jid=8175366'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Hybrid - New York, NY</td>
+      <td>Credit Risk Intern</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8175369?gh_jid=8175369'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Hybrid - San Francisco, CA</td>
+      <td>Data Engineer Intern</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Hybrid - San Francisco, CA</td>
+      <td>Data Science Intern</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Hybrid - New York, NY</td>
+      <td>Employee and Workplace Experience Intern</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8175429?gh_jid=8175429'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Hybrid - New York, NY</td>
+      <td>FP&A Intern</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Hybrid - New York, NY</td>
+      <td>Learning & Development Intern</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8175514?gh_jid=8175514'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Hybrid - San Francisco, CA</td>
+      <td>Machine Learning Engineer Intern</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Hybrid - New York, NY</td>
+      <td>Payment Risk Intern</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8175447?gh_jid=8175447'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Hybrid - New York, NY</td>
+      <td>People Analytics Intern</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Hybrid - New York, NY</td>
+      <td>Policy Intern</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Hybrid - San Francisco, CA</td>
+      <td>Software Engineer Intern</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Hybrid - New York, NY</td>
+      <td>Tax Operations Intern</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Hybrid - New York, NY</td>
+      <td>Treasury Intern</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Hybrid - San Francisco, CA</td>
+      <td>User Research Intern</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>2027 Summer Intern - GM Fleet Forecasting Intern</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---GM-Fleet-Forecasting-Intern_JR-202619693'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>High Metric</b></td>
+      <td>USA - Remote</td>
+      <td>AI Platform Architect – Anthropic - UK</td>
+      <td><a href='https://www.newrocket.com/careers/job?gh_jid=6166172004&gh_jid=6166172004'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Lendbuzz</b></td>
+      <td>Boston, MA</td>
+      <td>Software Engineer (Frontend-Focused Full Stack)</td>
+      <td><a href='https://jobs.lever.co/lendbuzz/f3c0d168-fc27-4a3e-89f4-b3efcf1db4b4'>Apply</a></td>
+      <td>2026-09-08 21:06:44</td>
+    </tr>
+    <tr>
+      <td><b>Logic gate</b></td>
+      <td>Chicago, Illinois, United States</td>
+      <td>AI Operations Specialist</td>
+      <td><a href='https://job-boards.greenhouse.io/logicgate/jobs/4731981005'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>New College Grad - Device Process Integration Engineer - CMOS</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---Device-Process-Integration-Engineer---CMOS_JR109090'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Ramp</b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer, Forward Deployed</td>
+      <td><a href='https://jobs.ashbyhq.com/ramp/9916e9da-7491-4c99-afd1-e4b8158fa58b'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Washington - Bellevue</td>
+      <td>Software Engineering MTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-MTS_JR357265'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Cape Canaveral, FL</td>
+      <td>Material Handler</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8761543002?gh_jid=8761543002'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>New Graduate Engineer, Software (Starship)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Lucasfilm Games Production Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/San-Francisco-CA-USA/Lucasfilm-Games-Production-Intern--Spring-2027_10160089'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Verkada </b></td>
+      <td>San Mateo, CA United States</td>
+      <td>Technical Support Engineering Intern - Spring 2027</td>
+      <td><a href='https://job-boards.greenhouse.io/verkada/jobs/5056164007'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Verkada </b></td>
+      <td>San Mateo, CA United States</td>
+      <td>Technical Support Engineering Intern - Summer 2027</td>
+      <td><a href='https://job-boards.greenhouse.io/verkada/jobs/5233011007'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Verkada </b></td>
+      <td>San Mateo, CA United States</td>
+      <td>Technical Support Engineer - University Graduate 2027</td>
+      <td><a href='https://job-boards.greenhouse.io/verkada/jobs/5121488007'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-08-13-40-59'>🕐 Batch at 2026-09-08 13:40:59</h3>
 
@@ -356,7 +717,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-08-08-54-39'>🕐 Batch at 2026-09-08 08:54:39</h3>
 
 📊 **Total jobs in this batch: 16**
@@ -502,8 +862,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-09-08-03-29-36'>🕐 Batch at 2026-09-08 03:29:36</h3>
+---<h3 id='batch-2026-09-08-03-29-36'>🕐 Batch at 2026-09-08 03:29:36</h3>
 
 📊 **Total jobs in this batch: 3**
 
