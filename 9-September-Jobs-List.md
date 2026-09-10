@@ -4,9 +4,214 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-09 19:33:17](#batch-2026-09-09-19-33-17)
 - [Batch at 2026-09-09 13:24:13](#batch-2026-09-09-13-24-13)
 - [Batch at 2026-09-09 08:50:36](#batch-2026-09-09-08-50-36)
 - [Batch at 2026-09-09 03:39:05](#batch-2026-09-09-03-39-05)
+
+<h3 id='batch-2026-09-09-19-33-17'>🕐 Batch at 2026-09-09 19:33:17</h3>
+
+📊 **Total jobs in this batch: 24**
+
+**Per company:**
+- Anduril Industries: 2 jobs
+- Applied Materials: 1 job
+- BAH: 3 jobs
+- Coinbase: 1 job
+- Esri: 1 job
+- General Motors LLC: 3 jobs
+- homedepot: 1 job
+- Micron: 1 job
+- Rvo health: 3 jobs
+- Scoutm Otors: 2 jobs
+- ServiceNow: 1 job
+- Snowflake: 1 job
+- Wyetech LLC: 3 jobs
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>PLM Developer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5234222007?gh_jid=5234222007'>Apply</a></td>
+      <td>Sep 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>PLM Engineer - DBA/Infrastructure</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5234223007?gh_jid=5234223007'>Apply</a></td>
+      <td>Sep 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Process Engineer III New College Grad - Doctorate Degree (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Process-Engineer-III-New-College-Grad---Doctorate-Degree--Santa-Clara--CA-_R2628366'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Alexandria, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist--Mid_R0249109'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Norfolk, VA</td>
+      <td>Palantir Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Palantir-Software-Engineer_R0249080'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Crane, IN</td>
+      <td>Full Stack Developer, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Crane-IN/Full-Stack-Developer--Junior_R0248824'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer, Developer Infrastructure</td>
+      <td><a href='https://www.coinbase.com/careers/positions/7991839?gh_jid=7991839'>Apply</a></td>
+      <td>Sep 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer in Test (SDET)  II– ArcGIS Online</td>
+      <td><a href='https://www.esri.com/careers/5224718007?gh_jid=5224718007'>Apply</a></td>
+      <td>Sep 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>Software Engineer, AV Frameworks – Early Career</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>2027 Summer Intern - PFMEA Manufacturing Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>ML Systems Engineer, Data Labeling Engineering - Early Career</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>GEORGIA - VIRTUAL - GA01</td>
+      <td>Software Engineer, Continuous Deployment (Remote)</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer--Continuous-Deployment--Remote-_Req192339'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>IT Data Center Infrastructure Coordinator</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/IT-Data-Center-Infrastructure-Coordinator_JR110440'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Rvo health</b></td>
+      <td>Charlotte, North Carolina, United States</td>
+      <td>Software Engineer, Healthgrades </td>
+      <td><a href='https://job-boards.greenhouse.io/rvohealth/jobs/4732561005'>Apply</a></td>
+      <td>Sep 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Rvo health</b></td>
+      <td>Minneapolis, MN</td>
+      <td>Software Engineer, Healthgrades </td>
+      <td><a href='https://job-boards.greenhouse.io/rvohealth/jobs/4732560005'>Apply</a></td>
+      <td>Sep 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Rvo health</b></td>
+      <td>Denver, Colorado, United States</td>
+      <td>Software Engineer, Healthgrades </td>
+      <td><a href='https://job-boards.greenhouse.io/rvohealth/jobs/4730928005'>Apply</a></td>
+      <td>Sep 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Scoutm Otors</b></td>
+      <td>Blythewood, South Carolina, United States</td>
+      <td>Specialist, Body Shop Training</td>
+      <td><a href='https://job-boards.greenhouse.io/scoutmotors/jobs/5230979007'>Apply</a></td>
+      <td>Sep 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Scoutm Otors</b></td>
+      <td>Blythewood, South Carolina, United States</td>
+      <td>Specialist, Logistics Training</td>
+      <td><a href='https://job-boards.greenhouse.io/scoutmotors/jobs/5230982007'>Apply</a></td>
+      <td>Sep 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ServiceNow</b></td>
+      <td>New York</td>
+      <td>AI Architect </td>
+      <td><a href='https://www.smartrecruiters.com/ServiceNow/744000148609749'>Apply</a></td>
+      <td>Sep 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-WA-Bellevue</td>
+      <td>AI Systems Research and Development Engineer – LLM Inference Systems & Optimization</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/9e0ae021-f264-4efb-bc80-26c04bd06df6'>Apply</a></td>
+      <td>Sep 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Agile Developer 3</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/4be266b8-85b8-4375-8e91-c2f9151bf0bc'>Apply</a></td>
+      <td>2026-09-09 21:13:15</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>Agile Developer 3</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/d0ac23e3-0195-4a45-b7ad-4890453c649a'>Apply</a></td>
+      <td>2026-09-09 21:06:57</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Annapolis Junction, Maryland</td>
+      <td>DevOps Engineer 4</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/b29f544c-141a-461c-bb58-3110612189fb'>Apply</a></td>
+      <td>2026-09-09 20:51:36</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Seattle, WA</td>
+      <td>Contract Student Worker - Data Analyst (20 hrs/wk)</td>
+      <td><a href='https://jobs.lever.co/zoox/ae2785ae-dfee-484b-8add-3cf32ca2d10e'>Apply</a></td>
+      <td>2026-09-09 22:44:08</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-09-13-24-13'>🕐 Batch at 2026-09-09 13:24:13</h3>
 
@@ -485,7 +690,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-09-08-50-36'>🕐 Batch at 2026-09-09 08:50:36</h3>
 
 📊 **Total jobs in this batch: 12**
@@ -601,8 +805,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-09-09-03-39-05'>🕐 Batch at 2026-09-09 03:39:05</h3>
+---<h3 id='batch-2026-09-09-03-39-05'>🕐 Batch at 2026-09-09 03:39:05</h3>
 
 📊 **Total jobs in this batch: 10**
 
