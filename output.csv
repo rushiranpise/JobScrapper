@@ -1,16 +1,66 @@
-company,title,location,postedOn,link,updatedOn
-BAH,Software Engineer,"Rome, NY",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0249127,
-BAH,"CAD Drafter, Junior","Panama City, FL",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Panama-City-FL/CAD-Drafter--Junior_R0249116,
-BAH,AI Data Analyst,"Arlington, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/AI-Data-Analyst_R0249104,
-BorgWarner,"1st Shift Thermal Assembler - (Grade B, $19.96-$23.28)",Arden - North Carolina - USA,Posted Today,https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/XMLNAME-1st-Shift-Thermal-Assembler----Grade-B---1996--2328-_R2026-3546,
-Core Weave,"Data Center Technician - Cheyenne, WY","Cheyenne, WY",2026-09-10T11:18:01-04:00,https://coreweave.com/careers/job?4711724006&board=coreweave&gh_jid=4711724006,2026-09-10T11:18:01-04:00
-General Motors LLC,Software Developer – Test Engineering,"Warren, Michigan, United States of America",Posted Today,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Developer---Test-Engineering_JR-202620042,
-homedepot,SOFTWARE ENGINEER (REMOTE),GEORGIA - VIRTUAL - GA01,Posted Today,https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/GEORGIA---VIRTUAL---GA01/SOFTWARE-ENGINEER_Req191201,
-Hudl,Product Management Intern,"Lincoln, NE, United States",2026-09-10T10:03:17-04:00,https://job-boards.greenhouse.io/hudl/jobs/8155103,2026-09-10T10:13:48-04:00
-Intel Corporation,Module Engineering PhD Intern - Wet Etch,"US, Oregon, Hillsboro",Posted Today,https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern---Wet-Etch_JR0287047,
-Intel Corporation,Module Engineering PhD Intern,"US, Oregon, Hillsboro",Posted Today,https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287022-1,
-Intel Corporation,Module Engineering PhD Intern,"US, Oregon, Hillsboro",Posted Today,https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287026,
-Micron,New College Grad - RAM RDA Process Engineer,"Boise, ID - Main Site",Posted Today,https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---RAM-RDA-Process-Engineer_JR110442,
-Micron,New College Grad - Ram Quality Engineer,"Boise, ID - ID1",Posted Today,https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/New-College-Grad---Ram-Quality-Engineer_JR110448,
-Wyetech LLC,Software Engineer 1,"Annapolis Junction, Maryland",2026-09-10 15:23:48,https://jobs.lever.co/wyetechllc/1fe7707e-a4c1-41ad-a189-893767e8d40e,N/A
-Wyetech LLC,Software Engineer 3 (Potential Telework),"Annapolis Junction, Maryland",2026-09-10 14:00:56,https://jobs.lever.co/wyetechllc/faf22d81-0098-4003-97af-78436c741ec2,N/A
+company,title,location,link,postedOn,updatedOn
+Affirm ,"Counsel II, Capital Markets",Remote US,https://job-boards.greenhouse.io/affirm/jobs/7963753003,2026-09-10T15:43:19-04:00,2026-09-10T15:43:19-04:00
+Anduril Industries,Liaison Engineer,"Victorville, California, United States",https://boards.greenhouse.io/andurilindustries/jobs/5230092007?gh_jid=5230092007,2026-09-10T16:14:26-04:00,2026-09-10T16:14:26-04:00
+566 DEPARTMENT OF TOURISM AND RECREATION,Training Specialist II,Oklahoma County,https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Training-Specialist-II_JR65080,Posted Today,
+Applied Materials,New College Grad - Process Engineer - Doctorate (Fall 2026 Start),"Santa Clara,CA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Process-Engineer-IV_R2624055,Posted Today,
+ASMLEXT1,Optical Fabrication Tech CWW Front End Days,"Wilton, CT, USA",https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Tech-CWW-Front-End-Days_J-00351665,Posted Today,
+BAH,Event Management ServiceNow ITOM Developer,"McLean, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Event-Management-ServiceNow-ITOM-Developer_R0249186,Posted Today,
+BAH,Cloud Engineer,"Chantilly, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Cloud-Engineer_R0249204,Posted Today,
+BAH,"University - 2027 Summer Games Systems Engineer Intern - Huntsville, AL","Huntsville, AL",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249188,Posted Today,
+BAH,Cloud Operations Engineer,"San Antonio, TX",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Cloud-Operations-Engineer_R0249151,Posted Today,
+BAH,Software Engineer,"Annapolis Junction, MD",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Software-Engineer_R0249159,Posted Today,
+BAH,Cloud Operations Engineer,"San Antonio, TX",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Cloud-Operations-Engineer_R0249152,Posted Today,
+BAH,Azure Cloud Engineer,"Norfolk, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Azure-Cloud-Engineer_R0249135-1,Posted Today,
+BAH,"Data Scientist, Mid","Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0248483,Posted Today,
+BAH,AI/ML Engineer and Data Scientist,"Riverdale, MD",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Riverdale-MD/AI-ML-Engineer-and-Data-Scientist_R0248874,Posted Today,
+BAH,DevOps Engineer,"San Antonio, TX",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/DevOps-Engineer_R0249157,Posted Today,
+BAH,DevOps Engineer,"San Antonio, TX",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/DevOps-Engineer_R0249158,Posted Today,
+BAH,DevOps Engineer,"San Antonio, TX",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/DevOps-Engineer_R0249154,Posted Today,
+BAH,DevOps Engineer,"San Antonio, TX",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/DevOps-Engineer_R0248086,Posted Today,
+BAH,University - Summer 2027 - Human Resources Intern,"McLean, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-2027---Human-Resources-Intern_R0249142,Posted Today,
+BAH,"Cyber Analyst, Junior","Washington, DC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Cyber-Analyst--Junior_R0249110,Posted Today,
+Becton Dickinson’s Integrated Diagnostics Systems,Material Handler,USA AZ - Tucson - Valencia Road,https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-AZ---Tucson---Valencia-Road/Material-Handler_R-553773,Posted Today,
+Brink,Trainer,Milwaukee WI,https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Milwaukee-WI/Trainer_R80271,Posted Today,
+Brink,Trainer,St. Louis MO,https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/St-Louis-MO/Trainer_R80269-1,Posted Today,
+Brink,Trainer,"Syracuse, NY (B0720)",https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Syracuse-NY-B0720/Trainer_R80274,Posted Today,
+Brink,Trainer,"Syracuse, NY (B0720)",https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Syracuse-NY-B0720/Trainer_R77536,Posted Today,
+Citi,Apps Dev Intmd Programmer java/.net  Analyst,Ciudad De Mexico Distrito Federal Mexico,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Apps-Dev-Intmd-Programmer-java-net--Analyst_26994290,Posted Today,
+genpt,Material Handler I,"Baltimore, MD, USA",https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Baltimore-MD-USA/Material-Handler-I_R26_0000029092,Posted Today,
+High Metric,AI Engineer-Anthropic-Campus Hire - US East,USA - Remote,https://www.newrocket.com/careers/job?gh_jid=6163533004&gh_jid=6163533004,2026-09-10T15:01:50-04:00,2026-09-10T15:01:50-04:00
+High Metric,AI Platform Architect – Anthropic - US West,USA - Remote,https://www.newrocket.com/careers/job?gh_jid=6166164004&gh_jid=6166164004,2026-09-10T15:12:11-04:00,2026-09-10T15:12:11-04:00
+High Metric,Forward Deployed AI Engineer-Anthropic-US West,USA - Remote,https://www.newrocket.com/careers/job?gh_jid=6164318004&gh_jid=6164318004,2026-09-10T15:05:16-04:00,2026-09-10T15:05:16-04:00
+Hudl,Quality Assurance Engineering Intern,"Lincoln, NE, United States",https://job-boards.greenhouse.io/hudl/jobs/8155102,2026-09-10T12:02:58-04:00,2026-09-10T12:02:58-04:00
+Hudl,Software Engineering Intern,"Lincoln, NE, United States",https://job-boards.greenhouse.io/hudl/jobs/8114314,2026-09-10T11:54:08-04:00,2026-09-10T11:54:08-04:00
+Kaseya,Release Train Engineer ,"Miami, FL",https://www.kaseya.com/careers/jobs/id/6161284004/?gh_jid=6161284004,2026-09-10T13:54:34-04:00,2026-09-10T13:54:34-04:00
+KLA,AI Software Engineer|Manufacturing,"Ann Arbor, MI",https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/AI-Software-Engineer-Manufacturing_2640648-1,Posted Today,
+KLA,HPC Software Engineer,"Milpitas, CA",https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/HPC-Software-Engineer_2639581,Posted Today,
+Micron,New College Grad - FAB Process Engineer,"Manassas, VA -  Fab 6",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/New-College-Grad---FAB-Process-Engineer_JR110885,Posted Today,
+Micron,New College Grad - Process Integration Engineer,"Boise, ID - ID1",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Process-Integration-Engineer_JR102569,Posted Today,
+Morgan Stanley,"Parametric - Operations Analyst Cohort, Winter, 2027 (Recent Grads)",Alpharetta GA 1 Edison,https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-GA-1-Edison/Parametric---Operations-Analyst-Cohort--Winter--2027--Recent-Grads-_JR043249,Posted Today,
+National Information Solutions Cooperative (NISC),Intern - Database Conversion Programming,"Lake St. Louis, MO or Mandan, ND",https://job-boards.greenhouse.io/nisc/jobs/8094408,2026-09-10T14:02:08-04:00,2026-09-10T14:02:08-04:00
+National Information Solutions Cooperative (NISC),Intern - Quality Engineer,"Lake St. Louis, MO or Mandan, ND",https://job-boards.greenhouse.io/nisc/jobs/8191319,2026-09-10T13:33:19-04:00,2026-09-10T13:33:19-04:00
+Ramp,"Software Engineer, Backend, Growth","New York, NY (HQ)",https://jobs.ashbyhq.com/ramp/428f41e2-48e8-409d-b5e3-8053f7fc7a27,2026-05-13T23:29:57.643+00:00,
+Samsara,Software Engineer - Data Platform,Remote - US,https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530,2026-06-09T11:21:07-04:00,2026-09-10T15:19:45-04:00
+Schonfeld,2027 Platform Engineering Intern,"New York, New York, United States",https://job-boards.greenhouse.io/schonfeld/jobs/8171699,2026-09-10T12:09:58-04:00,2026-09-10T12:14:39-04:00
+Schrdinger,Infrastructure Developer,New York,https://job-boards.greenhouse.io/schrdinger/jobs/7991930003,2026-09-10T15:48:14-04:00,2026-09-10T15:48:14-04:00
+Scoutm Otors,"Specialist, Data Verification and Analysis","Blythewood, South Carolina, United States",https://job-boards.greenhouse.io/scoutmotors/jobs/5234580007,2026-09-10T14:18:33-04:00,2026-09-10T14:18:33-04:00
+Salesforce,Software Engineer II (Full-Stack),North Carolina - Raleigh,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/North-Carolina---Raleigh/Software-Engineer-II--Full-Stack-_JR359621-2,Posted Today,
+Salesforce,AI Architect,California - San Francisco,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/AI-Architect_JR358580,Posted Today,
+SoFi,"Applications Administrator, Home Lending",NC - Charlotte,https://sofi.com/careers/job/7990744003?gh_jid=7990744003,2026-09-10T12:41:31-04:00,2026-09-10T12:41:31-04:00
+spacex,"Software Engineer, Test Engineering and Operations","Hawthorne, CA",https://boards.greenhouse.io/spacex/jobs/8796056002?gh_jid=8796056002,2026-09-10T16:17:30-04:00,2026-09-10T16:17:30-04:00
+Testnisc,Intern - Database Conversion Programming,"Lake St. Louis, MO",https://job-boards.greenhouse.io/testnisc/jobs/8191885,2026-09-10T14:02:10-04:00,2026-09-10T14:02:10-04:00
+Testnisc,Intern - Database Conversion Programming,"Mandan, ND",https://job-boards.greenhouse.io/testnisc/jobs/8191898,2026-09-10T14:02:12-04:00,2026-09-10T14:02:12-04:00
+Testnisc,Intern - Quality Engineer,"Lake St. Louis, MO",https://job-boards.greenhouse.io/testnisc/jobs/8191814,2026-09-10T13:33:21-04:00,2026-09-10T13:33:21-04:00
+Testnisc,Intern - Quality Engineer,"Mandan, ND",https://job-boards.greenhouse.io/testnisc/jobs/8191819,2026-09-10T13:33:22-04:00,2026-09-10T13:33:22-04:00
+Testnisc,Intern - Technical (IT) Services,"Lake St. Louis, MO",https://job-boards.greenhouse.io/testnisc/jobs/8192033,2026-09-10T14:43:07-04:00,2026-09-10T15:06:14-04:00
+Testnisc,Intern - Technical (IT) Services,"Cedar Rapids, IA",https://job-boards.greenhouse.io/testnisc/jobs/8192097,2026-09-10T15:03:21-04:00,2026-09-10T15:06:14-04:00
+Testnisc,Intern - Technical (IT) Services,"Mandan, ND",https://job-boards.greenhouse.io/testnisc/jobs/8192034,2026-09-10T14:43:09-04:00,2026-09-10T15:06:14-04:00
+The Walt Disney Company,"Disney Consumer Products Public Relations Intern, Spring 2027","Glendale, CA, USA",https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney-Consumer-Products-Public-Relations-Intern--Spring-2027_10158857,Posted Today,
+Waymo,"2027 Summer Intern, PhD, Vehicle Intent and Prediction","Mountain View, California",https://careers.withwaymo.com/jobs?gh_jid=8189848,2026-09-10T16:09:47-04:00,2026-09-10T16:09:47-04:00
+Wyetech LLC,Software Engineer 2/3,"Annapolis Junction, Maryland",https://jobs.lever.co/wyetechllc/048979e5-b262-4c9e-8a07-fc6ffec829b6,2026-09-10 20:14:06,N/A
+Wyetech LLC,Software Engineer 2/3,"Annapolis Junction, Maryland",https://jobs.lever.co/wyetechllc/5a7a7356-1ee4-4536-b336-41289936fddd,2026-09-10 20:13:25,N/A
+Zipline,Change Management Intern (Spring 2027),"South San Francisco, California, USA",https://www.zipline.com/open-roles/7990677003?gh_jid=7990677003,2026-09-10T11:54:30-04:00,2026-09-10T11:54:30-04:00
+Zipline,Change Management Intern (Summer 2027),"South San Francisco, California, USA",https://www.zipline.com/open-roles/7991435003?gh_jid=7991435003,2026-09-10T13:50:52-04:00,2026-09-10T13:50:52-04:00
+Zipline,Data Analytics Intern (Spring 2027),"South San Francisco, California, USA",https://www.zipline.com/open-roles/7990420003?gh_jid=7990420003,2026-09-10T11:54:14-04:00,2026-09-10T11:54:14-04:00
+Zipline,Data Analytics Intern (Summer 2027),"South San Francisco, California, USA",https://www.zipline.com/open-roles/7990632003?gh_jid=7990632003,2026-09-10T11:54:02-04:00,2026-09-10T11:54:02-04:00
+Zoom,Software Development Engineer,San Jose (CA),https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/Software-Development-Engineer_R19357-1,,
