@@ -4,9 +4,266 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-10 19:27:54](#batch-2026-09-10-19-27-54)
 - [Batch at 2026-09-10 13:26:15](#batch-2026-09-10-13-26-15)
 - [Batch at 2026-09-10 08:45:32](#batch-2026-09-10-08-45-32)
 - [Batch at 2026-09-10 03:28:29](#batch-2026-09-10-03-28-29)
+
+<h3 id='batch-2026-09-10-19-27-54'>🕐 Batch at 2026-09-10 19:27:54</h3>
+
+📊 **Total jobs in this batch: 31**
+
+**Per company:**
+- ALTEN Technology USA: 2 jobs
+- Anduril Industries: 4 jobs
+- AppLovin : 1 job
+- BAH: 4 jobs
+- Children's Hospital Medical Center: 1 job
+- Coinbase: 1 job
+- General Motors LLC: 1 job
+- Intel Corporation: 1 job
+- Morgan Stanley: 1 job
+- OpenAI: 1 job
+- PlayStation Global: 1 job
+- Reddit: 1 job
+- RF-SMART: 1 job
+- Stripe: 1 job
+- The Toro: 8 jobs
+- The Walt Disney Company: 1 job
+- Waymo: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>San Francisco, California</td>
+      <td>Data Collection Operator</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5235034007'>Apply</a></td>
+      <td>Sep 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>San Francisco, California</td>
+      <td>Data Collection Operator- 1st Shift</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5235055007'>Apply</a></td>
+      <td>Sep 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Irvine, California, United States</td>
+      <td>Software Engineer, Sensor Integration</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5235253007?gh_jid=5235253007'>Apply</a></td>
+      <td>Sep 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Seattle, Washington, United States</td>
+      <td>Software Engineer, Strategic Defense</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5234791007?gh_jid=5234791007'>Apply</a></td>
+      <td>Sep 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Washington, District of Columbia, United States</td>
+      <td>Software Engineer, Strategic Defense</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5234789007?gh_jid=5234789007'>Apply</a></td>
+      <td>Sep 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Software Engineer, Strategic Defense</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5234788007?gh_jid=5234788007'>Apply</a></td>
+      <td>Sep 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>AppLovin </b></td>
+      <td>Palo Alto, CA</td>
+      <td>Software Engineer, Machine Learning</td>
+      <td><a href='https://boards.greenhouse.io/applovin/jobs/4712559006?gh_jid=4712559006'>Apply</a></td>
+      <td>Sep 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Intelligence Training Support Specialist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Intelligence-Training-Support-Specialist--Mid_R0249222'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Analyst_R0249069'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Meade, MD</td>
+      <td>AI Adoption Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/AI-Adoption-Specialist_R0249206'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Annapolis Junction, MD</td>
+      <td>Cloud Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Cloud-Engineer_R0249215'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Children's Hospital Medical Center</b></td>
+      <td>Burnet Campus</td>
+      <td>Rheumatology – Cellular Therapies Physician Scientist – Research Faculty</td>
+      <td><a href='https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Burnet-Campus/Rheumatology---Cellular-Therapies-Physician-Scientist---Research-Faculty_JR225384'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer- Money Movement </td>
+      <td><a href='https://www.coinbase.com/careers/positions/8177946?gh_jid=8177946'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Serial Data Calibration Technical Specialist</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Senior-Serial-Data-Calibration-Tech-Specialist---Propulsion_JR-202617783-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Parametric Test Module Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Parametric-Test-Module-Intern_JR0286719'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>Denver, Colorado, United States of America</td>
+      <td>PWM Intern</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/Denver-Colorado-United-States-of-America/PWM-Intern_JR043696'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenAI</b></td>
+      <td>New York City</td>
+      <td>Software Engineer, API Frontiers</td>
+      <td><a href='https://jobs.ashbyhq.com/openai/b6a86e39-8059-4ccf-8d33-1bf5bd92fa86'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Mateo, CA</td>
+      <td>Software Development Engineer in Test - Contractor</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6186540004'>Apply</a></td>
+      <td>Sep 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Reddit</b></td>
+      <td>Remote - United States</td>
+      <td>Backend Engineer, IAM</td>
+      <td><a href='https://job-boards.greenhouse.io/reddit/jobs/8189317'>Apply</a></td>
+      <td>Sep 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>RF-SMART</b></td>
+      <td>Jacksonville, Florida, United States</td>
+      <td>Product Engineering Software Developer Internship - Spring & Summer 2027</td>
+      <td><a href='https://job-boards.greenhouse.io/rfsmart/jobs/5407206008'>Apply</a></td>
+      <td>Sep 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>New York</td>
+      <td>Data Analyst, NYC </td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=8189909'>Apply</a></td>
+      <td>Sep 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Frederick, CO</td>
+      <td>Robotics System Test Intern - The Toro Company</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Beatrice, NE</td>
+      <td>Engineering Intern - Exmark</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Beatrice-NE/Engineering-Intern---Exmark_JR17059'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Perry, OK</td>
+      <td>GIS Solution Engineering Intern - Ditch Witch</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Perry-OK/GIS-Solution-Engineering-Intern---Ditch-Witch_JR17179'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Perry, OK</td>
+      <td>Hardware and Software Engineering Intern - Ditch Witch</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Beatrice, NE</td>
+      <td>Test Technician Intern - Exmark</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Beatrice-NE/Test-Technician-Intern---Exmark_JR17051'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Beatrice, NE</td>
+      <td>Test Engineer Intern - Exmark</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Beatrice-NE/Test-Engineer-Intern---Exmark_JR17050'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Iron Mountain, MI</td>
+      <td>EHS Intern - BOSS Snowplow</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Iron-Mountain-MI/EHS-Intern---BOSS-Snowplow_JR17203'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Perry, OK</td>
+      <td>Video and Interactive Training Production Intern - Ditch Witch</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Perry-OK/Video-and-Interactive-Training-Production-Intern---Ditch-Witch_JR17214'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Glendale, CA, USA</td>
+      <td>Disney & Pixar Games, Brand Relations Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney---Pixar-Games--Brand-Relations-Intern--Spring-2027_10159022'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, California</td>
+      <td>2027 Summer Intern, PhD, Machine Learning, Computer Vision</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8193295'>Apply</a></td>
+      <td>Sep 10, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-10-13-26-15'>🕐 Batch at 2026-09-10 13:26:15</h3>
 
@@ -515,7 +772,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-10-08-45-32'>🕐 Batch at 2026-09-10 08:45:32</h3>
 
 📊 **Total jobs in this batch: 15**
@@ -650,8 +906,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-09-10-03-28-29'>🕐 Batch at 2026-09-10 03:28:29</h3>
+---<h3 id='batch-2026-09-10-03-28-29'>🕐 Batch at 2026-09-10 03:28:29</h3>
 
 📊 **Total jobs in this batch: 2**
 
