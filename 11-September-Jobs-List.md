@@ -4,8 +4,460 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-11 13:25:20](#batch-2026-09-11-13-25-20)
 - [Batch at 2026-09-11 08:46:31](#batch-2026-09-11-08-46-31)
 - [Batch at 2026-09-11 03:28:19](#batch-2026-09-11-03-28-19)
+
+<h3 id='batch-2026-09-11-13-25-20'>🕐 Batch at 2026-09-11 13:25:20</h3>
+
+📊 **Total jobs in this batch: 58**
+
+**Per company:**
+- Abnormal Security: 1 job
+- Motorola Solutions, Inc: 7 jobs
+- ASMLEXT1: 3 jobs
+- Applied Materials: 4 jobs
+- BAH: 14 jobs
+- Citi: 3 jobs
+- Core Weave: 1 job
+- genpt: 2 jobs
+- homedepot: 1 job
+- Intel Corporation: 1 job
+- KLA: 1 job
+- Lyft: 5 jobs
+- Micron: 1 job
+- MOOG: 1 job
+- National Information Solutions Cooperative (NISC): 1 job
+- Pure storage: 1 job
+- Quantinuum: 4 jobs
+- SageSure: 1 job
+- Salesforce: 2 jobs
+- spacex: 1 job
+- State Street: 1 job
+- Voya: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Abnormal Security</b></td>
+      <td>Hybrid - San Francisco, CA, USA</td>
+      <td>Software Engineer II - Insider Risk</td>
+      <td><a href='https://abnormal.ai/careers/jobs/7992780003?gh_jid=7992780003'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Chicago, IL</td>
+      <td>Product Quality Engineering Intern</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Product-Quality-Engineering-Intern_R68669'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Illinois Remote Work, More...</td>
+      <td>Technical Trainer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Illinois-Remote-Work/Technical-Trainer_R68500'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Chicago, IL</td>
+      <td>Financial Analyst - Cloud & AI</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Financial-Analyst---Cloud---AI_R68395'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Schaumburg, IL</td>
+      <td>2027 Internship - Electrical Engineering</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/XMLNAME-2027-Internship---Electrical-Engineering_R68781'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Plantation, FL</td>
+      <td>DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Plantation, FL</td>
+      <td>2027 Software Engineering Summer Internship</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Plantation, FL</td>
+      <td>Android Software Engineer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Android-Software-Engineer_R62561'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>San Diego, CA, USA</td>
+      <td>Material Handler 3</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/Material-Handler-3_J-00352669'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>N Phoenix, AZ, USA</td>
+      <td>Upgrade Install and Relocation Engineer - DUV</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/N-Phoenix-AZ-USA/Upgrade-Install-and-Relocation-Engineer---DUV_J-00350733-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>San Diego, CA, USA</td>
+      <td>Material Handler 4</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/Material-Handler-4_J-00352270'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Phoenix,AZ</td>
+      <td>Logistics Operation New College Grad, Bachelor's (Phoenix, AZ)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/PhoenixAZ/Logistics-Operation-New-College-Grad--Bachelor-s--Phoenix--AZ-_R2627423'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Financial Analyst I, New College Grad- Bachelor's (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Financial-Analyst-I--New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2627553-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Data Scientist - (B3)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist----B3-_R2628442'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Material Handler ll - NAS Shipping</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Handler-ll---NAS-Shipping_R2627981'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Springfield, VA</td>
+      <td>Human Capital and Personnel Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Human-Capital-and-Personnel-Data-Analyst_R0249209'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>AI Solution Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/AI-Solution-Developer_R0249256'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Databricks Platform Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Databricks-Platform-Engineer_R0249299-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Logistics and Sustainment Operations Officer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Logistics-and-Sustainment-Operations-Officer_R0249323'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Beavercreek, OH</td>
+      <td>Modeling and Simulation Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Modeling-and-Simulation-Software-Engineer_R0249475'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Engineer_R0249294'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Antonio, TX</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Software-Engineer_R0249268'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Scientist, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist--Junior_R0248942'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Diego, CA</td>
+      <td>FMS Maritime Domain Awareness Systems Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/FMS-Maritime-Domain-Awareness-Systems-Engineer_R0249235'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Diego, CA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Scientist--Mid_R0249243'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Belvoir, VA</td>
+      <td>DevOps Cloud Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/DevOps-Cloud-Engineer_R0248910-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>University - Summer 27, Contracts Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Contracts-Intern_R0249252'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>University - Summer 27, Contracts Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Contracts-Intern_R0249253'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-Engineer_R0249465'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Application Support Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Application-Support-Analyst_26993764'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Irving Texas United States</td>
+      <td>Programmatic Campaign Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Programmatic-Campaign-Analyst_26993776'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>New York New York United States</td>
+      <td>Junior Solution Architect</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Junior-Solution-Architect_26993769'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Lowell, MA</td>
+      <td>Data Center Technician - Lowell, MA</td>
+      <td><a href='https://coreweave.com/careers/job?4712388006&board=coreweave&gh_jid=4712388006'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Software Engineer III</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Software-Engineer-III_R26_0000029433'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>BI Data Analyst</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/BI-Data-Analyst_R26_0000026974'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>GLOBAL CUSTOM COMMERCE/BLINDS OFFICE, HOUSTON - 2140</td>
+      <td>IT Developer</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/GLOBAL-CUSTOM-COMMERCEBLINDS-OFFICE-HOUSTON---2140/IT-Developer_Req193150'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Data Scientist, Semiconductor Manufacturing Analytics</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Data-Scientist--Semiconductor-Manufacturing-Analytics_JR0287216'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Totowa, NJ</td>
+      <td>Material Handler - 2nd Shift</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Totowa-NJ/Material-Handler---2nd-Shift_2640519-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Lyft</b></td>
+      <td>New York, NY</td>
+      <td>Data Analyst Intern (Summer 2027)</td>
+      <td><a href='https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Lyft</b></td>
+      <td>San Francisco, CA</td>
+      <td>Data Science Intern, Algorithms (Summer 2027)</td>
+      <td><a href='https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Lyft</b></td>
+      <td>New York, NY</td>
+      <td>Data Science Intern, Algorithms (Summer 2027)</td>
+      <td><a href='https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Lyft</b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer Intern, Backend (Summer 2027)</td>
+      <td><a href='https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Lyft</b></td>
+      <td>New York, NY</td>
+      <td>Software Engineer Intern, Fullstack (Summer 2027)</td>
+      <td><a href='https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Applications Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Applications-Engineer_JR111620'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Phoenix, AZ</td>
+      <td>Software Engineer</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Phoenix-AZ/Software-Engineer_R-26-19967'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>National Information Solutions Cooperative (NISC)</b></td>
+      <td>Any NISC Location or Virtual</td>
+      <td>Support Specialist - Capital Credits</td>
+      <td><a href='https://job-boards.greenhouse.io/nisc/jobs/8188482'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Pure storage</b></td>
+      <td>Santa Clara, California</td>
+      <td>AI Data Intelligence & Knowledge Graph Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/purestorage/jobs/8196071'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Quantinuum</b></td>
+      <td>US Brooklyn Park, MN</td>
+      <td>Facilities Engineering Intern - 1000</td>
+      <td><a href='https://jobs.eu.lever.co/quantinuum/f186df57-b777-4efe-b82e-6315ec3caa59'>Apply</a></td>
+      <td>2026-09-11 16:13:13</td>
+    </tr>
+    <tr>
+      <td><b>Quantinuum</b></td>
+      <td>US Broomfield, CO</td>
+      <td>Facilities Project Engineer Intern - 1001</td>
+      <td><a href='https://jobs.eu.lever.co/quantinuum/68de3fa7-021a-4eae-89fe-646ad1ed2c53'>Apply</a></td>
+      <td>2026-09-11 16:49:21</td>
+    </tr>
+    <tr>
+      <td><b>Quantinuum</b></td>
+      <td>US Broomfield, CO</td>
+      <td>Materials and Process Engineering Intern - 991</td>
+      <td><a href='https://jobs.eu.lever.co/quantinuum/7d3818af-bf02-49ef-81f2-2962a22a02e3'>Apply</a></td>
+      <td>2026-09-10 21:37:19</td>
+    </tr>
+    <tr>
+      <td><b>Quantinuum</b></td>
+      <td>US Broomfield, CO</td>
+      <td>Software Engineering Intern - 989</td>
+      <td><a href='https://jobs.eu.lever.co/quantinuum/782bea0b-1959-48cc-8872-1305aece51bf'>Apply</a></td>
+      <td>2026-09-10 21:34:15</td>
+    </tr>
+    <tr>
+      <td><b>SageSure</b></td>
+      <td>Cheshire, Connecticut, United States; Chicago, Illinois, United States</td>
+      <td>Actuarial Intern</td>
+      <td><a href='https://www.sagesure.com/careers/current-job-openings/?gh_jid=4711119006'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Washington - Seattle</td>
+      <td>Data Engineer</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Seattle/Data-Engineer_JR358418'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>North Carolina - Raleigh</td>
+      <td>Software Engineer II (Full-Stack)</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/North-Carolina---Raleigh/Software-Engineer-II--Full-Stack-_JR359977-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Data Engineer, Ground Network Engineering (Gateway)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8784022002?gh_jid=8784022002'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Princeton, New Jersey</td>
+      <td>Alternative Investments Reporting Developer, Officer</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Princeton-New-Jersey/Alternative-Investments-Business-Transformation-Business-Analyst--Officer_R-785364'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Voya</b></td>
+      <td>Minneapolis, MN</td>
+      <td>Summer 2027 Employee Benefits Intern</td>
+      <td><a href='https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Minneapolis-MN/Summer-2027-Employee-Benefits-Intern_JR0033189'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer - Pipeline Infrastructure & Integration</td>
+      <td><a href='https://jobs.lever.co/zoox/978e36ef-e8e9-4874-ade6-f33a80e46309'>Apply</a></td>
+      <td>2026-09-08 16:46:26</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-11-08-46-31'>🕐 Batch at 2026-09-11 08:46:31</h3>
 
@@ -268,7 +720,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-11-03-28-19'>🕐 Batch at 2026-09-11 03:28:19</h3>
 
 📊 **Total jobs in this batch: 4**
