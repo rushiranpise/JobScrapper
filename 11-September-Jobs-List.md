@@ -4,9 +4,231 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-11 19:35:17](#batch-2026-09-11-19-35-17)
 - [Batch at 2026-09-11 13:25:20](#batch-2026-09-11-13-25-20)
 - [Batch at 2026-09-11 08:46:31](#batch-2026-09-11-08-46-31)
 - [Batch at 2026-09-11 03:28:19](#batch-2026-09-11-03-28-19)
+
+<h3 id='batch-2026-09-11-19-35-17'>🕐 Batch at 2026-09-11 19:35:17</h3>
+
+📊 **Total jobs in this batch: 26**
+
+**Per company:**
+- Samsung Electronics America, Inc: 2 jobs
+- Applied Materials: 1 job
+- Adobe: 1 job
+- BAH: 2 jobs
+- Core Weave: 1 job
+- DoorDash : 1 job
+- Intel Corporation: 3 jobs
+- Micron: 1 job
+- Natera : 1 job
+- National Information Solutions Cooperative (NISC): 1 job
+- Nextdoor: 1 job
+- NVIDIAExternalCareerSite: 1 job
+- PlayStation Global: 2 jobs
+- Quantinuum: 4 jobs
+- spacex: 2 jobs
+- Stripe: 1 job
+- Testnisc: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>6555 Excellence Way, Plano, TX, USA</td>
+      <td>Python Software Developer</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Python-Software-Developer_R120586'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>6555 Excellence Way, Plano, TX, USA</td>
+      <td>Python Software Developer</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Python-Software-Developer_R120585'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Algorithm Developer III</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Algorithm-Developer-III_R2628363'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Adobe</b></td>
+      <td>New York</td>
+      <td>2027 Intern - Enterprise Architecture Analyst</td>
+      <td><a href='https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/XMLNAME-2027-Intern---Enterprise-Architecture-Analyst_R171856'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>El Segundo, CA</td>
+      <td>Model-Based Systems Engineer, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Model-Based-Systems-Engineer--Junior_R0249353'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Databricks Platform Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Databricks-Platform-Engineer_R0249295'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Bellevue, WA / Sunnyvale, CA / San Francisco, CA / Livingston, NJ / Manhattan, NY / Philadelphia, PA / Dallas, TX</td>
+      <td>Software Engineer</td>
+      <td><a href='https://coreweave.com/careers/job?4712428006&board=coreweave&gh_jid=4712428006'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA; New York, NY</td>
+      <td>Software Engineer - Developer Experience, Web</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/8197854'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Module Engineering PhD Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Module-Engineering-PhD-Intern_JR0286932'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Module Engineering PhD Intern New 2027</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287021'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Module Engineering PhD Intern New 2027</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287020'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - ID1</td>
+      <td>Manufacturing Applications Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Manufacturing-Applications-Engineer_JR111221'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>Pleasanton, CA</td>
+      <td>Clinical Data Operator - Pleasanton, CA</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6190381004'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>National Information Solutions Cooperative (NISC)</b></td>
+      <td>Mandan, ND or Lake St. Louis, MO</td>
+      <td>Database Conversion (ETL) Programmer</td>
+      <td><a href='https://job-boards.greenhouse.io/nisc/jobs/8197988'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Nextdoor</b></td>
+      <td>US Remote</td>
+      <td>Data Scientist - Ads Marketplace</td>
+      <td><a href='https://about.nextdoor.com/careers-list/?gh_jid=8198106'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIAExternalCareerSite</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Solutions Architecture Intern - Summer 2027</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solutions-Architecture-Intern---Summer-2027_JR2025245'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Diego, CA</td>
+      <td>Software Engineer II Data Reliability & Automation (APIs)</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6151894004'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Mateo, CA</td>
+      <td>Software Engineer II Platform Data Reliability </td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6151876004'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Quantinuum</b></td>
+      <td>US Broomfield, CO</td>
+      <td>Electrical Engineering Intern - 997</td>
+      <td><a href='https://jobs.eu.lever.co/quantinuum/672bb667-0569-44bc-a2fa-a0fcd85673fb'>Apply</a></td>
+      <td>2026-09-11 18:01:11</td>
+    </tr>
+    <tr>
+      <td><b>Quantinuum</b></td>
+      <td>US Broomfield, CO</td>
+      <td>IT Applications Intern - 984</td>
+      <td><a href='https://jobs.eu.lever.co/quantinuum/aa305a45-955d-42df-9e11-a4babb28041b'>Apply</a></td>
+      <td>2026-09-10 21:43:11</td>
+    </tr>
+    <tr>
+      <td><b>Quantinuum</b></td>
+      <td>US Broomfield, CO</td>
+      <td>Manufacturing Engineering Intern - 998</td>
+      <td><a href='https://jobs.eu.lever.co/quantinuum/acec8ce5-b42e-4b16-8dc2-6ae715bfda80'>Apply</a></td>
+      <td>2026-09-11 23:59:52</td>
+    </tr>
+    <tr>
+      <td><b>Quantinuum</b></td>
+      <td>US Broomfield, CO</td>
+      <td>Support Services Intern - 986</td>
+      <td><a href='https://jobs.eu.lever.co/quantinuum/84cd4e05-408c-4410-8ac5-176ef8be93d9'>Apply</a></td>
+      <td>2026-09-10 21:44:42</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>EDM Programmer (Starlink) - Level 4/5</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8802398002?gh_jid=8802398002'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>New Graduate Engineer, Power Generation (Starship)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8803009002?gh_jid=8803009002'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>Seattle, WA</td>
+      <td>Software Engineer, Online Database Infrastructure</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=8197891'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Testnisc</b></td>
+      <td>Mandan, ND or Lake St. Louis, MO</td>
+      <td>Database Conversion (ETL) Programmer</td>
+      <td><a href='https://job-boards.greenhouse.io/testnisc/jobs/8197995'>Apply</a></td>
+      <td>Sep 11, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-11-13-25-20'>🕐 Batch at 2026-09-11 13:25:20</h3>
 
@@ -458,7 +680,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-11-08-46-31'>🕐 Batch at 2026-09-11 08:46:31</h3>
 
 📊 **Total jobs in this batch: 32**
@@ -719,8 +940,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-09-11-03-28-19'>🕐 Batch at 2026-09-11 03:28:19</h3>
+---<h3 id='batch-2026-09-11-03-28-19'>🕐 Batch at 2026-09-11 03:28:19</h3>
 
 📊 **Total jobs in this batch: 4**
 
