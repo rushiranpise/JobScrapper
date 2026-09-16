@@ -4,8 +4,363 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-16 13:51:35](#batch-2026-09-16-13-51-35)
 - [Batch at 2026-09-16 09:01:26](#batch-2026-09-16-09-01-26)
 - [Batch at 2026-09-16 03:43:17](#batch-2026-09-16-03-43-17)
+
+<h3 id='batch-2026-09-16-13-51-35'>🕐 Batch at 2026-09-16 13:51:35</h3>
+
+📊 **Total jobs in this batch: 44**
+
+**Per company:**
+- Anduril Industries: 3 jobs
+- Samsung Electronics America, Inc: 1 job
+- BAH: 7 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- BorgWarner: 2 jobs
+- Broadcom : 1 job
+- Citi: 1 job
+- DoorDash : 1 job
+- MOOG: 1 job
+- Morgan Stanley: 1 job
+- nVent: 1 job
+- Schonfeld: 1 job
+- spacex: 3 jobs
+- SRK Supplylogix LLC: 2 jobs
+- Stripe: 1 job
+- terex: 1 job
+- The Toro: 1 job
+- The Walt Disney Company: 5 jobs
+- Travellers: 3 jobs
+- Waymo: 3 jobs
+- Workday: 1 job
+- Woven: 1 job
+- ZoomInfo: 1 job
+- Zipline: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Broomfield, Colorado, United States; Fort Collins, Colorado, United States</td>
+      <td>Scientific Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5240161007?gh_jid=5240161007'>Apply</a></td>
+      <td>Sep 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Broomfield, Colorado, United States; Fort Collins, Colorado, United States</td>
+      <td>Software Engineer, Battlespace Awareness</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5240165007?gh_jid=5240165007'>Apply</a></td>
+      <td>Sep 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Broomfield, Colorado, United States; Fort Collins, Colorado, United States</td>
+      <td>Software Engineer, Sensor Fusion</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5240169007?gh_jid=5240169007'>Apply</a></td>
+      <td>Sep 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Samsung Electronics America, Inc</b></td>
+      <td>1530 FM 973 Taylor, TX, USA</td>
+      <td>Experienced Technical Training Coordinator</td>
+      <td><a href='https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Experienced-Technical-Training-Coordinator_R120702'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>War Exercise Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/War-Exercise-Developer_R0249641-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-Engineer_R0249642'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Engineer_R0248928-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Ashburn, VA</td>
+      <td>Front-End Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/Front-End-Software-Engineer_R0249628'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0249554'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Atlanta, GA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Data-Scientist_R0249503'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>University - Summer 27, Pricing Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Pricing-Intern_R0249254'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA MD - Sparks - 26 Loveton Circle</td>
+      <td>Material Handler 2</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---26-Loveton-Circle/Material-Handler-2_R-554555'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Ithaca - New York - USA</td>
+      <td>TEAMSTERS - Metal Finisher/Handler B - 3rd (M)</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Ithaca---New-York---USA/TEAMSTERS---Metal-Finisher-Handler-B---3rd--M-_R2026-3226-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Bellwood - Illinois - USA</td>
+      <td>EHS Intern</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Bellwood---Illinois---USA/EHS-Intern_R2026-3646'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-TX Plano Legacy Drive Suite 700</td>
+      <td>Solution Architect, Broadcom Software</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Solution-Architect--Broadcom-Software_R027113'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>New Castle Delaware United States</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-Castle-Delaware-United-States/DevOps-Engineer_26991829'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>San francisco, CA; New York, NY; Los Angeles, CA; Seattle, WA</td>
+      <td>Software Engineer, Full Stack - Developer Insights</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/8207877'>Apply</a></td>
+      <td>Sep 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Torrance, CA</td>
+      <td>Intern, Product Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Intern--Product-Engineering_R-26-19984'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>New York, New York, United States of America</td>
+      <td>Global Capital Markets – Analyst/Associate, Alternative Capital Solutions (New York)</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Global-Capital-Markets---Analyst-Associate--Alternative-Capital-Solutions--New-York-_JR043862-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Anoka, MN, US</td>
+      <td>Engineering Lab Co-Op (Jan - June 2027)</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Lab-Internship--June---August-2027-_R23537'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Schonfeld</b></td>
+      <td>New York, New York, United States</td>
+      <td>Junior Compliance Associate</td>
+      <td><a href='https://job-boards.greenhouse.io/schonfeld/jobs/8208493'>Apply</a></td>
+      <td>Sep 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>HVAC Programmer </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8814662002?gh_jid=8814662002'>Apply</a></td>
+      <td>Sep 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>IT Network Infrastructure Engineer, Data Centers</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8814943002?gh_jid=8814943002'>Apply</a></td>
+      <td>Sep 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>IT Network Infrastructure Engineer, Outside Plant</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8815068002?gh_jid=8815068002'>Apply</a></td>
+      <td>Sep 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, VA, Richmond</td>
+      <td>Specialist, EH&S Programs, Business Engagement and Training</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-VA-Richmond/Specialist--EH-S-Programs--Business-Engagement-and-Training_JR0153212'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, VA, Richmond</td>
+      <td>Specialist, EH&S System Administrator and Data Analytics and Reporting</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-VA-Richmond/Specialist--EH-S-System-Administrator-and-Data-Analytics-and-Reporting_JR0153216'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>New York</td>
+      <td>Capital Markets, FX Specialist</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=8206733'>Apply</a></td>
+      <td>Sep 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>US-SD Watertown</td>
+      <td>Manufacturing Engineer Intern</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/US-SD-Watertown/Manufacturing-Engineer-Intern_REQ-14323'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Iron Mountain, MI</td>
+      <td>Assembler Trainee, B-Shift - BOSS Snowplow</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Iron-Mountain-MI/Assembler-Trainee--B-Shift---BOSS-Snowplow_JR17327'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>Associate Data Analyst</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Associate-Data-Analyst_10159853'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Chicago, IL, USA</td>
+      <td>WLS-TV (ABC7) News Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Chicago-IL-USA/WLS-TV--ABC7--News-Intern--Spring-2027_10158830'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Chicago, IL, USA</td>
+      <td>WLS-TV (ABC7) I-Team Consumer & News Anchor Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Chicago-IL-USA/WLS-TV--ABC7--I-Team-Consumer---News-Anchor-Intern--Spring-2027_10158838'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Celebration, FL, USA</td>
+      <td>Global Travel & Expense Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Global-Travel---Expense-Intern--Spring-2027_10160077'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>Infrastructure Services Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Infrastructure-Services-Intern--Spring-2027_10159957'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Travellers</b></td>
+      <td>MA - West Bridgewater</td>
+      <td>Outside Auto Appraiser</td>
+      <td><a href='https://travelers.wd5.myworkdayjobs.com/en-US/External/job/MA---West-Bridgewater/Outside-Auto-Appraiser_R-52654'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Travellers</b></td>
+      <td>MA - West Bridgewater</td>
+      <td>Outside Auto Appraiser</td>
+      <td><a href='https://travelers.wd5.myworkdayjobs.com/en-US/External/job/MA---West-Bridgewater/Outside-Auto-Appraiser_R-52656'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Travellers</b></td>
+      <td>MA - West Bridgewater</td>
+      <td>Outside Auto Appraiser</td>
+      <td><a href='https://travelers.wd5.myworkdayjobs.com/en-US/External/job/MA---West-Bridgewater/Outside-Auto-Appraiser_R-52657'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, California, USA</td>
+      <td>2027 Summer Intern, MS/PhD, Software Engineer</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8202801'>Apply</a></td>
+      <td>Sep 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, California, United States</td>
+      <td>2027 Summer Intern, PhD, Machine Learning, Computer Vision</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8202025'>Apply</a></td>
+      <td>Sep 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, California, United States | San Francisco, California, United States</td>
+      <td>2027 Summer Intern, PhD, Quantitative Software Engineer</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8197554'>Apply</a></td>
+      <td>Sep 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA, CA, Pleasanton</td>
+      <td>Software Engineer - Context and Semantics (AI)</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Software-Engineer---Context-and-Semantics--AI-_JR-0110210'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Woven</b></td>
+      <td>Ann Arbor, MI</td>
+      <td>Software Engineer II, Data Labeling</td>
+      <td><a href='https://jobs.lever.co/woven-by-toyota/e82d4044-1f76-42f3-bc45-004b9a512d78'>Apply</a></td>
+      <td>2026-09-16 16:15:10</td>
+    </tr>
+    <tr>
+      <td><b>ZoomInfo</b></td>
+      <td>Bethesda, Maryland, United States</td>
+      <td>Software Engineer III - Developer Productivity</td>
+      <td><a href='https://www.zoominfo.com/careers?gh_jid=8802386002'>Apply</a></td>
+      <td>Sep 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Technical Writer Intern </td>
+      <td><a href='https://www.zipline.com/open-roles/7996415003?gh_jid=7996415003'>Apply</a></td>
+      <td>Sep 16, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-16-09-01-26'>🕐 Batch at 2026-09-16 09:01:26</h3>
 
@@ -241,7 +596,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-16-03-43-17'>🕐 Batch at 2026-09-16 03:43:17</h3>
 
 📊 **Total jobs in this batch: 6**
