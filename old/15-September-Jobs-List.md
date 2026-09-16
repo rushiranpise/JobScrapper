@@ -4,9 +4,148 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-15 19:48:04](#batch-2026-09-15-19-48-04)
 - [Batch at 2026-09-15 13:51:32](#batch-2026-09-15-13-51-32)
 - [Batch at 2026-09-15 09:08:05](#batch-2026-09-15-09-08-05)
 - [Batch at 2026-09-15 03:54:22](#batch-2026-09-15-03-54-22)
+
+<h3 id='batch-2026-09-15-19-48-04'>🕐 Batch at 2026-09-15 19:48:04</h3>
+
+📊 **Total jobs in this batch: 15**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Citi: 1 job
+- genpt: 1 job
+- Intrinsic Robotics: 1 job
+- KLA: 1 job
+- Natera : 1 job
+- NVIDIA: 2 jobs
+- SingleStore: 3 jobs
+- spacex: 2 jobs
+- Wyetech LLC: 1 job
+- Zipline: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Boston, Massachusetts, United States</td>
+      <td>Software Engineer - Underseas Recon & Strike</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5239515007?gh_jid=5239515007'>Apply</a></td>
+      <td>Sep 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex- Developer  - Integrations Workday & SAP</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex--Developer----Integrations-Workday---SAP_26993303'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Atlanta, GA, USA</td>
+      <td>CDL A Local Driver</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA-USA/CDL-A-Local-Driver_R26_0000028884'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intrinsic Robotics</b></td>
+      <td>Mountain View, California</td>
+      <td>Software Engineer, Data Infrastructure</td>
+      <td><a href='https://boards.greenhouse.io/intrinsicrobotics/jobs/6191879004?gh_jid=6191879004'>Apply</a></td>
+      <td>Sep 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Austin, TX</td>
+      <td>Regional Development Applications Engineer - MACH</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Austin-TX/Regional-Development-Applications-Engineer---MACH_2638752-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Clinical Data Review Assistant - Temp</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6193359004'>Apply</a></td>
+      <td>Sep 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>System Software Engineer, NPI Data Center Diagnostics</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--NPI-Data-Center-Diagnostics_JR2025370'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Product Management MBA Intern, Data Center GPU - Summer 2027</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SingleStore</b></td>
+      <td>United States</td>
+      <td>Software Engineer Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/singlestore/jobs/8205514'>Apply</a></td>
+      <td>Sep 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SingleStore</b></td>
+      <td>United States</td>
+      <td>Software Engineer-New Grad 2027</td>
+      <td><a href='https://job-boards.greenhouse.io/singlestore/jobs/8205427'>Apply</a></td>
+      <td>Sep 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SingleStore</b></td>
+      <td>United States</td>
+      <td>Software Engineer-New Grad 2027</td>
+      <td><a href='https://job-boards.greenhouse.io/singlestore/jobs/8205389'>Apply</a></td>
+      <td>Sep 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Internal Fleet Driver (Starship)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8801460002?gh_jid=8801460002'>Apply</a></td>
+      <td>Sep 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, Internal Applications</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8812137002?gh_jid=8812137002'>Apply</a></td>
+      <td>Sep 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Wyetech LLC</b></td>
+      <td>Ft. Meade, Maryland</td>
+      <td>Software Engineer 0/1</td>
+      <td><a href='https://jobs.lever.co/wyetechllc/636a5fb4-0967-491d-9993-b8a44a47e832'>Apply</a></td>
+      <td>2026-09-15 21:25:03</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Electrical Project Engineer Intern (Summer 2027)</td>
+      <td><a href='https://www.zipline.com/open-roles/7980932003?gh_jid=7980932003'>Apply</a></td>
+      <td>Sep 15, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-15-13-51-32'>🕐 Batch at 2026-09-15 13:51:32</h3>
 
@@ -472,7 +611,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-15-09-08-05'>🕐 Batch at 2026-09-15 09:08:05</h3>
 
 📊 **Total jobs in this batch: 26**
@@ -691,8 +829,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-09-15-03-54-22'>🕐 Batch at 2026-09-15 03:54:22</h3>
+---<h3 id='batch-2026-09-15-03-54-22'>🕐 Batch at 2026-09-15 03:54:22</h3>
 
 📊 **Total jobs in this batch: 7**
 
