@@ -4,9 +4,176 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-16 19:52:32](#batch-2026-09-16-19-52-32)
 - [Batch at 2026-09-16 13:51:35](#batch-2026-09-16-13-51-35)
 - [Batch at 2026-09-16 09:01:26](#batch-2026-09-16-09-01-26)
 - [Batch at 2026-09-16 03:43:17](#batch-2026-09-16-03-43-17)
+
+<h3 id='batch-2026-09-16-19-52-32'>🕐 Batch at 2026-09-16 19:52:32</h3>
+
+📊 **Total jobs in this batch: 19**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Applied Materials: 2 jobs
+- BAH: 3 jobs
+- BorgWarner: 2 jobs
+- Broadcom : 1 job
+- LexisNexis Risk Solutions: 1 job
+- nVent: 1 job
+- Reddit: 1 job
+- State Street: 1 job
+- The Walt Disney Company: 5 jobs
+- Verkada : 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Rapid Integration & Test Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5239473007?gh_jid=5239473007'>Apply</a></td>
+      <td>Sep 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>AI Materials Research Engineer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/AI-Materials-Research-Engineer_R2628482-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Data Scientist - Agentic AI / ML</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist---Agentic-AI---ML_R2628868'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Camp Lejeune, NC</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Lejeune-NC/Data-Engineer_R0249648'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-Engineer_R0249644'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Atlanta, GA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/DevOps-Engineer_R0249624'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Ithaca - New York - USA</td>
+      <td>TEAMSTERS - Metal Finisher/Handler B - 2nd</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Ithaca---New-York---USA/TEAMSTERS---Metal-Finisher-Handler-B---2nd_R2026-3228-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Ithaca - New York - USA</td>
+      <td>TEAMSTERS - Metal Finisher/Handler B - 3rd (M)</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Ithaca---New-York---USA/TEAMSTERS---Metal-Finisher-Handler-B---3rd--M-_R2026-3224-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-Colorado-Fort Collins-4380 Ziegler Road</td>
+      <td>Die-to-Die (D2D) Applications Engineer</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Die-to-Die--D2D--Applications-Engineer_R027123'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>LexisNexis Risk Solutions</b></td>
+      <td>Alpharetta, GA</td>
+      <td>Software Engineer 1</td>
+      <td><a href='https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Software-Engineer-1_R117973'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Millington, MD, US</td>
+      <td>Industrial Painter</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Millington-MD-US/Industrial-Painter_R23678'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Reddit</b></td>
+      <td>Remote - United States</td>
+      <td>Software Engineer, Consumer Engineering</td>
+      <td><a href='https://job-boards.greenhouse.io/reddit/jobs/8172457'>Apply</a></td>
+      <td>Sep 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Quincy, Massachusetts</td>
+      <td>Junior Software Engineer</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Junior-Software-Engineer_R-797359-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Glendale, CA, USA</td>
+      <td>WDI Master Planning Intern, Glendale, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Master-Planning-Intern--Glendale--Spring-2027_10160961'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Lake Buena Vista, FL, USA</td>
+      <td>WDI Master Planning Intern, Orlando, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Master-Planning-Intern--Orlando--Spring-2027_10160959'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Lake Buena Vista, FL, USA</td>
+      <td>WDI Project Management Intern, Orlando, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Project-Management-Intern--Orlando--Spring-2027_10160958'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>Coordinator, Awards (Disney Entertainment)</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Coordinator--Awards--Disney-Entertainment-_10160626-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Chicago, IL, USA</td>
+      <td>WLS-TV (ABC7) Programming, Promotion & Publicity Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Chicago-IL-USA/WLS-TV--ABC7--Programming--Promotion---Publicity-Intern--Spring-2027_10158839'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Verkada </b></td>
+      <td>Austin, TX United States</td>
+      <td>Enterprise Development Representative (December 2026 Grads)</td>
+      <td><a href='https://job-boards.greenhouse.io/verkada/jobs/5226332007'>Apply</a></td>
+      <td>Sep 16, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-16-13-51-35'>🕐 Batch at 2026-09-16 13:51:35</h3>
 
@@ -361,7 +528,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-16-09-01-26'>🕐 Batch at 2026-09-16 09:01:26</h3>
 
 📊 **Total jobs in this batch: 28**
@@ -595,8 +761,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-09-16-03-43-17'>🕐 Batch at 2026-09-16 03:43:17</h3>
+---<h3 id='batch-2026-09-16-03-43-17'>🕐 Batch at 2026-09-16 03:43:17</h3>
 
 📊 **Total jobs in this batch: 6**
 
