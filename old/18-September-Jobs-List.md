@@ -4,8 +4,213 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-18 13:21:53](#batch-2026-09-18-13-21-53)
 - [Batch at 2026-09-18 08:42:11](#batch-2026-09-18-08-42-11)
 - [Batch at 2026-09-18 03:28:14](#batch-2026-09-18-03-28-14)
+
+<h3 id='batch-2026-09-18-13-21-53'>🕐 Batch at 2026-09-18 13:21:53</h3>
+
+📊 **Total jobs in this batch: 24**
+
+**Per company:**
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 2 jobs
+- Applied Materials: 1 job
+- BAH: 3 jobs
+- BorgWarner: 1 job
+- Broadcom : 1 job
+- flir: 1 job
+- Gemini: 2 jobs
+- Micron: 2 jobs
+- Natera : 1 job
+- Scoutm Otors: 3 jobs
+- Toast: 1 job
+- Twitch: 2 jobs
+- Vast: 1 job
+- Waymo: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>County Jail Liaison</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/County-Jail-Liaison_JR63155-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>OneLink Developer Supervisor</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/OneLink-Developer-Supervisor_JR65551'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>New College Grad Physicist/Scientist (PhD - Santa Clara, CA_</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/New-College-Grad-Physicist-Scientist--PhD---Santa-Clara--CA-_R2627802'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Databricks Lakehouse Engineer and Analyst, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Databricks-Lakehouse-Engineer-and-Analyst--Mid_R0249882'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lexington, MA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/Software-Engineer_R0249879'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lexington, MA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/Software-Engineer_R0249875'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Arden - North Carolina - USA</td>
+      <td>AI/ML Systems Engineer</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/AI-ML-Systems-Engineer_R2026-3664'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-CA - Promontory D</td>
+      <td>Software Engineer</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-D/Software-Engineer_R027077'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - San Diego, CA</td>
+      <td>Material Handler</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---San-Diego-CA/Material-Handler_REQ36904'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Gemini</b></td>
+      <td>New York, New York</td>
+      <td>Product Management Intern (Winter 2027)</td>
+      <td><a href='https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214332&gh_jid=8214332'>Apply</a></td>
+      <td>Sep 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Gemini</b></td>
+      <td>New York, New York</td>
+      <td>Software Engineering Intern (Winter 2027)</td>
+      <td><a href='https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272'>Apply</a></td>
+      <td>Sep 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - North Office</td>
+      <td>Intern - Category Supplier Management</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/Intern---Category-Supplier-Management_JR110910'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Full Stack AI Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Full-Stack-AI-Engineer_JR111970'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>Austin, TX</td>
+      <td>Clinical Data Operator - Austin, TX</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6196309004'>Apply</a></td>
+      <td>Sep 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Scoutm Otors</b></td>
+      <td>Charlotte, North Carolina, United States</td>
+      <td>AI Workflow Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/scoutmotors/jobs/5239831007'>Apply</a></td>
+      <td>Sep 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Scoutm Otors</b></td>
+      <td>Charlotte, North Carolina, United States</td>
+      <td>AI Workflow Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/scoutmotors/jobs/5240865007'>Apply</a></td>
+      <td>Sep 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Scoutm Otors</b></td>
+      <td>Charlotte, North Carolina, United States</td>
+      <td>Data Ops Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/scoutmotors/jobs/5239727007'>Apply</a></td>
+      <td>Sep 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Toast</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer I, Websites</td>
+      <td><a href='https://careers.toasttab.com/jobs?gh_jid=8191751'>Apply</a></td>
+      <td>Sep 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Twitch</b></td>
+      <td>Seattle, WA</td>
+      <td>Software Engineer, Data Platform</td>
+      <td><a href='https://job-boards.greenhouse.io/twitch/jobs/8821382002'>Apply</a></td>
+      <td>Sep 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Twitch</b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer, Data Platform</td>
+      <td><a href='https://job-boards.greenhouse.io/twitch/jobs/8817023002'>Apply</a></td>
+      <td>Sep 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Vast</b></td>
+      <td>Long Beach, California, United States</td>
+      <td>Avionics Software Test Engineer</td>
+      <td><a href='https://boards.greenhouse.io/vast/jobs/4714389006?gh_jid=4714389006'>Apply</a></td>
+      <td>Sep 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>San Francisco, California, United States</td>
+      <td>2027 Summer Intern, PhD, Data Science</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8199365'>Apply</a></td>
+      <td>Sep 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, California</td>
+      <td>2027 Summer Intern, PhD, Learning-Based Behavior for Special Vehicles</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8203191'>Apply</a></td>
+      <td>Sep 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Remote, USA</td>
+      <td>Software Quality Operations Specialist</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=7942677'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-18-08-42-11'>🕐 Batch at 2026-09-18 08:42:11</h3>
 
@@ -153,7 +358,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-18-03-28-14'>🕐 Batch at 2026-09-18 03:28:14</h3>
 
 📊 **Total jobs in this batch: 7**
