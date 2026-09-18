@@ -1,8 +1,8 @@
 
-✅ Scraped 7 new jobs. Output saved to 'output.csv'.
-📦 Appended 7 jobs to 'output_old.csv'
+✅ Scraped 16 new jobs. Output saved to 'output.csv'.
+📦 Appended 16 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"DoorDash\u00a0","title":"Software Engineer","location":"San Francisco, CA; Seattle, WA; NYC, NY","link":"https:\/\/job-boards.greenhouse.io\/doordashusa\/jobs\/8212984","postedOn":"2026-09-18T04:25:58-04:00","updatedOn":"2026-09-18T04:25:58-04:00"},{"company":"Nike","title":"Fulltime Athlete, Nike Adelaide","location":"Adelaide, South Australia","link":"https:\/\/nike.wd1.myworkdayjobs.com\/en-US\/nke\/job\/Adelaide-South-Australia\/Fulltime-Athlete--Nike-Adelaide_R-91589","postedOn":"Posted Today","updatedOn":null},{"company":"spacex","title":"Electrician Trainee (Starship) - Temporary ","location":"Starbase, TX","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8817884002?gh_jid=8817884002","postedOn":"2026-09-17T23:32:12-04:00","updatedOn":"2026-09-17T23:32:59-04:00"},{"company":"spacex","title":"Technical Trainer, Electrical (Starship)","location":"Starbase, TX","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8817966002?gh_jid=8817966002","postedOn":"2026-09-17T23:29:56-04:00","updatedOn":"2026-09-17T23:30:13-04:00"},{"company":"The Walt Disney Company","title":"KABC-TV (ABC7) Broadcast Technology\/IT Intern, Spring 2027","location":"Glendale, CA, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Glendale-CA-USA\/KABC-TV--ABC7--Broadcast-Technology-IT-Intern--Spring-2027_10158933-1","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"KGO-TV (ABC7) 7 On Your Side Intern, Spring 2027","location":"San Francisco, CA, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/San-Francisco-CA-USA\/KGO-TV--ABC7--7-On-Your-Side-Intern--Spring-2027_10157762","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"KGO-TV (ABC7) Assignment Desk News Intern, Spring 2027","location":"San Francisco, CA, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/San-Francisco-CA-USA\/KGO-TV--ABC7--Assignment-Desk-News-Intern--Spring-2027_10158968","postedOn":"Posted Today","updatedOn":null}]
+[{"company":"Applied Materials","title":"New College Grad - Product Safety Engineer (Bachelors\/Masters - Santa Clara, CA)","location":"Santa Clara,CA","link":"https:\/\/amat.wd1.myworkdayjobs.com\/en-US\/External\/job\/Santa-ClaraCA\/New-College-Grad---Product-Safety-Engineer--Bachelors-Masters---Santa-Clara--CA-_R2628099","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Learning Platform Developer","location":"McLean, VA","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/McLean-VA\/Learning-Platform-Developer_R0249816-1","postedOn":"Posted Today","updatedOn":null},{"company":"BorgWarner","title":"Power Electronics Intern (Year-Round)","location":"Kokomo Technical Center - Indiana - USA","link":"https:\/\/borgwarner.wd5.myworkdayjobs.com\/en-US\/BorgWarner_Careers\/job\/Kokomo-Technical-Center---Indiana---USA\/Power-Electronics-Intern--Year-Round-_R2026-3426","postedOn":"Posted Today","updatedOn":null},{"company":"BorgWarner","title":"Production Assembler (Industrial Solutions) - Grade B ($19.96 - $23.28)","location":"Hendersonville - North Carolina - USA","link":"https:\/\/borgwarner.wd5.myworkdayjobs.com\/en-US\/BorgWarner_Careers\/job\/Hendersonville---North-Carolina---USA\/Production-Assembler--Industrial-Solutions----Grade-B---1996----2328-_R2026-3672","postedOn":"Posted Today","updatedOn":null},{"company":"Core Weave","title":"Data Center Technician - Chester, VA","location":"Chester, VA","link":"https:\/\/coreweave.com\/careers\/job?4713280006&board=coreweave&gh_jid=4713280006","postedOn":"2026-09-18T10:47:29-04:00","updatedOn":"2026-09-18T10:47:29-04:00"},{"company":"flir","title":"Mission Training Complex Engineer","location":"US - Huntsville, AL (Arsenal)","link":"https:\/\/flir.wd1.myworkdayjobs.com\/en-US\/flircareers\/job\/US---Huntsville-AL-Arsenal\/Mission-Training-Complex-Engineer_REQ36960","postedOn":"Posted Today","updatedOn":null},{"company":"flir","title":"Junior Component Engineer \u2013 Electronics Manufacturing","location":"US - Chestnut Ridge, NY","link":"https:\/\/flir.wd1.myworkdayjobs.com\/en-US\/flircareers\/job\/US---Chestnut-Ridge-NY\/Junior-Component-Engineer---Electronics-Manufacturing_REQ36241","postedOn":"Posted Today","updatedOn":null},{"company":"Formlabs","title":"Hardware Test Engineering Intern (Winter\/Spring 2027)","location":"Somerville, MA","link":"https:\/\/careers.formlabs.com\/job\/8196515\/apply\/?gh_jid=8196515","postedOn":"2026-09-18T11:11:06-04:00","updatedOn":"2026-09-18T11:11:06-04:00"},{"company":"Micron","title":"Intern - TSE KEG Engineer","location":"Boise, ID - Main Site","link":"https:\/\/micron.wd1.myworkdayjobs.com\/en-US\/External\/job\/Boise-ID---Main-Site\/TSE-KEG-Intern-Engineer_JR112283","postedOn":"Posted Today","updatedOn":null},{"company":"MKSCareersUniversity","title":"2027 Summer Electrical\/Computer Engineering Co-op","location":"Rochester, NY","link":"https:\/\/mksinst.wd1.myworkdayjobs.com\/en-US\/MKSCareersUniversity\/job\/Rochester-NY\/XMLNAME-2027-Summer-Electrical-Computer-Engineering-Co-op_R20646","postedOn":"Posted Today","updatedOn":null},{"company":"nVent","title":"Operations Intern (June - August 2027)","location":"Solon, OH, US","link":"https:\/\/nvent.wd5.myworkdayjobs.com\/en-US\/nVent\/job\/Solon-OH-US\/Operations-Intern--June---August-2027-_R23541","postedOn":"Posted Today","updatedOn":null},{"company":"Quantinuum","title":"Optics R&D Technician Intern - 1019","location":"US Albuquerque, NM","link":"https:\/\/jobs.eu.lever.co\/quantinuum\/6b28b2e2-482a-40ef-9eb7-886dc4a749ef","postedOn":"2026-09-17 19:35:39","updatedOn":"N\/A"},{"company":"Sony AI America Inc","title":"Research Intern on Generative and Protective AI for Content Creation","location":"Remote - Texas","link":"https:\/\/sonyglobal.wd1.myworkdayjobs.com\/en-US\/SonyGlobalCareers\/job\/Remote---Texas\/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"Software Engineer II","location":"Glendale, CA, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Glendale-CA-USA\/Software-Engineer-II_10159879","postedOn":"Posted Today","updatedOn":null},{"company":"The Walt Disney Company","title":"Disney Live Entertainment Character Content Creator Intern, Spring 2027","location":"Kissimmee, FL, USA","link":"https:\/\/disney.wd5.myworkdayjobs.com\/en-US\/disneycareer\/job\/Kissimmee-FL-USA\/Disney-Live-Entertainment-Character-Content-Creator-Intern--Spring-2027_10160035","postedOn":"Posted Today","updatedOn":null},{"company":"Upstart","title":"Applied Scientist Intern","location":"United States | Remote","link":"https:\/\/careers.upstart.com\/jobs?gh_jid=8213476","postedOn":"2026-09-18T10:12:52-04:00","updatedOn":"2026-09-18T10:34:03-04:00"}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
@@ -19,17 +19,17 @@ ERRORS_START
 [ERROR] Cdata: Greenhouse API failed: 404
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
 [ERROR] Chatham Financial: Greenhouse API failed: 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"DAEC70MU6T61P5","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"D2E948MU74DB1O","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Clever: Could not extract Lever company name
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
-[ERROR] CMU: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"CA5AA5MU6T6D5C","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Comcast : Workday API failed: HTTP 410 - {"errorCode":"ERR_TENANT_MIGRATED","errorCaseId":"ECA6E6MU6T6GLP","httpStatus":410,"message":"","messageParams":{"outageUrl":"https://wd5.myworkday.com/wday/drs/outage?t\u003dcomcast\u0026s\u003dcomcast_careers"}}
+[ERROR] CMU: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"793111MU74DP11","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Comcast : Workday API failed: HTTP 410 - {"errorCode":"ERR_TENANT_MIGRATED","errorCaseId":"50F6DEMU74DS4K","httpStatus":410,"message":"","messageParams":{"outageUrl":"https://wd5.myworkday.com/wday/drs/outage?t\u003dcomcast\u0026s\u003dcomcast_careers"}}
 [ERROR] Dapper Labs: Lever API failed: https://api.lever.co/v0/postings/axiomzen?mode=json - 404
 [ERROR] Demandbase : Greenhouse API failed: 404
 [ERROR] Digital.ai: Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"A777D1MU6T6Y03","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"ADB860MU74E870","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
 [ERROR] Fortra : Greenhouse API failed: 404
 [ERROR] Funnel: Breezy API failed: 404
@@ -43,40 +43,33 @@ ERRORS_START
 [ERROR] Kobie: Greenhouse API failed: 404
 [ERROR] Kodiak Robotics: Lever API failed: https://api.lever.co/v0/postings/kodiak?mode=json - 404
 [ERROR] Modernizing Medicine: Greenhouse API failed: 404
-[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"925446MU6T8MOV","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"D4D25AMU74G5S6","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Notion: Greenhouse API failed: 404
-[ERROR] Otis: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"DE7AA2MU6T953Q","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Perplexity AI: Greenhouse API failed: 404
 [ERROR] Plaid : Lever API failed: https://api.lever.co/v0/postings/plaid?mode=json - 404
+[ERROR] Otis: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"8EACC8MU74GEWX","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"CA5AA5MU6T9F9H","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"62FD73MU74GVZU","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Raptor Maps: Lever API failed: https://api.lever.co/v0/postings/RaptorMaps?mode=json - 404
 [ERROR] Relativity Space: Greenhouse API failed: 404
+[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"44BD86MU74GZOS","httpStatus":403,"message":"permission denied","messageParams":{}}
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
-[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"E2D67FMU6T9N03","httpStatus":403,"message":"permission denied","messageParams":{}}
 [ERROR] Skydio: Greenhouse API failed: 404
 [ERROR] Snap: Invalid Workday URL
-[ERROR] Simons Foundation: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] searchLFN: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Shipt : Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Robert Half : Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Sentry : Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Stitch Fix : Greenhouse API failed: 404
 [ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
 [ERROR] Strong Holdim: Greenhouse API failed: 404
-[ERROR] Rakuten : Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Tandem: Ashby API failed - HTTP 404: Not Found
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] Sony AI America Inc: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"E843DEMU6TAW8I","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"DFCCBDMU6TAXEC","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"9D1756MU74IVZ3","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"2D8D28MU74IYP9","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] TRM labs: Greenhouse API failed: 404
 [ERROR] Vimeo: Greenhouse API failed: 404
-[ERROR] Walmart: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"195757MU6TBQZF","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Walmart: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"793111MU74JMJO","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"4C8E09MU6TC2VU","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"2D8D28MU74JSL2","httpStatus":422,"message":"","messageParams":{}}
 ERRORS_END
