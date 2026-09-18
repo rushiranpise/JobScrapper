@@ -4,9 +4,155 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-17 19:39:15](#batch-2026-09-17-19-39-15)
 - [Batch at 2026-09-17 13:56:25](#batch-2026-09-17-13-56-25)
 - [Batch at 2026-09-17 09:07:54](#batch-2026-09-17-09-07-54)
 - [Batch at 2026-09-17 03:52:59](#batch-2026-09-17-03-52-59)
+
+<h3 id='batch-2026-09-17-19-39-15'>🕐 Batch at 2026-09-17 19:39:15</h3>
+
+📊 **Total jobs in this batch: 16**
+
+**Per company:**
+- Appian : 1 job
+- Allstate: 1 job
+- Applied Materials: 1 job
+- ASMLEXT1: 1 job
+- BAH: 2 jobs
+- flir: 1 job
+- General Motors LLC: 1 job
+- Micron: 3 jobs
+- Natera : 1 job
+- Salesforce: 1 job
+- The Walt Disney Company: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Appian </b></td>
+      <td>McLean, Virginia</td>
+      <td>Workplace Events Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/appian/jobs/8210852'>Apply</a></td>
+      <td>Sep 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - IL (Remote)</td>
+      <td>Inside Property Adjuster - Remote Trainee</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---IL-Remote/Inside-Property-Adjuster---Remote-Trainee_R35051'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Billerica,MA</td>
+      <td>AGS Training Services NEXX New Product (NPI) Instructor III - (E3)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/AGS-Training-Services-PPC-New-Product--NPI--Instructor-III----E3-_R2618368'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Boise, ID, USA</td>
+      <td>Field Applications Engineer</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Boise-ID-USA/Field-Applications-Engineer_J-00351761'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Colorado Springs, CO</td>
+      <td>Software Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Colorado-Springs-CO/Software-Architect_R0249765'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Quantico, VA</td>
+      <td>Facilities Project Scheduler and Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/Facilities-Program-Management-Specialist_R0248398'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Lewisburg, TN</td>
+      <td>Material Handler / Chemical Shipping Specialist</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Lewisburg-TN/Material-Handler---Chemical-Shipping-Specialist_REQ36784'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>Software Engineer, AV Launch</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Launch_JR-202618994'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Intern – Process Engineer ID1</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Engineer-ID1_JR109507'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Manassas, VA -  Fab 6</td>
+      <td>New College Grad - Dry Etch Process Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/Dry-Etch-Process-Engineer_JR110471'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Manassas, VA -  Fab 6</td>
+      <td>AI Product Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/AI-Product-Engineer_JR112358-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Software Engineer III, Service AI Transformation</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6198781004'>Apply</a></td>
+      <td>Sep 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Washington - Bellevue</td>
+      <td>Software Engineering MTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-MTS_JR355208-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Anaheim, CA, USA</td>
+      <td>Disney Live Entertainment Production Specialist Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disney-Live-Entertainment-Production-Specialist-Intern--Spring-2027_10159388-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Glendale, CA, USA</td>
+      <td>Hardlines Licensing Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Hardlines-Licensing-Intern--Spring-2027_10160427'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Orlando, FL, USA</td>
+      <td>Disney Live Entertainment Costume Support Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Disney-Live-Entertainment-Costume-Support-Intern--Spring-2027_10160070'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-17-13-56-25'>🕐 Batch at 2026-09-17 13:56:25</h3>
 
@@ -313,7 +459,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-17-09-07-54'>🕐 Batch at 2026-09-17 09:07:54</h3>
 
 📊 **Total jobs in this batch: 24**
@@ -514,8 +659,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-09-17-03-52-59'>🕐 Batch at 2026-09-17 03:52:59</h3>
+---<h3 id='batch-2026-09-17-03-52-59'>🕐 Batch at 2026-09-17 03:52:59</h3>
 
 📊 **Total jobs in this batch: 2**
 
