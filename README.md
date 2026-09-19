@@ -4,9 +4,195 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-18 19:38:26](#batch-2026-09-18-19-38-26)
 - [Batch at 2026-09-18 13:21:53](#batch-2026-09-18-13-21-53)
 - [Batch at 2026-09-18 08:42:11](#batch-2026-09-18-08-42-11)
 - [Batch at 2026-09-18 03:28:14](#batch-2026-09-18-03-28-14)
+
+<h3 id='batch-2026-09-18-19-38-26'>🕐 Batch at 2026-09-18 19:38:26</h3>
+
+📊 **Total jobs in this batch: 21**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Applied Materials: 2 jobs
+- BAH: 1 job
+- Bank of Montreal: 1 job
+- Belvedere Trading: 1 job
+- Citi: 1 job
+- Formlabs: 1 job
+- General Motors LLC: 2 jobs
+- Hudson River Trading: 1 job
+- Lendbuzz: 1 job
+- NVIDIA: 1 job
+- Pinterest: 1 job
+- Reddit: 1 job
+- spacex: 3 jobs
+- The Walt Disney Company: 2 jobs
+- Waymo: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Product Support Engineer - Product Sustainment Lifecycle </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5243061007?gh_jid=5243061007'>Apply</a></td>
+      <td>Sep 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Benicia,CA</td>
+      <td>Application Engineer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/BeniciaCA/Application-Engineer_R2628640'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Algorithm Developer II (E2)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Algorithm-Developer-II--E2-_R2628905'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lorton, VA</td>
+      <td>AI and ML Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/AI-and-ML-Engineer_R0249794'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>San Ramon, CA, USA</td>
+      <td>Software Developer, Winter 2027 (Internship) - 4 months</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Belvedere Trading</b></td>
+      <td>Chicago, Illinois</td>
+      <td>Engineer- Data Visualization Platform</td>
+      <td><a href='https://jobs.lever.co/belvederetrading/3d118f1b-08e1-4b81-8d4d-bac869d166a7'>Apply</a></td>
+      <td>2026-09-18 20:02:55</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX- Desarrollador Junior AEM</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Desarrollador-Junior-AEM_26996180'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Enterprise Architect - Business Systems (Internal)</td>
+      <td><a href='https://careers.formlabs.com/job/8214510/apply/?gh_jid=8214510'>Apply</a></td>
+      <td>Sep 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Manufacturing Software Integration Developer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Manufacturing-Software-Integration-Developer_JR-202618704'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Software Developer - Manufacturing Applications</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Developer---Manufacturing-Applications_JR-202618702'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Hudson River Trading</b></td>
+      <td>New York, NY, United States</td>
+      <td>PhD Winter Internship - 2027</td>
+      <td><a href='https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212741'>Apply</a></td>
+      <td>Sep 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Lendbuzz</b></td>
+      <td>Boston, MA</td>
+      <td>Full-Stack Engineer (Backend)</td>
+      <td><a href='https://jobs.lever.co/lendbuzz/a19330a3-380a-45ad-b388-c98c33ef0db3'>Apply</a></td>
+      <td>2026-09-18 20:27:59</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Research Scientist, Networking Research - PhD New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Networking-Research---PhD-New-College-Grad-2026_JR2024900-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pinterest</b></td>
+      <td>San Francisco, CA, US; Remote, US</td>
+      <td>Software Engineer II, Data Analytics & Engineering</td>
+      <td><a href='https://www.pinterestcareers.com/jobs/?gh_jid=8213988'>Apply</a></td>
+      <td>Sep 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Reddit</b></td>
+      <td>Remote - United States</td>
+      <td>Software Engineer, Ingestion Platform</td>
+      <td><a href='https://job-boards.greenhouse.io/reddit/jobs/8214910'>Apply</a></td>
+      <td>Sep 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8822280002?gh_jid=8822280002'>Apply</a></td>
+      <td>Sep 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Supervisor, IT Network Infrastructure - 1st Shift</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8818961002?gh_jid=8818961002'>Apply</a></td>
+      <td>Sep 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Supervisor, IT Network Infrastructure - 2nd Shift</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8818980002?gh_jid=8818980002'>Apply</a></td>
+      <td>Sep 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>New York, NY, USA</td>
+      <td>Software Engineer II, AI Performance</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Software-Engineer-II--AI-Performance_10148555'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>New York, NY, USA</td>
+      <td>Software Engineer II, AI Insights</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Software-Engineer-II--AI-Insights_10148557'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, California, USA</td>
+      <td>2027 Summer Intern, MS/PhD, Software Engineer, Multiverse</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8214519'>Apply</a></td>
+      <td>Sep 18, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-18-13-21-53'>🕐 Batch at 2026-09-18 13:21:53</h3>
 
@@ -211,7 +397,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-18-08-42-11'>🕐 Batch at 2026-09-18 08:42:11</h3>
 
 📊 **Total jobs in this batch: 16**
@@ -357,8 +542,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-09-18-03-28-14'>🕐 Batch at 2026-09-18 03:28:14</h3>
+---<h3 id='batch-2026-09-18-03-28-14'>🕐 Batch at 2026-09-18 03:28:14</h3>
 
 📊 **Total jobs in this batch: 7**
 
