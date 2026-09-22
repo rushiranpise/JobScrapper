@@ -1,24 +1,27 @@
-company,title,location,postedOn,link,updatedOn
-Applied Materials,Material Handler II,"Gloucester,MA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/Material-Handler-II_R2628559,
-Applied Materials,Material Handler II,"Gloucester,MA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/Material-Handler-II_R2626205,
-Applied Materials,Material Handler II,"Austin,TX",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Handler-II_R2629091,
-Anduril Industries,"Software Engineer, Strategic Defense","Costa Mesa, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",2026-09-22T10:39:49-04:00,https://boards.greenhouse.io/andurilindustries/jobs/5244366007?gh_jid=5244366007,2026-09-22T10:39:49-04:00
-BAH,"Data Scientist, Mid","Arlington, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0250083,
-BAH,Analytic Facilitator and Trainer,"Springfield, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Analytic-Facilitator-and-Trainer_R0249890,
-BAH,Appian Developer,"Maxwell AFB, AL",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Maxwell-AFB-AL/Appian-Developer_R0250200,
-BorgWarner,Material Handler (Grade C $21.01 - $24.16),Arden - North Carolina - USA,Posted Today,https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/Material-Handler--Grade-C--2101----2416-_R2026-3688,
-BorgWarner,Material Handler 1st Shift (Grade C - $21.01 - $24.16),Arden - North Carolina - USA,Posted Today,https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/Material-Handler-1st-Shift--Grade-C----2101----2416-_R2026-3691,
-Brink,CDL Driver,Beltsville MD,Posted Today,https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Beltsville-MD/CDL-Driver_R80638,
-Citi,Teller Part-Time (20 Hours) - Co-Op City Branch,Bronx New York United States,Posted Today,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Bronx-New-York-United-States/Teller-Part-Time--20-Hours----Co-Op-City-Branch_26996134,
-Coinbase,Institutional Operations Intern,"Hybrid - New York, NY",2026-09-08T18:42:35-04:00,https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569,2026-09-22T12:00:21-04:00
-KLA,HPC Windows Server Infrastructure Engineer,"Milpitas, CA",Posted Today,https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/HPC-Windows-Server-Infrastructure-Engineer_2640553,
-MOOG,"Intern, Test Engineering","Buffalo, NY",Posted Today,https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Test-Engineering_R-26-20243-1,
-MOOG,"Dir., BU Mltry Glbl Sust","Buffalo, NY",Posted Today,https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Dir--BU-Mltry-Glbl-Sust_R-26-20178-1,
-MKSCareersUniversity,QA Engineer (Intern),Belarus Minsk,Posted Today,https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Belarus-Minsk/QA-Engineer--Intern-_R21477,
-Roku,Software Engineer ,"San Jose, California",2026-09-22T11:30:07-04:00,https://www.weareroku.com/jobs/8221787?gh_jid=8221787,2026-09-22T11:30:07-04:00
-Roku,Software Engineer ,"San Jose, California",2026-09-22T11:29:33-04:00,https://www.weareroku.com/jobs/8221686?gh_jid=8221686,2026-09-22T11:29:33-04:00
-Slice,"Software Developer, Deploy & Run","Remote- Canada, UK, or North Macedonia",2026-09-21T10:27:26-04:00,https://slice.careers/careers-listing?gh_jid=8220120,2026-09-22T09:32:52-04:00
-Snowflake,Software Engineer Intern - Berlin (2027),DE-Berlin-Trion Building,2026-09-22T13:26:52.671+00:00,https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8,
-The Toro,"Material Handler, 2nd Shift - Exmark","Beatrice, NE",Posted Today,https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Beatrice-NE/Material-Handler--2nd-Shift---Exmark_JR17335,
-The Toro,CRM Business Analyst Intern - The Toro Company,"Bloomington, MN",Posted Today,https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Bloomington-MN/CRM-Business-Analyst-Intern---The-Toro-Company_JR17386,
-Upstart,"Software Engineer, Site Reliability",United States | Remote,2026-09-22T11:35:12-04:00,https://careers.upstart.com/jobs?gh_jid=8223417,2026-09-22T11:35:12-04:00
+company,title,location,link,postedOn,updatedOn
+Anduril Industries,"Software Engineer, Space Systems Test","Costa Mesa, California, United States",https://boards.greenhouse.io/andurilindustries/jobs/5244590007?gh_jid=5244590007,2026-09-22T14:14:30-04:00,2026-09-22T14:14:30-04:00
+Archer 56,AI Autonomy Engineer,"San Jose, California, United States",https://job-boards.greenhouse.io/archer56/jobs/7703614003,2026-05-14T19:29:11-04:00,2026-09-22T16:41:59-04:00
+"Motorola Solutions, Inc",Tools Developer,"Illinois, US Offsite, More...",https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Illinois-US-Offsite/Tools-Developer_R68779,Posted Today,
+"Motorola Solutions, Inc",Complaints Administrative Assistant - Remote,"Texas Remote Work, More...",https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Texas-Remote-Work/Complaints-Administrative-Assistant_R68884,Posted Today,
+ASMLEXT1,"Spindle Polishing Technician CWW Front End Nights, 6:00 PM – 6:00 AM","Wilton, CT, USA",https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Spindle-Polishing-Technician-CWW-Front-End-Nights--6-00-PM---6-00-AM_J-00353546,Posted Today,
+Applied Materials,Material Handler,"Austin,TX",https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Handler_R2629090-1,Posted Today,
+Applied Materials,"Product Line Management New College Grad- Bachelor's (Santa Clara, CA)","Santa Clara,CA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Product-Line-Management-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626625,Posted Today,
+BAH,Training and Fielding Integration Specialist,"Aberdeen Proving Ground, MD",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aberdeen-Proving-Ground-MD/Training-and-Fielding-Integration-Specialist_R0250089,Posted Today,
+BAH,"University, Summer 2027 - Corporate Development Intern","McLean, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Summer-2027---Corporate-Development-Intern_R0250270,Posted Today,
+BAH,Tier 3 MLOPs Engineer,"Chantilly, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Tier-3-MLOPs-Engineer_R0250063,Posted Today,
+BAH,Databricks Platform Engineer,"McLean, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Databricks-Platform-Engineer_R0250061,Posted Today,
+BAH,MLOps Engineer,"Chantilly, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/MLOps-Engineer_R0250060,Posted Today,
+homedepot,"Measure Tech - Hadley, MA",MASSACHUSETTS - VIRTUAL - MA01,https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/MASSACHUSETTS---VIRTUAL---MA01/Measure-Tech---PIttsfield--MA_Req192230,Posted Today,
+KLA,Applications Development Engineer,"Milpitas, CA",https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Applications-Development-Engineer_2638540-1,Posted Today,
+Micron,AI Reimagination Engineer,"Boise, ID - Main Site",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/AI-Reimagination-Engineer_JR112682,Posted Today,
+Micron,AI Reimagination Engineer,"Boise, ID - Main Site",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/AI-Reimagination-Engineer_JR112681,Posted Today,
+Morgan Stanley,Back-end Engineer - Data Platforms,"New York, New York, United States of America",https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Back-end-Engineer---Data-Platforms_PT-JR043635,Posted Today,
+Nike,"NIKE, Inc. N7 Undergraduate Internship","Beaverton, Oregon",https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-N7-Undergraduate-Internship_R-92659,Posted Today,
+Quantinuum,R&D PhD Intern - 1025,"US Broomfield, CO",https://jobs.eu.lever.co/quantinuum/0540d133-27ae-427e-ab4e-1f56a7bcd884,2026-09-22 19:27:32,N/A
+Roku,Software Engineer ,"San Jose, California",https://www.weareroku.com/jobs/8223823?gh_jid=8223823,2026-09-22T13:40:46-04:00,2026-09-22T13:40:46-04:00
+State Street,"Software Engineering & Development, Off","Quincy, Massachusetts",https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Software-Engineering---Development--Off_R-798013-1,Posted Today,
+The standard,Software Engineer IV,"Portland, OR",https://standard.wd1.myworkdayjobs.com/en-US/Search/job/Portland-OR/Software-Engineer-IV_REQ006993,Posted Today,
+The Walt Disney Company,Product Software Engineer II,"New York, NY, USA",https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-II_10160173,Posted Today,
+Travellers,"Data Engineer II (dbt, AWS)",CT - Hartford,https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Data-Engineer-II--dbt--AWS-_R-52559,Posted Today,
+Waymo,"2027 Summer Intern, MS/PhD, Machine Learning Engineer","San Francisco, CA, USA",https://careers.withwaymo.com/jobs?gh_jid=8223735,2026-09-22T16:22:25-04:00,2026-09-22T16:22:25-04:00
+Waymo,"Research Scientist, World Model Post-Training","Mountain View, CA, USA; San Francisco, CA, USA; New York, NY, USA",https://careers.withwaymo.com/jobs?gh_jid=8222098,2026-09-22T12:48:50-04:00,2026-09-22T12:48:50-04:00

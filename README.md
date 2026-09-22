@@ -4,8 +4,231 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-22 13:51:45](#batch-2026-09-22-13-51-45)
 - [Batch at 2026-09-22 09:11:07](#batch-2026-09-22-09-11-07)
 - [Batch at 2026-09-22 03:49:36](#batch-2026-09-22-03-49-36)
+
+<h3 id='batch-2026-09-22-13-51-45'>🕐 Batch at 2026-09-22 13:51:45</h3>
+
+📊 **Total jobs in this batch: 26**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Archer 56: 1 job
+- Motorola Solutions, Inc: 2 jobs
+- ASMLEXT1: 1 job
+- Applied Materials: 2 jobs
+- BAH: 5 jobs
+- homedepot: 1 job
+- KLA: 1 job
+- Micron: 2 jobs
+- Morgan Stanley: 1 job
+- Nike: 1 job
+- Quantinuum: 1 job
+- Roku: 1 job
+- State Street: 1 job
+- The standard: 1 job
+- The Walt Disney Company: 1 job
+- Travellers: 1 job
+- Waymo: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Software Engineer, Space Systems Test</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5244590007?gh_jid=5244590007'>Apply</a></td>
+      <td>Sep 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Archer 56</b></td>
+      <td>San Jose, California, United States</td>
+      <td>AI Autonomy Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/archer56/jobs/7703614003'>Apply</a></td>
+      <td>May 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Illinois, US Offsite, More...</td>
+      <td>Tools Developer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Illinois-US-Offsite/Tools-Developer_R68779'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Texas Remote Work, More...</td>
+      <td>Complaints Administrative Assistant - Remote</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Texas-Remote-Work/Complaints-Administrative-Assistant_R68884'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Spindle Polishing Technician CWW Front End Nights, 6:00 PM – 6:00 AM</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Spindle-Polishing-Technician-CWW-Front-End-Nights--6-00-PM---6-00-AM_J-00353546'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Material Handler</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Handler_R2629090-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Product Line Management New College Grad- Bachelor's (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Product-Line-Management-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626625'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Aberdeen Proving Ground, MD</td>
+      <td>Training and Fielding Integration Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aberdeen-Proving-Ground-MD/Training-and-Fielding-Integration-Specialist_R0250089'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>University, Summer 2027 - Corporate Development Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Summer-2027---Corporate-Development-Intern_R0250270'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Tier 3 MLOPs Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Tier-3-MLOPs-Engineer_R0250063'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Databricks Platform Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Databricks-Platform-Engineer_R0250061'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>MLOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/MLOps-Engineer_R0250060'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>MASSACHUSETTS - VIRTUAL - MA01</td>
+      <td>Measure Tech - Hadley, MA</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/MASSACHUSETTS---VIRTUAL---MA01/Measure-Tech---PIttsfield--MA_Req192230'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Applications Development Engineer</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Applications-Development-Engineer_2638540-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>AI Reimagination Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/AI-Reimagination-Engineer_JR112682'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>AI Reimagination Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/AI-Reimagination-Engineer_JR112681'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>New York, New York, United States of America</td>
+      <td>Back-end Engineer - Data Platforms</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Back-end-Engineer---Data-Platforms_PT-JR043635'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Beaverton, Oregon</td>
+      <td>NIKE, Inc. N7 Undergraduate Internship</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-N7-Undergraduate-Internship_R-92659'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Quantinuum</b></td>
+      <td>US Broomfield, CO</td>
+      <td>R&D PhD Intern - 1025</td>
+      <td><a href='https://jobs.eu.lever.co/quantinuum/0540d133-27ae-427e-ab4e-1f56a7bcd884'>Apply</a></td>
+      <td>2026-09-22 19:27:32</td>
+    </tr>
+    <tr>
+      <td><b>Roku</b></td>
+      <td>San Jose, California</td>
+      <td>Software Engineer </td>
+      <td><a href='https://www.weareroku.com/jobs/8223823?gh_jid=8223823'>Apply</a></td>
+      <td>Sep 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>State Street</b></td>
+      <td>Quincy, Massachusetts</td>
+      <td>Software Engineering & Development, Off</td>
+      <td><a href='https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Software-Engineering---Development--Off_R-798013-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The standard</b></td>
+      <td>Portland, OR</td>
+      <td>Software Engineer IV</td>
+      <td><a href='https://standard.wd1.myworkdayjobs.com/en-US/Search/job/Portland-OR/Software-Engineer-IV_REQ006993'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>New York, NY, USA</td>
+      <td>Product Software Engineer II</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-II_10160173'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Travellers</b></td>
+      <td>CT - Hartford</td>
+      <td>Data Engineer II (dbt, AWS)</td>
+      <td><a href='https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Data-Engineer-II--dbt--AWS-_R-52559'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>2027 Summer Intern, MS/PhD, Machine Learning Engineer</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8223735'>Apply</a></td>
+      <td>Sep 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA; San Francisco, CA, USA; New York, NY, USA</td>
+      <td>Research Scientist, World Model Post-Training</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8222098'>Apply</a></td>
+      <td>Sep 22, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-22-09-11-07'>🕐 Batch at 2026-09-22 09:11:07</h3>
 
@@ -204,7 +427,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-22-03-49-36'>🕐 Batch at 2026-09-22 03:49:36</h3>
 
 📊 **Total jobs in this batch: 6**
