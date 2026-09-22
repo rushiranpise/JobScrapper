@@ -4,9 +4,301 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-21 19:49:05](#batch-2026-09-21-19-49-05)
 - [Batch at 2026-09-21 14:38:17](#batch-2026-09-21-14-38-17)
 - [Batch at 2026-09-21 10:43:21](#batch-2026-09-21-10-43-21)
 - [Batch at 2026-09-21 04:44:40](#batch-2026-09-21-04-44-40)
+
+<h3 id='batch-2026-09-21-19-49-05'>🕐 Batch at 2026-09-21 19:49:05</h3>
+
+📊 **Total jobs in this batch: 36**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Motorola Solutions, Inc: 2 jobs
+- BAH: 1 job
+- Citi: 1 job
+- Coinbase: 1 job
+- Micron: 5 jobs
+- NVIDIA: 3 jobs
+- Okta: 1 job
+- One: 3 jobs
+- PlayStation Global: 2 jobs
+- Ramp: 1 job
+- SingleStore: 1 job
+- spacex: 7 jobs
+- Stripe: 1 job
+- The Walt Disney Company: 3 jobs
+- Upstart: 1 job
+- Waymo: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Santa Ana, California, United States</td>
+      <td>Operations & Logistics Associate, AIS</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5239548007?gh_jid=5239548007'>Apply</a></td>
+      <td>Sep 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Melbourne, Australia</td>
+      <td>Graduate Engineer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Melbourne-Australia/Graduate-Engineer_R68934'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Melbourne, Australia</td>
+      <td>Graduate Engineer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Melbourne-Australia/Graduate-Engineer_R68897'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>University, 2027 Summer Games Software Developer Intern - McLean, VA</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249818'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Credit Portfolio Analyst Developer Python, Java, SAS - C10</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Credit-Portfolio-Analyst-Developer-Python--Java--SAS---C10_26994930'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Hybrid - New York, NY</td>
+      <td>Tax Information Reporting Intern</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241'>Apply</a></td>
+      <td>Sep 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - ID1</td>
+      <td>Intern - ATE Process Engineer ID1</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---ATE-Process-Engineer-ID1_JR113040'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>New College Grad - Photolithography MDE Shift Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Photolithography-MDE-Shift-Engineer_JR111985'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>New College Grad - Films, Metals, and Implant MDE Shift Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---Films--Metals--and-Implant-MDE-Shift-Engineer_JR112165'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>AI Reimagination Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/AI-Reimagination-Engineer_JR112562'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Intern - Probe Manufacturing Engineering (Probe AME)</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Probe-Manufacturing-Engineering--Probe-AME-_JR112368'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>PhD Research Intern, Learning Embodied Skills from Human Data - 2027</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Compiler Engineer, Agentic Compilation Systems - New College Grad 2027</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Agentic-Compilation-Systems---New-College-Grad-2027_JR2026218'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>PhD Research Intern, Networking - 2027</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Okta</b></td>
+      <td>Bellevue, Washington; Chicago, Illinois; Toronto, Ontario, Canada</td>
+      <td>Associate Program Analyst (New Grad)</td>
+      <td><a href='https://www.okta.com/company/careers/opportunity/8220584?gh_jid=8220584'>Apply</a></td>
+      <td>Sep 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>One</b></td>
+      <td>New York City (Hybrid)</td>
+      <td>Product Intern</td>
+      <td><a href='https://jobs.ashbyhq.com/oneapp/901eab26-08e3-4e6c-ad3d-c4acef4662c8'>Apply</a></td>
+      <td>Sep 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>One</b></td>
+      <td>New York City (Hybrid)</td>
+      <td>Partnerships Intern</td>
+      <td><a href='https://jobs.ashbyhq.com/oneapp/a6db6bbb-bc8d-43d2-9dd6-1047a9d5aec5'>Apply</a></td>
+      <td>Sep 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>One</b></td>
+      <td>United States (Remote)</td>
+      <td>AI Research Intern</td>
+      <td><a href='https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7'>Apply</a></td>
+      <td>Sep 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, Madison, WI</td>
+      <td>Full Stack Software Engineer II (Contract Role)</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6199059004'>Apply</a></td>
+      <td>Sep 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Diego, CA</td>
+      <td>Software Development Engineer in Test</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6179256004'>Apply</a></td>
+      <td>Sep 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Ramp</b></td>
+      <td>New York, NY (HQ)</td>
+      <td>Software Engineer, Frontend, Growth</td>
+      <td><a href='https://jobs.ashbyhq.com/ramp/7cd46077-05fe-4cd7-816f-5528638342f1'>Apply</a></td>
+      <td>Sep 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SingleStore</b></td>
+      <td>San Francisco, CA, United States </td>
+      <td>MIT- Software Engineer Intern | Engine</td>
+      <td><a href='https://job-boards.greenhouse.io/singlestore/jobs/8221924'>Apply</a></td>
+      <td>Sep 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Full Stack Engineer, Launch Software</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8829698002?gh_jid=8829698002'>Apply</a></td>
+      <td>Sep 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>HVAC Programmer (Starbase)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8825659002?gh_jid=8825659002'>Apply</a></td>
+      <td>Sep 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>IT Network Infrastructure Technician</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8827863002?gh_jid=8827863002'>Apply</a></td>
+      <td>Sep 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Network Engineer, AI Infrastructure (Starshield)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8829675002?gh_jid=8829675002'>Apply</a></td>
+      <td>Sep 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Simulation Software Engineer (Vehicle Engineering) </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8829312002?gh_jid=8829312002'>Apply</a></td>
+      <td>Sep 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Site Reliability Engineer, AI Infrastructure (Starshield)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8829681002?gh_jid=8829681002'>Apply</a></td>
+      <td>Sep 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, Simulations (Vehicle Engineering) </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8829307002?gh_jid=8829307002'>Apply</a></td>
+      <td>Sep 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>Seattle, WA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=8222149'>Apply</a></td>
+      <td>Sep 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Anaheim, CA, USA</td>
+      <td>DLR Ops Coord</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/DLR-Ops-Coord_10160513-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Glendale, CA, USA</td>
+      <td>KABC Digital News Intern, ABC7 en Español, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/KABC-Digital-News-Intern--ABC7-en-Espaol--Spring-2027_10158940'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Lake Buena Vista, FL, USA</td>
+      <td>Decision Science Undergraduate Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Decision-Science-Undergraduate-Intern--Spring-2027_10159998-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Upstart</b></td>
+      <td>United States | Remote</td>
+      <td>Software Engineer II, Marketplace Optimzation</td>
+      <td><a href='https://careers.upstart.com/jobs?gh_jid=8220246'>Apply</a></td>
+      <td>Sep 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, California, USA</td>
+      <td>2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8221795'>Apply</a></td>
+      <td>Sep 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, California, USA</td>
+      <td>2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8221851'>Apply</a></td>
+      <td>Sep 21, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-21-14-38-17'>🕐 Batch at 2026-09-21 14:38:17</h3>
 
@@ -472,7 +764,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-21-10-43-21'>🕐 Batch at 2026-09-21 10:43:21</h3>
 
 📊 **Total jobs in this batch: 30**
@@ -719,8 +1010,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-09-21-04-44-40'>🕐 Batch at 2026-09-21 04:44:40</h3>
+---<h3 id='batch-2026-09-21-04-44-40'>🕐 Batch at 2026-09-21 04:44:40</h3>
 
 📊 **Total jobs in this batch: 1**
 
