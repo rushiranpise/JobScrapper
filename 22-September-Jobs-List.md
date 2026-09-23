@@ -4,9 +4,194 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-22 19:49:36](#batch-2026-09-22-19-49-36)
 - [Batch at 2026-09-22 13:51:45](#batch-2026-09-22-13-51-45)
 - [Batch at 2026-09-22 09:11:07](#batch-2026-09-22-09-11-07)
 - [Batch at 2026-09-22 03:49:36](#batch-2026-09-22-03-49-36)
+
+<h3 id='batch-2026-09-22-19-49-36'>🕐 Batch at 2026-09-22 19:49:36</h3>
+
+📊 **Total jobs in this batch: 21**
+
+**Per company:**
+- Abnormal Security: 1 job
+- ALTEN Technology USA: 1 job
+- Motorola Solutions, Inc: 1 job
+- Applied Materials: 2 jobs
+- BAH: 1 job
+- Citi: 1 job
+- Dematic Corp. (ILD-US): 1 job
+- DoorDash : 1 job
+- Hudson River Trading: 1 job
+- searchLFN: 1 job
+- Snowflake: 1 job
+- The Walt Disney Company: 5 jobs
+- Toast: 1 job
+- Waymo: 2 jobs
+- Workday: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Abnormal Security</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer 1 - Data Platforms</td>
+      <td><a href='https://abnormal.ai/careers/jobs/8001641003?gh_jid=8001641003'>Apply</a></td>
+      <td>Sep 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Auburn Hills, Michigan, United States</td>
+      <td>Junior DRE BIW (Underbody/Upperbody)</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5243583007'>Apply</a></td>
+      <td>Sep 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Chicago, IL</td>
+      <td>Business Systems Analyst Internship Summer 2027</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Business-Systems-Analyst-Internship-Summer-2027_R68572'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software Engineer IV - (E4)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer-IV----E4-_R2628553'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Algorithm Developer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Algorithm-Developer_R2622136'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Power Platform Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Power-Platform-Developer_R0250103-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex Asesor Jr de Operaciones de Capital Humano</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Asesor-Jr-de-Operaciones-de-Capital-Humano_26995008'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Dematic Corp. (ILD-US)</b></td>
+      <td>Grand Rapids, MI, United States</td>
+      <td>Financial Analyst- AI Optimization</td>
+      <td><a href='https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Grand-Rapids-MI-United-States/Financial-Analyst--AI-Optimization_JR-0094847-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer, Backend - Autonomous Delivery Platform</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/8224641'>Apply</a></td>
+      <td>Sep 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Hudson River Trading</b></td>
+      <td>New York, NY, United States</td>
+      <td>Data Scientist Intern - 2027</td>
+      <td><a href='https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414'>Apply</a></td>
+      <td>Sep 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>searchLFN</b></td>
+      <td>Ramsey, MN</td>
+      <td>Manufacturing Engineering Intern - Ramsey, MN</td>
+      <td><a href='https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Ramsey-MN/Manufacturing-Engineering-Intern---Ramsey--MN_JR-025239'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Software Engineer- Openflow</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/ab0abd7e-7e3f-4f1e-bca0-297765ed6425'>Apply</a></td>
+      <td>Sep 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>Software Data Engineer</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Software-Data-Engineer_10160911'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>Publicity Coordinator (Disney Entertainment Television)</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Publicity-Coordinator--Disney-Entertainment-Television-_10161368'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Anaheim, CA, USA</td>
+      <td>Disneyland Resort Labor Relations, Intern Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Resort-Labor-Relations--Intern-Spring-2027_10161154-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Lake Buena Vista, FL, USA</td>
+      <td>Walt Disney World Labor Relations Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Labor-Relations-Intern--Spring-2027_10159002'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>FX Production & Special Projects Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/FX-Production---Special-Projects-Intern--Spring-2027_10159820-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Toast</b></td>
+      <td>Remote, US</td>
+      <td>Implementation Specialist, Thai Bilingual - Remote</td>
+      <td><a href='https://careers.toasttab.com/jobs?gh_jid=8224585'>Apply</a></td>
+      <td>Sep 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>San Francisco, California, United States</td>
+      <td>2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8214350'>Apply</a></td>
+      <td>Sep 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA; San Francisco, CA, USA</td>
+      <td>2027 Summer Intern, PhD, Data Science</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8221956'>Apply</a></td>
+      <td>Sep 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA.VA.Reston</td>
+      <td>Software Development Engineer (US Federal)</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0105374'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-22-13-51-45'>🕐 Batch at 2026-09-22 13:51:45</h3>
 
@@ -229,7 +414,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-22-09-11-07'>🕐 Batch at 2026-09-22 09:11:07</h3>
 
 📊 **Total jobs in this batch: 23**
@@ -426,8 +610,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-09-22-03-49-36'>🕐 Batch at 2026-09-22 03:49:36</h3>
+---<h3 id='batch-2026-09-22-03-49-36'>🕐 Batch at 2026-09-22 03:49:36</h3>
 
 📊 **Total jobs in this batch: 6**
 
