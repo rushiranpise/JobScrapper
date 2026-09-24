@@ -4,9 +4,157 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-23 19:39:12](#batch-2026-09-23-19-39-12)
 - [Batch at 2026-09-23 14:04:16](#batch-2026-09-23-14-04-16)
 - [Batch at 2026-09-23 09:00:58](#batch-2026-09-23-09-00-58)
 - [Batch at 2026-09-23 03:41:03](#batch-2026-09-23-03-41-03)
+
+<h3 id='batch-2026-09-23-19-39-12'>🕐 Batch at 2026-09-23 19:39:12</h3>
+
+📊 **Total jobs in this batch: 16**
+
+**Per company:**
+- Airbnb: 1 job
+- ALTEN Technology USA: 1 job
+- Anduril Industries: 1 job
+- ASMLEXT1: 1 job
+- Applied Materials: 1 job
+- Intel Corporation: 1 job
+- LexisNexis Risk Solutions: 1 job
+- nVent: 1 job
+- NVIDIA: 1 job
+- Ramp: 4 jobs
+- Roblox: 1 job
+- spacex: 1 job
+- The Walt Disney Company: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Airbnb</b></td>
+      <td>United States</td>
+      <td>Software Engineer, Application Platform</td>
+      <td><a href='https://careers.airbnb.com/positions/8227620?gh_jid=8227620'>Apply</a></td>
+      <td>Sep 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>North Reading, Massachusetts </td>
+      <td>Test Engineer - Hardware and Software</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5168796007'>Apply</a></td>
+      <td>Jun 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Planning Data Quality Analyst</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5162464007?gh_jid=5162464007'>Apply</a></td>
+      <td>Sep 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>San Diego, CA, USA</td>
+      <td>Material Handler 4</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/Material-Handler-4_J-00353527'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Chandler,AZ</td>
+      <td>Software Engineer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/ChandlerAZ/Software-Engineer_R2628430'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Technology Research 2D Transistor Engineer Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Technology-Research-2D-Transistor-Engineer-Intern_JR0287001'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>LexisNexis Risk Solutions</b></td>
+      <td>Alpharetta, GA</td>
+      <td>Tech Accelarate Graduate Program</td>
+      <td><a href='https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelarate-Graduate-Program_R118810'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Blaine, MN, US</td>
+      <td>Production Supervisor Internal Logistics</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Blaine-MN-US/Production-Supervisor---1st-Shift_R21628'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Software QA Engineer</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-QA-Engineer_JR2026242'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Ramp</b></td>
+      <td>New York, NY (HQ)</td>
+      <td>Software Engineer Internship, Frontend</td>
+      <td><a href='https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Ramp</b></td>
+      <td>New York, NY (HQ)</td>
+      <td>Software Engineering Intern, Backend</td>
+      <td><a href='https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04'>Apply</a></td>
+      <td>Apr 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Ramp</b></td>
+      <td>New York, NY (HQ)</td>
+      <td>Software Engineering Intern, Android</td>
+      <td><a href='https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Ramp</b></td>
+      <td>New York, NY (HQ)</td>
+      <td>Software Engineering Intern, iOS</td>
+      <td><a href='https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>San Mateo, CA, United States</td>
+      <td>Software Engineer, Data Access</td>
+      <td><a href='https://careers.roblox.com/jobs/8168881?gh_jid=8168881'>Apply</a></td>
+      <td>Sep 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Full Stack Software Engineer (Components)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8839057002?gh_jid=8839057002'>Apply</a></td>
+      <td>Sep 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Bristol, CT, USA</td>
+      <td>Product Software Engineer II</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Bristol-CT-USA/Product-Software-Engineer-II_10160716-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-23-14-04-16'>🕐 Batch at 2026-09-23 14:04:16</h3>
 
@@ -348,7 +496,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-23-09-00-58'>🕐 Batch at 2026-09-23 09:00:58</h3>
 
 📊 **Total jobs in this batch: 20**
@@ -522,8 +669,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-09-23-03-41-03'>🕐 Batch at 2026-09-23 03:41:03</h3>
+---<h3 id='batch-2026-09-23-03-41-03'>🕐 Batch at 2026-09-23 03:41:03</h3>
 
 📊 **Total jobs in this batch: 3**
 
