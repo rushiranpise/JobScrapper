@@ -4,8 +4,369 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-24 14:08:47](#batch-2026-09-24-14-08-47)
 - [Batch at 2026-09-24 09:23:18](#batch-2026-09-24-09-23-18)
 - [Batch at 2026-09-24 03:59:30](#batch-2026-09-24-03-59-30)
+
+<h3 id='batch-2026-09-24-14-08-47'>🕐 Batch at 2026-09-24 14:08:47</h3>
+
+📊 **Total jobs in this batch: 45**
+
+**Per company:**
+- Affirm : 1 job
+- CrowdStrike, Inc: 2 jobs
+- Motorola Solutions, Inc: 3 jobs
+- Applied Materials: 2 jobs
+- ASMLEXT1: 1 job
+- Anduril Industries: 6 jobs
+- Autodesk: 1 job
+- BAH: 9 jobs
+- Broadcom : 1 job
+- Clear: 1 job
+- Citi: 1 job
+- GOAT : 1 job
+- KLA: 1 job
+- Micron: 2 jobs
+- Pendo: 1 job
+- Scoutm Otors: 2 jobs
+- SingleStore: 1 job
+- spacex: 1 job
+- SRK Supplylogix LLC: 4 jobs
+- The Toro: 1 job
+- USAA: 1 job
+- Waymo: 1 job
+- Workday: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>Software Engineer II, Backend (Identity Decisioning)</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/7985860003'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Remote</td>
+      <td>Infrastructure Engineer, TechOps CICD Image Management (Remote)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Infrastructure-Engineer--TechOps-CICD-Image-Management--Remote-_R30174'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Remote</td>
+      <td>Engineer II, Full Stack (Remote)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Engineer-II--Full-Stack--Remote-_R30113'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Plantation, FL</td>
+      <td>CPE SW E2E Triage Intern - Summer 2027</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/CPE-SW-E2E-Triage-Intern---Summer-2027_R68165'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Plantation, FL</td>
+      <td>Software Engineering Intern - Summer 2027</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Plantation, FL</td>
+      <td>2027 Intern - SoC Digital Engineer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/XMLNAME-2027-Intern---SoC-Digital-Engineer_R69149'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Chandler,AZ</td>
+      <td>Material Handler</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/ChandlerAZ/Material-Handler_R2628746'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Data Scientist New College Grad- Bachelor's/Master's (Austin, TX)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Data-Scientist-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2627684'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>San Jose, CA, USA</td>
+      <td>Principle Software Engineer – Systems software</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Jose-CA-USA/Principle-Software-Engineer---Systems-software_J-00348662'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Broomfield, Colorado, United States</td>
+      <td>Software Engineer- Infrastructure </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5124336007?gh_jid=5124336007'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Broomfield, Colorado, United States</td>
+      <td>Software Engineer- Machine Learning</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5124403007?gh_jid=5124403007'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Software Engineer, Strategic Defense</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5247868007?gh_jid=5247868007'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Atlanta, Georgia, United States</td>
+      <td>Training Coordinator, EHS</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5234787007?gh_jid=5234787007'>Apply</a></td>
+      <td>Sep 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Washington, District of Columbia, United States</td>
+      <td>Training Coordinator, EHS</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5198097007?gh_jid=5198097007'>Apply</a></td>
+      <td>Jul 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Boston, Massachusetts, United States</td>
+      <td>Training Coordinator, EHS</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5234795007?gh_jid=5234795007'>Apply</a></td>
+      <td>Sep 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Autodesk</b></td>
+      <td>AMER - United States - California - San Francisco - One Market</td>
+      <td>AI Market and Competitive Intelligence Analyst</td>
+      <td><a href='https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/AMER---United-States---California---San-Francisco---One-Market/Market-and-Competitive-Intelligence-Analyst_26WD100617-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>AI Developer and Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/AI-Developer-and-Engineer_R0250312-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Warfighting Analyst, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Warfighting-Analyst--Junior_R0250293'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Atlanta, GA</td>
+      <td>Power Platform Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Power-Platform-Developer_R0249671'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Program Controls Organization Financial Analyst, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Program-Controls-Organization-Financial-Analyst--Junior_R0250300'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0250307'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Project Controls Analyst, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Project-Controls-Analyst--Junior_R0250201-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Project Controls Analyst, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Project-Controls-Analyst--Junior_R0250209'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Stewart, GA</td>
+      <td>Joint Fires Observer, Integrator, and Trainer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Stewart-GA/Joint-Fires-Observer--Integrator--and-Trainer_R0250238'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Software-Engineer_R0250289'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-TX Plano Legacy Drive Suite 700</td>
+      <td>Software Engineer (ICB 4)</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Software-Engineer--ICB-4-_R027155'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Clear</b></td>
+      <td>New York, NY, United States </td>
+      <td>Software Development Engineer III</td>
+      <td><a href='https://job-boards.greenhouse.io/clear/jobs/8100208'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex Analista junior de bases de datos - KYC</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-de-bases-de-datos---KYC_26986647'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>GOAT </b></td>
+      <td>Easton, Pennsylvania, United States</td>
+      <td>Junior Authentication Specialist</td>
+      <td><a href='https://job-boards.greenhouse.io/goatgroup/jobs/4737773005'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Software Engineer (Metrology Systems)</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineer--Metrology-Systems-_2641468'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - ID1</td>
+      <td>New College Grad - PCVD Process Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/New-College-Grad---PCVD-Process-Engineer_JR112000'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>New College Grad - HBM PYE Product Development Failure Analysis Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Senior-or-Staff-HBM-PYE-Product-Development-Failure-Analysis-Engineer_JR110624'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pendo</b></td>
+      <td>Raleigh, NC</td>
+      <td>Software Engineer, Full Stack</td>
+      <td><a href='https://job-boards.greenhouse.io/pendo/jobs/8675727002'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Scoutm Otors</b></td>
+      <td>Charlotte, North Carolina, United States; Novi, Michigan, United States</td>
+      <td>Main System Engineer, Body Systems – Exteriors & Interiors</td>
+      <td><a href='https://job-boards.greenhouse.io/scoutmotors/jobs/5247260007'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Scoutm Otors</b></td>
+      <td>Charlotte, North Carolina, United States; Novi, Michigan, United States</td>
+      <td>Main System Engineer, Body Systems – Metals</td>
+      <td><a href='https://job-boards.greenhouse.io/scoutmotors/jobs/5247263007'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SingleStore</b></td>
+      <td>United States</td>
+      <td>Software Engineer | Observability </td>
+      <td><a href='https://job-boards.greenhouse.io/singlestore/jobs/8185163'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer (Components)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8842775002?gh_jid=8842775002'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, MO, St Charles</td>
+      <td>Delivery Professional - Bulk/Straight Truck</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-MO-St-Charles/Delivery-Professional---Bulk-Straight-Truck_JR0154713-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, FL, Jacksonville</td>
+      <td>Delivery Professional - Bulk/Straight Truck</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-FL-Jacksonville/Delivery-Professional---Bulk-Straight-Truck_JR0154702'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, FL, St Petersburg</td>
+      <td>Delivery Professional - Bulk/Straight Truck (Cover Driver)</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-FL-St-Petersburg/Delivery-Professional---Bulk-Straight-Truck--Cover-Driver-_JR0154700'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, OH, Forest Park</td>
+      <td>Delivery Professional - Bulk/Straight Truck Driver</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-OH-Forest-Park/Delivery-Professional---Bulk-Straight-Truck-Driver_JR0154682-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Bloomington, MN</td>
+      <td>Direct Materials Sourcing Intern - The Toro Company</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Bloomington-MN/Direct-Materials-Sourcing-Intern---The-Toro-Company_JR17408'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>USAA</b></td>
+      <td>Phoenix Campus (Main)</td>
+      <td>AI/ML Engineer II</td>
+      <td><a href='https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Phoenix-Campus-Main/AI-ML-Engineer-II_R0121251'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA</td>
+      <td>2027 Summer Intern, PhD, Software Engineer, Simulation</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8227640'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Workday</b></td>
+      <td>USA.VA.Reston</td>
+      <td>Software Development Engineer - ML Ops (US Federal)</td>
+      <td><a href='https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer---ML-Ops--US-Federal-_JR-0110367'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-24-09-23-18'>🕐 Batch at 2026-09-24 09:23:18</h3>
 
@@ -192,7 +553,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-24-03-59-30'>🕐 Batch at 2026-09-24 03:59:30</h3>
 
 📊 **Total jobs in this batch: 3**
