@@ -4,8 +4,298 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-25 14:04:57](#batch-2026-09-25-14-04-57)
 - [Batch at 2026-09-25 09:23:11](#batch-2026-09-25-09-23-11)
 - [Batch at 2026-09-25 04:03:09](#batch-2026-09-25-04-03-09)
+
+<h3 id='batch-2026-09-25-14-04-57'>🕐 Batch at 2026-09-25 14:04:57</h3>
+
+📊 **Total jobs in this batch: 35**
+
+**Per company:**
+- Applied Materials: 2 jobs
+- BAH: 7 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- Citi: 2 jobs
+- Fivetran: 1 job
+- GCM Grosvenor: 1 job
+- homedepot: 1 job
+- Intel Corporation: 2 jobs
+- KLA: 1 job
+- Micron: 2 jobs
+- MOOG: 1 job
+- Neuralink: 2 jobs
+- Morgan Stanley: 1 job
+- OpenEye: 1 job
+- Roblox: 1 job
+- Salesforce: 1 job
+- Scoutm Otors: 1 job
+- searchLFN: 1 job
+- Snorkel AI: 1 job
+- spacex: 1 job
+- The Walt Disney Company: 1 job
+- Waymo: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer_R2629329'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Non-Technical Project/Program Management New College Grad- Bachelor's/Master's (Austin, TX)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Non-Technical-Project-Program-Management-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2628156'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Quantico, VA</td>
+      <td>Software Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/Software-Developer_R0250386'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Huntsville, AL</td>
+      <td>Software Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Software-Developer_R0250389'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Huntsville, AL</td>
+      <td>Software Test Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Software-Test-Engineer_R0250391'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Norfolk, VA</td>
+      <td>Power Platform Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Power-Platform-Developer_R0250374'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Huntsville, AL</td>
+      <td>Software Developer SME</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Software-Developer-SME_R0250383-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>AI/ML Data Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/AI-ML-Data-Architect_R0250051'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA GA - Covington BMD</td>
+      <td>Coordinator, Complaint Handling</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-GA---Covington-BMD/Coordinator--Complaint-Handling_R-555666-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer_R0250365'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Tampa Florida United States</td>
+      <td>Agentic AI Engineer - Officer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Agentic-AI-Engineer---Officer_26997331'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex Analista Junior de Estrategia Comercial</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-Junior-de-Estrategia-Comercial_26996090'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Fivetran</b></td>
+      <td>Oakland, California, United States, AMER</td>
+      <td>Data Analytics & BI</td>
+      <td><a href='https://www.fivetran.com/careers/job?gh_jid=8005007003'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>GCM Grosvenor</b></td>
+      <td>Chicago, Illinois, United States</td>
+      <td>2027 Fund Data Reporting and Analytics Summer Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8003490003'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>HOUSTON HUB - 5716</td>
+      <td>Rental Delivery Driver I CDLA - Houston, TX</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/HOUSTON-HUB---5716/Rental-Delivery-Driver-I-CDLA---Houston--TX_Req194364'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>System Software Engineering - PhD Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Ann Arbor, MI</td>
+      <td>AI Solutions Engineer (NPI Function)</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/AI-Solutions-Engineer--NPI-Function-_2641335-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Folsom, CA</td>
+      <td>Intern - AI Agentic Systems Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Folsom-CA/Intern---AI-Agentic-Systems-Engineer_JR110474'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Field Applications Engineer - Associate</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Field-Applications-Engineer---Associate_JR113486'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Software Solutions PhD Intern New 2027</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Electrical Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-20268'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Neuralink</b></td>
+      <td>Austin, Texas, United States; South San Francisco, California, United States</td>
+      <td>Software Engineer - HIL</td>
+      <td><a href='https://boards.greenhouse.io/neuralink/jobs/8005730003?gh_jid=8005730003'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Neuralink</b></td>
+      <td>Austin, Texas, United States; South San Francisco, California, United States</td>
+      <td>Software Engineer - Simulation</td>
+      <td><a href='https://boards.greenhouse.io/neuralink/jobs/8005762003?gh_jid=8005762003'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>Tulsa, Oklahoma, United States of America</td>
+      <td>Intern</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/Tulsa-Oklahoma-United-States-of-America/Intern_JR044842'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenEye</b></td>
+      <td>Tysons, Virginia</td>
+      <td>Cloud Systems Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/alarmcom/jobs/8696114002'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>San Mateo, CA, United States</td>
+      <td>Software Engineer, GenAI Platform</td>
+      <td><a href='https://careers.roblox.com/jobs/8171283?gh_jid=8171283'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Washington - Bellevue</td>
+      <td>Software Engineer (MTS), Frontier Strike (EntSecTech)</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineer--MTS---Frontier-Strike--EntSecTech-_JR361861'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Scoutm Otors</b></td>
+      <td>Novi, Michigan, United States</td>
+      <td>Intern, Engineering</td>
+      <td><a href='https://job-boards.greenhouse.io/scoutmotors/jobs/5249679007'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>searchLFN</b></td>
+      <td>Owatonna, MN</td>
+      <td>Manufacturing Quality Engineering Intern - Owatonna, MN</td>
+      <td><a href='https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Owatonna-MN/Manufacturing-Quality-Engineering-Intern---Owatonna--MN_JR-025245'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snorkel AI</b></td>
+      <td>San Francisco, CA (Hybrid)</td>
+      <td>Research Scientist - Human-AI Systems</td>
+      <td><a href='https://job-boards.greenhouse.io/snorkelai/jobs/6208895004'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Engineer (Starlink Ground Network)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8841324002?gh_jid=8841324002'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>Junior Publicist A/Photo Editor</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Junior-Publicist-A-Photo-Editor_10160935-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA</td>
+      <td>2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8224900'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA</td>
+      <td>2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8233746'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA </td>
+      <td>2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks & Diagnostics</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8231711'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-25-09-23-11'>🕐 Batch at 2026-09-25 09:23:11</h3>
 
@@ -183,7 +473,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-25-04-03-09'>🕐 Batch at 2026-09-25 04:03:09</h3>
 
 📊 **Total jobs in this batch: 9**
