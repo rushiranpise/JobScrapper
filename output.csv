@@ -1,10 +1,21 @@
-company,title,location,link,postedOn,updatedOn
-Appian ,Application Support Analyst,"Sydney, Australia",https://job-boards.greenhouse.io/appian/jobs/8229776,2026-09-24T23:30:23-04:00,2026-09-24T23:30:23-04:00
-Applied Materials,Software Engineer IV - (E4),"Billerica,MA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/Software-Engineer-IV----E4-_R2624898,Posted Today,
-Applied Materials,Material Coordinator/Handler III - (2nd Shift),"Billerica,MA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/Material-Coordinator-Handler-III----2nd-Shift-_R2624181-1,Posted Today,
-Becton Dickinson’s Integrated Diagnostics Systems,The Quality Systems Specialist II – SAP Quality Data Management,USA MD - Sparks - 39 Loveton Circle,https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---39-Loveton-Circle/The-Quality-Systems-Specialist-II---SAP-Quality-Data-Management_R-550900,Posted Yesterday,
-KLA,Applications Engineering  Intern,"Milpitas, CA",https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Applications-Engineering--Intern_2641540-1,Posted Today,
-palantir,Software Engineer – Query Engines,"New York, NY",https://jobs.lever.co/palantir/a576c5ef-2a51-4522-9c98-bca5ac2abbb3,2026-09-25 10:28:07,N/A
-Snowflake,Software Engineer - Java Platform,DE-Berlin-Trion Building,https://jobs.ashbyhq.com/snowflake/23c94498-23c8-4d6e-a1d8-4355bf605663,2026-09-25T08:31:38.621+00:00,
-Snowflake,"Cloud Support Engineer, AI/ML (Night Shift)",IN-Pune,https://jobs.ashbyhq.com/snowflake/ff8fe152-e6c9-46d1-bdc7-ea414ea9d436,2026-09-25T06:15:57.912+00:00,
-State Street,Software Engineering & Development,"Boston, Massachusetts",https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Software-Engineering---Development_R-798579,Posted Today,
+company,title,location,postedOn,link,updatedOn
+BAH,AI DevOps Engineer,"Ashburn, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/AI-DevOps-Engineer_R0250362,
+BAH,"Software Engineer, Mid","Wharton, NJ",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wharton-NJ/Software-Engineer--Mid_R0250294,
+BAH,Software Developer,"Alexandria, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Software-Developer_R0250227,
+BAH,Full Stack Engineer,"Chantilly, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Full-Stack-Engineer_R0250354,
+BAH,Full-Stack Software Engineer,"Langley AFB, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/Full-Stack-Software-Engineer_R0250249,
+Citi,Non-Functional Junior Test Engineer - Officer,Jersey City New Jersey United States,Posted Today,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Non-Functional-Junior-Test-Engineer---Officer_26997316-1,
+Core Weave,GPU Performance Software Engineer,"New York, NY",2026-09-25T11:38:42-04:00,https://coreweave.com/careers/job?4703438006&board=coreweave&gh_jid=4703438006,2026-09-25T11:38:42-04:00
+Exiger,Application Support Specialist,"McLean, Virginia, United States; Richmond, Virginia, United States",2026-09-25T09:40:14-04:00,https://www.exiger.com/careers/6206857004?gh_jid=6206857004,2026-09-25T09:40:14-04:00
+genpt,AP Specialist - Vendor Maint.,USA GPC River Green,Posted Today,https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/USA-GPC-River-Green/AP-Specialist---Vendor-Maint_R26_0000031052,
+KLA,Electrical PCBA Sustaining Engineer,"Milpitas, CA",Posted Today,https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Electrical-PCBA-Sustaining-Engineer_2641150,
+MOOG,"Intern, Systems Engineering","Torrance, CA",Posted Today,https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Intern--Systems-Engineering_R-26-19820-1,
+Morgan Stanley,Capital Markets Fixed Income Specialist,"New York, New York, United States of America",Posted Today,https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Capital-Markets-Fixed-Income-Specialist_PT-JR044730,
+Morgan Stanley,"Associate, Software Engineer","New York, New York, United States of America",Posted Today,https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Associate--Software-Engineer_JR036259,
+nVent,Material Handler,"Pittsburg, KS, US",Posted Today,https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Pittsburg-KS-US/Material-Handler_R23836,
+Remitly,AI Native Software Engineer,"Seattle, Washington United States",Posted Today,https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/AI-Native-Software-Engineer_R_106966,
+The Walt Disney Company,Guest First Aid Paramedic (Part-Time),"Lake Buena Vista, FL, USA",Posted Today,https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Guest-First-Aid-Paramedic--Part-Time-_10160816-2,
+The Toro,Electrical Engineering Intern - The Toro Company,"Bloomington, MN",Posted Today,https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Bloomington-MN/Electrical-Engineering-Intern---The-Toro-Company_JR17124,
+Warner Bros,Campaign Coordinator (3-month contact),"Singapore, 1 Fusionopolis Walk",Posted Today,https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/Singapore-1-Fusionopolis-Walk/Campaign-Coordinator--3-month-contact-_R000109094,
+Xylem Services USA LLC,Industrial Painter 3rd Shift,"Cheektowaga, New York",Posted Today,https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Cheektowaga-New-York/Industrial-Painter-3rd-Shift_R50870,
+Zipline,Field Systems Engineer Intern (Spring 2027),"South San Francisco, California, USA",2026-09-25T09:31:35-04:00,https://www.zipline.com/open-roles/8004729003?gh_jid=8004729003,2026-09-25T09:31:35-04:00
