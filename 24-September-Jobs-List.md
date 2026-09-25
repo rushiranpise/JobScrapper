@@ -4,9 +4,145 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-24 19:55:59](#batch-2026-09-24-19-55-59)
 - [Batch at 2026-09-24 14:08:47](#batch-2026-09-24-14-08-47)
 - [Batch at 2026-09-24 09:23:18](#batch-2026-09-24-09-23-18)
 - [Batch at 2026-09-24 03:59:30](#batch-2026-09-24-03-59-30)
+
+<h3 id='batch-2026-09-24-19-55-59'>🕐 Batch at 2026-09-24 19:55:59</h3>
+
+📊 **Total jobs in this batch: 15**
+
+**Per company:**
+- AppLovin : 1 job
+- Anduril Industries: 5 jobs
+- BAH: 3 jobs
+- homedepot: 1 job
+- One: 1 job
+- Snaplogic: 1 job
+- Snowflake: 2 jobs
+- spacex: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>AppLovin </b></td>
+      <td>Palo Alto, CA</td>
+      <td>ML Data Infrastructure Engineer</td>
+      <td><a href='https://boards.greenhouse.io/applovin/jobs/4716524006?gh_jid=4716524006'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Waltham, Massachusetts, United States</td>
+      <td>Robotics Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5248679007?gh_jid=5248679007'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Waltham, Massachusetts, United States</td>
+      <td>Software Engineer, GNC</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5248676007?gh_jid=5248676007'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Waltham, Massachusetts, United States</td>
+      <td>Software Engineer, GNC Modeling</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5208637007?gh_jid=5208637007'>Apply</a></td>
+      <td>Sep 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Waltham, Massachusetts, United States</td>
+      <td>Software Engineer- Infrastructure </td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5248872007?gh_jid=5248872007'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Waltham, Massachusetts, United States</td>
+      <td>Software Engineer- Machine Learning</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5248869007?gh_jid=5248869007'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Software DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-DevOps-Engineer_R0250321'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Suffolk, VA</td>
+      <td>Cyber Technical Specialist, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Suffolk-VA/Cyber-Technical-Specialist--Junior_R0249897'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Alexandria, VA</td>
+      <td>Backend Node Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Backend-Node-Developer_R0250335'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>MASSACHUSETTS - VIRTUAL - MA01</td>
+      <td>Measure Tech - Hadley, MA</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/MASSACHUSETTS---VIRTUAL---MA01/Measure-Tech---Hadley--MA_Req194334'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>One</b></td>
+      <td>United States (Remote)</td>
+      <td>Software Engineer, Product</td>
+      <td><a href='https://jobs.ashbyhq.com/oneapp/d76e6639-a175-4085-af02-f96a4c1c5093'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snaplogic</b></td>
+      <td>United States</td>
+      <td>Applied AI Architect</td>
+      <td><a href='https://jobs.lever.co/snaplogic/3d408fe5-5fbb-4402-9c36-54a2bf2b9b59'>Apply</a></td>
+      <td>2026-09-24 22:44:54</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Software Engineer Intern (Database Engineering) - Spring 2027</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Software Engineer Intern (AI / ML) - Spring 2027</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer (AI Data Engineering)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8843640002?gh_jid=8843640002'>Apply</a></td>
+      <td>Sep 24, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-24-14-08-47'>🕐 Batch at 2026-09-24 14:08:47</h3>
 
@@ -367,7 +503,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-24-09-23-18'>🕐 Batch at 2026-09-24 09:23:18</h3>
 
 📊 **Total jobs in this batch: 21**
@@ -552,8 +687,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-09-24-03-59-30'>🕐 Batch at 2026-09-24 03:59:30</h3>
+---<h3 id='batch-2026-09-24-03-59-30'>🕐 Batch at 2026-09-24 03:59:30</h3>
 
 📊 **Total jobs in this batch: 3**
 
