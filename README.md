@@ -4,7 +4,52 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-26 13:34:55](#batch-2026-09-26-13-34-55)
 - [Batch at 2026-09-26 03:42:59](#batch-2026-09-26-03-42-59)
+
+<h3 id='batch-2026-09-26-13-34-55'>🕐 Batch at 2026-09-26 13:34:55</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- spacex: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>Full Stack Software Engineer, Internal Applications</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8848604002?gh_jid=8848604002'>Apply</a></td>
+      <td>Sep 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Full Stack Software Engineer, Manufacturing Systems </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8848609002?gh_jid=8848609002'>Apply</a></td>
+      <td>Sep 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Software Engineer, Manufacturing Infrastructure</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8848613002?gh_jid=8848613002'>Apply</a></td>
+      <td>Sep 26, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-26-03-42-59'>🕐 Batch at 2026-09-26 03:42:59</h3>
 
@@ -43,4 +88,3 @@
 <table>
 
 ---
-
