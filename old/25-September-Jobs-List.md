@@ -4,9 +4,126 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-25 19:58:45](#batch-2026-09-25-19-58-45)
 - [Batch at 2026-09-25 14:04:57](#batch-2026-09-25-14-04-57)
 - [Batch at 2026-09-25 09:23:11](#batch-2026-09-25-09-23-11)
 - [Batch at 2026-09-25 04:03:09](#batch-2026-09-25-04-03-09)
+
+<h3 id='batch-2026-09-25-19-58-45'>🕐 Batch at 2026-09-25 19:58:45</h3>
+
+📊 **Total jobs in this batch: 12**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Art of Problem Solving: 1 job
+- BAH: 1 job
+- Broadcom : 1 job
+- DoorDash : 2 jobs
+- Gelber Group: 1 job
+- Natera : 1 job
+- Sentry : 1 job
+- Snowflake: 1 job
+- Waymo: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Mission Software Engineer, Mission Systems</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5249750007?gh_jid=5249750007'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Art of Problem Solving</b></td>
+      <td>San Diego, California, United States</td>
+      <td>Curriculum Developer II - Computer Science</td>
+      <td><a href='https://artofproblemsolving.com/careers/job/8004723003?gh_jid=8004723003'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Rome, NY</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0250409'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-CO Broomfield</td>
+      <td>R&D Engineer Software 5</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CO-Broomfield/Senior-Manager---Engineering_R026440'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA</td>
+      <td>Machine Learning Intern (Masters) - Summer 2027</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/8204111'>Apply</a></td>
+      <td>Sep 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA</td>
+      <td>Machine Learning Intern (PhD) - Summer 2027</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/8233953'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Gelber Group</b></td>
+      <td>Chicago, IL</td>
+      <td>Discretionary Trading Internship - Summer 2027</td>
+      <td><a href='https://job-boards.greenhouse.io/gelbergroup/jobs/4716779006'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>MLS 1 Data Reviewer</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6144515004'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Sentry </b></td>
+      <td>Stevens Point, WI</td>
+      <td>Industrial Hygienist Internship Summer 2027</td>
+      <td><a href='https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Industrial-Hygienist-Internship-Summer-2027_JR-142875'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Software Engineer - Postgres</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/6e96b818-2350-4601-8bdd-7ddd6c4a5f6d'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA</td>
+      <td>2027 Summer Intern, MS/PhD, Perception, Machine Learning</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8227411'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA</td>
+      <td>2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel & ML</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8234161'>Apply</a></td>
+      <td>Sep 25, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-25-14-04-57'>🕐 Batch at 2026-09-25 14:04:57</h3>
 
@@ -296,7 +413,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-25-09-23-11'>🕐 Batch at 2026-09-25 09:23:11</h3>
 
 📊 **Total jobs in this batch: 20**
@@ -472,8 +588,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-09-25-04-03-09'>🕐 Batch at 2026-09-25 04:03:09</h3>
+---<h3 id='batch-2026-09-25-04-03-09'>🕐 Batch at 2026-09-25 04:03:09</h3>
 
 📊 **Total jobs in this batch: 9**
 
