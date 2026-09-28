@@ -4,7 +4,53 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-27 19:59:44](#batch-2026-09-27-19-59-44)
 - [Batch at 2026-09-27 13:47:46](#batch-2026-09-27-13-47-46)
+
+<h3 id='batch-2026-09-27-19-59-44'>🕐 Batch at 2026-09-27 19:59:44</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- spacex: 1 job
+- Zipline: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Cape Canaveral, FL</td>
+      <td>Full Stack Software Engineer, Launch Software</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8849598002?gh_jid=8849598002'>Apply</a></td>
+      <td>Sep 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Engineering Technician, Powertrain</td>
+      <td><a href='https://www.zipline.com/open-roles/7807679003?gh_jid=7807679003'>Apply</a></td>
+      <td>Jul 17, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Solder Engineering Technician, Powertrain</td>
+      <td><a href='https://www.zipline.com/open-roles/7807626003?gh_jid=7807626003'>Apply</a></td>
+      <td>Jul 17, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-27-13-47-46'>🕐 Batch at 2026-09-27 13:47:46</h3>
 
@@ -43,4 +89,3 @@
 <table>
 
 ---
-
