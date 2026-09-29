@@ -4,8 +4,87 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-28 20:41:01](#batch-2026-09-28-20-41-01)
 - [Batch at 2026-09-28 15:57:53](#batch-2026-09-28-15-57-53)
 - [Batch at 2026-09-28 05:40:50](#batch-2026-09-28-05-40-50)
+
+<h3 id='batch-2026-09-28-20-41-01'>🕐 Batch at 2026-09-28 20:41:01</h3>
+
+📊 **Total jobs in this batch: 7**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- Citi: 1 job
+- General Motors LLC: 1 job
+- Micron: 1 job
+- Salesforce: 1 job
+- spacex: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Ashville, Ohio, United States</td>
+      <td>Data Analyst, Quality</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5251234007?gh_jid=5251234007'>Apply</a></td>
+      <td>Sep 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA CA - Redlands Distribution Ctr</td>
+      <td>Distribution Trainer</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-CA---Redlands-Distribution-Ctr/Distribution-Trainer_R-556609-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Apps Dev Intmd JAVA  Programmer  Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Apps-Dev-Intmd-JAVA--Programmer--Analyst_26998575-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>Data Scientist</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Scientist_JR-202620897'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - ID1</td>
+      <td>Intern - ATE Process Engineer ID1</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---ATE-Process-Engineer-ID1_JR113196'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Software Engineer- Infrastructure/Service Mesh</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineer--Infrastructure-Service-Mesh_JR358458'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>New Graduate Engineer, Software (Starfall)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002'>Apply</a></td>
+      <td>Sep 28, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-28-15-57-53'>🕐 Batch at 2026-09-28 15:57:53</h3>
 
@@ -456,7 +535,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-28-05-40-50'>🕐 Batch at 2026-09-28 05:40:50</h3>
 
 📊 **Total jobs in this batch: 5**
