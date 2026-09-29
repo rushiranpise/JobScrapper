@@ -4,8 +4,280 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-29 14:52:16](#batch-2026-09-29-14-52-16)
 - [Batch at 2026-09-29 10:32:50](#batch-2026-09-29-10-32-50)
 - [Batch at 2026-09-29 05:02:43](#batch-2026-09-29-05-02-43)
+
+<h3 id='batch-2026-09-29-14-52-16'>🕐 Batch at 2026-09-29 14:52:16</h3>
+
+📊 **Total jobs in this batch: 33**
+
+**Per company:**
+- Airbnb: 2 jobs
+- ALTEN Technology USA: 1 job
+- Allstate: 1 job
+- Motorola Solutions, Inc: 1 job
+- Applied Materials: 2 jobs
+- BAH: 7 jobs
+- Citi: 1 job
+- Esri: 1 job
+- Formlabs: 4 jobs
+- genpt: 1 job
+- Hudson River Trading: 1 job
+- homedepot: 1 job
+- MOOG: 2 jobs
+- Nike: 3 jobs
+- nVent: 1 job
+- Pure storage: 1 job
+- Snowflake: 1 job
+- The Walt Disney Company: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Airbnb</b></td>
+      <td>Remote, USA</td>
+      <td>Software Engineer, Passport & Commerce, iOS</td>
+      <td><a href='https://careers.airbnb.com/positions/8239985?gh_jid=8239985'>Apply</a></td>
+      <td>Sep 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Airbnb</b></td>
+      <td>Remote, USA</td>
+      <td>Software Engineer, Passport & Commerce, Web</td>
+      <td><a href='https://careers.airbnb.com/positions/8239930?gh_jid=8239930'>Apply</a></td>
+      <td>Sep 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Auburn Hills, Michigan, United States</td>
+      <td>HIL Test Automation & Validation Engineer - Automotive Powertrain</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5252269007'>Apply</a></td>
+      <td>Sep 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - PA (Remote)</td>
+      <td>Field Auto Appraiser - Pittsburgh, PA</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---PA-Remote/Field-Auto-Appraiser---Pittsburgh--PA_R35503'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Chicago, IL</td>
+      <td>Jr Product Owner - 2027 Summer Internship (Chicago Hybrid)</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Jr-Product-Owner---2027-Summer-Internship--Chicago-Hybrid-_R69150'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Albuquerque,NM</td>
+      <td>Application Engineer III</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AlbuquerqueNM/Application-Engineer-III_R2623139'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software QA Engineer III</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer-III-Senior_R2625573'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0250787'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Rome, NY</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0250618'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Melbourne, FL</td>
+      <td>MUMPS Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Melbourne-FL/MUMPS-Developer_R0250613-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Doral, FL</td>
+      <td>Data Governance Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Doral-FL/Data-Governance-Specialist_R0250607'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-Engineer_R0250590'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Diego, CA</td>
+      <td>Cloud Computing Infrastructure Architect</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Cloud-Computing-Infrastructure-Architect_R0250588'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Belvoir, VA</td>
+      <td>AI and ML Engineer and Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/AI-and-ML-Engineer-and-Data-Scientist_R0250572'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Data/Information Mgt Analyst 2</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Data-Information-Mgt-Analyst-2_26988654-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>TypeScript Software Development Engineer II</td>
+      <td><a href='https://www.esri.com/careers/5242493007?gh_jid=5242493007'>Apply</a></td>
+      <td>Sep 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Boston, MA</td>
+      <td>R&D Reliability/Test Engineer - June 2027 Grads</td>
+      <td><a href='https://careers.formlabs.com/job/8241472/apply/?gh_jid=8241472'>Apply</a></td>
+      <td>Sep 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>R&D Reliability/Test Engineer - June 2027 Grads</td>
+      <td><a href='https://careers.formlabs.com/job/8241465/apply/?gh_jid=8241465'>Apply</a></td>
+      <td>Sep 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Boston, MA</td>
+      <td>Robotic Systems Integration Engineer (SLA & SLS) - June 2027 Grads</td>
+      <td><a href='https://careers.formlabs.com/job/8241429/apply/?gh_jid=8241429'>Apply</a></td>
+      <td>Sep 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Robotic Systems Integration Engineer (SLA & SLS) - June 2027 Grads</td>
+      <td><a href='https://careers.formlabs.com/job/8241424/apply/?gh_jid=8241424'>Apply</a></td>
+      <td>Sep 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Indianapolis, IN, USA</td>
+      <td>CDL A Local Driver</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Indianapolis-IN-USA/CDL-A-Local-Driver_R26_0000029473'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Hudson River Trading</b></td>
+      <td>Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Singapore</td>
+      <td>Research Data Expert</td>
+      <td><a href='https://www.hudsonrivertrading.com/careers/job/?gh_jid=8240734'>Apply</a></td>
+      <td>Sep 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>GEORGIA - VIRTUAL - GA01</td>
+      <td>Software Engineer (Remote)</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer--Remote-_Req194624'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Intern, Artificial Intelligence</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-26-20288'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Torrance, CA</td>
+      <td>Intern, Software Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Intern--Software-Engineering_R-26-19948'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Beaverton, Oregon</td>
+      <td>NIKE, Inc. Innovation Underfoot Systems Engineer Graduate Internship</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Innovation-Underfoot-Systems-Engineer-Graduate-Internship_R-94431'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Beaverton, Oregon</td>
+      <td>NIKE, Inc. NXT SPACE Engineering, Innovation Graduate Internship</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-NXT-SPACE-Engineering--Innovation-Graduate-Internship_R-94423-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Beaverton, Oregon</td>
+      <td>NIKE, Inc. AI & Machine Learning, Innovation Graduate Internship</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-AI---Machine-Learning--Innovation-Graduate-Internship_R-94412'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Solon, OH, US</td>
+      <td>Material Handler - Flexibar</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Solon-OH-US/Material-Handler---Flexibar_R23877'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pure storage</b></td>
+      <td>Santa Clara, California</td>
+      <td> Forward Deployed Engineer, AI Systems</td>
+      <td><a href='https://job-boards.greenhouse.io/purestorage/jobs/8165519'>Apply</a></td>
+      <td>Sep 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>CA-Ontario-Toronto</td>
+      <td>Software Engineer, Notebooks</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/ea0df7ad-11c5-41e6-8789-1af6068fc8f6'>Apply</a></td>
+      <td>Jul 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Orlando, FL, USA</td>
+      <td>Disney Live Entertainment Costume Buying Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Disney-Live-Entertainment-Costume-Buying-Intern--Spring-2027_10161310'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Lake Buena Vista, FL, USA</td>
+      <td>Project Coordinator (Project Hire/Internal Assignment)</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Project-Coordinator--Project-Hire-Internal-Assignment-_10160727-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-29-10-32-50'>🕐 Batch at 2026-09-29 10:32:50</h3>
 
@@ -266,7 +538,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-29-05-02-43'>🕐 Batch at 2026-09-29 05:02:43</h3>
 
 📊 **Total jobs in this batch: 4**
