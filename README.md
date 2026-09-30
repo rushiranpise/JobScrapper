@@ -4,8 +4,320 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-30 14:53:06](#batch-2026-09-30-14-53-06)
 - [Batch at 2026-09-30 10:30:03](#batch-2026-09-30-10-30-03)
 - [Batch at 2026-09-30 04:49:44](#batch-2026-09-30-04-49-44)
+
+<h3 id='batch-2026-09-30-14-53-06'>🕐 Batch at 2026-09-30 14:53:06</h3>
+
+📊 **Total jobs in this batch: 38**
+
+**Per company:**
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- ASMLEXT1: 1 job
+- Applied Materials: 2 jobs
+- BAH: 5 jobs
+- Esri: 1 job
+- LaunchDarkly : 2 jobs
+- Intel Corporation: 1 job
+- KLA: 2 jobs
+- Logic gate: 3 jobs
+- Micron: 3 jobs
+- Nike: 1 job
+- nVent: 1 job
+- One: 1 job
+- NVIDIA: 1 job
+- Ramp: 1 job
+- RF-SMART: 1 job
+- Snowflake: 1 job
+- Simons Foundation: 1 job
+- spacex: 1 job
+- SRK Supplylogix LLC: 4 jobs
+- terex: 1 job
+- Waymo: 2 jobs
+- ZoomInfo: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>COBOL Applications Developer</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/COBOL-Applications-Developer_JR66062'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Optical Fabrication Tech CWW Front End Days</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Tech-CWW-Front-End-Days_J-00353178'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Process Engineer III New College Grad - (E3)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Process-Engineer-III-New-College-Grad----E3-_R2628743'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>IT Solutions Analyst - New College Grad (Bachelors - Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/IT-Solutions-Analyst---New-College-Grad--Bachelors---Santa-Clara--CA-_R2611661'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Belvoir, VA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Data-Engineer_R0250764'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>North Charleston, SC</td>
+      <td>Oracle Database Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/North-Charleston-SC/Oracle-Database-Engineer_R0250731'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0250729'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Annapolis Junction, MD</td>
+      <td>Agentic AI Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Agentic-AI-Engineer_R0250649'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Bethesda, MD</td>
+      <td>Java Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Java-Developer_R0250700'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Support Analyst l-Infrastructure </td>
+      <td><a href='https://www.esri.com/careers/5249691007?gh_jid=5249691007'>Apply</a></td>
+      <td>Sep 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>LaunchDarkly </b></td>
+      <td>Remote - US</td>
+      <td>Backend Engineer (Multiple Positions)</td>
+      <td><a href='https://job-boards.greenhouse.io/launchdarkly/jobs/8007080003'>Apply</a></td>
+      <td>Sep 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>LaunchDarkly </b></td>
+      <td>Remote - US</td>
+      <td>Full Stack Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/launchdarkly/jobs/8007085003'>Apply</a></td>
+      <td>Sep 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>Virtual US</td>
+      <td>Research Scientist Intern - Graphics, ML</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Mechatronics/Systems Engineering Internship</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Mechatronics Engineering Internship</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Mechatronics-Engineering-Internship_2641518-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Logic gate</b></td>
+      <td>Chicago, Illinois, United States</td>
+      <td>AI Operations Specialist</td>
+      <td><a href='https://www.logicgate.ai/company/careers/?gh_jid=4731981005'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Logic gate</b></td>
+      <td>Remote USA | Chicago Preferred</td>
+      <td>Software Engineer: Back-End</td>
+      <td><a href='https://www.logicgate.ai/company/careers/?gh_jid=4727050005'>Apply</a></td>
+      <td>Aug 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Logic gate</b></td>
+      <td>Remote USA | Chicago Preferred</td>
+      <td>Test Engineer (SDET)</td>
+      <td><a href='https://www.logicgate.ai/company/careers/?gh_jid=4727022005'>Apply</a></td>
+      <td>Aug 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Manassas, VA -  Fab 6</td>
+      <td>New College Grad - Industrial Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/Industrial-Engineer_JR110610'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Manassas, VA -  Fab 6</td>
+      <td>New College Grad - DIR Process Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/New-College-Grad---DIR-Process-Engineer_JR113799'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Intern - SDR</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SDR_JR112775'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Beaverton, Oregon</td>
+      <td>Product Developer II, Global Football Footwear</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Product-Developer-II--Global-Football-Footwear_R-92814'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Eastanollee, GA, US</td>
+      <td>Material Handler</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Eastanollee-GA-US/Material-Handler_R23915-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>One</b></td>
+      <td>United States (Remote)</td>
+      <td>Software Engineer, Credit Card</td>
+      <td><a href='https://jobs.ashbyhq.com/oneapp/45395ba3-6845-4707-ab55-4e0a4e4baffb'>Apply</a></td>
+      <td>Sep 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>PhD Research Intern, Programming Systems - 2027</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Ramp</b></td>
+      <td>New York, NY (HQ)</td>
+      <td>Applied Scientist Intern</td>
+      <td><a href='https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956'>Apply</a></td>
+      <td>Sep 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>RF-SMART</b></td>
+      <td>Jacksonville, Florida, United States</td>
+      <td>Service Delivery Intern (IT Helpdesk) - Summer 2027</td>
+      <td><a href='https://job-boards.greenhouse.io/rfsmart/jobs/5425409008'>Apply</a></td>
+      <td>Sep 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-CA-Menlo Park</td>
+      <td>Software Engineer – Mobile Team </td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/16d130a1-4014-4458-829f-ea2ba48d366d'>Apply</a></td>
+      <td>Sep 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Simons Foundation</b></td>
+      <td>162 Fifth Avenue, New York, NY</td>
+      <td>Software and Infrastructure Engineer</td>
+      <td><a href='https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue-New-York-NY/Software-and-Infrastructure-Engineer_R0002177'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>RF Silicon Software Engineer (RFIC Engineering)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8856971002?gh_jid=8856971002'>Apply</a></td>
+      <td>Sep 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, MD, Hanover</td>
+      <td>Bulk/Straight Truck Driver Professional</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-MD-Hanover/Bulk-Straight-Truck-Driver-Professional_JR0155052'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, OH, Columbus</td>
+      <td>Line Haul Tractor-Trailer</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-OH-Columbus/Line-Haul-Tractor-Trailer_JR0155050'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, VA, Clear Brook</td>
+      <td>Delivery Professional Line Haul Tractor Trailer</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-VA-Clear-Brook/Delivery-Professional-Line-Haul-Tractor-Trailer_JR0155049'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, GA, Buford</td>
+      <td>Delivery Professional Line Haul Tractor Trailer</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-GA-Buford/Delivery-Professional-Line-Haul-Tractor-Trailer_JR0155047'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>USA, SD, Watertown</td>
+      <td>ME Intern, Training, Part-time</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/USA-SD-Watertown/ME-Intern--Training--Part-time_REQ-14433'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA</td>
+      <td>2027 Summer Intern, BS, Software Engineering, Labeling</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8238525'>Apply</a></td>
+      <td>Sep 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA</td>
+      <td>2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8240198'>Apply</a></td>
+      <td>Sep 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ZoomInfo</b></td>
+      <td>Bethesda, Maryland, United States</td>
+      <td>Software Engineer III - Developer Productivity</td>
+      <td><a href='https://www.zoominfo.com/careers?gh_jid=8852141002'>Apply</a></td>
+      <td>Sep 30, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-30-10-30-03'>🕐 Batch at 2026-09-30 10:30:03</h3>
 
@@ -324,7 +636,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-30-04-49-44'>🕐 Batch at 2026-09-30 04:49:44</h3>
 
 📊 **Total jobs in this batch: 1**
