@@ -4,9 +4,183 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-29 20:26:40](#batch-2026-09-29-20-26-40)
 - [Batch at 2026-09-29 14:52:16](#batch-2026-09-29-14-52-16)
 - [Batch at 2026-09-29 10:32:50](#batch-2026-09-29-10-32-50)
 - [Batch at 2026-09-29 05:02:43](#batch-2026-09-29-05-02-43)
+
+<h3 id='batch-2026-09-29-20-26-40'>🕐 Batch at 2026-09-29 20:26:40</h3>
+
+📊 **Total jobs in this batch: 20**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- Allstate: 1 job
+- Applied Materials: 1 job
+- BAH: 4 jobs
+- Coinbase: 1 job
+- Formlabs: 6 jobs
+- genpt: 1 job
+- NVIDIA: 2 jobs
+- Ripple: 1 job
+- Salesforce: 1 job
+- SharkNinja: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Palo Alto, California, United States</td>
+      <td>TPM, Release Management and Cloud Platform</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5252652007'>Apply</a></td>
+      <td>Sep 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - WA (Remote)</td>
+      <td>Field Auto Appraiser - Bellevue, WA</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---WA-Remote/Field-Auto-Appraiser---Bellevue--WA_R35504'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>New College Grad System Engineer, Material Characterization (PhD - Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/New-College-Grad-System-Engineer--Material-Characterization--PhD---Santa-Clara--CA-_R2629147'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Aurora, CO</td>
+      <td>Full Stack Developer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Full-Stack-Developer--Mid_R0250632'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Aurora, CO</td>
+      <td>Full Stack Developer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Full-Stack-Developer--Mid_R0250631'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Aurora, CO</td>
+      <td>AI/ML Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/AI-ML-Engineer--Mid_R0250628'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Aurora, CO</td>
+      <td>Remote Sensing Software Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Remote-Sensing-Software-Engineer--Mid_R0250626'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer, CDP - Foundations </td>
+      <td><a href='https://www.coinbase.com/careers/positions/8241522?gh_jid=8241522'>Apply</a></td>
+      <td>Sep 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Boston, MA</td>
+      <td>3D Print Optimization Engineer - June 2027 New Grads</td>
+      <td><a href='https://careers.formlabs.com/job/8241503/apply/?gh_jid=8241503'>Apply</a></td>
+      <td>Sep 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>3D Print Optimization Engineer - June 2027 New Grads</td>
+      <td><a href='https://careers.formlabs.com/job/8241504/apply/?gh_jid=8241504'>Apply</a></td>
+      <td>Sep 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Boston, MA</td>
+      <td>Materials Scientist - June 2027 Grads</td>
+      <td><a href='https://careers.formlabs.com/job/8241540/apply/?gh_jid=8241540'>Apply</a></td>
+      <td>Sep 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Materials Scientist - June 2027 Grads</td>
+      <td><a href='https://careers.formlabs.com/job/8241539/apply/?gh_jid=8241539'>Apply</a></td>
+      <td>Sep 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Boston, MA</td>
+      <td>SLS Materials Scientist - June 2027 Grads</td>
+      <td><a href='https://careers.formlabs.com/job/8241541/apply/?gh_jid=8241541'>Apply</a></td>
+      <td>Sep 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>SLS Materials Scientist - June 2027 Grads</td>
+      <td><a href='https://careers.formlabs.com/job/8241542/apply/?gh_jid=8241542'>Apply</a></td>
+      <td>Sep 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>White, GA, USA</td>
+      <td>CDL A Local Driver</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/White-GA-USA/CDL-A-Local-Driver_R26_0000032064'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Research Scientist, Fundamental Generative AI - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>System Software Engineer - GPU Power and Performance Management</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GPU-Power-and-Performance-Management_JR2026396'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Ripple</b></td>
+      <td>San Francisco, CA, United States</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://ripple.com/careers/all-jobs/job/8241603?gh_jid=8241603'>Apply</a></td>
+      <td>Sep 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Software Engineering SMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR357622'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SharkNinja</b></td>
+      <td>Needham, MA, United States</td>
+      <td>Unit 26 - Software & System Architect Opportunities</td>
+      <td><a href='https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4717640006'>Apply</a></td>
+      <td>Sep 29, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-29-14-52-16'>🕐 Batch at 2026-09-29 14:52:16</h3>
 
@@ -278,7 +452,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-29-10-32-50'>🕐 Batch at 2026-09-29 10:32:50</h3>
 
 📊 **Total jobs in this batch: 31**
@@ -537,8 +710,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-09-29-05-02-43'>🕐 Batch at 2026-09-29 05:02:43</h3>
+---<h3 id='batch-2026-09-29-05-02-43'>🕐 Batch at 2026-09-29 05:02:43</h3>
 
 📊 **Total jobs in this batch: 4**
 
