@@ -4,9 +4,158 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-09-30 20:32:58](#batch-2026-09-30-20-32-58)
 - [Batch at 2026-09-30 14:53:06](#batch-2026-09-30-14-53-06)
 - [Batch at 2026-09-30 10:30:03](#batch-2026-09-30-10-30-03)
 - [Batch at 2026-09-30 04:49:44](#batch-2026-09-30-04-49-44)
+
+<h3 id='batch-2026-09-30-20-32-58'>🕐 Batch at 2026-09-30 20:32:58</h3>
+
+📊 **Total jobs in this batch: 16**
+
+**Per company:**
+- Affirm : 1 job
+- ASMLEXT1: 1 job
+- Citi: 1 job
+- Esri: 1 job
+- Hudson River Trading: 1 job
+- KLA: 1 job
+- Merck & Co.: 2 jobs
+- MOOG: 1 job
+- NVIDIA: 1 job
+- Quantinuum: 1 job
+- Roblox: 1 job
+- spacex: 1 job
+- The Walt Disney Company: 2 jobs
+- Travellers: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>Software Engineer II, Backend (Streaming)</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/8003020003'>Apply</a></td>
+      <td>Sep 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>San Diego, CA, USA</td>
+      <td>Cloud Optimization Engineer - FinOps</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/Cloud-Optimization-Engineer---FinOps_J-00353399'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Irving Texas United States</td>
+      <td>Java Developer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Java-Developer_26998462'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Product Engineer II- Data Pipelines</td>
+      <td><a href='https://www.esri.com/careers/5225271007?gh_jid=5225271007'>Apply</a></td>
+      <td>Sep 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Hudson River Trading</b></td>
+      <td>New York, NY, United States</td>
+      <td>Middle Office Analyst - FX</td>
+      <td><a href='https://www.hudsonrivertrading.com/careers/job/?gh_jid=7172488'>Apply</a></td>
+      <td>Aug 25, 2025</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Hillsboro, OR</td>
+      <td>Applications Development Engineer</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Hillsboro-OR/Applications-Development-Engineer_2641855-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Merck & Co.</b></td>
+      <td>USA - Massachusetts - Cambridge (320 Bent Street)</td>
+      <td>Associate Scientist, Post Doc Fellow- Computational Pathology & Spatial AI</td>
+      <td><a href='https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Associate-Scientist--Post-Doc-Fellow--Computational-Pathology---Spatial-AI_R418980-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Merck & Co.</b></td>
+      <td>USA - Massachusetts - Cambridge (320 Bent Street)</td>
+      <td>Postdoctoral Researcher – Integrative Genetics and Multi-Omics Data Science</td>
+      <td><a href='https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Postdoctoral-Researcher---Integrative-Genetics-and-Multi-Omics-Data-Science_R416259-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>AI Software Engineer</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/AI-Software-Engineer_R-26-20291'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>System Software Engineer - Robotics Simulation</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Robotics-Simulation_JR2026819'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Quantinuum</b></td>
+      <td>US Broomfield, CO</td>
+      <td>Systems Engineering Intern - 1048</td>
+      <td><a href='https://jobs.eu.lever.co/quantinuum/fcceecb2-58fb-4f34-8956-6fc148adf552'>Apply</a></td>
+      <td>2026-09-30 22:37:01</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>San Mateo, CA, United States</td>
+      <td>Software Engineer, Engine Scalability</td>
+      <td><a href='https://careers.roblox.com/jobs/8226958?gh_jid=8226958'>Apply</a></td>
+      <td>Sep 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Full Stack Software Engineer, Platform</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8859566002?gh_jid=8859566002'>Apply</a></td>
+      <td>Sep 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Glendale, CA, USA</td>
+      <td>KABC-TV (ABC7) Digital News Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/KABC-TV--ABC7--Digital-News-Intern--Spring-2027_10158939'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Glendale, CA, USA</td>
+      <td>ABC Owned TV Stations Content Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/ABC-Owned-TV-Stations-Content-Intern--Spring-2027_10160956'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Travellers</b></td>
+      <td>CT - Hartford</td>
+      <td>Bond & Specialty Insurance Underwriting Professional Development Program (BSI UPDP) Internship</td>
+      <td><a href='https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Bond---Specialty-Insurance-Underwriting-Professional-Development-Program--BSI-UPDP--Internship_R-52882'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-09-30-14-53-06'>🕐 Batch at 2026-09-30 14:53:06</h3>
 
@@ -318,7 +467,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-09-30-10-30-03'>🕐 Batch at 2026-09-30 10:30:03</h3>
 
 📊 **Total jobs in this batch: 39**
@@ -635,8 +783,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-09-30-04-49-44'>🕐 Batch at 2026-09-30 04:49:44</h3>
+---<h3 id='batch-2026-09-30-04-49-44'>🕐 Batch at 2026-09-30 04:49:44</h3>
 
 📊 **Total jobs in this batch: 1**
 
