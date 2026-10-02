@@ -4,8 +4,301 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-02 14:47:05](#batch-2026-10-02-14-47-05)
 - [Batch at 2026-10-02 10:18:59](#batch-2026-10-02-10-18-59)
 - [Batch at 2026-10-02 04:47:48](#batch-2026-10-02-04-47-48)
+
+<h3 id='batch-2026-10-02-14-47-05'>🕐 Batch at 2026-10-02 14:47:05</h3>
+
+📊 **Total jobs in this batch: 35**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- Allstate: 2 jobs
+- CrowdStrike, Inc: 1 job
+- ASMLEXT1: 1 job
+- Anduril Industries: 1 job
+- BAH: 3 jobs
+- Bank of Montreal: 2 jobs
+- BorgWarner: 1 job
+- Brink: 1 job
+- Chime: 2 jobs
+- Commvault: 1 job
+- General Motors LLC: 1 job
+- Micron: 1 job
+- Natera : 1 job
+- nVent: 1 job
+- Reddit: 1 job
+- Samsara: 1 job
+- searchLFN: 1 job
+- spacex: 2 jobs
+- Stripe: 1 job
+- The Walt Disney Company: 1 job
+- Travellers: 4 jobs
+- Waymo: 2 jobs
+- Warner Bros: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Hagerstown, Maryland, United States</td>
+      <td>Software Integration Engineer - Lab Automation</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5255768007'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - IL (Remote)</td>
+      <td>Data Analytics Engineer (Remote, US)</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---IL-Remote/Data-Analytics-Engineer--Remote--US-_R35409-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - IL (Remote)</td>
+      <td>Data Engineer (Remote, US)</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---IL-Remote/Data-Engineer--Remote--US-_R35408-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Austin, TX</td>
+      <td>Global Programs Intern (Summer 2027)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Austin-TX/Global-Sales-Programs-Intern--Summer-2027-_R30217'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Business Engineer - Manufacturing Data Analyst</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Business-Engineer---Manufacturing-Data-Analyst_J-00353624'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Waltham, Massachusetts, United States</td>
+      <td>Realtime Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5255525007?gh_jid=5255525007'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Columbia, MD</td>
+      <td>Windows CNO Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Columbia-MD/Windows-CNO-Developer_R0250929'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Columbia, MD</td>
+      <td>UNIX CNO Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Columbia-MD/UNIX-CNO-Developer_R0250930'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Honolulu, HI</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Scientist_R0250905'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>Chicago, IL, USA</td>
+      <td>TPS Treasury Advisor - Chicago, IL (New Grad)</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/TPS-Treasury-Advisor---Chicago--IL--New-Grad-_R260028205'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Bank of Montreal</b></td>
+      <td>Newport Beach, CA, USA</td>
+      <td>TPS Treasury Advisor - Newport Beach, CA (New Grad)</td>
+      <td><a href='https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Newport-Beach-CA-USA/TPS-Treasury-Advisor---Newport-Beach--CA--New-Grad-_R260028203'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Kokomo Technical Center - Indiana - USA</td>
+      <td>Process Methods & Tools Intern</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Process-Methods---Tools-Intern_R2026-3945'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Brink</b></td>
+      <td>Chesapeake VA</td>
+      <td>CDL Driver</td>
+      <td><a href='https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Chesapeake-VA/CDL-Driver_R80932'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Chime</b></td>
+      <td>Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA</td>
+      <td>AI/ML Engineer</td>
+      <td><a href='https://boards.greenhouse.io/chime/jobs/8569366002?gh_jid=8569366002'>Apply</a></td>
+      <td>Jun 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Chime</b></td>
+      <td>Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA</td>
+      <td>Software Engineer, Infrastructure Platform </td>
+      <td><a href='https://boards.greenhouse.io/chime/jobs/8859182002?gh_jid=8859182002'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Commvault</b></td>
+      <td>United States</td>
+      <td>DLP Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/commvault/jobs/5429947008'>Apply</a></td>
+      <td>Sep 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>2027 Summer Intern – Machine Learning Engineer, AV/AI Platform</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - ID1</td>
+      <td>Global FE PLN US Satellite Scenario and Capital Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Global-FE-PLN-US-Satellite-Scenario-and-Capital-Engineer_JR113555'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Software Engineering Intern</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6188497004'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Anoka, MN, US</td>
+      <td>Electrical/Controls Engineering Co-Op (January - August 2027)</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Electrical-Controls-Engineering-Co-Op--January---August-2027-_R23894'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Reddit</b></td>
+      <td>Remote - United States</td>
+      <td>iOS Software Engineer, Consumer Engineering</td>
+      <td><a href='https://job-boards.greenhouse.io/reddit/jobs/8250125'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Samsara</b></td>
+      <td>Remote - US</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://www.samsara.com/company/careers/roles/8223645?gh_jid=8223645'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>searchLFN</b></td>
+      <td>Rosemont, IL</td>
+      <td>Financial Planning and Analysis Intern</td>
+      <td><a href='https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Rosemont-IL/Financial-Planning-and-Analysis-Intern_JR-025266'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Data Center Technician</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8861870002?gh_jid=8861870002'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Memphis, TN</td>
+      <td>Environmental Health & Safety Engineer (AI Supercomputer)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8861009002?gh_jid=8861009002'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>Seattle, WA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=8249901'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Lake Buena Vista, FL, USA</td>
+      <td>Graduate Associate, Data Analytics, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Graduate-Associate--Data-Analytics--Spring-2027_10160000-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Travellers</b></td>
+      <td>MA - Braintree</td>
+      <td>Bond & Specialty Underwriting Professional Development Program (BSI UPDP) Internship</td>
+      <td><a href='https://travelers.wd5.myworkdayjobs.com/en-US/External/job/MA---Braintree/Bond---Specialty-Underwriting-Professional-Development-Program--BSI-UPDP--Internship_R-52879'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Travellers</b></td>
+      <td>CT - Hartford</td>
+      <td>Bond & Specialty Insurance Underwriting Professional Development Program (BSI UPDP) Internship</td>
+      <td><a href='https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Bond---Specialty-Insurance-Underwriting-Professional-Development-Program--BSI-UPDP--Internship_R-52883'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Travellers</b></td>
+      <td>MA - Braintree</td>
+      <td>Business Insurance Underwriting Professional Development Program (BI UPDP) Internship</td>
+      <td><a href='https://travelers.wd5.myworkdayjobs.com/en-US/External/job/MA---Braintree/Business-Insurance-Underwriting-Professional-Development-Program--BI-UPDP--Internship_R-52979'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Travellers</b></td>
+      <td>CT - Hartford</td>
+      <td>Business Insurance Underwriting Professional Development Program (BI UPDP) Internship</td>
+      <td><a href='https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Business-Insurance-Underwriting-Professional-Development-Program--BI-UPDP--Internship_R-52980'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA</td>
+      <td>2027 Summer Intern, Perception - Perception Data Foundations</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8248327'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA</td>
+      <td>2027 Summer Intern, PhD, Research, World Action Model</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8243732'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Warner Bros</b></td>
+      <td>Montreal 888, boul. De Maisonneuve Est</td>
+      <td>Programmeur.euse avancé.e, jouabilité / Advanced Gameplay Programmer</td>
+      <td><a href='https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/Montreal-888-boul-De-Maisonneuve-Est/Programmeureuse-avance--jouabilit---Advanced-Gameplay-Programmer_R000109227-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Program Tooling & Analytics Developer</td>
+      <td><a href='https://jobs.lever.co/zoox/7bf2a9b3-8aa5-4950-b8b8-14306ef1069f'>Apply</a></td>
+      <td>2026-01-22 02:09:56</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-02-10-18-59'>🕐 Batch at 2026-10-02 10:18:59</h3>
 
@@ -273,7 +566,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-02-04-47-48'>🕐 Batch at 2026-10-02 04:47:48</h3>
 
 📊 **Total jobs in this batch: 2**
