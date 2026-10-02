@@ -4,8 +4,145 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-01 20:33:05](#batch-2026-10-01-20-33-05)
 - [Batch at 2026-10-01 15:20:18](#batch-2026-10-01-15-20-18)
 - [Batch at 2026-10-01 05:18:41](#batch-2026-10-01-05-18-41)
+
+<h3 id='batch-2026-10-01-20-33-05'>🕐 Batch at 2026-10-01 20:33:05</h3>
+
+📊 **Total jobs in this batch: 15**
+
+**Per company:**
+- Archer 56: 1 job
+- Motorola Solutions, Inc: 1 job
+- Brink: 1 job
+- General Motors LLC: 3 jobs
+- NVIDIA: 1 job
+- PlayStation Global: 1 job
+- spacex: 5 jobs
+- The Walt Disney Company: 1 job
+- Waymo: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Archer 56</b></td>
+      <td>San Jose, California, United States</td>
+      <td>VMS Software Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/archer56/jobs/7652666003'>Apply</a></td>
+      <td>Oct 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Minnesota Remote Work, More...</td>
+      <td>Complaints Administrative Assistant - Remote</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Minnesota-Remote-Work/Complaints-Administrative-Assistant_R68884'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Brink</b></td>
+      <td>Richmond VA</td>
+      <td>CDL Driver</td>
+      <td><a href='https://brinks.wd5.myworkdayjobs.com/en-US/BrinksCareersUS/job/Richmond-VA/CDL-Driver_R80910'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>2027 Summer Intern – AI/ML Engineer, Autonomous Vehicles: Simulation (PhD)</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>2027 Summer Intern - Software Engineer, Autonomous Vehicle: Simulation</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, TN, Remote</td>
+      <td>Field Application Engineer</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TN-Remote/Field-Application-Engineer_JR2027068'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Mateo, CA</td>
+      <td>Software Engineer II DevEx</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6211665004'>Apply</a></td>
+      <td>Oct 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>Application Software Engineer, Manufacturing Systems</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8861910002?gh_jid=8861910002'>Apply</a></td>
+      <td>Oct 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Washington, DC</td>
+      <td>Software Engineer, AI Infrastructure (Starshield)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8861901002?gh_jid=8861901002'>Apply</a></td>
+      <td>Oct 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Software Engineer, AI Infrastructure (Starshield)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8861903002?gh_jid=8861903002'>Apply</a></td>
+      <td>Oct 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Software Engineer, AI Infrastructure (Starshield)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8861902002?gh_jid=8861902002'>Apply</a></td>
+      <td>Oct 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer, AI Infrastructure (Starshield)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8861900002?gh_jid=8861900002'>Apply</a></td>
+      <td>Oct 01, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Lake Buena Vista, FL, USA</td>
+      <td>WDI Illusion Maker - Surface Development Intern, Orlando, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Illusion-Maker---Surface-Development-Intern--Orlando--Spring-2027_10162132'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA</td>
+      <td>2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8248060'>Apply</a></td>
+      <td>Oct 01, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-01-15-20-18'>🕐 Batch at 2026-10-01 15:20:18</h3>
 
@@ -678,7 +815,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-01-05-18-41'>🕐 Batch at 2026-10-01 05:18:41</h3>
 
 📊 **Total jobs in this batch: 4**
