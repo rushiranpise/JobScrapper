@@ -4,9 +4,168 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-02 20:17:18](#batch-2026-10-02-20-17-18)
 - [Batch at 2026-10-02 14:47:05](#batch-2026-10-02-14-47-05)
 - [Batch at 2026-10-02 10:18:59](#batch-2026-10-02-10-18-59)
 - [Batch at 2026-10-02 04:47:48](#batch-2026-10-02-04-47-48)
+
+<h3 id='batch-2026-10-02-20-17-18'>🕐 Batch at 2026-10-02 20:17:18</h3>
+
+📊 **Total jobs in this batch: 18**
+
+**Per company:**
+- Affirm : 2 jobs
+- Anduril Industries: 3 jobs
+- CrowdStrike, Inc: 1 job
+- Formlabs: 1 job
+- Gemini: 1 job
+- General Motors LLC: 1 job
+- Micron: 1 job
+- Natera : 1 job
+- spacex: 4 jobs
+- The Walt Disney Company: 3 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>San Francisco, California, United States</td>
+      <td>Software Engineer Intern (Summer 2027)</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/8011590003'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>San Francisco, California, United States</td>
+      <td>Software Engineer (Machine Learning) Intern (Summer 2027)</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/8008645003'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Fort Collins, Colorado, United States</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5030386007?gh_jid=5030386007'>Apply</a></td>
+      <td>Mar 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Fort Collins, Colorado, United States</td>
+      <td>DevOps Engineer, Radar</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5256306007?gh_jid=5256306007'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Fort Collins, Colorado, United States</td>
+      <td>Software Quality Engineer, Radar</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5256304007?gh_jid=5256304007'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Austin, TX</td>
+      <td>Backend Engineer III, LogScale Search, Engine (Hybrid)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Austin-TX/Sr-Software-Engineer--LogScale-Search--Hybrid-_R29418'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Manufacturing Engineer - May 2027 Graduates</td>
+      <td><a href='https://careers.formlabs.com/job/8250319/apply/?gh_jid=8250319'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Gemini</b></td>
+      <td>New York, New York</td>
+      <td>Prediction Markets Operations Intern (Winter 2027)</td>
+      <td><a href='https://boards.greenhouse.io/embed/job_app?for=gemini&token=8240204&gh_jid=8240204'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>2027 Summer Intern – Software Verification Engineer, AV/AI Platform</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Richardson, TX</td>
+      <td>Systems Software Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Systems-Software-Engineer_JR113846'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>Pleasanton, CA</td>
+      <td>Clinical Data Operator - Pleasanton, CA</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6196291004'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>AI Engineer, Compute Infrastructure, Special Programs - Top Secret Clearance</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8865231002?gh_jid=8865231002'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>AI Engineer, Compute Infrastructure, Special Programs - Top Secret Clearance</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8865230002?gh_jid=8865230002'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Product Operations Engineer, Government Applications Special Programs</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8864991002?gh_jid=8864991002'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Washington, DC</td>
+      <td>Product Operations Engineer, Government Applications Special Programs</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8865057002?gh_jid=8865057002'>Apply</a></td>
+      <td>Oct 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Anaheim, CA, USA</td>
+      <td>Entertainment Art Crew (CR)</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Ent-Art-Crew--CR-_10161741'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>New York, NY, USA</td>
+      <td>Early Morning News (Overnight) Production Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Early-Morning-News--Overnight--Production-Intern--Spring-2027_10158527'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Glendale, CA, USA</td>
+      <td>KABC-TV (ABC7) Special Projects & Morning News Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/KABC-TV--ABC7--Special-Projects---Morning-News-Intern--Spring-2027_10161990'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-02-14-47-05'>🕐 Batch at 2026-10-02 14:47:05</h3>
 
@@ -299,7 +458,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-02-10-18-59'>🕐 Batch at 2026-10-02 10:18:59</h3>
 
 📊 **Total jobs in this batch: 32**
@@ -565,8 +723,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-10-02-04-47-48'>🕐 Batch at 2026-10-02 04:47:48</h3>
+---<h3 id='batch-2026-10-02-04-47-48'>🕐 Batch at 2026-10-02 04:47:48</h3>
 
 📊 **Total jobs in this batch: 2**
 
