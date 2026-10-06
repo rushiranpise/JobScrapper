@@ -4,8 +4,75 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-05 21:17:08](#batch-2026-10-05-21-17-08)
 - [Batch at 2026-10-05 16:40:12](#batch-2026-10-05-16-40-12)
 - [Batch at 2026-10-05 06:20:41](#batch-2026-10-05-06-20-41)
+
+<h3 id='batch-2026-10-05-21-17-08'>🕐 Batch at 2026-10-05 21:17:08</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- Anduril Industries: 5 jobs
+- Concentrix: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Ashville, Ohio, United States; Costa Mesa, California, United States; Irvine, California, United States; Quonset, Rhode Island, United States; Santa Ana, California, United States</td>
+      <td>2027 Quality & Test Engineer Intern</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007'>Apply</a></td>
+      <td>Oct 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>2027 Reliability Engineer Intern</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007'>Apply</a></td>
+      <td>Oct 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Boston, Massachusetts, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Reston, Virginia, United States; Seattle, Washington, United States</td>
+      <td>2027 Systems Engineer Intern</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007'>Apply</a></td>
+      <td>Oct 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Integration & Test Engineer, Powertrain</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5166318007?gh_jid=5166318007'>Apply</a></td>
+      <td>Jun 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Winter 2027 Reliability Engineer Co-op</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007'>Apply</a></td>
+      <td>Oct 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>USA Omaha 222 South 15th Street, Suite 402S</td>
+      <td>AI Platform Architect - AI SDLC Platform on Microsoft Azure.</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/USA-Omaha-222-South-15th-Street-Suite-402S/AI-Platform-Architect---AI-SDLC-Platform-on-Microsoft-Azure_R1770118'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-05-16-40-12'>🕐 Batch at 2026-10-05 16:40:12</h3>
 
@@ -627,7 +694,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-05-06-20-41'>🕐 Batch at 2026-10-05 06:20:41</h3>
 
 📊 **Total jobs in this batch: 10**
