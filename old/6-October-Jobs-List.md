@@ -4,8 +4,115 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-06 20:44:26](#batch-2026-10-06-20-44-26)
 - [Batch at 2026-10-06 15:13:51](#batch-2026-10-06-15-13-51)
 - [Batch at 2026-10-06 05:40:17](#batch-2026-10-06-05-40-17)
+
+<h3 id='batch-2026-10-06-20-44-26'>🕐 Batch at 2026-10-06 20:44:26</h3>
+
+📊 **Total jobs in this batch: 11**
+
+**Per company:**
+- ALTEN Technology USA: 1 job
+- Applied Materials: 1 job
+- Concentrix: 1 job
+- Nike: 1 job
+- Sigma : 4 jobs
+- spacex: 1 job
+- The Walt Disney Company: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Auburn Hills, Michigan, United States</td>
+      <td>Junior Body Hardware Test Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5259669007'>Apply</a></td>
+      <td>Oct 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Summer 2027 Global Product Support Intern- Master's (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Summer-2027-Global-Product-Support-Intern--Master-s--Santa-Clara--CA-_R2628947'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>USA, OH, Work-at-Home</td>
+      <td>AI Service Experience Analyst</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/USA-OH-Work-at-Home/AI-Service-Experience-Analyst_R1770449'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Adelaide, South Australia</td>
+      <td>Casual Athlete, Nike Adelaide</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Adelaide-South-Australia/Casual-Athlete--Nike-Adelaide_R-94356'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Sigma </b></td>
+      <td>New York, New York</td>
+      <td>AI/ML PhD Intern (Summer 2027)</td>
+      <td><a href='https://job-boards.greenhouse.io/sigmacomputing/jobs/8015269003'>Apply</a></td>
+      <td>Oct 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Sigma </b></td>
+      <td>San Francisco, CA</td>
+      <td>AI/ML PhD Intern (Summer 2027)</td>
+      <td><a href='https://job-boards.greenhouse.io/sigmacomputing/jobs/7861424003'>Apply</a></td>
+      <td>Oct 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Sigma </b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineering Intern (Summer 2027)</td>
+      <td><a href='https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003'>Apply</a></td>
+      <td>Oct 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Sigma </b></td>
+      <td>New York, NY</td>
+      <td>Software Engineering Intern (Summer 2027)</td>
+      <td><a href='https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003'>Apply</a></td>
+      <td>Oct 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Application Software Engineer, Employee Experience </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8873383002?gh_jid=8873383002'>Apply</a></td>
+      <td>Oct 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Durham, NC, USA</td>
+      <td>WTVD ABC11 News/Broadcast Technical Operations Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Durham-NC-USA/WTVD-ABC11-News-Broadcast-Technical-Operations-Intern--Spring-2027_10158646'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Durham, NC, USA</td>
+      <td>WTVD ABC11 News Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Durham-NC-USA/WTVD-ABC11-News-Intern--Spring-2027_10158647-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-06-15-13-51'>🕐 Batch at 2026-10-06 15:13:51</h3>
 
@@ -538,7 +645,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-06-05-40-17'>🕐 Batch at 2026-10-06 05:40:17</h3>
 
 📊 **Total jobs in this batch: 3**
