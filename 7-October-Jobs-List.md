@@ -4,8 +4,99 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-07 20:58:49](#batch-2026-10-07-20-58-49)
 - [Batch at 2026-10-07 15:37:37](#batch-2026-10-07-15-37-37)
 - [Batch at 2026-10-07 05:33:17](#batch-2026-10-07-05-33-17)
+
+<h3 id='batch-2026-10-07-20-58-49'>🕐 Batch at 2026-10-07 20:58:49</h3>
+
+📊 **Total jobs in this batch: 9**
+
+**Per company:**
+- Motorola Solutions, Inc: 2 jobs
+- Applied Materials: 2 jobs
+- Gemini: 1 job
+- KLA: 3 jobs
+- Verily: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>St. Petersburg Business Center</td>
+      <td>Software Development Intern - Summer 2027 Internship</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/St-Petersburg-Business-Center/Software-Development-Intern---Summer-2027-Internship_R68576'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Westminster, CO</td>
+      <td>Software Engineer - Summer 2027 Internship</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Westminster-CO/Software-Engineer---Summer-2027-Internship_R68997'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>New College Grad Software Engineer I (Bachelors - Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>New College Grad Software Development Engineer (Bachelors - Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/New-College-Grad-Software-Development-Engineer--Bachelors---Santa-Clara--CA-_R2628997'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Gemini</b></td>
+      <td>New York, New York</td>
+      <td>Content Production Intern (Winter 2027)</td>
+      <td><a href='https://boards.greenhouse.io/embed/job_app?for=gemini&token=8247993&gh_jid=8247993'>Apply</a></td>
+      <td>Oct 07, 2026</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Software Engineer (Machine Control/OOD/OOP)</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineer--Machine-Control-OOD-OOP-_2641733-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Applications Development Engineering Intern - BBP</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Applications-Development-Engineering-Intern---BBP_2641507-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Product Development Applications Engineer Intern  (Broadband Plasma Division)</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Product-Development-Applications-Engineer-Intern---Broadband-Plasma-Division-_2641396'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Verily</b></td>
+      <td>Remote, United States</td>
+      <td>Clinical Data Architect</td>
+      <td><a href='https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers/job/Remote-United-States/Clinical-Data-Architect_REQ-842'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-07-15-37-37'>🕐 Batch at 2026-10-07 15:37:37</h3>
 
@@ -510,7 +601,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-07-05-33-17'>🕐 Batch at 2026-10-07 05:33:17</h3>
 
 📊 **Total jobs in this batch: 3**
