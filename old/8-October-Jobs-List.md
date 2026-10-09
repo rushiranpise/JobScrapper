@@ -4,8 +4,110 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-08 21:03:59](#batch-2026-10-08-21-03-59)
 - [Batch at 2026-10-08 15:51:02](#batch-2026-10-08-15-51-02)
 - [Batch at 2026-10-08 05:43:04](#batch-2026-10-08-05-43-04)
+
+<h3 id='batch-2026-10-08-21-03-59'>🕐 Batch at 2026-10-08 21:03:59</h3>
+
+📊 **Total jobs in this batch: 10**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Applied Materials: 1 job
+- General Motors LLC: 1 job
+- Micron: 1 job
+- Natera : 1 job
+- NVIDIA: 1 job
+- Roblox: 1 job
+- Snorkel AI: 1 job
+- spacex: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Sydney, New South Wales, Australia</td>
+      <td>2026 Electrical Engineer Intern</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5261873007?gh_jid=5261873007'>Apply</a></td>
+      <td>Oct 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>2027 Data Analytics & Business Operations Spring Co-Op or Summer Intern- Bachelor's/Master's (Austin, TX)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/XMLNAME-2027-Data-Analytics---Business-Operations-Spring-Co-Op-or-Summer-Intern--Bachelor-s-Master-s--Austin--TX-_R2626381'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Milford, Michigan, United States of America</td>
+      <td>Software Engineer</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer_JR-202620600-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>AI Ops Solution Intake & Feasibility Analyst</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/AI-Ops-Solution-Intake---Feasibility-Analyst_JR114206'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Supervisor, MLS Data Review</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6203768004'>Apply</a></td>
+      <td>Oct 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Research Intern, Spatial Intelligence - Summer 2027</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>San Mateo, CA, United States</td>
+      <td>Software Engineer, Data Model</td>
+      <td><a href='https://careers.roblox.com/jobs/8159857?gh_jid=8159857'>Apply</a></td>
+      <td>Oct 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snorkel AI</b></td>
+      <td>New York City, NY (Hybrid); San Francisco, CA (Hybrid)</td>
+      <td>Software Engineer — AI Platform</td>
+      <td><a href='https://job-boards.greenhouse.io/snorkelai/jobs/6185944004'>Apply</a></td>
+      <td>Sep 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>Electrical Test Engineer, AI Satellites (Starmind)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8857314002?gh_jid=8857314002'>Apply</a></td>
+      <td>Oct 08, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Software Engineer (AI Data Engineering)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8880868002?gh_jid=8880868002'>Apply</a></td>
+      <td>Oct 08, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-08-15-51-02'>🕐 Batch at 2026-10-08 15:51:02</h3>
 
@@ -524,7 +626,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-08-05-43-04'>🕐 Batch at 2026-10-08 05:43:04</h3>
 
 📊 **Total jobs in this batch: 4**
