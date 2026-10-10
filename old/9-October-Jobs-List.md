@@ -4,8 +4,153 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-09 20:47:37](#batch-2026-10-09-20-47-37)
 - [Batch at 2026-10-09 15:12:35](#batch-2026-10-09-15-12-35)
 - [Batch at 2026-10-09 05:29:50](#batch-2026-10-09-05-29-50)
+
+<h3 id='batch-2026-10-09-20-47-37'>🕐 Batch at 2026-10-09 20:47:37</h3>
+
+📊 **Total jobs in this batch: 16**
+
+**Per company:**
+- Abnormal Security: 1 job
+- Applied Materials: 5 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- Micron: 1 job
+- NVIDIA: 1 job
+- Roblox: 1 job
+- spacex: 1 job
+- The Walt Disney Company: 1 job
+- Waymo: 2 jobs
+- Zipline: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Abnormal Security</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer 2 - Development Infrastructure </td>
+      <td><a href='https://abnormal.ai/careers/jobs/8015189003?gh_jid=8015189003'>Apply</a></td>
+      <td>Oct 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Kalispell,MT</td>
+      <td>Material Coordinator/Handler II</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/KalispellMT/Material-Coordinator-Handler-II_R2630370'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Kalispell,MT</td>
+      <td>CW- Material Coordinator/Handler II</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/KalispellMT/CW--Material-Coordinator-Handler-II_R2630365'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Kalispell,MT</td>
+      <td>CW- Material Coordinator/Handler II</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/KalispellMT/CW--Material-Coordinator-Handler-II_R2630367'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Kalispell,MT</td>
+      <td>CW- Material Coordinator/Handler II</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/KalispellMT/CW--Material-Coordinator-Handler-II_R2630369'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software Engineering Summer Intern (Masters - Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA MD - Sparks - 7 Loveton Circle</td>
+      <td>Software Engineer I</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I_R-557002-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Intern - IT Software Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>ASIC Clocks Verification Engineer - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2027579'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>San Mateo, CA, United States</td>
+      <td>Software Engineer, ROS</td>
+      <td><a href='https://careers.roblox.com/jobs/8262223?gh_jid=8262223'>Apply</a></td>
+      <td>Oct 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>Site Reliability Engineer, Data Center Infrastructure </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8882642002?gh_jid=8882642002'>Apply</a></td>
+      <td>Oct 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Glendale, CA, USA</td>
+      <td>Disney & Pixar Games Art Intern (Creative Development), Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney---Pixar-Games-Art-Intern--Creative-Development---Spring-2027_10161216'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA</td>
+      <td>2027 Summer Intern, PhD, Research, AV Planning</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8258070'>Apply</a></td>
+      <td>Oct 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA: San Francisco, CA, USA</td>
+      <td>2027 Summer Intern, PhD, Research, Post Training</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8257006'>Apply</a></td>
+      <td>Oct 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Firmware Engineer Intern (Spring 2027) </td>
+      <td><a href='https://www.zipline.com/open-roles/8020863003?gh_jid=8020863003'>Apply</a></td>
+      <td>Oct 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Firmware Engineer Intern (Summer 2027) </td>
+      <td><a href='https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003'>Apply</a></td>
+      <td>Oct 09, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-09-15-12-35'>🕐 Batch at 2026-10-09 15:12:35</h3>
 
@@ -585,7 +730,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-09-05-29-50'>🕐 Batch at 2026-10-09 05:29:50</h3>
 
 📊 **Total jobs in this batch: 4**
