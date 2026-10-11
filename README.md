@@ -4,7 +4,38 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-11 10:16:21](#batch-2026-10-11-10-16-21)
 - [Batch at 2026-10-11 05:01:42](#batch-2026-10-11-05-01-42)
+
+<h3 id='batch-2026-10-11-10-16-21'>🕐 Batch at 2026-10-11 10:16:21</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- flir: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Hawthorne, CA (TDY)</td>
+      <td>Material Handler</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Hawthorne-CA-TDY/Material-Handler_REQ37026'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-11-05-01-42'>🕐 Batch at 2026-10-11 05:01:42</h3>
 
@@ -35,4 +66,3 @@
 <table>
 
 ---
-
