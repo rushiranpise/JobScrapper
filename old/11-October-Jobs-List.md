@@ -4,8 +4,39 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-11 20:43:20](#batch-2026-10-11-20-43-20)
 - [Batch at 2026-10-11 10:16:21](#batch-2026-10-11-10-16-21)
 - [Batch at 2026-10-11 05:01:42](#batch-2026-10-11-05-01-42)
+
+<h3 id='batch-2026-10-11-20-43-20'>🕐 Batch at 2026-10-11 20:43:20</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- NVIDIA: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Software Engineer, DL Kernel Libraries - New College Grad 2027</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-11-10-16-21'>🕐 Batch at 2026-10-11 10:16:21</h3>
 
@@ -36,7 +67,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-11-05-01-42'>🕐 Batch at 2026-10-11 05:01:42</h3>
 
 📊 **Total jobs in this batch: 1**
