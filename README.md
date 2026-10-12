@@ -1,19 +1,24 @@
-# 📢 Job Listings for October 11, 2026
+# 📢 Job Listings for October 12, 2026
 
 > New software engineering jobs discovered hourly. Latest batches appear first.
 
 ## 📑 Batch Index
 
-- [Batch at 2026-10-11 20:43:20](#batch-2026-10-11-20-43-20)
-- [Batch at 2026-10-11 10:16:21](#batch-2026-10-11-10-16-21)
-- [Batch at 2026-10-11 05:01:42](#batch-2026-10-11-05-01-42)
+- [Batch at 2026-10-12 07:11:30](#batch-2026-10-12-07-11-30)
 
-<h3 id='batch-2026-10-11-20-43-20'>🕐 Batch at 2026-10-11 20:43:20</h3>
+<h3 id='batch-2026-10-12-07-11-30'>🕐 Batch at 2026-10-12 07:11:30</h3>
 
-📊 **Total jobs in this batch: 1**
+📊 **Total jobs in this batch: 8**
 
 **Per company:**
-- NVIDIA: 1 job
+- Children's Hospital Medical Center: 1 job
+- Concentrix: 1 job
+- Merck & Co.: 1 job
+- SageSure: 1 job
+- SRK Supplylogix LLC: 1 job
+- terex: 1 job
+- The Toro: 1 job
+- Travellers: 1 job
 
 <table>
   <thead>
@@ -27,72 +32,63 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>NVIDIA</b></td>
-      <td>US, CA, Santa Clara</td>
-      <td>Software Engineer, DL Kernel Libraries - New College Grad 2027</td>
-      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337'>Apply</a></td>
+      <td><b>Children's Hospital Medical Center</b></td>
+      <td>Burnet Campus</td>
+      <td>Dependently Licensed Therapist, LPC or LSW, Psychiatric Intake Response Center (PIRC)</td>
+      <td><a href='https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Burnet-Campus/Clinical-Counselor--LPCC--or-Social-Worker--LISW---Psychiatric-Intake-Response-Center--PIRC-_JR226040'>Apply</a></td>
       <td>Posted Today</td>
     </tr>
-  </tbody>
-<table>
-
----
-
-<h3 id='batch-2026-10-11-10-16-21'>🕐 Batch at 2026-10-11 10:16:21</h3>
-
-📊 **Total jobs in this batch: 1**
-
-**Per company:**
-- flir: 1 job
-
-<table>
-  <thead>
     <tr>
-      <th>🏢 Company</th>
-      <th>📍 Location</th>
-      <th>💼 Role</th>
-      <th>🔗 Link</th>
-      <th>📅 Posted</th>
+      <td><b>Concentrix</b></td>
+      <td>SGP Singapore - 80 Pasir Panjang Road, 15-83/84 Mapletree Business City #2</td>
+      <td>AI Deployed Engineer (Copilot)</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/SGP-Singapore---80-Pasir-Panjang-Road-15-8384-Mapletree-Business-City-2/AI-Deployed-Engineer--Copilot-_R1770323'>Apply</a></td>
+      <td>Posted Today</td>
     </tr>
-  </thead>
-  <tbody>
     <tr>
-      <td><b>flir</b></td>
-      <td>US - Hawthorne, CA (TDY)</td>
+      <td><b>Merck & Co.</b></td>
+      <td>PRT - Lisbon - Paço de Arcos (Head)</td>
+      <td>Data Scientist</td>
+      <td><a href='https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/PRT---Lisbon---Pao-de-Arcos-Head/Data-Scientist_R421510'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SageSure</b></td>
+      <td>Jersey City, New Jersey, United States; Mountain View, California, United States</td>
+      <td>Carrier Operations Intern</td>
+      <td><a href='https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719406006'>Apply</a></td>
+      <td>Oct 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, VA, Richmond</td>
+      <td>Corporate Intern - Summer 2027</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-VA-Richmond/Corporate-Intern---Summer-2027_JR0155324'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>US-MO Mount Vernon</td>
       <td>Material Handler</td>
-      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Hawthorne-CA-TDY/Material-Handler_REQ37026'>Apply</a></td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/US-MO-Mount-Vernon/Material-Handler_REQ-14465-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Tomah, WI</td>
+      <td>1st Shift, Paint Associate - The Toro Company</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Tomah-WI/XMLNAME-1st-Shift--Paint-Associate---The-Toro-Company_JR17278'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Travellers</b></td>
+      <td>OH - Independence</td>
+      <td>Outside Auto Appraiser</td>
+      <td><a href='https://travelers.wd5.myworkdayjobs.com/en-US/External/job/OH---Independence/Outside-Auto-Appraiser_R-53145'>Apply</a></td>
       <td>Posted Today</td>
     </tr>
   </tbody>
 <table>
 
 ---
-<h3 id='batch-2026-10-11-05-01-42'>🕐 Batch at 2026-10-11 05:01:42</h3>
 
-📊 **Total jobs in this batch: 1**
-
-**Per company:**
-- Zoom: 1 job
-
-<table>
-  <thead>
-    <tr>
-      <th>🏢 Company</th>
-      <th>📍 Location</th>
-      <th>💼 Role</th>
-      <th>🔗 Link</th>
-      <th>📅 Posted</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Zoom</b></td>
-      <td>Remote  (US)</td>
-      <td>Software Engineer</td>
-      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--US/Software-Engineer_R19749-1'>Apply</a></td>
-      <td>N/A</td>
-    </tr>
-  </tbody>
-<table>
-
----
