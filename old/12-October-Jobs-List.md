@@ -4,8 +4,54 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-12 23:25:51](#batch-2026-10-12-23-25-51)
 - [Batch at 2026-10-12 17:08:26](#batch-2026-10-12-17-08-26)
 - [Batch at 2026-10-12 07:11:30](#batch-2026-10-12-07-11-30)
+
+<h3 id='batch-2026-10-12-23-25-51'>🕐 Batch at 2026-10-12 23:25:51</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Core Weave: 1 job
+- Hudson River Trading: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Sunnyvale, CA / Bellevue, WA / Dallas, TX</td>
+      <td>Software and AI Engineer</td>
+      <td><a href='https://coreweave.com/careers/job?4720302006&board=coreweave&gh_jid=4720302006'>Apply</a></td>
+      <td>Oct 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Hudson River Trading</b></td>
+      <td>New York, NY, United States</td>
+      <td>Middle Office Analyst - FX </td>
+      <td><a href='https://www.hudsonrivertrading.com/careers/job/?gh_jid=8214550'>Apply</a></td>
+      <td>Oct 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Hudson River Trading</b></td>
+      <td>New York, NY, United States</td>
+      <td>Middle Office Analyst - Macro </td>
+      <td><a href='https://www.hudsonrivertrading.com/careers/job/?gh_jid=8214790'>Apply</a></td>
+      <td>Oct 12, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-12-17-08-26'>🕐 Batch at 2026-10-12 17:08:26</h3>
 
@@ -538,7 +584,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-12-07-11-30'>🕐 Batch at 2026-10-12 07:11:30</h3>
 
 📊 **Total jobs in this batch: 8**
