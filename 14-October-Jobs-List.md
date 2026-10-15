@@ -4,9 +4,178 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-14 19:44:32](#batch-2026-10-14-19-44-32)
 - [Batch at 2026-10-14 14:17:21](#batch-2026-10-14-14-17-21)
 - [Batch at 2026-10-14 09:26:40](#batch-2026-10-14-09-26-40)
 - [Batch at 2026-10-14 04:05:14](#batch-2026-10-14-04-05-14)
+
+<h3 id='batch-2026-10-14-19-44-32'>🕐 Batch at 2026-10-14 19:44:32</h3>
+
+📊 **Total jobs in this batch: 19**
+
+**Per company:**
+- Anduril Industries: 2 jobs
+- AQR Capital Management: 1 job
+- BAH: 2 jobs
+- DoorDash : 1 job
+- flir: 1 job
+- General Motors LLC: 1 job
+- genpt: 2 jobs
+- Intel Corporation: 2 jobs
+- Salesforce: 1 job
+- Sigma : 2 jobs
+- spacex: 2 jobs
+- SRK Supplylogix LLC: 1 job
+- tp-link: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Las Vegas, Nevada, United States</td>
+      <td>Training Instructor</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5007785007?gh_jid=5007785007'>Apply</a></td>
+      <td>May 26, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Santa Ana, California, United States</td>
+      <td>Winter 2027 Research Engineer Co-op</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007'>Apply</a></td>
+      <td>Oct 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>AQR Capital Management</b></td>
+      <td>Greenwich, CT</td>
+      <td>Application Support Engineer</td>
+      <td><a href='https://careers.aqr.com/jobs?gh_jid=8007349&gh_jid=8007349'>Apply</a></td>
+      <td>Oct 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Training Policy and Programs Analyst, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Training-Policy-and-Programs-Analyst--Mid_R0251544'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Diego, CA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Scientist--Mid_R0251653'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>San Francisco, CA; Sunnyvale, CA; Seattle, WA</td>
+      <td>Software Engineer, ML Infrastructure (MDX)</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/8283735'>Apply</a></td>
+      <td>Oct 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - Lewisburg, TN</td>
+      <td>Material Handler</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Lewisburg-TN/Material-Handler_REQ37170-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>2027 Intern - Product Management, Vehicle Autonomy (MS or MBA)</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Merrillville, IN, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Merrillville-IN-USA/Material-Handler-I_R26_0000034464'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Merrillville, IN, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Merrillville-IN-USA/Material-Handler-I_R26_0000034461'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Module Engineer PhD Intern New 2027</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineer-PhD-Intern-New-2027_JR0287951'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Process Integration and Yield Eng PhD Intern, 2027</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Eng-PhD-Intern--2027_JR0288068'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>New York - New York</td>
+      <td>Summer 2027 Intern - Solution Engineer</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Sigma </b></td>
+      <td>San Francisco, CA</td>
+      <td>Technical Writer Intern (Summer 2027)</td>
+      <td><a href='https://job-boards.greenhouse.io/sigmacomputing/jobs/8034168003'>Apply</a></td>
+      <td>Oct 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Sigma </b></td>
+      <td>New York, NY</td>
+      <td>Technical Writer Intern (Summer 2027)</td>
+      <td><a href='https://job-boards.greenhouse.io/sigmacomputing/jobs/8034205003'>Apply</a></td>
+      <td>Oct 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>EEE Failure Analysis Engineer (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8603698002?gh_jid=8603698002'>Apply</a></td>
+      <td>Oct 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Space Operations Engineer (Ground Operator Training)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8889422002?gh_jid=8889422002'>Apply</a></td>
+      <td>Oct 14, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, IA, Clear Lake</td>
+      <td>Night Shift Trainer</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-IA-Clear-Lake/Night-Shift-Trainer_JR0155089'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>tp-link</b></td>
+      <td>Irvine, California</td>
+      <td>Penetration Tester, Web/Mobile Apps and Cloud Services</td>
+      <td><a href='https://apply.workable.com/tp-link-usa-corp/j/B15606A035/'>Apply</a></td>
+      <td>Oct 14, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-14-14-17-21'>🕐 Batch at 2026-10-14 14:17:21</h3>
 
@@ -298,7 +467,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-14-09-26-40'>🕐 Batch at 2026-10-14 09:26:40</h3>
 
 📊 **Total jobs in this batch: 18**
@@ -459,8 +627,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-10-14-04-05-14'>🕐 Batch at 2026-10-14 04:05:14</h3>
+---<h3 id='batch-2026-10-14-04-05-14'>🕐 Batch at 2026-10-14 04:05:14</h3>
 
 📊 **Total jobs in this batch: 1**
 
