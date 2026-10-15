@@ -4,8 +4,308 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-15 13:56:28](#batch-2026-10-15-13-56-28)
 - [Batch at 2026-10-15 09:13:15](#batch-2026-10-15-09-13-15)
 - [Batch at 2026-10-15 03:46:33](#batch-2026-10-15-03-46-33)
+
+<h3 id='batch-2026-10-15-13-56-28'>🕐 Batch at 2026-10-15 13:56:28</h3>
+
+📊 **Total jobs in this batch: 37**
+
+**Per company:**
+- ASMLEXT1: 1 job
+- Applied Materials: 1 job
+- BAH: 12 jobs
+- Duolingo: 2 jobs
+- Garner Health: 1 job
+- General Motors LLC: 6 jobs
+- Intel Corporation: 2 jobs
+- Micron: 1 job
+- National Information Solutions Cooperative (NISC): 1 job
+- Morgan Stanley: 1 job
+- nVent: 2 jobs
+- OpenGov : 1 job
+- Qualtrics: 1 job
+- Snowflake: 1 job
+- spacex: 1 job
+- Vermont Information Processing: 1 job
+- Waymo: 1 job
+- WEX: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Austin, TX, USA</td>
+      <td>software application engineer</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Austin-TX-USA/software-application-engineer_J-00355087-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Application Engineer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Application-Engineer_R2631288'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Software System Safety Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-System-Safety-Engineer_R0251552'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Warren, MI</td>
+      <td>Software Development Technical Planner</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warren-MI/Software-Development-Technical-Planner_R0251719'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Engineer_R0251795'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>University, Digital Transformation Analyst Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0251721'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fort Meade, MD</td>
+      <td>AI Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/AI-Engineer_R0251722-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>University, Digital Transformation Analyst Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0251716'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Wharton, NJ</td>
+      <td>Software Engineer, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wharton-NJ/Software-Engineer--Mid_R0251705'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Peterson AFB, CO</td>
+      <td>Joint Targeting Policy Developer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Peterson-AFB-CO/Joint-Targeting-Policy-Developer_R0251711'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Quantico, VA</td>
+      <td>Human Performance Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/Human-Performance-Data-Scientist_R0251695'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Wharton, NJ</td>
+      <td>Engineering Technician, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wharton-NJ/Engineering-Technician--Junior_R0251690-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Herndon, VA</td>
+      <td>Astrodynamics Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Herndon-VA/Astrodynamics-Software-Engineer_R0251706-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Release Train Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Release-Train-Engineer_R0251697'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Duolingo</b></td>
+      <td>New York, NY; Pittsburgh, PA</td>
+      <td>Data Scientist, Intern</td>
+      <td><a href='https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002'>Apply</a></td>
+      <td>Oct 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Duolingo</b></td>
+      <td>New York, NY; Pittsburgh, PA</td>
+      <td>Data Scientist, Intern (PhD)</td>
+      <td><a href='https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002'>Apply</a></td>
+      <td>Oct 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Garner Health</b></td>
+      <td>New York City, New York</td>
+      <td>Data Engineer II</td>
+      <td><a href='https://job-boards.greenhouse.io/garnerhealth/jobs/6225499004'>Apply</a></td>
+      <td>Oct 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>MBSE Systems Tools Developer – Advanced Vehicle Development</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/MBSE-Systems-Tools-Developer---Advanced-Vehicle-Development_JR-202620401'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>2027 Summer Intern, Onboard Autonomy, Embodied AI (Masters)</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>2027 Summer Intern,  Data Scaling, Embodied AI (Masters)</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Warren, Michigan, United States of America</td>
+      <td>2027 Summer Intern, AI/ML Engineer, Mapping (Masters)</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>2027 Summer Intern, SEAM, Embodied AI (Masters)</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI--Masters-_JR-202622537'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>General Motors LLC</b></td>
+      <td>Sunnyvale, California, United States of America</td>
+      <td>2027 Summer Intern, AI Research, Embodied AI (Masters)</td>
+      <td><a href='https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI--Masters-_JR-202622535'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Module Engineering PhD Intern New 2027</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0288076'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>AI GPU Power Delivery Pathfinding Researcher</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-GPU-Power-Delivery-Pathfinding-Researcher_JR0288188'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>New College Grad - Computer Engineer, Central Engineering</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---Computer-Engineer--Central-Engineering_JR115116-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>National Information Solutions Cooperative (NISC)</b></td>
+      <td>Atlanta, GA</td>
+      <td>Product Support Specialist II - Third Party Integrations (Utility Software)</td>
+      <td><a href='https://job-boards.greenhouse.io/nisc/jobs/8286520'>Apply</a></td>
+      <td>Oct 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>New York, New York, United States of America</td>
+      <td>Capital & Data Risk / IM Risk (Risk Management) : Job Level - Analyst</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Capital---Data-Risk---IM-Risk--Risk-Management----Job-Level---Analyst_PT-JR045551'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Millington, MD, US</td>
+      <td>Industrial Painter</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Millington-MD-US/Industrial-Painter_R24120'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Solon, OH, US</td>
+      <td>Material Handler - 2nd shift</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Solon-OH-US/Material-Handler---1st-Shift_R24113'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OpenGov </b></td>
+      <td>US | Massachusetts | Boston</td>
+      <td>Intern, Software Engineer</td>
+      <td><a href='https://jobs.ashbyhq.com/opengov/35c2d853-b6ab-4ba7-a6f7-ffb4cfc22f7b'>Apply</a></td>
+      <td>Oct 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Qualtrics</b></td>
+      <td>Provo, Utah, United States</td>
+      <td>Software Engineer I </td>
+      <td><a href='https://www.qualtrics.com/careers/us/en/job/8264811?gh_jid=8264811'>Apply</a></td>
+      <td>Oct 09, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-WA-Bellevue</td>
+      <td>Software Engineer — Engineering Systems, Continuous Integration</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/37ad5524-1716-4b54-8c3a-a81429592a91'>Apply</a></td>
+      <td>Oct 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Full Stack Software Engineer, Launch Software </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8893016002?gh_jid=8893016002'>Apply</a></td>
+      <td>Oct 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Vermont Information Processing</b></td>
+      <td>Colchester, Vermont, United States</td>
+      <td>Assistant Infant/Toddler Teacher</td>
+      <td><a href='https://job-boards.greenhouse.io/vipvermontinformationprocessing2/jobs/5266795007'>Apply</a></td>
+      <td>Oct 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, California, USA</td>
+      <td>2027 Summer Intern, MS/PhD, Semantics</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8244128'>Apply</a></td>
+      <td>Oct 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>WEX</b></td>
+      <td>US - Remote</td>
+      <td>Database Architect</td>
+      <td><a href='https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Database-Architect_R22987'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-15-09-13-15'>🕐 Batch at 2026-10-15 09:13:15</h3>
 
@@ -212,7 +512,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-15-03-46-33'>🕐 Batch at 2026-10-15 03:46:33</h3>
 
 📊 **Total jobs in this batch: 3**
