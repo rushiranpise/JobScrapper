@@ -4,8 +4,206 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-16 13:29:37](#batch-2026-10-16-13-29-37)
 - [Batch at 2026-10-16 09:00:41](#batch-2026-10-16-09-00-41)
 - [Batch at 2026-10-16 03:33:13](#batch-2026-10-16-03-33-13)
+
+<h3 id='batch-2026-10-16-13-29-37'>🕐 Batch at 2026-10-16 13:29:37</h3>
+
+📊 **Total jobs in this batch: 23**
+
+**Per company:**
+- Addepar: 1 job
+- Anduril Industries: 2 jobs
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 1 job
+- ASMLEXT1: 1 job
+- BAH: 7 jobs
+- Citi: 3 jobs
+- DoorDash : 1 job
+- genpt: 1 job
+- Intel Corporation: 1 job
+- Micron: 1 job
+- terex: 1 job
+- USAA: 1 job
+- Verily: 1 job
+- ZoomInfo: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Addepar</b></td>
+      <td>New York, NY</td>
+      <td>Data Solutions Architect</td>
+      <td><a href='https://job-boards.greenhouse.io/addepar1/jobs/8575882002'>Apply</a></td>
+      <td>Jun 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Waltham, Massachusetts, United States</td>
+      <td>Mission Software Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5267769007?gh_jid=5267769007'>Apply</a></td>
+      <td>Oct 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Sustainment Engineer, Fury</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5266500007?gh_jid=5266500007'>Apply</a></td>
+      <td>Oct 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Training Specialist III</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Training-Specialist-III_JR66738'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>1st Shift Material Handler</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/XMLNAME-1st-Shift-Material-Handler_J-00354739'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Diego, CA</td>
+      <td>Sustainment Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Sustainment-Data-Scientist_R0251809'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>ServiceNow Developer, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/ServiceNow-Developer--Junior_R0251800'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Fayetteville, NC</td>
+      <td>University, Software Engineer Intern</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-Engineer_R0251775'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>MacDill AFB, FL</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/MacDill-AFB-FL/Software-Engineer_R0251785'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-Engineer_R0251779'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Honolulu, HI</td>
+      <td>Software Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Software-Data-Engineer_R0251772'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>New York New York United States</td>
+      <td>Programmatic Campaign Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Programmatic-Campaign-Analyst_26997652'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>New York New York United States</td>
+      <td>Python Developer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Python-Developer_261002498-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX Applications Development Programmer .NET Analyst</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Applications-Development-Programmer-NET-Analyst_261003070'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>Oakland, CA</td>
+      <td>Electrical Engineer, Intern - Labs (Summer 2027)</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/8274095'>Apply</a></td>
+      <td>Oct 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Merrillville, IN, USA</td>
+      <td>Material Handler I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Merrillville-IN-USA/Material-Handler-I_R26_0000034602'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Process Integ and Yield Eng PhD Intern Grade 029 new 2027</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integ-and-Yield-Eng-PhD-Intern-Grade-029-new-2027_JR0288083'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Longmont-MAX- Office, CO</td>
+      <td>Quality Technician - SSD RMA Failure Analysis</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Longmont-MAX--Office-CO/Quality-Technician---SSD-RMA-Failure-Analysis_JR113625'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>Remote USA</td>
+      <td>Java Developer II</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/Remote-USA/Java-Developer-II_REQ-14526-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>USAA</b></td>
+      <td>Washington Metro, DC Home</td>
+      <td>Auto Appraiser (Photo)</td>
+      <td><a href='https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Washington-Metro-DC-Home/Auto-Appraiser--Photo-_R0121600'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Verily</b></td>
+      <td>San Bruno, California</td>
+      <td>Data Engineer III</td>
+      <td><a href='https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers/job/San-Bruno-California/Data-Engineer-III_REQ-1017'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ZoomInfo</b></td>
+      <td>Waltham, Massachusetts, United States</td>
+      <td>Software Engineer III </td>
+      <td><a href='https://www.zoominfo.com/careers?gh_jid=8879304002'>Apply</a></td>
+      <td>Oct 16, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-16-09-00-41'>🕐 Batch at 2026-10-16 09:00:41</h3>
 
@@ -159,7 +357,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-16-03-33-13'>🕐 Batch at 2026-10-16 03:33:13</h3>
 
 📊 **Total jobs in this batch: 5**
