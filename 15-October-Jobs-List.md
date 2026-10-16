@@ -4,9 +4,141 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-15 19:40:13](#batch-2026-10-15-19-40-13)
 - [Batch at 2026-10-15 13:56:28](#batch-2026-10-15-13-56-28)
 - [Batch at 2026-10-15 09:13:15](#batch-2026-10-15-09-13-15)
 - [Batch at 2026-10-15 03:46:33](#batch-2026-10-15-03-46-33)
+
+<h3 id='batch-2026-10-15-19-40-13'>🕐 Batch at 2026-10-15 19:40:13</h3>
+
+📊 **Total jobs in this batch: 14**
+
+**Per company:**
+- Affirm : 1 job
+- Applied Materials: 3 jobs
+- BAH: 1 job
+- Broadcom : 1 job
+- Digital Ocean: 1 job
+- GE Healthcare: 1 job
+- Natera : 1 job
+- Salesforce: 2 jobs
+- spacex: 1 job
+- SRK Supplylogix LLC: 1 job
+- The Toro: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>Software Engineer I, Fullstack (Search)</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/8017340003'>Apply</a></td>
+      <td>Oct 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Product Management II New College Grad- Master's (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Product-Management-II-New-College-Grad--Master-s--Santa-Clara--CA-_R2629882'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software QA Engineer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer_R2631340'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer_R2629330'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist--Mid_R0251681'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-CA - Promontory B</td>
+      <td>R&D Software Engineer VMKernel</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/R-D-Software-Engineer-VMKernel_R027422'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Digital Ocean</b></td>
+      <td>Austin</td>
+      <td>Forward Deployed Applied Scientist II (Agentic AI)</td>
+      <td><a href='https://www.digitalocean.com/careers/position/apply/?gh_jid=8195888'>Apply</a></td>
+      <td>Oct 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>GE Healthcare</b></td>
+      <td>Florence SC USA</td>
+      <td>Engineering Co-op/Intern - Spring 2026</td>
+      <td><a href='https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Florence-SC-USA/Engineering-Co-op-Intern---Spring-2026_R4047669-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>US Remote</td>
+      <td>Medical Science Liaison - Rare Disease</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6217844004'>Apply</a></td>
+      <td>Oct 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Software Engineering Architect</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-Architect_JR363089'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Software Engineering - MTS, Trust Intelligence Platform</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering---MTS--Trust-Intelligence-Platform_JR363027'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>New Graduate Engineer, Infrastructure </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002'>Apply</a></td>
+      <td>Oct 15, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>Puyallup, WA, USA - 208 Todd Rd NE (P115)</td>
+      <td>Material Handler</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/Puyallup-WA-USA---208-Todd-Rd-NE-P115/Material-Handler_JR0155660-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Beatrice, NE</td>
+      <td>S & R Material Handler, 2nd Shift - Exmark</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Beatrice-NE/S---R-Material-Handler--2nd-Shift---Exmark_JR17562'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-15-13-56-28'>🕐 Batch at 2026-10-15 13:56:28</h3>
 
@@ -306,7 +438,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-15-09-13-15'>🕐 Batch at 2026-10-15 09:13:15</h3>
 
 📊 **Total jobs in this batch: 24**
@@ -511,8 +642,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-10-15-03-46-33'>🕐 Batch at 2026-10-15 03:46:33</h3>
+---<h3 id='batch-2026-10-15-03-46-33'>🕐 Batch at 2026-10-15 03:46:33</h3>
 
 📊 **Total jobs in this batch: 3**
 

@@ -1,38 +1,15 @@
-company,title,location,postedOn,link,updatedOn
-ASMLEXT1,software application engineer,"Austin, TX, USA",Posted Today,https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Austin-TX-USA/software-application-engineer_J-00355087-1,
-Applied Materials,Application Engineer,"Santa Clara,CA",Posted Today,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Application-Engineer_R2631288,
-BAH,Software System Safety Engineer,"Arlington, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-System-Safety-Engineer_R0251552,
-BAH,Software Development Technical Planner,"Warren, MI",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warren-MI/Software-Development-Technical-Planner_R0251719,
-BAH,Data Engineer,"McLean, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Engineer_R0251795,
-BAH,"University, Digital Transformation Analyst Intern","Arlington, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0251721,
-BAH,AI Engineer,"Fort Meade, MD",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/AI-Engineer_R0251722-1,
-BAH,"University, Digital Transformation Analyst Intern","Arlington, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0251716,
-BAH,"Software Engineer, Mid","Wharton, NJ",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wharton-NJ/Software-Engineer--Mid_R0251705,
-BAH,Joint Targeting Policy Developer,"Peterson AFB, CO",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Peterson-AFB-CO/Joint-Targeting-Policy-Developer_R0251711,
-BAH,Human Performance Data Scientist,"Quantico, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/Human-Performance-Data-Scientist_R0251695,
-BAH,"Engineering Technician, Junior","Wharton, NJ",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wharton-NJ/Engineering-Technician--Junior_R0251690-1,
-BAH,Astrodynamics Software Engineer,"Herndon, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Herndon-VA/Astrodynamics-Software-Engineer_R0251706-1,
-BAH,Release Train Engineer,"Chantilly, VA",Posted Today,https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Release-Train-Engineer_R0251697,
-Duolingo,"Data Scientist, Intern","New York, NY; Pittsburgh, PA",2026-10-15T16:00:01-04:00,https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002,2026-10-15T16:00:01-04:00
-Duolingo,"Data Scientist, Intern (PhD)","New York, NY; Pittsburgh, PA",2026-10-15T16:00:01-04:00,https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002,2026-10-15T16:00:01-04:00
-Garner Health,Data Engineer II,"New York City, New York",2026-10-15T12:11:05-04:00,https://job-boards.greenhouse.io/garnerhealth/jobs/6225499004,2026-10-15T12:11:05-04:00
-General Motors LLC,MBSE Systems Tools Developer – Advanced Vehicle Development,"Warren, Michigan, United States of America",Posted Today,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/MBSE-Systems-Tools-Developer---Advanced-Vehicle-Development_JR-202620401,
-General Motors LLC,"2027 Summer Intern, Onboard Autonomy, Embodied AI (Masters)","Sunnyvale, California, United States of America",Posted Today,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543,
-General Motors LLC,"2027 Summer Intern,  Data Scaling, Embodied AI (Masters)","Sunnyvale, California, United States of America",Posted Today,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540,
-General Motors LLC,"2027 Summer Intern, AI/ML Engineer, Mapping (Masters)","Warren, Michigan, United States of America",Posted Today,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539,
-General Motors LLC,"2027 Summer Intern, SEAM, Embodied AI (Masters)","Sunnyvale, California, United States of America",Posted Today,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI--Masters-_JR-202622537,
-General Motors LLC,"2027 Summer Intern, AI Research, Embodied AI (Masters)","Sunnyvale, California, United States of America",Posted Today,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI--Masters-_JR-202622535,
-Intel Corporation,Module Engineering PhD Intern New 2027,"US, Oregon, Hillsboro",Posted Today,https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0288076,
-Intel Corporation,AI GPU Power Delivery Pathfinding Researcher,"US, Oregon, Hillsboro",Posted Today,https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-GPU-Power-Delivery-Pathfinding-Researcher_JR0288188,
-Micron,"New College Grad - Computer Engineer, Central Engineering","Boise, ID - Main Site",Posted Today,https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---Computer-Engineer--Central-Engineering_JR115116-1,
-National Information Solutions Cooperative (NISC),Product Support Specialist II - Third Party Integrations (Utility Software),"Atlanta, GA",2026-10-15T14:29:40-04:00,https://job-boards.greenhouse.io/nisc/jobs/8286520,2026-10-15T14:29:40-04:00
-Morgan Stanley,Capital & Data Risk / IM Risk (Risk Management) : Job Level - Analyst,"New York, New York, United States of America",Posted Today,https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Capital---Data-Risk---IM-Risk--Risk-Management----Job-Level---Analyst_PT-JR045551,
-nVent,Industrial Painter,"Millington, MD, US",Posted Today,https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Millington-MD-US/Industrial-Painter_R24120,
-nVent,Material Handler - 2nd shift,"Solon, OH, US",Posted Today,https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Solon-OH-US/Material-Handler---1st-Shift_R24113,
-OpenGov ,"Intern, Software Engineer",US | Massachusetts | Boston,2026-10-15T17:47:30.219+00:00,https://jobs.ashbyhq.com/opengov/35c2d853-b6ab-4ba7-a6f7-ffb4cfc22f7b,
-Qualtrics,Software Engineer I ,"Provo, Utah, United States",2026-10-09T12:28:55-04:00,https://www.qualtrics.com/careers/us/en/job/8264811?gh_jid=8264811,2026-10-15T12:39:38-04:00
-Snowflake,"Software Engineer — Engineering Systems, Continuous Integration",US-WA-Bellevue,2026-10-15T17:21:42.820+00:00,https://jobs.ashbyhq.com/snowflake/37ad5524-1716-4b54-8c3a-a81429592a91,
-spacex,"Full Stack Software Engineer, Launch Software ","Starbase, TX",2026-10-15T14:43:14-04:00,https://boards.greenhouse.io/spacex/jobs/8893016002?gh_jid=8893016002,2026-10-15T14:43:14-04:00
-Vermont Information Processing,Assistant Infant/Toddler Teacher,"Colchester, Vermont, United States",2026-10-15T14:43:27-04:00,https://job-boards.greenhouse.io/vipvermontinformationprocessing2/jobs/5266795007,2026-10-15T14:43:27-04:00
-Waymo,"2027 Summer Intern, MS/PhD, Semantics","Mountain View, California, USA",2026-10-15T12:20:24-04:00,https://careers.withwaymo.com/jobs?gh_jid=8244128,2026-10-15T12:20:25-04:00
-WEX,Database Architect,US - Remote,Posted Today,https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Database-Architect_R22987,
+company,title,location,link,postedOn,updatedOn
+Affirm ,"Software Engineer I, Fullstack (Search)",Remote US,https://job-boards.greenhouse.io/affirm/jobs/8017340003,2026-10-15T17:31:09-04:00,2026-10-15T17:31:09-04:00
+Applied Materials,"Product Management II New College Grad- Master's (Santa Clara, CA)","Santa Clara,CA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Product-Management-II-New-College-Grad--Master-s--Santa-Clara--CA-_R2629882,Posted Today,
+Applied Materials,Software QA Engineer,"Santa Clara,CA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer_R2631340,Posted Today,
+Applied Materials,Software Engineer,"Santa Clara,CA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer_R2629330,Posted Today,
+BAH,"Data Scientist, Mid","Washington, DC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist--Mid_R0251681,Posted Today,
+Broadcom ,R&D Software Engineer VMKernel,USA-CA - Promontory B,https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/R-D-Software-Engineer-VMKernel_R027422,Posted Today,
+Digital Ocean,Forward Deployed Applied Scientist II (Agentic AI),Austin,https://www.digitalocean.com/careers/position/apply/?gh_jid=8195888,2026-10-15T17:58:36-04:00,2026-10-15T18:58:21-04:00
+GE Healthcare,Engineering Co-op/Intern - Spring 2026,Florence SC USA,https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Florence-SC-USA/Engineering-Co-op-Intern---Spring-2026_R4047669-1,Posted Today,
+Natera ,Medical Science Liaison - Rare Disease,US Remote,https://job-boards.greenhouse.io/natera/jobs/6217844004,2026-10-15T20:31:53-04:00,2026-10-15T20:31:53-04:00
+Salesforce,Software Engineering Architect,California - San Francisco,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-Architect_JR363089,Posted Today,
+Salesforce,"Software Engineering - MTS, Trust Intelligence Platform",California - San Francisco,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering---MTS--Trust-Intelligence-Platform_JR363027,Posted Today,
+spacex,"New Graduate Engineer, Infrastructure ","Starbase, TX",https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002,2026-10-15T21:17:49-04:00,2026-10-15T21:18:04-04:00
+SRK Supplylogix LLC,Material Handler,"Puyallup, WA, USA - 208 Todd Rd NE (P115)",https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/Puyallup-WA-USA---208-Todd-Rd-NE-P115/Material-Handler_JR0155660-1,Posted Today,
+The Toro,"S & R Material Handler, 2nd Shift - Exmark","Beatrice, NE",https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Beatrice-NE/S---R-Material-Handler--2nd-Shift---Exmark_JR17562,Posted Today,
