@@ -4,9 +4,125 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-16 19:32:54](#batch-2026-10-16-19-32-54)
 - [Batch at 2026-10-16 13:29:37](#batch-2026-10-16-13-29-37)
 - [Batch at 2026-10-16 09:00:41](#batch-2026-10-16-09-00-41)
 - [Batch at 2026-10-16 03:33:13](#batch-2026-10-16-03-33-13)
+
+<h3 id='batch-2026-10-16-19-32-54'>🕐 Batch at 2026-10-16 19:32:54</h3>
+
+📊 **Total jobs in this batch: 12**
+
+**Per company:**
+- Allstate: 1 job
+- ASMLEXT1: 1 job
+- BAH: 3 jobs
+- Discord: 1 job
+- Glean: 1 job
+- Just Works: 1 job
+- Natera : 1 job
+- OpenAI: 2 jobs
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>USA - NY (Remote)</td>
+      <td>Field Auto Appraiser - Brooklyn, NY</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---NY-Remote/Field-Auto-Appraiser---Brooklyn--NY_R36184'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Hillsboro, OR, USA</td>
+      <td>Field Applications Engineer</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Hillsboro-OR-USA/Field-Applications-Engineer_J-00355110'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Chantilly, VA</td>
+      <td>Cyber Data Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Cyber-Data-Analyst_R0251828'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Dahlgren, VA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dahlgren-VA/DevOps-Engineer_R0251823'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Camp Pendleton, CA</td>
+      <td>Facilities Capital Investments Program Regional Coordinator</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Pendleton-CA/Facilities-Capital-Investments-Program-Regional-Coordinator_R0251805'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Discord</b></td>
+      <td>San Francisco Bay Area or Remote (U.S.)</td>
+      <td>QA/DevOps Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/discord/jobs/8703614002'>Apply</a></td>
+      <td>Aug 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Glean</b></td>
+      <td>Mountain View, CA</td>
+      <td>Machine Learning Engineer, Enterprise Brain</td>
+      <td><a href='https://job-boards.greenhouse.io/gleanwork/jobs/4744818005'>Apply</a></td>
+      <td>Oct 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Just Works</b></td>
+      <td>New York, New York</td>
+      <td>Software Engineer, Solutions Engineering</td>
+      <td><a href='https://boards.greenhouse.io/justworks/jobs/8286381?gh_jid=8286381'>Apply</a></td>
+      <td>Oct 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Natera </b></td>
+      <td>Austin, TX</td>
+      <td>Clinical Data Operator - Austin, TX</td>
+      <td><a href='https://job-boards.greenhouse.io/natera/jobs/6131253004'>Apply</a></td>
+      <td>Sep 02, 2026</td>
+    </tr>
+    <tr>
+      <td><b>OpenAI</b></td>
+      <td>New York City</td>
+      <td>Software Engineer, Full Stack — Dots</td>
+      <td><a href='https://jobs.ashbyhq.com/openai/dbe79b89-e593-44b3-8aec-c667f7134445'>Apply</a></td>
+      <td>Oct 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>OpenAI</b></td>
+      <td>New York City</td>
+      <td>Software Engineer, Mobile Web — Dots</td>
+      <td><a href='https://jobs.ashbyhq.com/openai/3b34eb10-25b0-4a97-bd6d-05fc90ad4981'>Apply</a></td>
+      <td>Oct 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer, ML Training Performance</td>
+      <td><a href='https://jobs.lever.co/zoox/91ff6263-49fb-421e-860f-36e7b9bae784'>Apply</a></td>
+      <td>2026-10-16 19:49:11</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-16-13-29-37'>🕐 Batch at 2026-10-16 13:29:37</h3>
 
@@ -204,7 +320,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-16-09-00-41'>🕐 Batch at 2026-10-16 09:00:41</h3>
 
 📊 **Total jobs in this batch: 17**
@@ -356,8 +471,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-10-16-03-33-13'>🕐 Batch at 2026-10-16 03:33:13</h3>
+---<h3 id='batch-2026-10-16-03-33-13'>🕐 Batch at 2026-10-16 03:33:13</h3>
 
 📊 **Total jobs in this batch: 5**
 
