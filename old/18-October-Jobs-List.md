@@ -4,8 +4,39 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-18 19:47:33](#batch-2026-10-18-19-47-33)
 - [Batch at 2026-10-18 08:18:00](#batch-2026-10-18-08-18-00)
 - [Batch at 2026-10-18 03:17:59](#batch-2026-10-18-03-17-59)
+
+<h3 id='batch-2026-10-18-19-47-33'>🕐 Batch at 2026-10-18 19:47:33</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Reddit: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Reddit</b></td>
+      <td>Remote - United States</td>
+      <td>Software Engineer, Agent Optimization & Evaluation</td>
+      <td><a href='https://job-boards.greenhouse.io/reddit/jobs/8275745'>Apply</a></td>
+      <td>Oct 18, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-18-08-18-00'>🕐 Batch at 2026-10-18 08:18:00</h3>
 
@@ -43,7 +74,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-18-03-17-59'>🕐 Batch at 2026-10-18 03:17:59</h3>
 
 📊 **Total jobs in this batch: 1**
