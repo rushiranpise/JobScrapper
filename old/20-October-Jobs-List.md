@@ -4,7 +4,362 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-20 14:13:16](#batch-2026-10-20-14-13-16)
 - [Batch at 2026-10-20 09:16:36](#batch-2026-10-20-09-16-36)
+
+<h3 id='batch-2026-10-20-14-13-16'>🕐 Batch at 2026-10-20 14:13:16</h3>
+
+📊 **Total jobs in this batch: 44**
+
+**Per company:**
+- Applied Materials: 4 jobs
+- Anduril Industries: 1 job
+- BAH: 4 jobs
+- Broadcom : 1 job
+- Coinbase: 1 job
+- Core Weave: 2 jobs
+- Concentrix: 1 job
+- Esri: 1 job
+- flir: 1 job
+- Hyanni Sportresearch: 1 job
+- homedepot: 1 job
+- Intel Corporation: 5 jobs
+- Micron: 4 jobs
+- MKSCareersUniversity: 1 job
+- Morgan Stanley: 1 job
+- nVent: 1 job
+- NVIDIA: 1 job
+- Remitly: 1 job
+- spacex: 2 jobs
+- STANDARD & POOR'S FINANCIAL SERVICE: 5 jobs
+- Stripe: 1 job
+- terex: 1 job
+- The Toro: 1 job
+- Xylem Services USA LLC: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>FP&A Analyst New College Grad (MBA - Austin, TX)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/FP-A-Analyst--MBA---Austin--TX-_R2627306'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Gloucester,MA</td>
+      <td>New College Grad - Product Safety Engineer (Bachelors/Masters - Gloucester, MA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/New-College-Grad---Product-Safety-Engineer--Bachelors-Masters---Santa-Clara--CA-_R2628099'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Algorithm Developer, Masters Degree, New College Grad (Santa Clara)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Algorithm-Developer--Masters-Degree--New-College-Grad--Santa-Clara-_R2631780'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Industrial Engineer, New College Grad- Master's (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Industrial-Engineer--New-College-Grad--Master-s--Santa-Clara--CA-_R2631043'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Classified Cloud & Platform Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5269017007?gh_jid=5269017007'>Apply</a></td>
+      <td>Oct 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Engineer_R0252020'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>San Diego, CA</td>
+      <td>Cross Domain Solutions Systems Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Cross-Domain-Solutions-Systems-Engineer_R0251992'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>McLean, VA</td>
+      <td>DevOps Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0251983-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Panama City, FL</td>
+      <td>CAD Drafter, Junior</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Panama-City-FL/CAD-Drafter--Junior_R0252001'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-NC-Remote Location</td>
+      <td>Field Applications Engineer</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-NC-Remote-Location/Field-Applications-Engineer_R027179'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer - Crypto Data Foundations</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8304038?gh_jid=8304038'>Apply</a></td>
+      <td>Oct 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Sandusky, OH</td>
+      <td>Data Center Technician - Sandusky, OH</td>
+      <td><a href='https://coreweave.com/careers/job?4722834006&board=coreweave&gh_jid=4722834006'>Apply</a></td>
+      <td>Oct 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Volo,IL</td>
+      <td>Data Center Technician - Volo, IL</td>
+      <td><a href='https://coreweave.com/careers/job?4722830006&board=coreweave&gh_jid=4722830006'>Apply</a></td>
+      <td>Oct 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>USA, CA, Work-at-Home</td>
+      <td>AI Transformation & Platform Administrator</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/USA-CA-Work-at-Home/Tools-Admin_R1769191-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Redlands, CA</td>
+      <td>Software Development Engineer in Test I (SDET) – ArcGIS Enterprise</td>
+      <td><a href='https://www.esri.com/careers/5269847007?gh_jid=5269847007'>Apply</a></td>
+      <td>Oct 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>flir</b></td>
+      <td>US - San Diego, CA - CS</td>
+      <td>Medical Data Quality Analyst</td>
+      <td><a href='https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---San-Diego-CA---CS/Medical-Data-Quality-Analyst_REQ37542'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Hyanni Sportresearch</b></td>
+      <td>Needham, MA</td>
+      <td>Applications Engineering Intern - Summer 2027</td>
+      <td><a href='https://job-boards.greenhouse.io/hyannisportresearch/jobs/8016173003'>Apply</a></td>
+      <td>Oct 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>FLORIDA - VIRTUAL - FL01</td>
+      <td>Rental Delivery Driver I CDLA - Orlando, FL</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/FLORIDA---VIRTUAL---FL01/Rental-Delivery-Driver-I-CDLA---Orlando--FL_Req196601'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>AI Data Science / Software Engineering PhD Intern New 2027</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>AI Data Science / Software Engineering PhD Intern New 2027</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288140'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>AI Data Science / Software Engineering PhD Intern New 2027</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>Thin Films Module Engineering - PhD Intern</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Thin-Films-Module-Engineering---PhD-Intern_JR0288074'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, California, Santa Clara</td>
+      <td>AI Research Engineer/Scientist</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Research-Engineer-Scientist_JR0288299'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Intern - SMAI Probe AI Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>AI Full Stack Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/AI-Full-Stack-Engineer_JR113489'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>AI Full Stack Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/AI-Full-Stack-Engineer_JR113490'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>New College Grad - Dry Etch Process Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---Dry-Etch-Process-Engineer_JR115572'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MKSCareersUniversity</b></td>
+      <td>Rochester, NY</td>
+      <td>2027 Summer Reliability Engineering Co-op</td>
+      <td><a href='https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Rochester-NY/XMLNAME-2027-Summer-Reliability-Engineering-Co-op_R20163'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>New York, New York, United States of America</td>
+      <td>Global Capital Markets – Corporate Derivatives Group – Analyst/Associate (New York)</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Global-Capital-Markets---Corporate-Derivatives-Group---Analyst-Associate--New-York-_JR045723-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>nVent</b></td>
+      <td>Hitchcock, TX, US</td>
+      <td>Material Handler</td>
+      <td><a href='https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Hitchcock-TX-US/Material-Handler_R24194-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Order Management Intern - Summer 2027</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Order-Management-Intern---Summer-2027_JR2027868'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Remitly</b></td>
+      <td>Seattle, Washington United States</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer_R_107079'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Space Operations Training Engineer (Full Stack Software)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8903848002?gh_jid=8903848002'>Apply</a></td>
+      <td>Oct 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>Welding Technical Trainer </td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8886432002?gh_jid=8886432002'>Apply</a></td>
+      <td>Oct 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>STANDARD & POOR'S FINANCIAL SERVICE</b></td>
+      <td>Colorado, US</td>
+      <td>CREDit Graduate Program Analyst</td>
+      <td><a href='https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Colorado-US/CREDit-Graduate-Program-Analyst---Corporates_332373-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>STANDARD & POOR'S FINANCIAL SERVICE</b></td>
+      <td>Colorado, US</td>
+      <td>Ratings Analytical Intern</td>
+      <td><a href='https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Colorado-US/Ratings-Analytical-Intern_332371'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>STANDARD & POOR'S FINANCIAL SERVICE</b></td>
+      <td>IE - DUBLIN STYNE HOUSE UPPER HATCH STREET</td>
+      <td>Summer Intern, Credit Analysis</td>
+      <td><a href='https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/IE---DUBLIN-STYNE-HOUSE-UPPER-HATCH-STREET/Summer-Intern--Credit-Analysis_331663-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>STANDARD & POOR'S FINANCIAL SERVICE</b></td>
+      <td>DE - FRANKFURT, BOCKENHEIMER LANDSTRASSE 2</td>
+      <td>Summer Intern, Credit Analysis</td>
+      <td><a href='https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/DE---FRANKFURT-BOCKENHEIMER-LANDSTRASSE-2/Summer-Intern--Credit-Analysis_331668-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>STANDARD & POOR'S FINANCIAL SERVICE</b></td>
+      <td>ES - MADRID PASEO DE LA CASTELLANA 7 PLANTA 6</td>
+      <td>Summer Intern, Credit Analysis</td>
+      <td><a href='https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/ES---MADRID-PASEO-DE-LA-CASTELLANA-7-PLANTA-6/Summer-Intern--Credit-Analysis_331677-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>US remote</td>
+      <td>Product Counsel, Data Products</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=8238100'>Apply</a></td>
+      <td>Oct 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>ESG1US008</td>
+      <td>Painter</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/ESG1US008/Painter_REQ-14569'>Apply</a></td>
+      <td>Posted 11 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Batesville, AR</td>
+      <td>Material Handler, 1st Shift - Spartan Mowers</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Batesville-AR/Material-Handler--1st-Shift---Spartan-Mowers_JR17682-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Xylem Services USA LLC</b></td>
+      <td>Morton Grove, Illinois</td>
+      <td>Manufacturing Training Specialist – CNC Machining</td>
+      <td><a href='https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Morton-Grove-Illinois/Manufacturing-Training-Specialist---CNC-Machining_R50935'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Xylem Services USA LLC</b></td>
+      <td>Morton Grove, Illinois</td>
+      <td>Manufacturing Training Specialist</td>
+      <td><a href='https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Morton-Grove-Illinois/Manufacturing-Training-Specialist_R50936'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-20-09-16-36'>🕐 Batch at 2026-10-20 09:16:36</h3>
 
@@ -190,4 +545,3 @@
 <table>
 
 ---
-
