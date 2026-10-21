@@ -4,8 +4,237 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-20 19:53:17](#batch-2026-10-20-19-53-17)
 - [Batch at 2026-10-20 14:13:16](#batch-2026-10-20-14-13-16)
 - [Batch at 2026-10-20 09:16:36](#batch-2026-10-20-09-16-36)
+
+<h3 id='batch-2026-10-20-19-53-17'>🕐 Batch at 2026-10-20 19:53:17</h3>
+
+📊 **Total jobs in this batch: 27**
+
+**Per company:**
+- CrowdStrike, Inc: 1 job
+- ASMLEXT1: 1 job
+- Applied Materials: 2 jobs
+- BAH: 1 job
+- Broadcom : 1 job
+- Core Weave: 2 jobs
+- Elastic: 1 job
+- Dematic Corp. (ILD-US): 1 job
+- Gofund Obs: 1 job
+- Just Works: 1 job
+- Intel Corporation: 3 jobs
+- Micron: 1 job
+- NVIDIA: 1 job
+- Salesforce: 1 job
+- Stripe: 1 job
+- terex: 7 jobs
+- Zoom: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Arlington, VA</td>
+      <td>Professional Services Pathfinder Intern - Summer 2027 (Arlington, VA)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Professional-Services-Pathfinder-Intern---Summer-2027--Arlington--VA-_R30512'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Austin, TX, USA</td>
+      <td>Field Applications Engineer - Yieldstar</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Austin-TX-USA/Field-Applications-Engineer---Yieldstar_J-00351002'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>2027 Summer Intern, Software Engineer, Bachelors Degree (Santa Clara)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer_R2629333'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Norfolk, VA</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Data-Scientist_R0251874'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Broadcom </b></td>
+      <td>USA-CA San Jose Innovation Drive</td>
+      <td>R&D Engineer Software 5</td>
+      <td><a href='https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-Software-5_R027471-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Douglasville, GA</td>
+      <td>Data Center Technician - Douglasville, GA</td>
+      <td><a href='https://coreweave.com/careers/job?4723562006&board=coreweave&gh_jid=4723562006'>Apply</a></td>
+      <td>Oct 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Marble, NC</td>
+      <td>Data Center Technician - Marble, NC</td>
+      <td><a href='https://coreweave.com/careers/job?4723564006&board=coreweave&gh_jid=4723564006'>Apply</a></td>
+      <td>Oct 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Elastic</b></td>
+      <td>United States</td>
+      <td>Software Engineer II (Networking) - Platform Infra</td>
+      <td><a href='https://jobs.elastic.co/jobs?gh_jid=8303806&gh_jid=8303806'>Apply</a></td>
+      <td>Oct 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Dematic Corp. (ILD-US)</b></td>
+      <td>Belrose, NSW, Australia</td>
+      <td>AI Solutions Engineer</td>
+      <td><a href='https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Belrose-NSW-Australia/AI-Solutions-Engineer_JR-0097884-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Gofund Obs</b></td>
+      <td>San Francisco, CA</td>
+      <td>MBA Product Management Internship, Summer 2027</td>
+      <td><a href='https://job-boards.greenhouse.io/gofundme/jobs/8304644'>Apply</a></td>
+      <td>Oct 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Just Works</b></td>
+      <td>New York, New York</td>
+      <td>Software Engineer, Backend</td>
+      <td><a href='https://boards.greenhouse.io/justworks/jobs/8179714?gh_jid=8179714'>Apply</a></td>
+      <td>Oct 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>System Software Validation Engineer - Edge, Physical AI, and Robotics</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/System-Software-Validation-Engineer---Edge--Physical-AI--and-Robotics_JR0288354'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>JR0288354 System Software Validation Engineer - Edge, Physical AI, and Robotics</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/JR0288354-System-Software-Validation-Engineer---Edge--Physical-AI--and-Robotics_JR0288355'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, California, Santa Clara</td>
+      <td>AI Data Science / Software Engineering PhD Intern New 2027</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Richardson, TX</td>
+      <td>Intern - Machine Learning Engineering</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Software Engineer, Agent Performance Modeling - New College Grad 2026</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - Palo Alto</td>
+      <td>Summer 2027 Intern - AI Research</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>San Francisco, Seattle, New York</td>
+      <td>Backend / API Engineer, Radar</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=8301253'>Apply</a></td>
+      <td>Oct 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>MPM1US031</td>
+      <td>Material Handler</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/MPM1US031/Material-Handler_REQ-14465-1'>Apply</a></td>
+      <td>Posted 8 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>MPM1US037</td>
+      <td>Graduate Manufacturing Engineer</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/MPM1US037/Graduate-Manufacturing-Engineer_REQ-14541'>Apply</a></td>
+      <td>Posted 14 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>UTL1US026</td>
+      <td>Paint Prep **$1k Sign-On Bonus**</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/UTL1US026/Paint-Prep----1k-Sign-On-Bonus--_REQ-14265'>Apply</a></td>
+      <td>Posted 15 Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>UTL1US026</td>
+      <td>Manufacturing Engineer Intern</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/UTL1US026/Manufacturing-Engineer-Intern_REQ-14323'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>UTL1US026</td>
+      <td>National Service Technician/Trainer</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/UTL1US026/National-Service-Technician-Trainer_REQ-13911'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>AWP1US012</td>
+      <td>Software Engineer III - Robotics</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/AWP1US012/Software-Engineer-III_REQ-11037'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>UTL1US048</td>
+      <td>Training Specialist, Waukesha WI</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/UTL1US048/Training-Specialist--Waukesha-WI_REQ-12248'>Apply</a></td>
+      <td>Posted 30+ Days Ago</td>
+    </tr>
+    <tr>
+      <td><b>Zoom</b></td>
+      <td>San Jose (CA)</td>
+      <td>Data Scientist</td>
+      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/Data-Scientist_R19777-1'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-20-14-13-16'>🕐 Batch at 2026-10-20 14:13:16</h3>
 
@@ -360,7 +589,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-20-09-16-36'>🕐 Batch at 2026-10-20 09:16:36</h3>
 
 📊 **Total jobs in this batch: 21**
