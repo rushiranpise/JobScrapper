@@ -4,8 +4,353 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-21 14:13:58](#batch-2026-10-21-14-13-58)
 - [Batch at 2026-10-21 09:33:23](#batch-2026-10-21-09-33-23)
 - [Batch at 2026-10-21 04:04:49](#batch-2026-10-21-04-04-49)
+
+<h3 id='batch-2026-10-21-14-13-58'>🕐 Batch at 2026-10-21 14:13:58</h3>
+
+📊 **Total jobs in this batch: 43**
+
+**Per company:**
+- Airbnb: 1 job
+- 566 DEPARTMENT OF TOURISM AND RECREATION: 2 jobs
+- Allstate: 1 job
+- Motorola Solutions, Inc: 1 job
+- Applied Materials: 5 jobs
+- Anduril Industries: 5 jobs
+- Bandwidth: 2 jobs
+- BAH: 4 jobs
+- BorgWarner: 1 job
+- Children's Hospital Medical Center: 1 job
+- Core Weave: 1 job
+- genpt: 1 job
+- KLA: 1 job
+- Micron: 6 jobs
+- MOOG: 2 jobs
+- NVIDIAExternalCareerSite: 4 jobs
+- spacex: 1 job
+- The Toro: 1 job
+- The Walt Disney Company: 1 job
+- Twitch: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Airbnb</b></td>
+      <td>Remote, USA</td>
+      <td>Software Engineer, Payments</td>
+      <td><a href='https://careers.airbnb.com/positions/8274152?gh_jid=8274152'>Apply</a></td>
+      <td>Oct 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Training Specialist</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Training-Specialist_JR66928'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>566 DEPARTMENT OF TOURISM AND RECREATION</b></td>
+      <td>Oklahoma County</td>
+      <td>Legislative Liaison</td>
+      <td><a href='https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Legislative-Liaison_JR66911'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Allstate</b></td>
+      <td>US - Remote</td>
+      <td>In-Memory Database Platform Engineer</td>
+      <td><a href='https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/In-Memory-Database-Platform-Engineer_R35646'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Massachusetts Remote Work, More...</td>
+      <td>Command Center Solutions Services (CCSS) Engineering Organization - Software Engineer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Massachusetts-Remote-Work/Command-Center-Solutions-Services--CCSS--Engineering-Organization---Software-Engineer_R69567'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Global Software Support Engineer III - (E3)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Global-Software-Support-Engineer-III----E3-_R2630044-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Phoenix,AZ</td>
+      <td>Global Software Support Engineer II</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/PhoenixAZ/Global-Software-Support-Engineer-II_R2629986'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Albany,NY</td>
+      <td>Process Engineer, III New College Grad (Doctorate) Albany, NY</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AlbanyNY/Process-Engineer--III-New-College-Grad--Doctorate--Albany--NY_R2628094-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Material Handler III</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Material-Handler-III_R2630881-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Summer 2027 Process Engineer Intern- Master's (Santa Clara, CA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Summer-2027-Process-Engineer-Intern--Master-s--Santa-Clara--CA-_R2629701'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Ashville, Ohio, United States; Costa Mesa, California, United States</td>
+      <td>2027 Business Operations Engineer Intern</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007'>Apply</a></td>
+      <td>Oct 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States</td>
+      <td>2027 Product Sourcing Engineer Intern</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007'>Apply</a></td>
+      <td>Oct 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Washington, District of Columbia, United States</td>
+      <td>Classified Cloud & Platform Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5271233007?gh_jid=5271233007'>Apply</a></td>
+      <td>Oct 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Atlanta, Georgia, United States</td>
+      <td>Full Stack Software Engineer - Core Infrastructure</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5271092007?gh_jid=5271092007'>Apply</a></td>
+      <td>Oct 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Manufacturing Test Engineering, Software</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5271177007?gh_jid=5271177007'>Apply</a></td>
+      <td>Oct 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Bandwidth</b></td>
+      <td>Raleigh, NC</td>
+      <td>Applied AI Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/bandwidth/jobs/8285488'>Apply</a></td>
+      <td>Oct 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Bandwidth</b></td>
+      <td>Raleigh, NC</td>
+      <td>Software Engineer (Voice)</td>
+      <td><a href='https://job-boards.greenhouse.io/bandwidth/jobs/8306340'>Apply</a></td>
+      <td>Oct 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Data Scientist, Mid</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0252081'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Lexington Park, MD</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/Data-Scientist_R0252028'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Albuquerque, NM</td>
+      <td>Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/Data-Engineer_R0252089'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Washington, DC</td>
+      <td>Data Scientist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0252071'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BorgWarner</b></td>
+      <td>Kokomo Technical Center - Indiana - USA</td>
+      <td>Advanced Inverter Electrical Engineering Intern</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Advanced-Inverter-Electrical-Engineering-Intern_R2026-4197'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Children's Hospital Medical Center</b></td>
+      <td>Burnet Campus</td>
+      <td>Integration Planner - Internal Operations</td>
+      <td><a href='https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Burnet-Campus/Integration-Planner---Internal-Operations_JR225078'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Chester, VA</td>
+      <td>Data Center Technician - Chester, VA</td>
+      <td><a href='https://coreweave.com/careers/job?4723545006&board=coreweave&gh_jid=4723545006'>Apply</a></td>
+      <td>Oct 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>White, GA, USA</td>
+      <td>CDL Regional Driver</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/White-GA-USA/CDL-Regional-Driver_R26_0000031247'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Totowa, NJ</td>
+      <td>Analytical Chemist Intern</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Totowa-NJ/Analytical-Chemist-Intern_2642081-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Intern - Process Safety Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Safety-Engineer_JR115035'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - ID1</td>
+      <td>New College Grad - PCVD Process Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/New-College-Grad---PCVD-Process-Engineer_JR114921'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - ID1</td>
+      <td>New College Grad - ID1 ATE Process Engineer WET</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/New-College-Grad---ID1-ATE-Process-Engineer-WET_JR114661'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Intern - RDA Application Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---RDA-Application-Engineer_JR115353'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - ID1</td>
+      <td>Intern - Process Integration Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---Process-Integration-Engineer_JR114654'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Richardson, TX</td>
+      <td>Intern - SMS Pathfinding Engineering</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---SMS-Pathfinding-Engineering_JR115034'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Torrance, CA</td>
+      <td>Intern, Manufacturing and Industrial Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Intern--Manufacturing-and-Industrial-Engineering_R-26-19823'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Torrance, CA</td>
+      <td>Intern, Quality Engineering</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Intern--Quality-Engineering_R-26-19822'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIAExternalCareerSite</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Engineering Technician, Datacenter Performance</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Engineering-Technician--Datacenter-Performance_JR2027049'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIAExternalCareerSite</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>High-Performance LLM Training Engineer - New College Grad 2027</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIAExternalCareerSite</b></td>
+      <td>US, NC, Durham</td>
+      <td>System Software Engineer – Data Center GPU Compute Diagnostics</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/System-Software-Engineer---Data-Center-GPU-Compute-Diagnostics_JR2028394'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIAExternalCareerSite</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Executive Assistant, Developer and Performance Technology</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Executive-Assistant--Developer-and-Performance-Technology_JR2028171-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Data Engineer (Starlink Mobile)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8694609002?gh_jid=8694609002'>Apply</a></td>
+      <td>Oct 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Bloomington, MN</td>
+      <td>Financial Planning and Analysis Intern - The Toro Company</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Bloomington-MN/Financial-Planning-and-Analysis-Intern---The-Toro-Company_JR17173'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>New York, NY, USA</td>
+      <td>ABC News Audience Engagement Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/ABC-News-Audience-Engagement-Intern--Spring-2027_10163290'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Twitch</b></td>
+      <td>Seattle, WA</td>
+      <td>Software Engineer I</td>
+      <td><a href='https://job-boards.greenhouse.io/twitch/jobs/8906750002'>Apply</a></td>
+      <td>Oct 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Data Scientist, Fleet Orchestration Algorithms</td>
+      <td><a href='https://jobs.lever.co/zoox/254559af-8372-403b-8220-9b49af400361'>Apply</a></td>
+      <td>2026-10-21 16:43:36</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-21-09-33-23'>🕐 Batch at 2026-10-21 09:33:23</h3>
 
@@ -227,7 +572,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-21-04-04-49'>🕐 Batch at 2026-10-21 04:04:49</h3>
 
 📊 **Total jobs in this batch: 3**
