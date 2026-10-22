@@ -4,9 +4,164 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-21 19:51:58](#batch-2026-10-21-19-51-58)
 - [Batch at 2026-10-21 14:13:58](#batch-2026-10-21-14-13-58)
 - [Batch at 2026-10-21 09:33:23](#batch-2026-10-21-09-33-23)
 - [Batch at 2026-10-21 04:04:49](#batch-2026-10-21-04-04-49)
+
+<h3 id='batch-2026-10-21-19-51-58'>🕐 Batch at 2026-10-21 19:51:58</h3>
+
+📊 **Total jobs in this batch: 17**
+
+**Per company:**
+- Airbnb: 1 job
+- Affirm : 1 job
+- ALTEN Technology USA: 1 job
+- Anduril Industries: 3 jobs
+- Applied Materials: 2 jobs
+- Citi: 1 job
+- Concentrix: 1 job
+- Elastic: 1 job
+- Micron: 1 job
+- NVIDIA: 2 jobs
+- PlusAI: 1 job
+- Pure storage: 1 job
+- Zscaler: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Airbnb</b></td>
+      <td>United States</td>
+      <td>Software Engineer, DevAI</td>
+      <td><a href='https://careers.airbnb.com/positions/8280222?gh_jid=8280222'>Apply</a></td>
+      <td>Oct 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>New York, New York, United States; San Francisco, California, United States</td>
+      <td>Analyst, Early Career (Full Stack)</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/8039471003'>Apply</a></td>
+      <td>Oct 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>North Reading, MA</td>
+      <td>Software Engineer - Teleoperation Systems</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5272024007'>Apply</a></td>
+      <td>Oct 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States; Seattle, Washington, United States</td>
+      <td>2027 Business Operations Intern</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007'>Apply</a></td>
+      <td>Oct 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Ashville, Ohio, United States; Costa Mesa, California, United States</td>
+      <td>Winter 2027 Business Operations Engineer Co-op</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5271686007?gh_jid=5271686007'>Apply</a></td>
+      <td>Oct 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Quincy, Massachusetts, United States</td>
+      <td>Winter 2027 Robotics Engineer Co-op</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5271842007?gh_jid=5271842007'>Apply</a></td>
+      <td>Oct 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Phoenix,AZ</td>
+      <td>Global Software Support Engineer III - (E3)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/PhoenixAZ/Global-Software-Support-Engineer-III----E3-_R2631569'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Software Engineering</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineering_R2631930'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX Data Governance Foundation Analyst 2 - C10</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Data-Governance-Foundation-Analyst-2---C10_26995212-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Concentrix</b></td>
+      <td>AUS Sydney - Level 21-Suite 1, 175 Pitt Street</td>
+      <td>Architect Data & AI</td>
+      <td><a href='https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/AUS-Sydney---Level-21-Suite-1-175-Pitt-Street/Architect-Data---AI_R1774757'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Elastic</b></td>
+      <td>United States</td>
+      <td>Software Engineer II - Control Plane (Hosted Foundations / Applications)</td>
+      <td><a href='https://jobs.elastic.co/jobs?gh_jid=8274383&gh_jid=8274383'>Apply</a></td>
+      <td>Oct 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Intern - Surface Lab</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Surface-Lab_JR114827'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>PhD Research Intern, AI for Climate and Weather Simulation - 2027</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlusAI</b></td>
+      <td>San Antonio, Texas</td>
+      <td>Software Integration Engineer, Validation</td>
+      <td><a href='https://jobs.lever.co/plus-2/b88a3dc5-695e-4fcb-9021-6a76bdb009c6'>Apply</a></td>
+      <td>2026-09-29 19:30:31</td>
+    </tr>
+    <tr>
+      <td><b>Pure storage</b></td>
+      <td>Santa Clara, California</td>
+      <td>Junior DevOps Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/purestorage/jobs/8282746'>Apply</a></td>
+      <td>Oct 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zscaler</b></td>
+      <td>Bellevue, Washington, USA; Santa Clara, California, USA</td>
+      <td>AI Enablement Architect </td>
+      <td><a href='https://job-boards.greenhouse.io/zscaler/jobs/5270709007'>Apply</a></td>
+      <td>Oct 21, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-21-14-13-58'>🕐 Batch at 2026-10-21 14:13:58</h3>
 
@@ -351,7 +506,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-21-09-33-23'>🕐 Batch at 2026-10-21 09:33:23</h3>
 
 📊 **Total jobs in this batch: 26**
@@ -571,8 +725,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-10-21-04-04-49'>🕐 Batch at 2026-10-21 04:04:49</h3>
+---<h3 id='batch-2026-10-21-04-04-49'>🕐 Batch at 2026-10-21 04:04:49</h3>
 
 📊 **Total jobs in this batch: 3**
 
