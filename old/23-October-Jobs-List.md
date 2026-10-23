@@ -4,8 +4,362 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-23 13:59:54](#batch-2026-10-23-13-59-54)
 - [Batch at 2026-10-23 09:22:07](#batch-2026-10-23-09-22-07)
 - [Batch at 2026-10-23 03:56:27](#batch-2026-10-23-03-56-27)
+
+<h3 id='batch-2026-10-23-13-59-54'>🕐 Batch at 2026-10-23 13:59:54</h3>
+
+📊 **Total jobs in this batch: 44**
+
+**Per company:**
+- Anduril Industries: 3 jobs
+- Motorola Solutions, Inc: 1 job
+- ASMLEXT1: 2 jobs
+- Applied Materials: 1 job
+- BAH: 2 jobs
+- Becton Dickinson’s Integrated Diagnostics Systems: 1 job
+- Citi: 6 jobs
+- Core Weave: 1 job
+- genpt: 9 jobs
+- Micron: 1 job
+- KLA: 2 jobs
+- Nike: 2 jobs
+- Quantinuum: 1 job
+- Roblox: 2 jobs
+- searchLFN: 1 job
+- Snowflake: 1 job
+- spacex: 1 job
+- terex: 1 job
+- The Walt Disney Company: 1 job
+- Veeva Systems: 2 jobs
+- VSP: 1 job
+- Waymo: 1 job
+- Xylem Services USA LLC: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>2027 New Grad Low Observables Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5269789007?gh_jid=5269789007'>Apply</a></td>
+      <td>Oct 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Waltham, Massachusetts, United States</td>
+      <td>Product Data Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5273065007?gh_jid=5273065007'>Apply</a></td>
+      <td>Oct 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Morrisville, North Carolina, United States</td>
+      <td>Technical Trainer  - Composites Production</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5272843007?gh_jid=5272843007'>Apply</a></td>
+      <td>Oct 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Chicago, IL</td>
+      <td>Android Applications Developer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Android-Applications-Developer_R68135'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>San Jose, CA, USA</td>
+      <td>Internship - Application Software QA Engineer</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Jose-CA-USA/Internship---Application-Software-QA-Engineer_J-00354565'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Optical Fabrication CNC Technician Back End Days 6am – 6pm ( Thursday, Friday, Saturday, alternate Wednesday)</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-CNC-Technician-Back-End-Days-6am---6pm---Thursday--Friday--Saturday--alternate-Wednesday-_J-00354468-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Austin,TX</td>
+      <td>Order Management I New College Grad- Bachelor's (Austin, TX)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Order-Management-I-New-College-Grad--Bachelor-s--Austin--TX-_R2627410'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Panama City, FL</td>
+      <td>Fielding and Training Support Specialist</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Panama-City-FL/Fielding-and-Training-Support-Specialist_R0252241-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Arlington, VA</td>
+      <td>Human Capital Analyst</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Human-Capital-Analyst_R0252239-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Becton Dickinson’s Integrated Diagnostics Systems</b></td>
+      <td>USA NE - Columbus (East)</td>
+      <td>Global Technician - Intern</td>
+      <td><a href='https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-East/Global-Technician---Intern_R-558288'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Jacksonville Florida United States</td>
+      <td>Technology, Application Development, Summer Analyst, Jacksonville - USA, 2027</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Jacksonville Florida United States</td>
+      <td>Technology, Application Development, Full-Time Analyst, Jacksonville - USA, 2027</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2027_261004412'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Irving Texas United States</td>
+      <td>Technology, Application Development, Full Time Analyst, Irving - USA, 2027</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Technology--Application-Development--Full-Time-Analyst--Irving---USA--2027_261004387'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Tampa Florida United States</td>
+      <td>Technology, Application Development, Summer Analyst, Tampa - USA, 2027</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Technology--Application-Development--Summer-Analyst--Tampa---USA--2027_261004395'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Tampa Florida United States</td>
+      <td>Technology, Application Development, Full Time Analyst, Tampa - USA, 2027</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2027_261004424'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Irving Texas United States</td>
+      <td>Technology, Application Development, Summer Analyst, Irving - USA, 2027</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Technology--Application-Development--Summer-Analyst--Irving---USA--2027_261003288'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Core Weave</b></td>
+      <td>Douglasville, GA</td>
+      <td>Data Center Technician - Douglasville, GA</td>
+      <td><a href='https://coreweave.com/careers/job?4724074006&board=coreweave&gh_jid=4724074006'>Apply</a></td>
+      <td>Oct 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Atlanta, GA, USA</td>
+      <td>Assorment Planning Intern - Summer 2027</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA-USA/Assorment-Planning-Intern---Summer-2027_R26_0000035659'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Atlanta, GA, USA</td>
+      <td>Transformation Intern - Summer 2027</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA-USA/Transformation-Intern---Summer-2027_R26_0000035652'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Atlanta, GA, USA</td>
+      <td>Product Engineering Intern - Summer 2027</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA-USA/Product-Engineering-Intern---Summer-2027_R26_0000035648'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Atlanta, GA, USA</td>
+      <td>Procurement/Sourcing Intern - Summer 2027</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA-USA/Procurement-Sourcing-Intern---Summer-2027_R26_0000035649'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Atlanta, GA, USA</td>
+      <td>Supplier Quality Intern - Summer 2027</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA-USA/Supplier-Quality-Intern---Summer-2027_R26_0000035650'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Atlanta, GA, USA</td>
+      <td>Category Management Intern - Summer 2027</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA-USA/Category-Management-Intern---Summer-2027_R26_0000035654'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Atlanta, GA, USA</td>
+      <td>Product Pricing Analytics Intern - Summer 2027</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA-USA/Product-Pricing-Analytics-Intern---Summer-2027_R26_0000035647'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Atlanta, GA, USA</td>
+      <td>Inventory Planning & Replenishment Intern - Summer 2027</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA-USA/Inventory-Planning---Replenishment-Intern---Summer-2027_R26_0000035662'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Birmingham, AL, USA</td>
+      <td>Infrastructure Architect I</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Infrastructure-Architect-I_R26_0000033570'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>AI Reimagination Engineer</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/AI-Reimagination-Engineer_JR115926'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Totowa, NJ</td>
+      <td>Chemistry R&D Intern</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Totowa-NJ/Chemistry-R-D-Intern_2642152-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Product Development Engineering Intern</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Product-Development-Engineering-Intern_2642439-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Boston, Massachusetts</td>
+      <td>Converse Merchandising Graduate Internship</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Boston-Massachusetts/Converse-Merchandising-Graduate-Internship_R-96257'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Boston, Massachusetts</td>
+      <td>Converse AI Enablement Graduate Internship</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Boston-Massachusetts/Converse-AI-Enablement-Graduate-Internship_R-96256'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Quantinuum</b></td>
+      <td>US Broomfield, CO</td>
+      <td>Advanced Systems DevOps Engineer – Quantum Hardware Integration - 1083</td>
+      <td><a href='https://jobs.eu.lever.co/quantinuum/b3d3a8c1-ff16-45d2-8712-51201d5036b8'>Apply</a></td>
+      <td>2026-10-20 22:51:26</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>San Mateo, CA, United States</td>
+      <td>Software Engineer, Notifications</td>
+      <td><a href='https://careers.roblox.com/jobs/8261393?gh_jid=8261393'>Apply</a></td>
+      <td>Oct 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>San Mateo, CA, United States</td>
+      <td>Software Engineer, Reliability </td>
+      <td><a href='https://careers.roblox.com/jobs/8283707?gh_jid=8283707'>Apply</a></td>
+      <td>Oct 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>searchLFN</b></td>
+      <td>Ramsey, MN</td>
+      <td>Material Handler III - 2nd Shift</td>
+      <td><a href='https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Ramsey-MN/Material-Handler-III---2nd-Shift_JR-025313'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Snowflake</b></td>
+      <td>US-WA-Bellevue</td>
+      <td>Software Engineer</td>
+      <td><a href='https://jobs.ashbyhq.com/snowflake/e56587dc-dc46-43e5-a93e-94d479fdb754'>Apply</a></td>
+      <td>Oct 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>AI Software Engineer (Vehicle Engineering)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8910071002?gh_jid=8910071002'>Apply</a></td>
+      <td>Oct 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>terex</b></td>
+      <td>US-KY Louisville Business Park</td>
+      <td>Junior Inventory Planner</td>
+      <td><a href='https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/US-KY-Louisville-Business-Park/Junior-Inventory-Planner_REQ-14732-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Burbank, CA, USA</td>
+      <td>Antipiracy Technical/Operations Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Antipiracy-Technical-Operations-Intern--Spring-2027_10162682-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Veeva Systems</b></td>
+      <td>Massachusetts - Boston</td>
+      <td>Software Engineer in Test</td>
+      <td><a href='https://jobs.lever.co/veeva/0d88dc70-1023-4ee5-a7fe-67eb0b5cb848'>Apply</a></td>
+      <td>2026-10-22 22:06:49</td>
+    </tr>
+    <tr>
+      <td><b>Veeva Systems</b></td>
+      <td>North Carolina - Raleigh</td>
+      <td>Software Engineer in Test</td>
+      <td><a href='https://jobs.lever.co/veeva/fc5343d1-f637-4729-9ecb-aeb963619e01'>Apply</a></td>
+      <td>2026-10-22 22:07:20</td>
+    </tr>
+    <tr>
+      <td><b>VSP</b></td>
+      <td>Remote US</td>
+      <td>Software Engineer - .NET Apps</td>
+      <td><a href='https://vsp.wd1.myworkdayjobs.com/en-US/vspvisioncareers/job/Remote-US/Software-Engineer_R-10081'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>Mountain View, CA, USA</td>
+      <td>2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8287385'>Apply</a></td>
+      <td>Oct 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Xylem Services USA LLC</b></td>
+      <td>Auburn, New York</td>
+      <td>Material Handler - 2nd Shift</td>
+      <td><a href='https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Auburn-New-York/Material-Handler---2nd-Shift_R51084-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-23-09-22-07'>🕐 Batch at 2026-10-23 09:22:07</h3>
 
@@ -257,7 +611,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-23-03-56-27'>🕐 Batch at 2026-10-23 03:56:27</h3>
 
 📊 **Total jobs in this batch: 6**
