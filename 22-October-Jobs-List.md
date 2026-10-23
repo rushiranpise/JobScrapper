@@ -4,9 +4,234 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-22 19:56:03](#batch-2026-10-22-19-56-03)
 - [Batch at 2026-10-22 14:11:53](#batch-2026-10-22-14-11-53)
 - [Batch at 2026-10-22 09:33:24](#batch-2026-10-22-09-33-24)
 - [Batch at 2026-10-22 04:04:39](#batch-2026-10-22-04-04-39)
+
+<h3 id='batch-2026-10-22-19-56-03'>🕐 Batch at 2026-10-22 19:56:03</h3>
+
+📊 **Total jobs in this batch: 27**
+
+**Per company:**
+- Motorola Solutions, Inc: 1 job
+- Applied Materials: 2 jobs
+- Citi: 1 job
+- DoorDash : 1 job
+- Dematic Corp. (ILD-US): 1 job
+- Esri: 1 job
+- Formlabs: 1 job
+- Glean: 3 jobs
+- Intel Corporation: 2 jobs
+- Micron: 1 job
+- palantir: 2 jobs
+- SRK Supplylogix LLC: 10 jobs
+- The Walt Disney Company: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Schaumburg, IL</td>
+      <td>Software Engineer</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Software-Engineer_R69235'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Gloucester,MA</td>
+      <td>2027 Process Engineer III New College Grad - Doctorate (Gloucester, MA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Process-Engineer-III-New-College-Grad---Doctorate--Gloucester--MA-_R2632023'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Billerica,MA</td>
+      <td>Process Engineer I, New College Grad - Bachelors (Billerica, MA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/Process-Engineer-I--New-College-Grad---Bachelors--Billerica--MA-_R2632042'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Apps Dev Intmd Programmer Analyst - C11 - CIUDAD DE MEXICO</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Apps-Dev-Intmd-Programmer-Analyst---C11---CIUDAD-DE-MEXICO_26996892'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>DoorDash </b></td>
+      <td>Sunnyvale, CA</td>
+      <td>Operations Research Intern (PhD), Summer 2027</td>
+      <td><a href='https://job-boards.greenhouse.io/doordashusa/jobs/8273965'>Apply</a></td>
+      <td>Oct 19, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Dematic Corp. (ILD-US)</b></td>
+      <td>Fort Worth, TX, United States</td>
+      <td>Material Handler  - 2nd Shift</td>
+      <td><a href='https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Fort-Worth-TX-United-States/Material-Handler----2nd-Shift_JR-0095416-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Esri</b></td>
+      <td>Vienna, Virginia, United States</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://www.esri.com/careers/5270046007?gh_jid=5270046007'>Apply</a></td>
+      <td>Oct 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Formlabs</b></td>
+      <td>Somerville, MA</td>
+      <td>Software Engineer, API & Automation</td>
+      <td><a href='https://careers.formlabs.com/job/8312364/apply/?gh_jid=8312364'>Apply</a></td>
+      <td>Oct 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Glean</b></td>
+      <td>Mountain View, CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/gleanwork/jobs/4746910005'>Apply</a></td>
+      <td>Oct 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Glean</b></td>
+      <td>Mountain View, CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/gleanwork/jobs/4746919005'>Apply</a></td>
+      <td>Oct 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Glean</b></td>
+      <td>Mountain View, CA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/gleanwork/jobs/4746918005'>Apply</a></td>
+      <td>Oct 22, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Infrastructure Systems Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Infrastructure-Systems-Engineer_JR0288264'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Arizona, Phoenix</td>
+      <td>Infrastructure Storage Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Infrastructure-Storage-Engineer_JR0288263'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Intern – Business Process Analyst</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Business-Process-Analyst_JR115234'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>palantir</b></td>
+      <td>New York, NY</td>
+      <td>Forward Deployed Software Engineer, Internship - Warp Speed</td>
+      <td><a href='https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb'>Apply</a></td>
+      <td>2026-10-22 21:37:49</td>
+    </tr>
+    <tr>
+      <td><b>palantir</b></td>
+      <td>New York, NY</td>
+      <td>Forward Deployed Software Engineer, New Grad - Warp Speed</td>
+      <td><a href='https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7'>Apply</a></td>
+      <td>2026-10-22 21:34:28</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, TN, Memphis</td>
+      <td>Material Handler - Full Time Shift</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TN-Memphis/Material-Handler---Full-Time-Shift_JR0156235'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, OK, Oklahoma City</td>
+      <td>Material Handler - Full Time Shift</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-OK-Oklahoma-City/Material-Handler---Full-Time-Shift_JR0156233'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, MI, Holt</td>
+      <td>Material Handler - Full Time Shift</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-MI-Holt/Material-Handler---Full-Time-Shift_JR0156221'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, TN, Memphis</td>
+      <td>Material Handler - Full Time Shifts</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TN-Memphis/Material-Handler---Full-Time-Shifts_JR0156222'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, TN, Memphis</td>
+      <td>Material Handler - Part Time</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TN-Memphis/Material-Handler---Part-Time_JR0156225'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, IA, Clear Lake</td>
+      <td>Material Handler - Full Time Shift</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-IA-Clear-Lake/Material-Handler---Full-Time-Shift_JR0156182'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, TX, Conroe</td>
+      <td>Material Handler - Full Time Shift</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Conroe/Material-Handler---Full-Time-Shift_JR0156220'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, TX, Conroe</td>
+      <td>Material Handler - Part Time Shifts</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Conroe/Material-Handler---Part-Time-Shifts_JR0156219'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, CO, Aurora</td>
+      <td>Material Handler - Part Time Shift</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-CO-Aurora/Material-Handler---Part-Time-Shift_JR0156203'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, CO, Aurora</td>
+      <td>Material Handler - Full Time Shift</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-CO-Aurora/Material-Handler---Full-Time-Shift_JR0156164-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Celebration, FL, USA</td>
+      <td>Tax Data Management & Innovation Graduate Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Tax-Data-Management---Innovation-Graduate-Intern--Spring-2027_10163753'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-22-14-11-53'>🕐 Batch at 2026-10-22 14:11:53</h3>
 
@@ -379,7 +604,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-22-09-33-24'>🕐 Batch at 2026-10-22 09:33:24</h3>
 
 📊 **Total jobs in this batch: 22**
@@ -566,8 +790,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-10-22-04-04-39'>🕐 Batch at 2026-10-22 04:04:39</h3>
+---<h3 id='batch-2026-10-22-04-04-39'>🕐 Batch at 2026-10-22 04:04:39</h3>
 
 📊 **Total jobs in this batch: 3**
 
