@@ -1,12 +1,2 @@
-company,title,location,postedOn,link,updatedOn
-ASMLEXT1,Platform Software Engineer In Test ( Internship),"San Jose, CA, USA",Posted Today,https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558,
-Calm,Software Development Engineer in Test ,"Remote, United States",2026-10-23T18:07:45-04:00,https://job-boards.greenhouse.io/calm/jobs/8912981002,2026-10-23T18:07:45-04:00
-LexisNexis Risk Solutions,"Data Scientist III***Hybrid in Alpharetta, GA","Alpharetta, GA",Posted Today,https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Data-Scientist-III---Hybrid-in-Alpharetta--GA_R117998,
-Micron,"Intern - ATE Process Engineer, PCVD ID1","Boise, ID - Main Site",Posted Today,https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---ATE-Process-Engineer--PCVD-ID1_JR115032,
-MOOG,Systems Analyst - Enterprise Applications,"Buffalo, NY",Posted Today,https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Systems-Analyst---Enterprise-Applications_R-26-20470,
-Okta,"Software Architect, AI Systems and Platform","San Francisco, California",2026-10-23T17:54:20-04:00,https://www.okta.com/company/careers/opportunity/8319085?gh_jid=8319085,2026-10-23T18:52:38-04:00
-Rvo health,"Software Engineer, Red Platform","Charlotte, North Carolina, United States",2026-10-23T17:03:33-04:00,https://job-boards.greenhouse.io/rvohealth/jobs/4743812005,2026-10-23T17:03:33-04:00
-Rvo health,"Software Engineer, Red Platform","Minneapolis, MN",2026-10-23T17:03:35-04:00,https://job-boards.greenhouse.io/rvohealth/jobs/4743815005,2026-10-23T17:03:35-04:00
-Salesforce,Software Engineering SMTS,California - San Francisco,Posted Today,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR363487,
-The Walt Disney Company,"Disney Consumer Products Softlines Licensing Intern, Spring 2027","Glendale, CA, USA",Posted Today,https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney-Consumer-Products-Softlines-Licensing-Intern--Spring-2027_10163644,
-Waymo,"2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations","San Francisco, CA, USA",2026-10-23T20:36:01-04:00,https://careers.withwaymo.com/jobs?gh_jid=8304574,2026-10-23T20:36:01-04:00
+company,title,location,link,postedOn,updatedOn
+Reddit,"Software Engineer, Ad Signals",Remote - United States,https://job-boards.greenhouse.io/reddit/jobs/8319655,2026-10-24T12:34:49-04:00,2026-10-24T12:34:49-04:00
