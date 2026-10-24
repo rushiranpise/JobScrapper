@@ -4,9 +4,119 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-23 19:53:46](#batch-2026-10-23-19-53-46)
 - [Batch at 2026-10-23 13:59:54](#batch-2026-10-23-13-59-54)
 - [Batch at 2026-10-23 09:22:07](#batch-2026-10-23-09-22-07)
 - [Batch at 2026-10-23 03:56:27](#batch-2026-10-23-03-56-27)
+
+<h3 id='batch-2026-10-23-19-53-46'>🕐 Batch at 2026-10-23 19:53:46</h3>
+
+📊 **Total jobs in this batch: 11**
+
+**Per company:**
+- ASMLEXT1: 1 job
+- Calm: 1 job
+- LexisNexis Risk Solutions: 1 job
+- Micron: 1 job
+- MOOG: 1 job
+- Okta: 1 job
+- Rvo health: 2 jobs
+- Salesforce: 1 job
+- The Walt Disney Company: 1 job
+- Waymo: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>San Jose, CA, USA</td>
+      <td>Platform Software Engineer In Test ( Internship)</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Calm</b></td>
+      <td>Remote, United States</td>
+      <td>Software Development Engineer in Test </td>
+      <td><a href='https://job-boards.greenhouse.io/calm/jobs/8912981002'>Apply</a></td>
+      <td>Oct 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>LexisNexis Risk Solutions</b></td>
+      <td>Alpharetta, GA</td>
+      <td>Data Scientist III***Hybrid in Alpharetta, GA</td>
+      <td><a href='https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Data-Scientist-III---Hybrid-in-Alpharetta--GA_R117998'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Intern - ATE Process Engineer, PCVD ID1</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---ATE-Process-Engineer--PCVD-ID1_JR115032'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>MOOG</b></td>
+      <td>Buffalo, NY</td>
+      <td>Systems Analyst - Enterprise Applications</td>
+      <td><a href='https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Systems-Analyst---Enterprise-Applications_R-26-20470'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Okta</b></td>
+      <td>San Francisco, California</td>
+      <td>Software Architect, AI Systems and Platform</td>
+      <td><a href='https://www.okta.com/company/careers/opportunity/8319085?gh_jid=8319085'>Apply</a></td>
+      <td>Oct 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Rvo health</b></td>
+      <td>Charlotte, North Carolina, United States</td>
+      <td>Software Engineer, Red Platform</td>
+      <td><a href='https://job-boards.greenhouse.io/rvohealth/jobs/4743812005'>Apply</a></td>
+      <td>Oct 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Rvo health</b></td>
+      <td>Minneapolis, MN</td>
+      <td>Software Engineer, Red Platform</td>
+      <td><a href='https://job-boards.greenhouse.io/rvohealth/jobs/4743815005'>Apply</a></td>
+      <td>Oct 23, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Software Engineering SMTS</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR363487'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>The Walt Disney Company</b></td>
+      <td>Glendale, CA, USA</td>
+      <td>Disney Consumer Products Softlines Licensing Intern, Spring 2027</td>
+      <td><a href='https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney-Consumer-Products-Softlines-Licensing-Intern--Spring-2027_10163644'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8304574'>Apply</a></td>
+      <td>Oct 23, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-23-13-59-54'>🕐 Batch at 2026-10-23 13:59:54</h3>
 
@@ -360,7 +470,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-23-09-22-07'>🕐 Batch at 2026-10-23 09:22:07</h3>
 
 📊 **Total jobs in this batch: 30**
@@ -610,8 +719,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-10-23-03-56-27'>🕐 Batch at 2026-10-23 03:56:27</h3>
+---<h3 id='batch-2026-10-23-03-56-27'>🕐 Batch at 2026-10-23 03:56:27</h3>
 
 📊 **Total jobs in this batch: 6**
 
