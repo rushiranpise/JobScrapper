@@ -4,8 +4,39 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-25 13:22:07](#batch-2026-10-25-13-22-07)
 - [Batch at 2026-10-25 08:29:14](#batch-2026-10-25-08-29-14)
 - [Batch at 2026-10-25 03:37:00](#batch-2026-10-25-03-37-00)
+
+<h3 id='batch-2026-10-25-13-22-07'>🕐 Batch at 2026-10-25 13:22:07</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- genpt: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>genpt</b></td>
+      <td>Atlanta, GA, USA</td>
+      <td>Product Pricing Analytics Intern - Summer 2027</td>
+      <td><a href='https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA-USA/Product-Pricing-Analytics-Intern---Summer-2027_R26_0000035663'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-25-08-29-14'>🕐 Batch at 2026-10-25 08:29:14</h3>
 
@@ -36,7 +67,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-25-03-37-00'>🕐 Batch at 2026-10-25 03:37:00</h3>
 
 📊 **Total jobs in this batch: 1**
