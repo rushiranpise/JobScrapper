@@ -4,9 +4,48 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-25 19:42:42](#batch-2026-10-25-19-42-42)
 - [Batch at 2026-10-25 13:22:07](#batch-2026-10-25-13-22-07)
 - [Batch at 2026-10-25 08:29:14](#batch-2026-10-25-08-29-14)
 - [Batch at 2026-10-25 03:37:00](#batch-2026-10-25-03-37-00)
+
+<h3 id='batch-2026-10-25-19-42-42'>🕐 Batch at 2026-10-25 19:42:42</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- Motorola Solutions, Inc: 1 job
+- spacex: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Motorola Solutions, Inc</b></td>
+      <td>Sydney, Australia (ZAS102), More...</td>
+      <td>Software Configuration Analyst</td>
+      <td><a href='https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Sydney-Australia-ZAS102/Software-Configuration-Analyst_R69285'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>Application Software Engineer, Launch Software</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8915956002?gh_jid=8915956002'>Apply</a></td>
+      <td>Oct 25, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-25-13-22-07'>🕐 Batch at 2026-10-25 13:22:07</h3>
 
@@ -37,7 +76,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-25-08-29-14'>🕐 Batch at 2026-10-25 08:29:14</h3>
 
 📊 **Total jobs in this batch: 1**
@@ -66,8 +104,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-10-25-03-37-00'>🕐 Batch at 2026-10-25 03:37:00</h3>
+---<h3 id='batch-2026-10-25-03-37-00'>🕐 Batch at 2026-10-25 03:37:00</h3>
 
 📊 **Total jobs in this batch: 1**
 
