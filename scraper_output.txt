@@ -1,8 +1,8 @@
 
-✅ Scraped 10 new jobs. Output saved to 'output.csv'.
-📦 Appended 10 jobs to 'output_old.csv'
+✅ Scraped 6 new jobs. Output saved to 'output.csv'.
+📦 Appended 6 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"ALTEN Technology USA","title":"Restraint System Integration and Testing Engineer","location":"Casa Grande, Arizona, United States","link":"https:\/\/job-boards.greenhouse.io\/altentechnologyusa\/jobs\/5277782007","postedOn":"2026-10-27T19:46:11-04:00","updatedOn":"2026-10-27T19:46:11-04:00"},{"company":"ALTEN Technology USA","title":"Software Test Engineer","location":"Westminster, Colorado, United States","link":"https:\/\/job-boards.greenhouse.io\/altentechnologyusa\/jobs\/5277747007","postedOn":"2026-10-27T19:07:19-04:00","updatedOn":"2026-10-27T19:07:19-04:00"},{"company":"BAH","title":"Platform and Data Engineer","location":"Pearl Harbor, HI","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Pearl-Harbor-HI\/Platform-and-Data-Engineer_R0252450","postedOn":"Posted Today","updatedOn":null},{"company":"KLA","title":"Applications Development Engineer- eBeam","location":"Milpitas, CA","link":"https:\/\/kla.wd1.myworkdayjobs.com\/en-US\/Search\/job\/Milpitas-CA\/Applications-Development-Engineer--eBeam_2643071","postedOn":"Posted Today","updatedOn":null},{"company":"PlayStation Global","title":"Contract Software Development Engineer in Test - Subscription Platform","location":"United States, San Diego, CA","link":"https:\/\/job-boards.greenhouse.io\/sonyinteractiveentertainmentglobal\/jobs\/6232183004","postedOn":"2026-10-27T20:47:27-04:00","updatedOn":"2026-10-27T20:48:18-04:00"},{"company":"PlayStation Global","title":"Contract Software Development Engineer in Test - Subscription Platform","location":"United States, Aliso Viejo, CA","link":"https:\/\/job-boards.greenhouse.io\/sonyinteractiveentertainmentglobal\/jobs\/6237074004","postedOn":"2026-10-27T20:47:30-04:00","updatedOn":"2026-10-27T20:48:42-04:00"},{"company":"Samsung semiconductor","title":"Intern, Power-Thermal Simulation Software Engineer","location":"San Jose, California, United States","link":"https:\/\/job-boards.greenhouse.io\/samsungsemiconductor\/jobs\/8046795003","postedOn":"2026-10-27T20:22:25-04:00","updatedOn":"2026-10-27T20:22:25-04:00"},{"company":"Samsung semiconductor","title":"Intern, RTL Power Macromodeling Engineer","location":"San Jose, California, United States","link":"https:\/\/job-boards.greenhouse.io\/samsungsemiconductor\/jobs\/8046830003","postedOn":"2026-10-27T20:24:31-04:00","updatedOn":"2026-10-27T20:24:31-04:00"},{"company":"Samsung semiconductor","title":"Intern, Thermal Modeling & Simulation Engineer (AI Memory \/ HBM)","location":"San Jose, California, United States","link":"https:\/\/job-boards.greenhouse.io\/samsungsemiconductor\/jobs\/8046859003","postedOn":"2026-10-27T20:27:28-04:00","updatedOn":"2026-10-27T20:27:28-04:00"},{"company":"spacex","title":"IT Network Infrastructure Technician (Night Shift)","location":"Bastrop, TX","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8920839002?gh_jid=8920839002","postedOn":"2026-10-27T22:21:18-04:00","updatedOn":"2026-10-27T22:21:18-04:00"}]
+[{"company":"Autodesk","title":"Intern, Software Engineer [PDMS-D&M-GDSIMENG]","location":"Melbourne, AUS","link":"https:\/\/autodesk.wd1.myworkdayjobs.com\/en-US\/uni\/job\/Melbourne-AUS\/Intern--Software-Engineer--PDMS-D-M-GDSIMENG-_26WD101850","postedOn":"Posted Today","updatedOn":null},{"company":"Snowflake","title":"Data Engineer","location":"IN-Pune","link":"https:\/\/jobs.ashbyhq.com\/snowflake\/1af751fb-d53e-43b0-a3bc-6fcc4004cafb","postedOn":"2026-10-28T04:55:42.433+00:00","updatedOn":null},{"company":"VSP","title":"Internship, Software Engineer","location":"Remote US","link":"https:\/\/vsp.wd1.myworkdayjobs.com\/en-US\/vspvisioncareers\/job\/Remote-US\/Internship--Software-Engineer_R-10046","postedOn":"Posted Today","updatedOn":null},{"company":"VSP","title":"Internship, Software Engineer","location":"Remote US","link":"https:\/\/vsp.wd1.myworkdayjobs.com\/en-US\/vspvisioncareers\/job\/Remote-US\/Internship--Software-Engineer_R-10071","postedOn":"Posted Today","updatedOn":null},{"company":"VSP","title":"Internship, Software Engineer","location":"Remote US","link":"https:\/\/vsp.wd1.myworkdayjobs.com\/en-US\/vspvisioncareers\/job\/Remote-US\/Internship--Software-Engineer_R-10068","postedOn":"Posted Today","updatedOn":null},{"company":"VSP","title":"Internship, Technology Innovation","location":"Remote US","link":"https:\/\/vsp.wd1.myworkdayjobs.com\/en-US\/vspvisioncareers\/job\/Remote-US\/Internship--Technology-Innovation_R-10020","postedOn":"Posted Today","updatedOn":null}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
@@ -23,18 +23,18 @@ ERRORS_START
 [ERROR] Cdata: Greenhouse API failed: 404
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
 [ERROR] Chatham Financial: Greenhouse API failed: 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"473FA6MVRJV4AJ","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"307D4FMVS261J9","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Clever: Could not extract Lever company name
 [ERROR] CloudTrucks : Ashby API failed - HTTP 404: Not Found
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
-[ERROR] CMU: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"A2142CMVRJVIK8","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Comcast : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"473FA6MVRJVL9R","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] CMU: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"9A3837MVS26F0H","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Dapper Labs: Lever API failed: https://api.lever.co/v0/postings/axiomzen?mode=json - 404
+[ERROR] Comcast : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"4A8B72MVS26IHM","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Demandbase : Greenhouse API failed: 404
 [ERROR] Digital.ai: Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"12C418MVRJW2FX","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"7E8B64MVS270D0","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
 [ERROR] Fortra : Greenhouse API failed: 404
 [ERROR] Funnel: Breezy API failed: 404
@@ -49,20 +49,19 @@ ERRORS_START
 [ERROR] Kobie: Greenhouse API failed: 404
 [ERROR] Kodiak Robotics: Lever API failed: https://api.lever.co/v0/postings/kodiak?mode=json - 404
 [ERROR] Modernizing Medicine: Greenhouse API failed: 404
-[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"954DE0MVRJXMS0","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Notion: Greenhouse API failed: 404
-[ERROR] Otis: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"CEC43FMVRJXWD5","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"2FE903MVS28PYD","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Otis: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"C97835MVS28YXH","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Perplexity AI: Greenhouse API failed: 404
 [ERROR] Plaid : Lever API failed: https://api.lever.co/v0/postings/plaid?mode=json - 404
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"94F882MVRJY7YL","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"2E7CA3MVS29DWK","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Raptor Maps: Lever API failed: https://api.lever.co/v0/postings/RaptorMaps?mode=json - 404
 [ERROR] Relativity Space: Greenhouse API failed: 404
-[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"F1AEA7MVRJYE1C","httpStatus":403,"message":"permission denied","messageParams":{}}
+[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"55F0DDMVS29HGL","httpStatus":403,"message":"permission denied","messageParams":{}}
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
 [ERROR] Saronic: Lever API failed: https://api.lever.co/v0/postings/saronic?mode=json - 404
-[ERROR] Prudential Financial: Workday API failed: HTTP 520 - <!DOCTYPE html>
 [ERROR] Skydio: Greenhouse API failed: 404
 [ERROR] Snap: Invalid Workday URL
 [ERROR] Stitch Fix : Greenhouse API failed: 404
@@ -70,14 +69,14 @@ ERRORS_START
 [ERROR] Strong Holdim: Greenhouse API failed: 404
 [ERROR] Tandem: Ashby API failed - HTTP 404: Not Found
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"4BB0A5MVRK018I","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"4ECBD0MVRK03S1","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"F9A78AMVS2B5W4","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"CA0318MVS2B8US","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] TRM labs: Greenhouse API failed: 404
 [ERROR] Vimeo: Greenhouse API failed: 404
-[ERROR] Walmart: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"09E9DBMVRK0QMQ","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
+[ERROR] Walmart: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"2222A7MVS2C4E1","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"4BB0A5MVRK0WQ7","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"3D36B4MVS2C82F","httpStatus":422,"message":"","messageParams":{}}
 ERRORS_END
