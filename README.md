@@ -4,9 +4,108 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-27 20:30:50](#batch-2026-10-27-20-30-50)
 - [Batch at 2026-10-27 14:48:52](#batch-2026-10-27-14-48-52)
 - [Batch at 2026-10-27 10:18:40](#batch-2026-10-27-10-18-40)
 - [Batch at 2026-10-27 04:29:13](#batch-2026-10-27-04-29-13)
+
+<h3 id='batch-2026-10-27-20-30-50'>🕐 Batch at 2026-10-27 20:30:50</h3>
+
+📊 **Total jobs in this batch: 10**
+
+**Per company:**
+- ALTEN Technology USA: 2 jobs
+- BAH: 1 job
+- KLA: 1 job
+- PlayStation Global: 2 jobs
+- Samsung semiconductor: 3 jobs
+- spacex: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Casa Grande, Arizona, United States</td>
+      <td>Restraint System Integration and Testing Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5277782007'>Apply</a></td>
+      <td>Oct 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ALTEN Technology USA</b></td>
+      <td>Westminster, Colorado, United States</td>
+      <td>Software Test Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/altentechnologyusa/jobs/5277747007'>Apply</a></td>
+      <td>Oct 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Pearl Harbor, HI</td>
+      <td>Platform and Data Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Pearl-Harbor-HI/Platform-and-Data-Engineer_R0252450'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>KLA</b></td>
+      <td>Milpitas, CA</td>
+      <td>Applications Development Engineer- eBeam</td>
+      <td><a href='https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Applications-Development-Engineer--eBeam_2643071'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, San Diego, CA</td>
+      <td>Contract Software Development Engineer in Test - Subscription Platform</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6232183004'>Apply</a></td>
+      <td>Oct 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>PlayStation Global</b></td>
+      <td>United States, Aliso Viejo, CA</td>
+      <td>Contract Software Development Engineer in Test - Subscription Platform</td>
+      <td><a href='https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6237074004'>Apply</a></td>
+      <td>Oct 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Samsung semiconductor</b></td>
+      <td>San Jose, California, United States</td>
+      <td>Intern, Power-Thermal Simulation Software Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003'>Apply</a></td>
+      <td>Oct 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Samsung semiconductor</b></td>
+      <td>San Jose, California, United States</td>
+      <td>Intern, RTL Power Macromodeling Engineer</td>
+      <td><a href='https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046830003'>Apply</a></td>
+      <td>Oct 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Samsung semiconductor</b></td>
+      <td>San Jose, California, United States</td>
+      <td>Intern, Thermal Modeling & Simulation Engineer (AI Memory / HBM)</td>
+      <td><a href='https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046859003'>Apply</a></td>
+      <td>Oct 27, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Bastrop, TX</td>
+      <td>IT Network Infrastructure Technician (Night Shift)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8920839002?gh_jid=8920839002'>Apply</a></td>
+      <td>Oct 27, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-27-14-48-52'>🕐 Batch at 2026-10-27 14:48:52</h3>
 
@@ -349,7 +448,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-27-10-18-40'>🕐 Batch at 2026-10-27 10:18:40</h3>
 
 📊 **Total jobs in this batch: 38**
@@ -654,8 +752,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-10-27-04-29-13'>🕐 Batch at 2026-10-27 04:29:13</h3>
+---<h3 id='batch-2026-10-27-04-29-13'>🕐 Batch at 2026-10-27 04:29:13</h3>
 
 📊 **Total jobs in this batch: 5**
 
