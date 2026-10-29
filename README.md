@@ -4,9 +4,126 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-28 20:54:31](#batch-2026-10-28-20-54-31)
 - [Batch at 2026-10-28 15:12:14](#batch-2026-10-28-15-12-14)
 - [Batch at 2026-10-28 10:53:16](#batch-2026-10-28-10-53-16)
 - [Batch at 2026-10-28 05:03:37](#batch-2026-10-28-05-03-37)
+
+<h3 id='batch-2026-10-28-20-54-31'>🕐 Batch at 2026-10-28 20:54:31</h3>
+
+📊 **Total jobs in this batch: 12**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Applied Materials: 1 job
+- ASMLEXT1: 1 job
+- Citi: 2 jobs
+- homedepot: 1 job
+- Intel Corporation: 1 job
+- Micron: 1 job
+- Stripe: 2 jobs
+- Zoom: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Irvine, California, United States</td>
+      <td>Software Engineer, Platform Overlay & Networking</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5271245007?gh_jid=5271245007'>Apply</a></td>
+      <td>Oct 21, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>Application Engineer V</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Application-Engineer-V_R2632394'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>San Diego, CA, USA</td>
+      <td>Internship/Co-Op: Data Engineer</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Apps Dev Intmd Programmer Abinitio/Oracle/QA</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Apps-Dev-Intmd-Programmer-Abinitio-Oracle-QA_261006270'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>BANAMEX - Infrastructure Analyst - Officer</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX---Infrastructure-Analyst---Officer_261005725'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>PENNSYLVANIA - VIRTUAL - PA01</td>
+      <td>Rental Delivery Driver I CDLA - King of Prussia, PA</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/PENNSYLVANIA---VIRTUAL---PA01/Rental-Delivery-Driver-I-CDLA---King-of-Prussia--PA_Req197362'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Oregon, Hillsboro</td>
+      <td>EDA Tools Software Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/EDA-Tools-Software-Engineer_JR0287371'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Longmont-MAX- Office, CO</td>
+      <td>Quality Technician - SSD RMA Failure Analysis</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Longmont-MAX--Office-CO/Quality-Technician---SSD-RMA-Failure-Analysis_JR116063'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>South San Francisco, CA</td>
+      <td>Software Engineer, Fraud System Interventions</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=8332718'>Apply</a></td>
+      <td>Oct 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Stripe</b></td>
+      <td>Seattle, WA</td>
+      <td>Software Engineer - Full stack</td>
+      <td><a href='https://stripe.com/jobs/search?gh_jid=8332676'>Apply</a></td>
+      <td>Oct 28, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zoom</b></td>
+      <td>San Jose (CA)</td>
+      <td>Software Development Engineer</td>
+      <td><a href='https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/Software-Development-Engineer_R19815-2'>Apply</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Data Scientist - Behavior Evaluation</td>
+      <td><a href='https://jobs.lever.co/zoox/acaafc9a-486d-4045-80d7-12b09e39330e'>Apply</a></td>
+      <td>2022-05-04 17:43:21</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-28-15-12-14'>🕐 Batch at 2026-10-28 15:12:14</h3>
 
@@ -350,7 +467,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-28-10-53-16'>🕐 Batch at 2026-10-28 10:53:16</h3>
 
 📊 **Total jobs in this batch: 33**
@@ -620,8 +736,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-10-28-05-03-37'>🕐 Batch at 2026-10-28 05:03:37</h3>
+---<h3 id='batch-2026-10-28-05-03-37'>🕐 Batch at 2026-10-28 05:03:37</h3>
 
 📊 **Total jobs in this batch: 6**
 
