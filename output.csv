@@ -1,8 +1,48 @@
-company,title,location,postedOn,link
-ASMLEXT1,AI Engineer,"San Diego, CA, USA",Posted Yesterday,https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/AI-Engineer_J-00355214-1
-BorgWarner,Turbos Assembler 1st Shift (Grade B $19.96 - $23.28),Arden - North Carolina - USA,Posted Today,https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/Turbos-Assembler-1st-Shift--Grade-B--1996----2328-_R2026-4255
-Citi,Apps Dev Intmd Programmer Analyst - Officer,Tampa Florida United States,Posted Today,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Apps-Dev-Intmd-Programmer-Analyst---Officer_261004426
-Citi,Apps Dev Intmd Programmer Analyst - Officer,Tampa Florida United States,Posted Today,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Apps-Dev-Intmd-Programmer-Analyst---Officer_261004423
-KLA,Software Engineer Intern,"Milpitas, CA",Posted Today,https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1
-KLA,System Software Engineer - Distributed Computing,"Milpitas, CA",Posted Today,https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720-1
-Salesforce,Software Engineering SMTS,California - San Francisco,Posted Yesterday,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR365940
+company,title,location,link,postedOn,updatedOn
+Airbnb,"Backend Engineer, Profile & Community",United States,https://careers.airbnb.com/positions/8334926?gh_jid=8334926,2026-10-29T15:24:15-04:00,2026-10-29T15:24:15-04:00
+566 DEPARTMENT OF TOURISM AND RECREATION,Correctional Training Officer,Oklahoma County,https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Correctional-Training-Officer_JR67229,Posted Today,
+"Motorola Solutions, Inc",Software Systems Technical Support,"New York Remote Work, More...",https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/New-York-Remote-Work/Software-Systems-Technical-Support_R70233,Posted Today,
+"Motorola Solutions, Inc",CAD Infrastructure Administrator,Florida Remote Work,https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Florida-Remote-Work/CAD-Infrastructure-Administrator_R69213,Posted Today,
+Applied Materials,"RF Electrical Engineer New College Grad- Master's (Santa Clara, CA)","Santa Clara,CA",https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/RF-Electrical-Engineer-New-College-Grad--Master-s--Santa-Clara--CA-_R2626858,Posted Today,
+ASMLEXT1,"Material Handler, Contract","San Diego, CA, USA",https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/Material-Handler--Contract_J-00356315-2,Posted Today,
+Anduril Industries,"Data Analytics, Product Lifecycle Operations","Costa Mesa, California, United States",https://boards.greenhouse.io/andurilindustries/jobs/5278800007?gh_jid=5278800007,2026-10-29T14:52:16-04:00,2026-10-29T14:53:01-04:00
+BAH,Data Scientist,"Albuquerque, NM",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/Data-Scientist_R0252615,Posted Today,
+BAH,Full Stack Developer,"Atlanta, GA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Full-Stack-Developer_R0252593,Posted Today,
+BAH,Data Analyst,"Camp Lejeune, NC",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Lejeune-NC/Data-Analyst_R0252612,Posted Today,
+BAH,"Information Systems and Simulations Trainer, Mid","Fort Bliss, TX",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Bliss-TX/Information-Systems-and-Simulations-Trainer--Mid_R0252494,Posted Today,
+BAH,Full-Stack Software Engineer,"Langley AFB, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/Full-Stack-Software-Engineer_R0252590,Posted Today,
+BAH,Palantir Data Engineer,"Atlanta, GA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Palantir-Data-Engineer_R0252584-1,Posted Today,
+BAH,Palantir Data Engineer,"Atlanta, GA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Palantir-Data-Engineer_R0252582,Posted Today,
+BAH,Software Engineer,"Aurora, CO",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0252573,Posted Today,
+BAH,Data Engineer,"Arlington, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Engineer_R0252565,Posted Today,
+BAH,Power Platform Developer,"Hampton, VA",https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Hampton-VA/Power-Platform-Developer_R0252572,Posted Today,
+Citi,Junior Application Developer,Tampa Florida United States,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Junior-Application-Developer_261003010,Posted Today,
+Citi,Apps Dev Intmd Programmer Analyst - C11 - TAMPA,Tampa Florida United States,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Apps-Dev-Intmd-Programmer-Analyst---C11---TAMPA_261004373,Posted Today,
+Citi,Apps Dev Intmd Programmer Analyst - C11,Tampa Florida United States,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Apps-Dev-Intmd-Programmer-Analyst---C11_261004380,Posted Today,
+Citi,Banamex- Desarrolladores de SW en entorno AI,Ciudad De Mexico Distrito Federal Mexico,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex--Desarrolladores-de-SW-en-entorno-AI_261006427,Posted Today,
+Dematic Corp. (ILD-US),Material Handler - 2nd Shift,"Fort Worth, TX, United States",https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Fort-Worth-TX-United-States/Material-Handler---2nd-Shift_JR-0095415-1,Posted Today,
+General Motors LLC,2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles,"Sunnyvale, California, United States of America",https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439,Posted Today,
+General Motors LLC,Production Worker - Full Time Temporary - Grand Rapids,"Wyoming, Michigan, United States of America",https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Wyoming-Michigan-United-States-of-America/Production-Worker---Full-Time-Temporary---Grand-Rapids_JR-202623254,Posted Today,
+genpt,Autotech Technical Trainer,"USA, CA - Remote",https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/USA-CA---Remote/Autotech-Technical-Trainer_R26_0000034549,Posted Today,
+KLA,Applications Development Engineer,"Hillsboro, OR",https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Hillsboro-OR/Applications-Development-Engineer_2643021,Posted Today,
+KLA,Material Handler -  2nd Shift,"Totowa, NJ",https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Totowa-NJ/Material-Handler_2642914,Posted Today,
+KLA,Image Processing Intern,"Milpitas, CA",https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Image-Processing-Intern_2642159,Posted Today,
+KLA,Software Intern,"Milpitas, CA",https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Intern_2642700-1,Posted Today,
+KLA,Material Handler,"Totowa, NJ",https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Totowa-NJ/Material-Handler_2642912,Posted Today,
+Micron,"New College Grad - Data Scientist, AI for Business Functions","Boise, ID - Main Site",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682,Posted Today,
+Micron,New College Grad - HBM PYE Product Development Failure Analysis Enginee,"Boise, ID - Main Site",https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---HBM-PYE-Product-Development-Failure-Analysis-Enginee_JR116583,Posted Today,
+MOOG,"Intern, Advanced Manufacturing","Buffalo, NY",https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Advanced-Manufacturing_R-26-20981,Posted Today,
+Morgan Stanley,Fixed Income Division - Municipal Securities - Municipal Capital Markets / Municipal Lending - Associate (New York),"New York, New York, United States of America",https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Fixed-Income-Division---Municipal-Securities---Municipal-Capital-Markets---Municipal-Lending---Associate--New-York-_JR046096-1,Posted Today,
+nVent,Graduate Engineer – Cooling (Mechnical),"Bangalore, IN",https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Bangalore-IN/Graduate-Engineer---Cooling--Mechnical-_R24214,Posted Today,
+OpenEye,Software Engineer,"Needham, Massachusetts",https://job-boards.greenhouse.io/alarmcom/jobs/8900284002,2026-10-29T14:08:13-04:00,2026-10-29T14:08:13-04:00
+NVIDIAExternalCareerSite,AI Systems Software Engineering Intern – Summer 2027,"US, TX, Austin",https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170,Posted Today,
+NVIDIAExternalCareerSite,Compiler Software Engineering Intern - Summer 2027,"US, WA, Redmond",https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607,Posted Today,
+Pure storage,AI Enablement Engineer,"Santa Clara, California",https://job-boards.greenhouse.io/purestorage/jobs/8331163,2026-10-29T17:40:43-04:00,2026-10-29T17:40:43-04:00
+Samsung semiconductor,"Intern, Systems Software Engineering","San Jose, California, United States",https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003,2026-10-29T18:04:55-04:00,2026-10-29T18:04:55-04:00
+SRK Supplylogix LLC,"Material Handler– Full Time – Night Shift (Sunday – 6:00PM – 2:30 AM, Monday – Thursday -7:00PM – 3:30 AM) Mandatory Overtime as Needed.","USA, WA, Puyallup",https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-WA-Puyallup/Material-Handler--Full-Time---Night-Shift--Sunday---6-00PM---2-30-AM--Monday---Thursday--7-00PM---3-30-AM--Mandatory-Overtime-as-Needed_JR0156008,Posted Today,
+The Toro,"Paint Associate, 1st shift - The Toro Company","Tomah, WI",https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Tomah-WI/Paint-Associate--2nd-shift---The-Toro-Company_JR17279,Posted Today,
+The Toro,"Paint Line, $2,000 Sign-on Bonus - Ventrac","Orrville, OH",https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Orrville-OH/Paint-Line---2-000-Sign-on-Bonus---Ventrac_JR17747,Posted Today,
+Travellers,Business Insurance Underwriting Professional Development Program (BI UPDP) Internship,TX - Houston,https://travelers.wd5.myworkdayjobs.com/en-US/External/job/TX---Houston/Business-Insurance-Underwriting-Professional-Development-Program--BI-UPDP--Internship_R-53494,Posted Today,
+Zocdoc,Data Scientist,"New York, NY",https://job-boards.greenhouse.io/zocdoc/jobs/8335345,2026-10-29T17:47:39-04:00,2026-10-29T17:47:39-04:00
+Zoox,Contract Student Worker - Software Engineer (40 hrs/wk),"Foster City, CA",https://jobs.lever.co/zoox/67982bee-811b-453b-8596-b53c13f7a78d,2026-10-28 15:38:30,N/A
+Zoom,AI Engineer,Seattle (WA),https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Seattle-WA/AI-Engineer_R19823-1,,
