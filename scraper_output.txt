@@ -1,15 +1,15 @@
 
-✅ Scraped 2 new jobs. Output saved to 'output.csv'.
-📦 Appended 2 jobs to 'output_old.csv'
+✅ Scraped 30 new jobs. Output saved to 'output.csv'.
+📦 Appended 30 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"Applied Materials","title":"2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA)","location":"Gloucester,MA","link":"https:\/\/amat.wd1.myworkdayjobs.com\/en-US\/External\/job\/GloucesterMA\/XMLNAME-2027-Spring-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2632516","postedOn":"Posted Yesterday","updatedOn":null},{"company":"nVent","title":"Graduate Engineer \u2013 Production Planner","location":"Bangalore, IN","link":"https:\/\/nvent.wd5.myworkdayjobs.com\/en-US\/nVent\/job\/Bangalore-IN\/Graduate-Engineer---Production-Planner_R24224","postedOn":"Posted Today","updatedOn":null}]
+[{"company":"Allstate","title":"Data & Analytics Expert","location":"USA - IL (Remote)","link":"https:\/\/allstate.wd5.myworkdayjobs.com\/en-US\/allstate_careers\/job\/USA---IL-Remote\/Data---Analytics-Expert_R36444-1","postedOn":"Posted Today","updatedOn":null},{"company":"ASMLEXT1","title":"Facilities Infrastructure Planning - Office and Lab","location":"Wilton, CT, USA","link":"https:\/\/asml.wd3.myworkdayjobs.com\/en-US\/ASMLEXT1\/job\/Wilton-CT-USA\/Sr-Business-Planner---Office-and-Lab-Planning_J-00353826","postedOn":"Posted Today","updatedOn":null},{"company":"Applied Materials","title":"Physicist\/Scientist, Doctorate Degree, New College Grad (Spring 2027)","location":"Santa Clara,CA","link":"https:\/\/amat.wd1.myworkdayjobs.com\/en-US\/External\/job\/Santa-ClaraCA\/Physicist-Scientist--Doctorate-Degree--New-College-Grad--Spring-2027-_R2630376","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Data Scientist","location":"Arlington, VA","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Arlington-VA\/Data-Scientist_R0252692","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Data Scientist, Junior","location":"Washington, DC","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Washington-DC\/Data-Scientist--Junior_R0252702","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Platform and Data Engineer","location":"Pearl Harbor, HI","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Pearl-Harbor-HI\/Platform-and-Data-Engineer_R0252696","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Data Engineer","location":"Colorado Springs, CO","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Colorado-Springs-CO\/Cribl-Engineer_R0252075","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Wireless Infrastructure Engineer Specialist","location":"McLean, VA","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/McLean-VA\/Wireless-Infrastructure-Engineer-Specialist_R0252675","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Back-End Node Developer","location":"Fort Belvoir, VA","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Fort-Belvoir-VA\/Back-End-Node-Developer_R0252668","postedOn":"Posted Today","updatedOn":null},{"company":"BAH","title":"Data Scientist","location":"Arlington, VA","link":"https:\/\/bah.wd1.myworkdayjobs.com\/en-US\/BAH_Jobs\/job\/Arlington-VA\/Data-Scientist_R0252681","postedOn":"Posted Today","updatedOn":null},{"company":"BorgWarner","title":"HR Intern","location":"Arden - North Carolina - USA","link":"https:\/\/borgwarner.wd5.myworkdayjobs.com\/en-US\/BorgWarner_Careers\/job\/Arden---North-Carolina---USA\/HR-Intern_R2026-4332","postedOn":"Posted Today","updatedOn":null},{"company":"Citi","title":"BANAMEX Apps Dev Intmd Programmer .NET Analyst - C11 - CIUDAD DE MEXICO","location":"Ciudad De Mexico Distrito Federal Mexico","link":"https:\/\/citi.wd5.myworkdayjobs.com\/en-US\/2\/job\/Ciudad-De-Mexico-Distrito-Federal-Mexico\/BANAMEX-Apps-Dev-Intmd-Programmer-NET-Analyst---C11---CIUDAD-DE-MEXICO_261003062","postedOn":"Posted Today","updatedOn":null},{"company":"DigiCert","title":"DevOps Engineer","location":"US VA Herndon","link":"https:\/\/www.digicert.com\/careers\/?gh_jid=8815464002","postedOn":"2026-10-30T13:16:19-04:00","updatedOn":"2026-10-30T13:16:19-04:00"},{"company":"GCM Grosvenor","title":"2027 IT Operations Summer Intern","location":"Chicago, Illinois, United States","link":"https:\/\/job-boards.greenhouse.io\/gcmgrosvenor\/jobs\/8035967003","postedOn":"2026-10-30T10:13:24-04:00","updatedOn":"2026-10-30T10:13:24-04:00"},{"company":"General Motors LLC","title":"2027 Summer Intern - Research and Development - Aftertreatment Catalysis","location":"Warren, Michigan, United States of America","link":"https:\/\/generalmotors.wd5.myworkdayjobs.com\/en-US\/Careers_GM\/job\/Warren-Michigan-United-States-of-America\/XMLNAME-2027-Summer-Intern---Research-and-Development---Aftertreatment-Catalysis_JR-202622721","postedOn":"Posted Today","updatedOn":null},{"company":"General Motors LLC","title":"2027 Summer Intern - Research & Development - Energy and Propulsion Controls","location":"Warren, Michigan, United States of America","link":"https:\/\/generalmotors.wd5.myworkdayjobs.com\/en-US\/Careers_GM\/job\/Warren-Michigan-United-States-of-America\/XMLNAME-2027-Summer-Intern---Research---Development---Energy-and-Propulsion-Controls_JR-202622207","postedOn":"Posted Today","updatedOn":null},{"company":"General Motors LLC","title":"2027 Summer Intern \u2013 Research and Development \u2013 Vehicle Health Management","location":"Warren, Michigan, United States of America","link":"https:\/\/generalmotors.wd5.myworkdayjobs.com\/en-US\/Careers_GM\/job\/Warren-Michigan-United-States-of-America\/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Health-Management_JR-202622258","postedOn":"Posted Today","updatedOn":null},{"company":"General Motors LLC","title":"2027 Summer Intern - Research and Development - Energy and Propulsion Systems Architecture","location":"Warren, Michigan, United States of America","link":"https:\/\/generalmotors.wd5.myworkdayjobs.com\/en-US\/Careers_GM\/job\/Warren-Michigan-United-States-of-America\/XMLNAME-2027-Summer-Intern---Research-and-Development---Energy-and-Propulsion-Systems-Architecture_JR-202622231","postedOn":"Posted Today","updatedOn":null},{"company":"OpenEye","title":"Software Engineer II","location":"Needham, Massachusetts","link":"https:\/\/job-boards.greenhouse.io\/alarmcom\/jobs\/8924095002","postedOn":"2026-10-30T12:12:56-04:00","updatedOn":"2026-10-30T12:12:56-04:00"},{"company":"Snowflake","title":"Product Management Intern (Summer 2027)","location":"US-CA-Menlo Park","link":"https:\/\/jobs.ashbyhq.com\/snowflake\/322b82f6-4b18-4f86-ae34-007f55c4bdbf","postedOn":"2026-10-30T16:51:05.742+00:00","updatedOn":null},{"company":"Stripe","title":"Master's Machine Learning Engineer, Intern","location":"San Francisco, New York City, Seattle","link":"https:\/\/stripe.com\/jobs\/search?gh_jid=8333074","postedOn":"2026-10-30T12:19:26-04:00","updatedOn":"2026-10-30T12:19:26-04:00"},{"company":"Stripe","title":"PhD Machine Learning Engineer, Intern","location":"San Francisco, New York City, Seattle","link":"https:\/\/stripe.com\/jobs\/search?gh_jid=8328662","postedOn":"2026-10-30T12:19:28-04:00","updatedOn":"2026-10-30T12:19:28-04:00"},{"company":"Stripe","title":"Software Engineer, Secure Devices","location":"New York, New York ","link":"https:\/\/stripe.com\/jobs\/search?gh_jid=7982720","postedOn":"2026-06-05T16:09:40-04:00","updatedOn":"2026-10-30T13:11:41-04:00"},{"company":"The Toro","title":"Manufacturing Engineer Intern - Exmark","location":"Beatrice, NE","link":"https:\/\/ttc.wd1.myworkdayjobs.com\/en-US\/Toro_External_Careers\/job\/Beatrice-NE\/Manufacturing-Engineer-Intern---Exmark_JR17707","postedOn":"Posted Today","updatedOn":null},{"company":"Travellers","title":"Risk Control Intern","location":"MN - St. Paul","link":"https:\/\/travelers.wd5.myworkdayjobs.com\/en-US\/External\/job\/MN---St-Paul\/Risk-Control-Intern_R-53498","postedOn":"Posted Today","updatedOn":null},{"company":"Travellers","title":"Risk Control Intern","location":"TX - Richardson","link":"https:\/\/travelers.wd5.myworkdayjobs.com\/en-US\/External\/job\/TX---Richardson\/Risk-Control-Intern_R-53499-1","postedOn":"Posted Today","updatedOn":null},{"company":"Travellers","title":"Risk Control Intern","location":"KS - Overland Park","link":"https:\/\/travelers.wd5.myworkdayjobs.com\/en-US\/External\/job\/KS---Overland-Park\/Risk-Control-Intern_R-53505","postedOn":"Posted Today","updatedOn":null},{"company":"Travellers","title":"Risk Control Intern","location":"NC - Charlotte","link":"https:\/\/travelers.wd5.myworkdayjobs.com\/en-US\/External\/job\/NC---Charlotte\/Risk-Control-Intern_R-53501","postedOn":"Posted Today","updatedOn":null},{"company":"Travellers","title":"Risk Control Intern","location":"IL - Chicago","link":"https:\/\/travelers.wd5.myworkdayjobs.com\/en-US\/External\/job\/IL---Chicago\/Risk-Control-Intern_R-53502","postedOn":"Posted Today","updatedOn":null},{"company":"WEX","title":"Software Engineer Intern","location":"US - Remote","link":"https:\/\/wexinc.wd5.myworkdayjobs.com\/en-US\/WEXInc\/job\/US---Remote\/Software-Engineer-Intern_R22585","postedOn":"Posted Today","updatedOn":null}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
 [ERROR] Altera: Ashby API failed - HTTP 404: Not Found
 [ERROR] Amidon Heavy Industries: Ashby API failed - HTTP 404: Not Found
-[ERROR] Ambrook: Lever API failed: https://api.lever.co/v0/postings/ambrook?mode=json - 404
 [ERROR] Annalect : Greenhouse API failed: 404
+[ERROR] Ambrook: Lever API failed: https://api.lever.co/v0/postings/ambrook?mode=json - 404
 [ERROR] Anon: Ashby API failed - HTTP 404: Not Found
 [ERROR] Applied Intuition: Greenhouse API failed: 404
 [ERROR] Ascend Analytics: Greenhouse API failed: 404
@@ -21,20 +21,28 @@ ERRORS_START
 [ERROR] Canonical: Greenhouse API failed: 404
 [ERROR] Carbon : Greenhouse API failed: 404
 [ERROR] Cdata: Greenhouse API failed: 404
-[ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
 [ERROR] Chatham Financial: Greenhouse API failed: 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"E31C81MVUX3HG4","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"E55470MVV9ABWL","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Clever: Could not extract Lever company name
 [ERROR] CloudTrucks : Ashby API failed - HTTP 404: Not Found
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
-[ERROR] Comcast : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"4927F5MVUX3UM5","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] CMU: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"93841CMVUX3V3K","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] CMU: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"FCA0A9MVV9ARVI","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Dapper Labs: Lever API failed: https://api.lever.co/v0/postings/axiomzen?mode=json - 404
 [ERROR] Demandbase : Greenhouse API failed: 404
+[ERROR] Comcast : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"00C7E1MVV9AUEZ","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Digital.ai: Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
+[ERROR] Circle: Workday API failed: HTTP 502 - <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"116399MVUX4GMR","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"201BD5MVV9B3IU","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
 [ERROR] Fortra : Greenhouse API failed: 404
 [ERROR] Funnel: Breezy API failed: 404
@@ -49,18 +57,18 @@ ERRORS_START
 [ERROR] Kobie: Greenhouse API failed: 404
 [ERROR] Kodiak Robotics: Lever API failed: https://api.lever.co/v0/postings/kodiak?mode=json - 404
 [ERROR] Modernizing Medicine: Greenhouse API failed: 404
-[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"8C1C96MVUX62BF","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"94510AMVV9D1HQ","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Notion: Greenhouse API failed: 404
-[ERROR] Otis: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"A2DFBFMVUX6EFH","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Otis: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"D45CC4MVV9D88M","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Perplexity AI: Greenhouse API failed: 404
+[ERROR] Plaid : Lever API failed: https://api.lever.co/v0/postings/plaid?mode=json - 404
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"8D1D9BMVUX6XLC","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Raptor Maps: Lever API failed: https://api.lever.co/v0/postings/RaptorMaps?mode=json - 404
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"81AD6DMVV9DRER","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"94510AMVV9DVNF","httpStatus":403,"message":"permission denied","messageParams":{}}
 [ERROR] Relativity Space: Greenhouse API failed: 404
-[ERROR] Plaid : Lever API failed: https://api.lever.co/v0/postings/plaid?mode=json - 404
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
-[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"F8F9ADMVUX70DM","httpStatus":403,"message":"permission denied","messageParams":{}}
+[ERROR] Raptor Maps: Lever API failed: https://api.lever.co/v0/postings/RaptorMaps?mode=json - 404
 [ERROR] Saronic: Lever API failed: https://api.lever.co/v0/postings/saronic?mode=json - 404
 [ERROR] Skydio: Greenhouse API failed: 404
 [ERROR] Snap: Invalid Workday URL
@@ -69,7 +77,7 @@ ERRORS_START
 [ERROR] Strong Holdim: Greenhouse API failed: 404
 [ERROR] Tandem: Ashby API failed - HTTP 404: Not Found
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] State Street: Workday API failed: HTTP 502 - <html>
+[ERROR] Robert Half : Workday API failed: HTTP 502 - <html>
 <head><title>502 Bad Gateway</title></head>
 <body>
 <center><h1>502 Bad Gateway</h1></center>
@@ -77,15 +85,14 @@ ERRORS_START
 </body>
 </html>
 
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"BD9B26MVUX96UR","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"F6E07FMVUX9A03","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"069C5BMVV9FOZO","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"8DB152MVV9FS15","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] TRM labs: Greenhouse API failed: 404
 [ERROR] Vimeo: Greenhouse API failed: 404
-[ERROR] Walmart: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"6EC534MVUX9UTH","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Walmart: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"81AD6DMVV9GEE5","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"A90B18MVUXA4SL","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Veeva Systems: Lever API failed: https://api.lever.co/v0/postings/veeva?mode=json - 500
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"08E268MVV9GNTN","httpStatus":422,"message":"","messageParams":{}}
 ERRORS_END
