@@ -4,8 +4,94 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-29 20:57:31](#batch-2026-10-29-20-57-31)
 - [Batch at 2026-10-29 15:24:13](#batch-2026-10-29-15-24-13)
 - [Batch at 2026-10-29 05:10:59](#batch-2026-10-29-05-10-59)
+
+<h3 id='batch-2026-10-29-20-57-31'>🕐 Batch at 2026-10-29 20:57:31</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- Anduril Industries: 1 job
+- ASMLEXT1: 2 jobs
+- NVIDIA: 1 job
+- Salesforce: 1 job
+- SRK Supplylogix LLC: 1 job
+- Waymo: 1 job
+- Zipline: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Software Engineer, ERP Applications & Development</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5279793007?gh_jid=5279793007'>Apply</a></td>
+      <td>Oct 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Internship - Mechatronics Engineer</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356213'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Co-Op - Optical Engineer (Internship)</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Co-Op---Optical-Engineer--Internship-_J-00355324'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>VLSI CAD Timing Intern, Applied AI - Summer 2027</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Illinois - Chicago</td>
+      <td>Business Development Representative – Data Foundation (Chicago)</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois---Chicago/Business-Development-Representative---Data-Foundation--Chicago-_JR366001'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SRK Supplylogix LLC</b></td>
+      <td>USA, OR, Wilsonville</td>
+      <td>Material Handler</td>
+      <td><a href='https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-OR-Wilsonville/Material-Handler_JR0156727'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>2027 Summer Intern, MS/PhD, Weather Perception</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8335511'>Apply</a></td>
+      <td>Oct 29, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zipline</b></td>
+      <td>South San Francisco, California, USA</td>
+      <td>Software Engineer, Production Test</td>
+      <td><a href='https://www.zipline.com/open-roles/8040735003?gh_jid=8040735003'>Apply</a></td>
+      <td>Oct 29, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-29-15-24-13'>🕐 Batch at 2026-10-29 15:24:13</h3>
 
@@ -383,7 +469,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-29-05-10-59'>🕐 Batch at 2026-10-29 05:10:59</h3>
 
 📊 **Total jobs in this batch: 7**
