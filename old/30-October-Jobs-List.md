@@ -4,9 +4,127 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-10-30 20:39:23](#batch-2026-10-30-20-39-23)
 - [Batch at 2026-10-30 14:59:12](#batch-2026-10-30-14-59-12)
 - [Batch at 2026-10-30 10:46:32](#batch-2026-10-30-10-46-32)
 - [Batch at 2026-10-30 05:05:46](#batch-2026-10-30-05-05-46)
+
+<h3 id='batch-2026-10-30-20-39-23'>🕐 Batch at 2026-10-30 20:39:23</h3>
+
+📊 **Total jobs in this batch: 12**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Chime: 2 jobs
+- Citi: 1 job
+- Intel Corporation: 1 job
+- Morgan Stanley: 1 job
+- NVIDIA: 1 job
+- Salesforce: 1 job
+- searchLFN: 1 job
+- SharkNinja: 1 job
+- The Toro: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Product Support Engineer - (Sustainment/Reliability/Maintainability)</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5249040007?gh_jid=5249040007'>Apply</a></td>
+      <td>Oct 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Chime</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Software Engineer, Jade - AI Financial Partner</td>
+      <td><a href='https://boards.greenhouse.io/chime/jobs/8868948002?gh_jid=8868948002'>Apply</a></td>
+      <td>Oct 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Chime</b></td>
+      <td>San Francisco, CA, USA</td>
+      <td>Software Engineer, Membership Experience</td>
+      <td><a href='https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002'>Apply</a></td>
+      <td>Oct 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Citi</b></td>
+      <td>Ciudad De Mexico Distrito Federal Mexico</td>
+      <td>Banamex- Data Science Intmd Analyst - C11</td>
+      <td><a href='https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex--Data-Science-Intmd-Analyst---C11_26999330'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, Texas, Austin</td>
+      <td>Data Center SoC Power Architect</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Data-Center-SoC-Power-Architect_JR0288717'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Morgan Stanley</b></td>
+      <td>Alpharetta, Georgia, United States of America</td>
+      <td>Cloud Platform Architect</td>
+      <td><a href='https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-Georgia-United-States-of-America/Cloud-Platform-Architect_PT-JR045729'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>System Software Engineer - Trusted Firmware</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Trusted-Firmware_JR2028868'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>Texas - Dallas</td>
+      <td>Software Engineer, Full Stack & AI-Native Development (MTS)</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Texas---Dallas/Software-Engineer--Full-Stack---AI-Native-Development--MTS-_JR365146'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>searchLFN</b></td>
+      <td>Rosemont, IL</td>
+      <td>IT Intern</td>
+      <td><a href='https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Rosemont-IL/IT-Intern_JR-025323'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>SharkNinja</b></td>
+      <td>Needham, MA, United States</td>
+      <td>Product Developer - Coffee</td>
+      <td><a href='https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725246006'>Apply</a></td>
+      <td>Oct 30, 2026</td>
+    </tr>
+    <tr>
+      <td><b>The Toro</b></td>
+      <td>Perry, OK</td>
+      <td>Paint Manufacturing Engineer Supervisor - Ditch Witch</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Perry-OK/Paint-Manufacturing-Engineer-Supervisor---Ditch-Witch_JR17784'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Test Infrastructure Engineer</td>
+      <td><a href='https://jobs.lever.co/zoox/6320b978-abf4-483b-a09f-bfba0c44c485'>Apply</a></td>
+      <td>2026-10-30 21:55:30</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-10-30-14-59-12'>🕐 Batch at 2026-10-30 14:59:12</h3>
 
@@ -243,7 +361,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-10-30-10-46-32'>🕐 Batch at 2026-10-30 10:46:32</h3>
 
 📊 **Total jobs in this batch: 30**
@@ -489,8 +606,7 @@
   </tbody>
 <table>
 
----
-<h3 id='batch-2026-10-30-05-05-46'>🕐 Batch at 2026-10-30 05:05:46</h3>
+---<h3 id='batch-2026-10-30-05-05-46'>🕐 Batch at 2026-10-30 05:05:46</h3>
 
 📊 **Total jobs in this batch: 2**
 
