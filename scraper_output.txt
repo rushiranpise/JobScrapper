@@ -1,14 +1,14 @@
 
-✅ Scraped 9 new jobs. Output saved to 'output.csv'.
-📦 Appended 9 jobs to 'output_old.csv'
+✅ Scraped 5 new jobs. Output saved to 'output.csv'.
+📦 Appended 5 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"Anduril Industries","title":"GNC Software Engineer","location":"Waltham, Massachusetts, United States","link":"https:\/\/boards.greenhouse.io\/andurilindustries\/jobs\/5281208007?gh_jid=5281208007","postedOn":"2026-11-01T19:24:33-05:00","updatedOn":"2026-11-01T19:24:33-05:00"},{"company":"Anduril Industries","title":"Software Engineer, Battlespace Awareness ","location":"Waltham, Massachusetts, United States","link":"https:\/\/boards.greenhouse.io\/andurilindustries\/jobs\/5281215007?gh_jid=5281215007","postedOn":"2026-11-01T19:32:47-05:00","updatedOn":"2026-11-01T19:32:47-05:00"},{"company":"Anduril Industries","title":"Software Engineer, Battlespace Awareness ","location":"Broomfield, Colorado, United States","link":"https:\/\/boards.greenhouse.io\/andurilindustries\/jobs\/5281214007?gh_jid=5281214007","postedOn":"2026-11-01T19:31:46-05:00","updatedOn":"2026-11-01T19:31:46-05:00"},{"company":"Anduril Industries","title":"Software Engineer- Infrastructure ","location":"Broomfield, Colorado, United States","link":"https:\/\/boards.greenhouse.io\/andurilindustries\/jobs\/5281224007?gh_jid=5281224007","postedOn":"2026-11-01T19:42:12-05:00","updatedOn":"2026-11-01T19:42:12-05:00"},{"company":"Anduril Industries","title":"Software Engineer- Machine Learning","location":"Broomfield, Colorado, United States","link":"https:\/\/boards.greenhouse.io\/andurilindustries\/jobs\/5281225007?gh_jid=5281225007","postedOn":"2026-11-01T19:43:25-05:00","updatedOn":"2026-11-01T19:43:25-05:00"},{"company":"Anduril Industries","title":"Software Engineer, Robotics Tracking and Fusion","location":"Washington, District of Columbia, United States","link":"https:\/\/boards.greenhouse.io\/andurilindustries\/jobs\/5281222007?gh_jid=5281222007","postedOn":"2026-11-01T19:39:08-05:00","updatedOn":"2026-11-01T19:39:08-05:00"},{"company":"Anduril Industries","title":"Software Engineer, Robotics Tracking and Fusion","location":"Waltham, Massachusetts, United States","link":"https:\/\/boards.greenhouse.io\/andurilindustries\/jobs\/5281221007?gh_jid=5281221007","postedOn":"2026-11-01T19:38:45-05:00","updatedOn":"2026-11-01T19:38:45-05:00"},{"company":"Anduril Industries","title":"Software Engineer, Rust ","location":"Waltham, Massachusetts, United States","link":"https:\/\/boards.greenhouse.io\/andurilindustries\/jobs\/5281217007?gh_jid=5281217007","postedOn":"2026-11-01T19:34:27-05:00","updatedOn":"2026-11-01T19:34:27-05:00"},{"company":"Anduril Industries","title":"Software Engineer, Rust ","location":"Broomfield, Colorado, United States","link":"https:\/\/boards.greenhouse.io\/andurilindustries\/jobs\/5281216007?gh_jid=5281216007","postedOn":"2026-11-01T19:34:24-05:00","updatedOn":"2026-11-01T19:34:25-05:00"}]
+[{"company":"CrowdStrike, Inc","title":"Cloud Engineer III, Exposure Management (Hybrid, Sunnyvale)","location":"USA - Sunnyvale, CA","link":"https:\/\/crowdstrike.wd5.myworkdayjobs.com\/en-US\/crowdstrikecareers\/job\/USA---Sunnyvale-CA\/Cloud-Engineer-III--Exposure-Management--Hybrid--Sunnyvale-_R30703","postedOn":"Posted Today","updatedOn":null},{"company":"CrowdStrike, Inc","title":"Engineer III - Cloud (Remote)","location":"USA - Remote","link":"https:\/\/crowdstrike.wd5.myworkdayjobs.com\/en-US\/crowdstrikecareers\/job\/USA---Remote\/Engineer-III---Cloud--Remote-_R30482","postedOn":"Posted Today","updatedOn":null},{"company":"BorgWarner","title":"Technical Business Development Intern (Year-Round)","location":"Auburn Hills - Michigan - USA","link":"https:\/\/borgwarner.wd5.myworkdayjobs.com\/en-US\/BorgWarner_Careers\/job\/Auburn-Hills---Michigan---USA\/Industrial-Sales-and-Marketing-Intern--Year-Round-_R2026-4045","postedOn":"Posted Today","updatedOn":null},{"company":"Roku","title":"SW Engineer Intern, AI Engineering","location":"San Jose, California","link":"https:\/\/www.weareroku.com\/jobs\/8258241?gh_jid=8258241","postedOn":"2026-11-02T01:36:03-05:00","updatedOn":"2026-11-02T01:36:03-05:00"},{"company":"The Toro","title":"SAP-ABAP Developer - The Toro Company","location":"Pune, IN","link":"https:\/\/ttc.wd1.myworkdayjobs.com\/en-US\/Toro_External_Careers\/job\/Pune-IN\/SAP-ABAP-Developer---The-Toro-Company_JR17721","postedOn":"Posted Today","updatedOn":null}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
 [ERROR] Altera: Ashby API failed - HTTP 404: Not Found
-[ERROR] Amidon Heavy Industries: Ashby API failed - HTTP 404: Not Found
 [ERROR] Ambrook: Lever API failed: https://api.lever.co/v0/postings/ambrook?mode=json - 404
+[ERROR] Amidon Heavy Industries: Ashby API failed - HTTP 404: Not Found
 [ERROR] Annalect : Greenhouse API failed: 404
 [ERROR] Anon: Ashby API failed - HTTP 404: Not Found
 [ERROR] Applied Intuition: Greenhouse API failed: 404
@@ -17,24 +17,32 @@ ERRORS_START
 [ERROR] Atomicwork Inc: Greenhouse API failed: 404
 [ERROR] Aurora: Greenhouse API failed: 404
 [ERROR] boomi: Greenhouse API failed: 404
+[ERROR] Applied Materials: Workday API failed: HTTP 502 - <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+
 [ERROR] Breeze Airways: Greenhouse API failed: 404
 [ERROR] Canonical: Greenhouse API failed: 404
 [ERROR] Carbon : Greenhouse API failed: 404
 [ERROR] Cdata: Greenhouse API failed: 404
-[ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
 [ERROR] Chatham Financial: Greenhouse API failed: 404
-[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"6C4BA5MVYPTHR7","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
+[ERROR] Chegg: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"116399MVZCON87","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Clever: Could not extract Lever company name
 [ERROR] CloudTrucks : Ashby API failed - HTTP 404: Not Found
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
-[ERROR] CMU: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"166B6EMVYPTWAW","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Comcast : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"64CB97MVYPTXG4","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] CMU: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"A2F64CMVZCOVGS","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Comcast : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"57B99AMVZCOYO6","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Dapper Labs: Lever API failed: https://api.lever.co/v0/postings/axiomzen?mode=json - 404
 [ERROR] Demandbase : Greenhouse API failed: 404
 [ERROR] Digital.ai: Greenhouse API failed: 404
 [ERROR] Ditto: Greenhouse API failed: 404
 [ERROR] EliseAI : Greenhouse API failed: 404
-[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"5D8DFDMVYPUFE6","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Expedia : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"6D6194MVZCPN5U","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Fetch: Greenhouse API failed: 404
 [ERROR] Fortra : Greenhouse API failed: 404
 [ERROR] Funnel: Breezy API failed: 404
@@ -49,39 +57,42 @@ ERRORS_START
 [ERROR] Kobie: Greenhouse API failed: 404
 [ERROR] Kodiak Robotics: Lever API failed: https://api.lever.co/v0/postings/kodiak?mode=json - 404
 [ERROR] Modernizing Medicine: Greenhouse API failed: 404
-[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"9ACE34MVYPW1CJ","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] netflix: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"8655F0MVZCRMWN","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Notion: Greenhouse API failed: 404
-[ERROR] Otis: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"6C4BA5MVYPW6YJ","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Otis: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"6EEA88MVZCRTNB","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Perplexity AI: Greenhouse API failed: 404
-[ERROR] Plaid : Lever API failed: https://api.lever.co/v0/postings/plaid?mode=json - 404
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
+[ERROR] Plaid : Lever API failed: https://api.lever.co/v0/postings/plaid?mode=json - 404
 [ERROR] Qumulo: Greenhouse API failed: 404
-[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"0A065BMVYPWKZR","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] radian_external: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"86A46AMVZCSO5F","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] Raptor Maps: Lever API failed: https://api.lever.co/v0/postings/RaptorMaps?mode=json - 404
 [ERROR] Relativity Space: Greenhouse API failed: 404
-[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"10C94FMVYPWOHW","httpStatus":403,"message":"permission denied","messageParams":{}}
+[ERROR] Redfin: Workday API failed: HTTP 403 - {"errorCode":"S22","errorCaseId":"2FB48FMVZCSR8B","httpStatus":403,"message":"permission denied","messageParams":{}}
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
 [ERROR] Saronic: Lever API failed: https://api.lever.co/v0/postings/saronic?mode=json - 404
 [ERROR] Skydio: Greenhouse API failed: 404
 [ERROR] Snap: Invalid Workday URL
+[ERROR] Shipt : Workday API failed: HTTP 502 - <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+
 [ERROR] Stitch Fix : Greenhouse API failed: 404
 [ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
 [ERROR] Strong Holdim: Greenhouse API failed: 404
 [ERROR] Tandem: Ashby API failed - HTTP 404: Not Found
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] The Toro: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"56A444MVYPYDTZ","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"14F85AMVYPYF5P","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"7B9D0FMVZCV140","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Ticketmaster : Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"069C5BMVZCV390","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] TRM labs: Greenhouse API failed: 404
 [ERROR] Vimeo: Greenhouse API failed: 404
-[ERROR] VSP: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Tricentis : Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Verily: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] USAA: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Walmart: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"6EC534MVZCVN1H","httpStatus":422,"message":"","messageParams":{}}
 [ERROR] WeaveGrid: Greenhouse API failed: 404
 [ERROR] WebAI: Greenhouse API failed: 404
 [ERROR] Whatnot: Greenhouse API failed: 404
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Walmart: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"C771A5MVYPZ119","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"1E25C0MVYPZ446","httpStatus":422,"message":"","messageParams":{}}
+[ERROR] Workiva: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"7F19C3MVZCWD7W","httpStatus":422,"message":"","messageParams":{}}
 ERRORS_END

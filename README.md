@@ -1,18 +1,20 @@
-# 📢 Job Listings for November 01, 2026
+# 📢 Job Listings for November 02, 2026
 
 > New software engineering jobs discovered hourly. Latest batches appear first.
 
 ## 📑 Batch Index
 
-- [Batch at 2026-11-01 20:51:44](#batch-2026-11-01-20-51-44)
-- [Batch at 2026-11-01 05:34:36](#batch-2026-11-01-05-34-36)
+- [Batch at 2026-11-02 07:34:10](#batch-2026-11-02-07-34-10)
 
-<h3 id='batch-2026-11-01-20-51-44'>🕐 Batch at 2026-11-01 20:51:44</h3>
+<h3 id='batch-2026-11-02-07-34-10'>🕐 Batch at 2026-11-02 07:34:10</h3>
 
-📊 **Total jobs in this batch: 9**
+📊 **Total jobs in this batch: 5**
 
 **Per company:**
-- Anduril Industries: 9 jobs
+- CrowdStrike, Inc: 2 jobs
+- BorgWarner: 1 job
+- Roku: 1 job
+- The Toro: 1 job
 
 <table>
   <thead>
@@ -26,99 +28,42 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Anduril Industries</b></td>
-      <td>Waltham, Massachusetts, United States</td>
-      <td>GNC Software Engineer</td>
-      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5281208007?gh_jid=5281208007'>Apply</a></td>
-      <td>Nov 01, 2026</td>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Sunnyvale, CA</td>
+      <td>Cloud Engineer III, Exposure Management (Hybrid, Sunnyvale)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Cloud-Engineer-III--Exposure-Management--Hybrid--Sunnyvale-_R30703'>Apply</a></td>
+      <td>Posted Today</td>
     </tr>
     <tr>
-      <td><b>Anduril Industries</b></td>
-      <td>Waltham, Massachusetts, United States</td>
-      <td>Software Engineer, Battlespace Awareness </td>
-      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5281215007?gh_jid=5281215007'>Apply</a></td>
-      <td>Nov 01, 2026</td>
+      <td><b>CrowdStrike, Inc</b></td>
+      <td>USA - Remote</td>
+      <td>Engineer III - Cloud (Remote)</td>
+      <td><a href='https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Engineer-III---Cloud--Remote-_R30482'>Apply</a></td>
+      <td>Posted Today</td>
     </tr>
     <tr>
-      <td><b>Anduril Industries</b></td>
-      <td>Broomfield, Colorado, United States</td>
-      <td>Software Engineer, Battlespace Awareness </td>
-      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5281214007?gh_jid=5281214007'>Apply</a></td>
-      <td>Nov 01, 2026</td>
+      <td><b>BorgWarner</b></td>
+      <td>Auburn Hills - Michigan - USA</td>
+      <td>Technical Business Development Intern (Year-Round)</td>
+      <td><a href='https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Industrial-Sales-and-Marketing-Intern--Year-Round-_R2026-4045'>Apply</a></td>
+      <td>Posted Today</td>
     </tr>
     <tr>
-      <td><b>Anduril Industries</b></td>
-      <td>Broomfield, Colorado, United States</td>
-      <td>Software Engineer- Infrastructure </td>
-      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5281224007?gh_jid=5281224007'>Apply</a></td>
-      <td>Nov 01, 2026</td>
+      <td><b>Roku</b></td>
+      <td>San Jose, California</td>
+      <td>SW Engineer Intern, AI Engineering</td>
+      <td><a href='https://www.weareroku.com/jobs/8258241?gh_jid=8258241'>Apply</a></td>
+      <td>Nov 02, 2026</td>
     </tr>
     <tr>
-      <td><b>Anduril Industries</b></td>
-      <td>Broomfield, Colorado, United States</td>
-      <td>Software Engineer- Machine Learning</td>
-      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5281225007?gh_jid=5281225007'>Apply</a></td>
-      <td>Nov 01, 2026</td>
-    </tr>
-    <tr>
-      <td><b>Anduril Industries</b></td>
-      <td>Washington, District of Columbia, United States</td>
-      <td>Software Engineer, Robotics Tracking and Fusion</td>
-      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5281222007?gh_jid=5281222007'>Apply</a></td>
-      <td>Nov 01, 2026</td>
-    </tr>
-    <tr>
-      <td><b>Anduril Industries</b></td>
-      <td>Waltham, Massachusetts, United States</td>
-      <td>Software Engineer, Robotics Tracking and Fusion</td>
-      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5281221007?gh_jid=5281221007'>Apply</a></td>
-      <td>Nov 01, 2026</td>
-    </tr>
-    <tr>
-      <td><b>Anduril Industries</b></td>
-      <td>Waltham, Massachusetts, United States</td>
-      <td>Software Engineer, Rust </td>
-      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5281217007?gh_jid=5281217007'>Apply</a></td>
-      <td>Nov 01, 2026</td>
-    </tr>
-    <tr>
-      <td><b>Anduril Industries</b></td>
-      <td>Broomfield, Colorado, United States</td>
-      <td>Software Engineer, Rust </td>
-      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5281216007?gh_jid=5281216007'>Apply</a></td>
-      <td>Nov 01, 2026</td>
+      <td><b>The Toro</b></td>
+      <td>Pune, IN</td>
+      <td>SAP-ABAP Developer - The Toro Company</td>
+      <td><a href='https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Pune-IN/SAP-ABAP-Developer---The-Toro-Company_JR17721'>Apply</a></td>
+      <td>Posted Today</td>
     </tr>
   </tbody>
 <table>
 
 ---
 
-<h3 id='batch-2026-11-01-05-34-36'>🕐 Batch at 2026-11-01 05:34:36</h3>
-
-📊 **Total jobs in this batch: 1**
-
-**Per company:**
-- Intel Corporation: 1 job
-
-<table>
-  <thead>
-    <tr>
-      <th>🏢 Company</th>
-      <th>📍 Location</th>
-      <th>💼 Role</th>
-      <th>🔗 Link</th>
-      <th>📅 Posted</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Intel Corporation</b></td>
-      <td>US, California, Santa Clara</td>
-      <td>AI Silicon Performance Modeling and Analysis Engineer</td>
-      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Silicon-Performance-Modeling-and-Analysis-Engineer_JR0288191'>Apply</a></td>
-      <td>Posted Yesterday</td>
-    </tr>
-  </tbody>
-<table>
-
----
