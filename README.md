@@ -4,8 +4,47 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-11-03 21:23:10](#batch-2026-11-03-21-23-10)
 - [Batch at 2026-11-03 15:53:35](#batch-2026-11-03-15-53-35)
 - [Batch at 2026-11-03 06:31:22](#batch-2026-11-03-06-31-22)
+
+<h3 id='batch-2026-11-03-21-23-10'>🕐 Batch at 2026-11-03 21:23:10</h3>
+
+📊 **Total jobs in this batch: 2**
+
+**Per company:**
+- Samsun Gresearchamericainternship: 1 job
+- ServiceNow: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Samsun Gresearchamericainternship</b></td>
+      <td>6105 Tennyson Pkwy, Suite 300, Plano TX 75024</td>
+      <td>2027 Summer Intern, Generative AI based Imaging and Video R&D</td>
+      <td><a href='https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927216002'>Apply</a></td>
+      <td>Nov 03, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ServiceNow</b></td>
+      <td>New York</td>
+      <td>Forward Deployed Solution Engineer – Applied AI FDE</td>
+      <td><a href='https://www.smartrecruiters.com/ServiceNow/744000159511430'>Apply</a></td>
+      <td>Nov 03, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-11-03-15-53-35'>🕐 Batch at 2026-11-03 15:53:35</h3>
 
@@ -532,7 +571,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-11-03-06-31-22'>🕐 Batch at 2026-11-03 06:31:22</h3>
 
 📊 **Total jobs in this batch: 18**
