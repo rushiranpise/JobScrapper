@@ -4,8 +4,109 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-11-04 21:40:13](#batch-2026-11-04-21-40-13)
 - [Batch at 2026-11-04 16:11:27](#batch-2026-11-04-16-11-27)
 - [Batch at 2026-11-04 06:43:49](#batch-2026-11-04-06-43-49)
+
+<h3 id='batch-2026-11-04-21-40-13'>🕐 Batch at 2026-11-04 21:40:13</h3>
+
+📊 **Total jobs in this batch: 10**
+
+**Per company:**
+- ASMLEXT1: 1 job
+- Applied Materials: 1 job
+- BAH: 1 job
+- Hotspot: 2 jobs
+- Nike: 1 job
+- NVIDIA: 2 jobs
+- spacex: 1 job
+- Waymo: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>San Jose, CA, USA</td>
+      <td>Internship-Optical Modeling and Simulation Engineering</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Jose-CA-USA/Internship-Optical-Modeling-and-Simulation-Engineering_J-00355370'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Gloucester,MA</td>
+      <td>2027 Spring Particle Science (Defect) Co-op - Master's or Doctorate (Gloucester, MA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Spring-Particle-Science--Defect--Co-op---Master-s-or-Doctorate--Gloucester--MA-_R2632316'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>BAH</b></td>
+      <td>Alexandria, VA</td>
+      <td>Software Test Automation Engineer</td>
+      <td><a href='https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Software-Test-Automation-Engineer_R0252699'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Hotspot</b></td>
+      <td>Sydney, Australia</td>
+      <td>Graduate Opportunity: Business Development Representative </td>
+      <td><a href='https://www.hubspot.com/careers/jobs/8223364?gh_jid=8223364'>Apply</a></td>
+      <td>Nov 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Hotspot</b></td>
+      <td>Sydney, Australia</td>
+      <td>Graduate Opportunity: Business Development Representative </td>
+      <td><a href='https://www.hubspot.com/careers/jobs/8354521?gh_jid=8354521'>Apply</a></td>
+      <td>Nov 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Nike</b></td>
+      <td>Beaverton, Oregon</td>
+      <td>Materials Developer II, Global Apparel</td>
+      <td><a href='https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Materials-Developer-II--Global-Apparel_R-96193-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>VLSI Timing Methodology Intern - Summer 2027</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-Timing-Methodology-Intern---Summer-2027_JR2026798'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Washington, DC</td>
+      <td>Software Engineer, Telemetry - Top Secret Clearance (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8918317002?gh_jid=8918317002'>Apply</a></td>
+      <td>Nov 04, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Waymo</b></td>
+      <td>San Francisco, California</td>
+      <td>2027 Summer Intern, MS/PhD, Depot Automation</td>
+      <td><a href='https://careers.withwaymo.com/jobs?gh_jid=8350687'>Apply</a></td>
+      <td>Nov 04, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-11-04-16-11-27'>🕐 Batch at 2026-11-04 16:11:27</h3>
 
@@ -581,7 +682,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-11-04-06-43-49'>🕐 Batch at 2026-11-04 06:43:49</h3>
 
 📊 **Total jobs in this batch: 5**
