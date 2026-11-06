@@ -4,8 +4,111 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-11-05 21:39:37](#batch-2026-11-05-21-39-37)
 - [Batch at 2026-11-05 16:14:21](#batch-2026-11-05-16-14-21)
 - [Batch at 2026-11-05 06:56:10](#batch-2026-11-05-06-56-10)
+
+<h3 id='batch-2026-11-05-21-39-37'>🕐 Batch at 2026-11-05 21:39:37</h3>
+
+📊 **Total jobs in this batch: 11**
+
+**Per company:**
+- Applied Materials: 2 jobs
+- spacex: 2 jobs
+- Zoox: 7 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>New College Grad - Process Engineer - Doctorate (Winter 2026)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/New-College-Grad---Process-Engineer---Doctorate--Winter-2026-_R2633193'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Santa Clara,CA</td>
+      <td>New College Grad - Process Engineer - Doctorate (Winter 2026)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Process-Engineer_R2632288'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Infrastructure Engineer (Enterprise Products)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8927289002?gh_jid=8927289002'>Apply</a></td>
+      <td>Nov 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>College Station, TX</td>
+      <td>IT Network Infrastructure Engineer, Outside Plant</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8932628002?gh_jid=8932628002'>Apply</a></td>
+      <td>Nov 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Hardware Engineer Intern, Manufacturing Operations [Summer 2027]</td>
+      <td><a href='https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded'>Apply</a></td>
+      <td>2026-11-02 18:17:36</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Hardware Engineer Intern, Vehicle Development [Summer 2027]</td>
+      <td><a href='https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62'>Apply</a></td>
+      <td>2026-11-02 18:22:48</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Hardware Engineer Intern, Vehicle Systems [Summer 2027]</td>
+      <td><a href='https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b'>Apply</a></td>
+      <td>2026-11-02 18:28:35</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Information Technology & Applications Intern [Summer 2027]</td>
+      <td><a href='https://jobs.lever.co/zoox/f35b2447-360f-4945-8ae8-16870e8d7558'>Apply</a></td>
+      <td>2026-11-02 19:46:32</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer Intern, Autonomy Software [Summer 2027]</td>
+      <td><a href='https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877'>Apply</a></td>
+      <td>2026-10-30 22:36:55</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer Intern, Software Platforms & Product [Summer 2027]</td>
+      <td><a href='https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520'>Apply</a></td>
+      <td>2026-10-30 22:54:57</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Software Engineer Intern, Software Systems [Summer 2027]</td>
+      <td><a href='https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20'>Apply</a></td>
+      <td>2026-10-30 23:06:05</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-11-05-16-14-21'>🕐 Batch at 2026-11-05 16:14:21</h3>
 
@@ -478,7 +581,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-11-05-06-56-10'>🕐 Batch at 2026-11-05 06:56:10</h3>
 
 📊 **Total jobs in this batch: 2**
