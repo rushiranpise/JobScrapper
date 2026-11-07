@@ -4,8 +4,153 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-11-06 21:05:39](#batch-2026-11-06-21-05-39)
 - [Batch at 2026-11-06 15:45:01](#batch-2026-11-06-15-45-01)
 - [Batch at 2026-11-06 06:39:45](#batch-2026-11-06-06-39-45)
+
+<h3 id='batch-2026-11-06-21-05-39'>🕐 Batch at 2026-11-06 21:05:39</h3>
+
+📊 **Total jobs in this batch: 16**
+
+**Per company:**
+- Affirm : 1 job
+- Anduril Industries: 2 jobs
+- ASMLEXT1: 2 jobs
+- Intel Corporation: 2 jobs
+- Micron: 1 job
+- Pure storage: 1 job
+- Qualtrics: 1 job
+- Scale AI: 1 job
+- spacex: 1 job
+- Zoox: 4 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>Software Engineer II, Backend</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/8196112003'>Apply</a></td>
+      <td>Nov 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Santa Ana, California, United States</td>
+      <td>Curriculum Developer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5287840007?gh_jid=5287840007'>Apply</a></td>
+      <td>Nov 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Costa Mesa, California, United States</td>
+      <td>Mailroom Specialist</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5286545007?gh_jid=5286545007'>Apply</a></td>
+      <td>Nov 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Internship – Mechatronics Engineer</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356548'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Internship – Mechatronics Engineer</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356543'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, California, Santa Clara</td>
+      <td>Software Engineer – Datacenter</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0288917'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Intel Corporation</b></td>
+      <td>US, California, Santa Clara</td>
+      <td>Software QA Engineer</td>
+      <td><a href='https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Software-QA-Engineer_JR0288918'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Micron</b></td>
+      <td>Boise, ID - Main Site</td>
+      <td>Intern - Advanced Process Control (R2R)</td>
+      <td><a href='https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Advanced-Process-Control--R2R-_JR116861'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Pure storage</b></td>
+      <td>Santa Clara, California</td>
+      <td>Enterprise Data & AI Evangelist, Data Management</td>
+      <td><a href='https://job-boards.greenhouse.io/purestorage/jobs/8356594'>Apply</a></td>
+      <td>Nov 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Qualtrics</b></td>
+      <td>Reston, Virginia, United States</td>
+      <td>Software Engineer II - Discover Studio</td>
+      <td><a href='https://www.qualtrics.com/careers/us/en/job/8357630?gh_jid=8357630'>Apply</a></td>
+      <td>Nov 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Scale AI</b></td>
+      <td>Canada; United Kingdom; United States</td>
+      <td>AI Safety Residency - SLPreP</td>
+      <td><a href='https://job-boards.greenhouse.io/scaleai/jobs/4744402005'>Apply</a></td>
+      <td>Oct 16, 2026</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Starbase, TX</td>
+      <td>IT Network Infrastructure Engineer, Launch</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8933928002?gh_jid=8933928002'>Apply</a></td>
+      <td>Nov 06, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>AI Workflows & Safety Decision Making Intern [2027]</td>
+      <td><a href='https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1'>Apply</a></td>
+      <td>2026-11-07 00:27:55</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Data Science Intern [Summer 2027]</td>
+      <td><a href='https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97'>Apply</a></td>
+      <td>2026-11-06 23:14:17</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Process Improvement Intern [2027]</td>
+      <td><a href='https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852'>Apply</a></td>
+      <td>2026-11-07 00:20:36</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Safety Reporting & Benchmarking Intern [Summer 2027]</td>
+      <td><a href='https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db'>Apply</a></td>
+      <td>2026-11-07 00:13:23</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-11-06-15-45-01'>🕐 Batch at 2026-11-06 15:45:01</h3>
 
@@ -481,7 +626,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-11-06-06-39-45'>🕐 Batch at 2026-11-06 06:39:45</h3>
 
 📊 **Total jobs in this batch: 1**
