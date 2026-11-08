@@ -4,7 +4,38 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-11-07 20:49:45](#batch-2026-11-07-20-49-45)
 - [Batch at 2026-11-07 14:24:13](#batch-2026-11-07-14-24-13)
+
+<h3 id='batch-2026-11-07-20-49-45'>🕐 Batch at 2026-11-07 20:49:45</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- Applied Materials: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Applied Materials</b></td>
+      <td>Gloucester,MA</td>
+      <td>2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA)</td>
+      <td><a href='https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Spring-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2633258'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-11-07-14-24-13'>🕐 Batch at 2026-11-07 14:24:13</h3>
 
@@ -35,4 +66,3 @@
 <table>
 
 ---
-
