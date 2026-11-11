@@ -4,8 +4,102 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-11-10 21:07:47](#batch-2026-11-10-21-07-47)
 - [Batch at 2026-11-10 15:50:12](#batch-2026-11-10-15-50-12)
 - [Batch at 2026-11-10 07:12:20](#batch-2026-11-10-07-12-20)
+
+<h3 id='batch-2026-11-10-21-07-47'>🕐 Batch at 2026-11-10 21:07:47</h3>
+
+📊 **Total jobs in this batch: 9**
+
+**Per company:**
+- Anduril Industries: 1 job
+- Art of Problem Solving: 1 job
+- Children's Hospital Medical Center: 1 job
+- Coinbase: 1 job
+- LexisNexis Risk Solutions: 1 job
+- NVIDIA: 2 jobs
+- OKX: 1 job
+- Roblox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Tacoma, Washington, United States</td>
+      <td>Forward Deployed Software Engineer, JBLM (Active Clearance)</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5286149007?gh_jid=5286149007'>Apply</a></td>
+      <td>Nov 05, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Art of Problem Solving</b></td>
+      <td>San Diego, California, United States</td>
+      <td>Data Science Intern</td>
+      <td><a href='https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003'>Apply</a></td>
+      <td>Nov 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Children's Hospital Medical Center</b></td>
+      <td>Burnet Campus</td>
+      <td>Respiratory Therapist - Critical Care Transport</td>
+      <td><a href='https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Burnet-Campus/Respiratory-Therapist---Critical-Care-Transport_JR226567'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Hybrid - New York, NY</td>
+      <td>Strategic Sourcing Intern</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8376084?gh_jid=8376084'>Apply</a></td>
+      <td>Nov 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>LexisNexis Risk Solutions</b></td>
+      <td>Alpharetta, GA</td>
+      <td>Software Engineer II</td>
+      <td><a href='https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Software-Engineer-II_R120431'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Corporate Development MBA Intern - Summer 2027</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Corporate-Development-MBA-Intern---Summer-2027_JR2029532-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>US, CA, Santa Clara</td>
+      <td>Financial Analyst Intern, Hardware FP&A - Summer 2027</td>
+      <td><a href='https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Financial-Analyst-Intern--Hardware-FP-A---Summer-2027_JR2029523-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>OKX</b></td>
+      <td>San Jose, California, United States</td>
+      <td>Machine Learning Engineer — Risk & AI</td>
+      <td><a href='https://job-boards.greenhouse.io/okx/jobs/8201140003'>Apply</a></td>
+      <td>Nov 10, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Roblox</b></td>
+      <td>San Mateo, CA, United States</td>
+      <td>Software Engineer, ROS Open Platform & AI Enablement</td>
+      <td><a href='https://careers.roblox.com/jobs/8356764?gh_jid=8356764'>Apply</a></td>
+      <td>Nov 10, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-11-10-15-50-12'>🕐 Batch at 2026-11-10 15:50:12</h3>
 
@@ -571,7 +665,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-11-10-07-12-20'>🕐 Batch at 2026-11-10 07:12:20</h3>
 
 📊 **Total jobs in this batch: 9**
