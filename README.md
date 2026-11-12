@@ -4,8 +4,76 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-11-11 22:18:40](#batch-2026-11-11-22-18-40)
 - [Batch at 2026-11-11 17:03:08](#batch-2026-11-11-17-03-08)
 - [Batch at 2026-11-11 06:28:07](#batch-2026-11-11-06-28-07)
+
+<h3 id='batch-2026-11-11-22-18-40'>🕐 Batch at 2026-11-11 22:18:40</h3>
+
+📊 **Total jobs in this batch: 6**
+
+**Per company:**
+- MongoDB: 4 jobs
+- Rvo health: 1 job
+- SharkNinja: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>MongoDB</b></td>
+      <td>New York City</td>
+      <td>Software Engineer 3</td>
+      <td><a href='https://www.mongodb.com/careers/job/?gh_jid=8366703'>Apply</a></td>
+      <td>Nov 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>MongoDB</b></td>
+      <td>New York City</td>
+      <td>Software Engineer 3</td>
+      <td><a href='https://www.mongodb.com/careers/job/?gh_jid=8367902'>Apply</a></td>
+      <td>Nov 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>MongoDB</b></td>
+      <td>New York City</td>
+      <td>Software Engineer 3</td>
+      <td><a href='https://www.mongodb.com/careers/job/?gh_jid=8351199'>Apply</a></td>
+      <td>Nov 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>MongoDB</b></td>
+      <td>New York City</td>
+      <td>Software Engineer 3</td>
+      <td><a href='https://www.mongodb.com/careers/job/?gh_jid=8348102'>Apply</a></td>
+      <td>Nov 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Rvo health</b></td>
+      <td>Remote- US</td>
+      <td>Software Engineer, Red Platform</td>
+      <td><a href='https://job-boards.greenhouse.io/rvohealth/jobs/4753567005'>Apply</a></td>
+      <td>Nov 11, 2026</td>
+    </tr>
+    <tr>
+      <td><b>SharkNinja</b></td>
+      <td>Needham, MA, United States</td>
+      <td>Summer 2027: Control Systems & Algorithms Intern (May to August)</td>
+      <td><a href='https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721651006'>Apply</a></td>
+      <td>Nov 11, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-11-11-17-03-08'>🕐 Batch at 2026-11-11 17:03:08</h3>
 
@@ -324,7 +392,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-11-11-06-28-07'>🕐 Batch at 2026-11-11 06:28:07</h3>
 
 📊 **Total jobs in this batch: 4**
