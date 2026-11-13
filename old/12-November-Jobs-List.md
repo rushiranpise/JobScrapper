@@ -4,8 +4,86 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-11-12 21:34:05](#batch-2026-11-12-21-34-05)
 - [Batch at 2026-11-12 16:10:18](#batch-2026-11-12-16-10-18)
 - [Batch at 2026-11-12 07:33:00](#batch-2026-11-12-07-33-00)
+
+<h3 id='batch-2026-11-12-21-34-05'>🕐 Batch at 2026-11-12 21:34:05</h3>
+
+📊 **Total jobs in this batch: 7**
+
+**Per company:**
+- Abnormal Security: 1 job
+- Affirm : 1 job
+- Anduril Industries: 1 job
+- ASMLEXT1: 1 job
+- Circle: 1 job
+- Zoox: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Abnormal Security</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer I, Data Platforms</td>
+      <td><a href='https://abnormal.ai/careers/jobs/8196352003?gh_jid=8196352003'>Apply</a></td>
+      <td>Nov 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>Software Engineer I, Backend (Continuous Delivery)</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/8181183003'>Apply</a></td>
+      <td>Nov 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Sydney, New South Wales, Australia</td>
+      <td>Training Specialist</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5294105007?gh_jid=5294105007'>Apply</a></td>
+      <td>Nov 12, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Internship - Data Scientist</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Circle</b></td>
+      <td>San Francisco - remote first in US</td>
+      <td>Data Engineer - Risk & Compliance</td>
+      <td><a href='https://circle.wd1.myworkdayjobs.com/en-US/Circle/job/San-Francisco---remote-first-in-US/Data-Engineer---Risk---Compliance_JR101206'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Data Scientist Intern [Summer 2027]</td>
+      <td><a href='https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db'>Apply</a></td>
+      <td>2026-11-12 20:45:48</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Systems & Safety Engineering Intern [Summer 2027]</td>
+      <td><a href='https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f'>Apply</a></td>
+      <td>2026-11-12 19:19:06</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-11-12-16-10-18'>🕐 Batch at 2026-11-12 16:10:18</h3>
 
@@ -429,7 +507,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-11-12-07-33-00'>🕐 Batch at 2026-11-12 07:33:00</h3>
 
 📊 **Total jobs in this batch: 4**
