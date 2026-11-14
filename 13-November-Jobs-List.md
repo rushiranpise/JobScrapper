@@ -4,8 +4,98 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-11-13 21:23:49](#batch-2026-11-13-21-23-49)
 - [Batch at 2026-11-13 16:08:38](#batch-2026-11-13-16-08-38)
 - [Batch at 2026-11-13 06:51:10](#batch-2026-11-13-06-51-10)
+
+<h3 id='batch-2026-11-13-21-23-49'>🕐 Batch at 2026-11-13 21:23:49</h3>
+
+📊 **Total jobs in this batch: 9**
+
+**Per company:**
+- Anduril Industries: 2 jobs
+- ASMLEXT1: 5 jobs
+- Twitch: 1 job
+- Zoox: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Broomfield, Colorado, United States; Fort Collins, Colorado, United States</td>
+      <td>Hardware Quality & Sustainment Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5295237007?gh_jid=5295237007'>Apply</a></td>
+      <td>Nov 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Melbourne, Victoria, Australia</td>
+      <td>Mission Software Engineer - Vehicle Software</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5295391007?gh_jid=5295391007'>Apply</a></td>
+      <td>Nov 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Optical Fabrication Technician CWW Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday)</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday-_J-00352570-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Optical Fabrication Technician Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday) – Coating</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Front-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday----Coating_J-00357579'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Optical Fabrication Technician Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday) - Coating</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday----Coating_J-00357578'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Internship - Engineer (Defectivity, Materials & Contamination Analysis)</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Internship---Engineer--Defectivity--Materials---Contamination-Analysis-_J-00357005'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>ASMLEXT1</b></td>
+      <td>Wilton, CT, USA</td>
+      <td>Internship - Mechatronics Engineer</td>
+      <td><a href='https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356697'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Twitch</b></td>
+      <td>San Francisco, CA</td>
+      <td>Software Engineer I, Payments</td>
+      <td><a href='https://job-boards.greenhouse.io/twitch/jobs/8943553002'>Apply</a></td>
+      <td>Nov 13, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Zoox</b></td>
+      <td>Foster City, CA</td>
+      <td>Feature Integration Intern [Summer 2027]</td>
+      <td><a href='https://jobs.lever.co/zoox/2e4e91c3-f127-4c5b-9291-b93b8a340a2f'>Apply</a></td>
+      <td>2026-11-14 01:16:04</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-11-13-16-08-38'>🕐 Batch at 2026-11-13 16:08:38</h3>
 
@@ -283,7 +373,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-11-13-06-51-10'>🕐 Batch at 2026-11-13 06:51:10</h3>
 
 📊 **Total jobs in this batch: 3**
