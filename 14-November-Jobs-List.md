@@ -4,7 +4,38 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-11-14 21:13:35](#batch-2026-11-14-21-13-35)
 - [Batch at 2026-11-14 14:59:24](#batch-2026-11-14-14-59-24)
+
+<h3 id='batch-2026-11-14-21-13-35'>🕐 Batch at 2026-11-14 21:13:35</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- spacex: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Palo Alto, CA</td>
+      <td>Full Stack Software Engineer (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8943586002?gh_jid=8943586002'>Apply</a></td>
+      <td>Nov 14, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-11-14-14-59-24'>🕐 Batch at 2026-11-14 14:59:24</h3>
 
@@ -148,4 +179,3 @@
 <table>
 
 ---
-

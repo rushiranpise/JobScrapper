@@ -1,17 +1,2 @@
-company,title,location,postedOn,link
-"Motorola Solutions, Inc","Software Engineer (Salt Lake City, UT Hybrid)","Salt Lake City, UT (UT17)",Posted Yesterday,https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Salt-Lake-City-UT-UT17/Software-Engineer--Salt-Lake-City--UT-Hybrid-_R69686
-"CrowdStrike, Inc",Intelligence Launch Intern - Summer 2027,"USA - Arlington, VA",Posted Yesterday,https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Intelligence-Launch-Intern---Summer-2027_R30506
-Allstate,"Risk, Data & AI Software Engineer (Remote, US)",US - Remote,Posted Yesterday,https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Risk--Data---AI-Software-Engineer--Remote--US-_R36643-1
-"CrowdStrike, Inc",Front End Engineer II (Remote),"USA - Remote, CA",Posted Yesterday,https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-CA/Front-End-Engineer-II--Remote-_R30597
-Citi,Credit Specialist - Train On-Site Home Office Program - Salary up to $20.70/hour,Meridian Idaho United States,Posted Yesterday,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Meridian-Idaho-United-States/Credit-Specialist---Train-On-Site-Home-Office-Program---Salary-up-to--2070-hour_261009900
-Citi,Analista de Mercado de Dinero y Sociedades de inversion middle OFFICE,Ciudad De Mexico Distrito Federal Mexico,Posted Yesterday,https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Analista-de-Mercado-de-Dinero-y-Sociedades-de-inversion-middle-OFFICE_26995890
-General Motors LLC,2027 Summer Intern - Automotive Technician,"Milford, Michigan, United States of America",Posted Yesterday,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Automotive-Technician_JR-202624129
-General Motors LLC,Paint Process Engineer,"Kansas City, Kansas, United States of America",Posted Yesterday,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Kansas-City-Kansas-United-States-of-America/Paint-Process-Engineer_JR-202624028
-MOOG,"Intern, Engineering","Torrance, CA",Posted Yesterday,https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Intern--Engineering_R-26-21444
-MOOG,"Intern, Electrical Engineering","Buffalo, NY",Posted Yesterday,https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-21409
-MOOG,"Intern, Business","Blacksburg, VA",Posted Yesterday,https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Blacksburg-VA/Intern--Business_R-26-21164
-nVent,Material Handler,"Houston, TX, US",Posted Yesterday,https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Houston-TX-US/Material-Handler_R24610-1
-nVent,Painter Helper - Day Shift,"Hitchcock, TX, US",Posted Yesterday,https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Hitchcock-TX-US/Painter-Helper---Day-Shift_R24607
-nVent,Painter Helper - Night Shift,"Hitchcock, TX, US",Posted Yesterday,https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Hitchcock-TX-US/Painter-Helper---Night-Shift_R24605
-STANDARD & POOR'S FINANCIAL SERVICE,Data Scientist,"New York, NY",Posted Today,https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Data-Scientist_332760-1
-Workday,Software Development Engineer - US Federal,USA.VA.Reston,Posted Yesterday,https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer---US-Federal_JR-0111286
+company,title,location,link,postedOn,updatedOn
+spacex,Full Stack Software Engineer (Starlink),"Palo Alto, CA",https://boards.greenhouse.io/spacex/jobs/8943586002?gh_jid=8943586002,2026-11-14T21:59:43-05:00,2026-11-14T21:59:43-05:00
