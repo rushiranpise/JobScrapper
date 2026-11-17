@@ -1,3 +1,27 @@
-company,title,location,postedOn,link
-careers,Software Engineering Co-op,"Germantown, MD USA",Posted Today,https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Germantown-MD-USA/Software-Engineering-Co-op_260005308-1
-General Motors LLC,Business Planning & Analytics Intern,"Port Melbourne, Victoria, Australia",Posted Today,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Port-Melbourne-Victoria-Australia/Business-Planning---Analytics-Intern_JR-202624180
+company,title,location,link,postedOn,updatedOn
+Addepar,Technical Product Management Intern (ADX) - Summer 2027 ,"New York, NY",https://job-boards.greenhouse.io/addepar1/jobs/8910324002,2026-11-16T09:35:35-05:00,2026-11-16T09:50:39-05:00
+Anduril Industries,2027 Deployment Operations Intern,"Quincy, Massachusetts, United States",https://boards.greenhouse.io/andurilindustries/jobs/5296825007?gh_jid=5296825007,2026-11-16T18:21:06-05:00,2026-11-16T18:21:06-05:00
+Anduril Industries,2027 Mission Operations Engineer Intern,"Honolulu, Hawaii, United States; Washington, District of Columbia, United States",https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007,2026-11-16T18:37:28-05:00,2026-11-16T18:37:28-05:00
+Anduril Industries,Data Analytics Engineer - Hardware Test Operations,"Costa Mesa, California, United States",https://boards.greenhouse.io/andurilindustries/jobs/5296601007?gh_jid=5296601007,2026-11-16T15:49:39-05:00,2026-11-16T15:50:20-05:00
+Anduril Industries,Mission Software Engineer,"Waltham, Massachusetts, United States",https://boards.greenhouse.io/andurilindustries/jobs/5296197007?gh_jid=5296197007,2026-11-16T09:31:45-05:00,2026-11-16T09:31:45-05:00
+Esri,"Support Analyst ll-Infrastructure, Regulated Industries ","Vienna, Virginia, United States",https://www.esri.com/careers/5285367007?gh_jid=5285367007,2026-11-16T11:43:09-05:00,2026-11-16T11:43:09-05:00
+Gametime,Full Stack Engineer,United States - Remote,https://job-boards.greenhouse.io/gametimeunited/jobs/5265389008,2026-06-18T18:04:27-04:00,2026-11-16T17:32:50-05:00
+OpenAI,Applied AI Architect,US - Remote,https://jobs.ashbyhq.com/openai/be87a51f-067f-499c-a4df-97c145946ae6,2026-11-16T20:06:36.497+00:00,
+Quest Analytics,"Software Engineer Intern - C#, ASP.NET - Summer 2027 in Kansas City","Overland Park, KS",https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f,2026-10-15 16:58:33,N/A
+Roblox,[2027] Data Scientist - PhD Early Career - Safety,"San Mateo, CA, United States",https://careers.roblox.com/jobs/8384186?gh_jid=8384186,2026-11-16T18:30:43-05:00,2026-11-16T18:30:43-05:00
+SharkNinja,Spring 2027: Service Desk Co-op (January to June),"Needham, MA, United States",https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727535006,2026-11-16T10:04:04-05:00,2026-11-16T10:04:04-05:00
+spacex,"IT Systems Administrator, IT Applications","McGregor, TX",https://boards.greenhouse.io/spacex/jobs/8940633002?gh_jid=8940633002,2026-11-16T14:14:46-05:00,2026-11-16T14:14:46-05:00
+spacex,Software Engineer (Platform Team),"Palo Alto, CA",https://boards.greenhouse.io/spacex/jobs/8940469002?gh_jid=8940469002,2026-11-16T14:40:01-05:00,2026-11-16T14:40:01-05:00
+spacex,Software Engineer (Platform Team),"Hawthorne, CA",https://boards.greenhouse.io/spacex/jobs/8940459002?gh_jid=8940459002,2026-11-16T14:39:56-05:00,2026-11-16T14:39:56-05:00
+spacex,Software Engineer (Platform Team),"Redmond, WA",https://boards.greenhouse.io/spacex/jobs/8940465002?gh_jid=8940465002,2026-11-16T14:39:58-05:00,2026-11-16T14:39:58-05:00
+spacex,Software Engineer (Platform Team),"Bastrop, TX",https://boards.greenhouse.io/spacex/jobs/8940471002?gh_jid=8940471002,2026-11-16T14:40:05-05:00,2026-11-16T14:40:05-05:00
+spacex,Software Engineer (Platform Team),"Starbase, TX",https://boards.greenhouse.io/spacex/jobs/8940470002?gh_jid=8940470002,2026-11-16T14:40:03-05:00,2026-11-16T14:40:03-05:00
+spacex,Software Engineer (Platform Team),"Sunnyvale, CA",https://boards.greenhouse.io/spacex/jobs/8940468002?gh_jid=8940468002,2026-11-16T14:40:00-05:00,2026-11-16T14:40:00-05:00
+spacex,"Software Engineer, Wireless Validation (Starlink Mobile) ","Palo Alto, CA",https://boards.greenhouse.io/spacex/jobs/8943817002?gh_jid=8943817002,2026-11-16T17:12:06-05:00,2026-11-16T17:12:06-05:00
+spacex,"Supplier Quality Specialist, Data Center (Starlink)","Memphis, TN",https://boards.greenhouse.io/spacex/jobs/8944849002?gh_jid=8944849002,2026-11-16T15:07:08-05:00,2026-11-16T15:07:08-05:00
+spacex,"Supplier Quality Specialist III, Data Center (Starlink)","Bastrop, TX",https://boards.greenhouse.io/spacex/jobs/8944832002?gh_jid=8944832002,2026-11-16T15:05:42-05:00,2026-11-16T15:05:42-05:00
+StockX ,Software Engineer (Front End),"Detroit, MI",https://job-boards.greenhouse.io/stockx/jobs/8942720002,2026-11-16T09:30:11-05:00,2026-11-16T09:30:11-05:00
+Twilio,Software Engineer (L2),Remote - US,https://job-boards.greenhouse.io/twilio/jobs/8131089,2026-11-16T16:10:41-05:00,2026-11-16T16:10:41-05:00
+Vast,CNC Programmer,"Hawthorne, California, United States",https://boards.greenhouse.io/vast/jobs/4730097006?gh_jid=4730097006,2026-11-16T20:14:55-05:00,2026-11-16T20:14:55-05:00
+Verkada ,Backend Engineer - Connectivity,"San Mateo, CA United States",https://job-boards.greenhouse.io/verkada/jobs/5296748007,2026-11-16T15:28:17-05:00,2026-11-16T15:28:17-05:00
+Zoox,"Software Engineer, Vehicle Deployment","Foster City, CA",https://jobs.lever.co/zoox/15b6716e-5b08-4e04-a0c7-00532b82fa69,2026-11-05 17:37:40,N/A
