@@ -4,8 +4,55 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-11-18 22:21:04](#batch-2026-11-18-22-21-04)
 - [Batch at 2026-11-18 16:45:46](#batch-2026-11-18-16-45-46)
 - [Batch at 2026-11-18 07:54:07](#batch-2026-11-18-07-54-07)
+
+<h3 id='batch-2026-11-18-22-21-04'>🕐 Batch at 2026-11-18 22:21:04</h3>
+
+📊 **Total jobs in this batch: 3**
+
+**Per company:**
+- Coinbase: 1 job
+- Salesforce: 1 job
+- spacex: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Coinbase</b></td>
+      <td>Remote - USA</td>
+      <td>Software Engineer</td>
+      <td><a href='https://www.coinbase.com/careers/positions/8400323?gh_jid=8400323'>Apply</a></td>
+      <td>Nov 18, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Salesforce</b></td>
+      <td>California - San Francisco</td>
+      <td>Summer 2027 Intern -  Policy, Office of Ethical and Humane Use (OHEU)</td>
+      <td><a href='https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern----Policy--Office-of-Ethical-and-Humane-Use--OHEU-_JR368543-2'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Redmond, WA</td>
+      <td>Backend Software Engineer, GNC (Starlink)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8753321002?gh_jid=8753321002'>Apply</a></td>
+      <td>Nov 18, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-11-18-16-45-46'>🕐 Batch at 2026-11-18 16:45:46</h3>
 
@@ -209,7 +256,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-11-18-07-54-07'>🕐 Batch at 2026-11-18 07:54:07</h3>
 
 📊 **Total jobs in this batch: 10**
