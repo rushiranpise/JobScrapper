@@ -4,8 +4,93 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-11-20 22:00:56](#batch-2026-11-20-22-00-56)
 - [Batch at 2026-11-20 16:32:33](#batch-2026-11-20-16-32-33)
 - [Batch at 2026-11-20 07:42:24](#batch-2026-11-20-07-42-24)
+
+<h3 id='batch-2026-11-20-22-00-56'>🕐 Batch at 2026-11-20 22:00:56</h3>
+
+📊 **Total jobs in this batch: 8**
+
+**Per company:**
+- Affirm : 1 job
+- Anduril Industries: 1 job
+- Appian : 1 job
+- homedepot: 2 jobs
+- spacex: 1 job
+- Wiley Edge/mthree: 2 jobs
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Affirm </b></td>
+      <td>Remote US</td>
+      <td>Software Engineer I, Backend (Streaming Infra)</td>
+      <td><a href='https://job-boards.greenhouse.io/affirm/jobs/8201469003'>Apply</a></td>
+      <td>Nov 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Anduril Industries</b></td>
+      <td>Ashville, Ohio, United States</td>
+      <td>Product Data Engineer</td>
+      <td><a href='https://boards.greenhouse.io/andurilindustries/jobs/5295058007?gh_jid=5295058007'>Apply</a></td>
+      <td>Nov 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Appian </b></td>
+      <td>McLean, Virginia</td>
+      <td>Enablement Specialist (December 2026 and May 2027 Grads)</td>
+      <td><a href='https://job-boards.greenhouse.io/appian/jobs/8400562'>Apply</a></td>
+      <td>Nov 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>PENNSYLVANIA - VIRTUAL - PA01</td>
+      <td>Rental Delivery Driver I CDLA - Pittsburgh, PA</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/PENNSYLVANIA---VIRTUAL---PA01/Rental-Delivery-Driver-I-CDLA---Pittsburgh--PA_Req199722'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>homedepot</b></td>
+      <td>HOUSTON HUB - 5716</td>
+      <td>Rental Delivery Driver II CDLA - Houston, TX</td>
+      <td><a href='https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/HOUSTON-HUB---5716/Rental-Delivery-Driver-II-CDLA---Houston--TX_Req199592'>Apply</a></td>
+      <td>Posted Yesterday</td>
+    </tr>
+    <tr>
+      <td><b>spacex</b></td>
+      <td>Hawthorne, CA</td>
+      <td>New Graduate Engineer, Propulsion (Raptor)</td>
+      <td><a href='https://boards.greenhouse.io/spacex/jobs/8957363002?gh_jid=8957363002'>Apply</a></td>
+      <td>Nov 20, 2026</td>
+    </tr>
+    <tr>
+      <td><b>Wiley Edge/mthree</b></td>
+      <td>Remote, NY, USA</td>
+      <td>Prototyping and Tools Developer</td>
+      <td><a href='https://wiley.wd1.myworkdayjobs.com/en-US/wiley_careers/job/Remote-NY-USA/Prototyping-and-Tools-Developer_R2601580'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+    <tr>
+      <td><b>Wiley Edge/mthree</b></td>
+      <td>St Louis Park, MN, USA</td>
+      <td>Trainer</td>
+      <td><a href='https://wiley.wd1.myworkdayjobs.com/en-US/wiley_careers/job/St-Louis-Park-MN-USA/Trainer_R2601601-1'>Apply</a></td>
+      <td>Posted Today</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-11-20-16-32-33'>🕐 Batch at 2026-11-20 16:32:33</h3>
 
@@ -209,7 +294,6 @@
 <table>
 
 ---
-
 <h3 id='batch-2026-11-20-07-42-24'>🕐 Batch at 2026-11-20 07:42:24</h3>
 
 📊 **Total jobs in this batch: 12**
