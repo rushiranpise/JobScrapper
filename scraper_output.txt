@@ -1,175 +1,174 @@
 
-✅ Scraped 6 new jobs. Output saved to 'output.csv'.
-📦 Appended 6 jobs to 'output_old.csv'
+✅ Scraped 30 new jobs. Output saved to 'output.csv'.
+📦 Appended 30 jobs to 'output_old.csv'
 NEW_JOBS_START
-[{"company":"Anduril Industries","title":"Flight Software Engineer","location":"Atlanta, Georgia, United States","link":"https:\/\/boards.greenhouse.io\/andurilindustries\/jobs\/5309020007?gh_jid=5309020007","postedOn":"2026-11-25T10:02:57-05:00","updatedOn":"2026-11-25T10:02:57-05:00"},{"company":"Quantinuum","title":"IT Infrastructure Engineer II - 1122","location":"US Broomfield, CO","link":"https:\/\/jobs.eu.lever.co\/quantinuum\/d99daf7d-0045-4124-8998-a979e4d2c79d","postedOn":"2026-11-25 15:44:27","updatedOn":"N\/A"},{"company":"searchLFN","title":"Materials Handler III - 2nd Shift ATO","location":"Ramsey, MN","link":"https:\/\/lifefitness.wd1.myworkdayjobs.com\/en-US\/searchLFN\/job\/Ramsey-MN\/Materials-Handler-III---2nd-Shift-ATO_JR-025361","postedOn":"Posted 5 Days Ago","updatedOn":null},{"company":"searchLFN","title":"Materials Handler III - ATO 1st Shift","location":"Ramsey, MN","link":"https:\/\/lifefitness.wd1.myworkdayjobs.com\/en-US\/searchLFN\/job\/Ramsey-MN\/Materials-Handler-III---ATO-1st-Shift_JR-025360","postedOn":"Posted 5 Days Ago","updatedOn":null},{"company":"Simons Foundation","title":"Editorial Intern, Quanta Books","location":"160 Fifth Avenue, New York, NY","link":"https:\/\/simonsfoundation.wd1.myworkdayjobs.com\/en-US\/simonsfoundationcareers\/job\/160-Fifth-Avenue-New-York-NY\/Editorial-Intern--Quanta-Books_R0002194","postedOn":"Posted 9 Days Ago","updatedOn":null},{"company":"SRK Supplylogix LLC","title":"Bulk\/Straight Truck Driver Professional","location":"USA, WI, Madison","link":"https:\/\/mckesson.wd3.myworkdayjobs.com\/en-US\/External_Careers\/job\/USA-WI-Madison\/Bulk-Straight-Truck-Driver-Professional_JR0158187","postedOn":"Posted Today","updatedOn":null}]
+[{"company":"ALTEN Technology USA","title":"Fleet Support Engineer - Software Tooling","location":"Foster City, CA","link":"https:\/\/job-boards.greenhouse.io\/altentechnologyusa\/jobs\/5309887007","postedOn":"2026-11-25T19:10:15-05:00","updatedOn":"2026-11-25T19:10:15-05:00"},{"company":"Samsung Electronics America, Inc","title":"Campus Liaison","location":"12100 Samsung Blvd, Austin, TX, USA","link":"https:\/\/sec.wd3.myworkdayjobs.com\/en-US\/Samsung_Careers\/job\/12100-Samsung-Blvd-Austin-TX-USA\/Campus-Liaison_R122501","postedOn":"Posted Today","updatedOn":null},{"company":"Enova","title":"Capital Markets Analyst (Hybrid)","location":"Chicago, IL","link":"https:\/\/job-boards.greenhouse.io\/enova\/jobs\/6504884","postedOn":"2025-01-02T14:56:45-05:00","updatedOn":"2026-11-25T13:43:55-05:00"},{"company":"IXL Learning","title":"Software Engineer","location":"San Mateo, CA","link":"https:\/\/www.ixl.com\/company\/jobs?gh_jid=8963047002","postedOn":"2026-11-25T16:37:00-05:00","updatedOn":"2026-11-25T16:37:00-05:00"},{"company":"IXL Learning","title":"Software Engineer, Core Technology","location":"San Mateo, CA","link":"https:\/\/www.ixl.com\/company\/jobs?gh_jid=8963067002","postedOn":"2026-11-25T17:01:50-05:00","updatedOn":"2026-11-25T17:01:50-05:00"},{"company":"IXL Learning","title":"Software Engineer, Intern","location":"San Mateo, CA","link":"https:\/\/www.ixl.com\/company\/jobs?gh_jid=8963039002","postedOn":"2026-11-25T16:16:45-05:00","updatedOn":"2026-11-25T16:16:46-05:00"},{"company":"LaunchDarkly\u00a0","title":"GTM AI Engineer","location":"Remote - US","link":"https:\/\/job-boards.greenhouse.io\/launchdarkly\/jobs\/8217232003","postedOn":"2026-11-25T15:17:30-05:00","updatedOn":"2026-11-25T15:17:30-05:00"},{"company":"KLA","title":"Service Support Intern","location":"Phoenix, AZ","link":"https:\/\/kla.wd1.myworkdayjobs.com\/en-US\/Search\/job\/Phoenix-AZ\/Service-Support-Intern_2643372-1","postedOn":"Posted Yesterday","updatedOn":null},{"company":"KLA","title":"Software Test Engineer","location":"Milpitas, CA","link":"https:\/\/kla.wd1.myworkdayjobs.com\/en-US\/Search\/job\/Milpitas-CA\/Software-Test-Engineer_2643447","postedOn":"Posted 2 Days Ago","updatedOn":null},{"company":"PlayStation Global","title":"Software Engineer II","location":"United States, San Mateo, CA","link":"https:\/\/job-boards.greenhouse.io\/sonyinteractiveentertainmentglobal\/jobs\/6271371004","postedOn":"2026-11-25T13:08:32-05:00","updatedOn":"2026-11-25T13:08:32-05:00"},{"company":"Reddit","title":"Software Engineer, Ads","location":"San Francisco, CA","link":"https:\/\/job-boards.greenhouse.io\/reddit\/jobs\/8415553","postedOn":"2026-11-25T12:58:23-05:00","updatedOn":"2026-11-25T12:58:23-05:00"},{"company":"Samsun Gresearchamericainternship","title":"2027 Summer Intern, 6G Cellular Standardization ","location":"6105 Tennyson Pkwy, Suite 300, Plano TX 75024","link":"https:\/\/job-boards.greenhouse.io\/samsungresearchamericainternship\/jobs\/8960746002","postedOn":"2026-11-25T12:30:13-05:00","updatedOn":"2026-11-25T12:30:13-05:00"},{"company":"spacex","title":"Data Engineer, Application Software","location":"Bastrop, TX","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8957969002?gh_jid=8957969002","postedOn":"2026-11-25T12:56:17-05:00","updatedOn":"2026-11-25T17:55:59-05:00"},{"company":"spacex","title":"Network Software Integration Engineer (Starlink)   ","location":"Redmond, WA","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8962680002?gh_jid=8962680002","postedOn":"2026-11-25T19:07:50-05:00","updatedOn":"2026-11-25T19:08:04-05:00"},{"company":"spacex","title":"Software Engineer, Beam Planning (Starlink)   ","location":"Palo Alto, CA","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8962750002?gh_jid=8962750002","postedOn":"2026-11-25T19:13:35-05:00","updatedOn":"2026-11-25T19:14:04-05:00"},{"company":"spacex","title":"Software Engineer, Beam Planning (Starlink)   ","location":"Redmond, WA","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8962728002?gh_jid=8962728002","postedOn":"2026-11-25T19:13:33-05:00","updatedOn":"2026-11-25T19:14:04-05:00"},{"company":"spacex","title":"Software Engineer, Flight Software (Starship)","location":"Starbase, TX","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8802854002?gh_jid=8802854002","postedOn":"2026-11-25T16:55:51-05:00","updatedOn":"2026-11-25T17:55:59-05:00"},{"company":"spacex","title":"Software Engineer, Flight Software (Starship)","location":"Cape Canaveral, FL","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8963079002?gh_jid=8963079002","postedOn":"2026-11-25T16:55:54-05:00","updatedOn":"2026-11-25T17:55:59-05:00"},{"company":"spacex","title":"Software Engineer, Flight Software (Starship)","location":"Hawthorne, CA","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8963078002?gh_jid=8963078002","postedOn":"2026-11-25T16:55:53-05:00","updatedOn":"2026-11-25T17:55:59-05:00"},{"company":"spacex","title":"Software Engineer, High Performance Computing (Starlink)   ","location":"Redmond, WA","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8962752002?gh_jid=8962752002","postedOn":"2026-11-25T19:13:38-05:00","updatedOn":"2026-11-25T19:14:04-05:00"},{"company":"spacex","title":"Software Engineer, High Performance Computing (Starlink)   ","location":"Palo Alto, CA","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8962753002?gh_jid=8962753002","postedOn":"2026-11-25T19:13:40-05:00","updatedOn":"2026-11-25T19:14:04-05:00"},{"company":"spacex","title":"Software Engineer, Low Latency Computing (Starlink)   ","location":"Redmond, WA","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8962756002?gh_jid=8962756002","postedOn":"2026-11-25T19:13:42-05:00","updatedOn":"2026-11-25T19:14:04-05:00"},{"company":"spacex","title":"Software Engineer, Low Latency Computing (Starlink)   ","location":"Palo Alto, CA","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8962757002?gh_jid=8962757002","postedOn":"2026-11-25T19:13:44-05:00","updatedOn":"2026-11-25T19:14:04-05:00"},{"company":"spacex","title":"Software Engineer, Starlink Network","location":"Redmond, WA","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8938574002?gh_jid=8938574002","postedOn":"2026-11-25T19:21:04-05:00","updatedOn":"2026-11-25T19:21:31-05:00"},{"company":"spacex","title":"Software Engineer, Starlink Network","location":"Palo Alto, CA","link":"https:\/\/boards.greenhouse.io\/spacex\/jobs\/8938556002?gh_jid=8938556002","postedOn":"2026-11-25T19:21:03-05:00","updatedOn":"2026-11-25T19:21:04-05:00"},{"company":"Veeva Systems","title":"Intern Software Engineer (Summer 2027)","location":"Massachusetts - Boston","link":"https:\/\/jobs.lever.co\/veeva\/4738ae75-9f7b-4082-b129-69fb82f6d7b2","postedOn":"2026-08-13 16:52:57","updatedOn":"N\/A"},{"company":"Veeva Systems","title":"Intern Software Engineer (Summer 2027)","location":"California - Pleasanton","link":"https:\/\/jobs.lever.co\/veeva\/f277bc52-1dd6-4447-ac3b-a6127e625ec7","postedOn":"2026-08-13 16:52:19","updatedOn":"N\/A"},{"company":"Waymo","title":"2027 Summer Intern, PhD, Driver Understanding and Evaluation, Large Model Evaluation","location":"Mountain View, California, USA","link":"https:\/\/careers.withwaymo.com\/jobs?gh_jid=8415223","postedOn":"2026-11-25T12:25:05-05:00","updatedOn":"2026-11-25T12:25:05-05:00"},{"company":"Waymo","title":"Rapid Deploy Specialist, AMER East","location":"New York City, NY, USA; Washington, D.C.","link":"https:\/\/careers.withwaymo.com\/jobs?gh_jid=8350109","postedOn":"2026-11-25T13:19:07-05:00","updatedOn":"2026-11-25T13:19:07-05:00"},{"company":"Waymo","title":"Rapid Deploy Specialist, AMER West","location":"Mountain View, CA, USA","link":"https:\/\/careers.withwaymo.com\/jobs?gh_jid=8354601","postedOn":"2026-11-25T13:16:36-05:00","updatedOn":"2026-11-25T13:16:36-05:00"}]
 NEW_JOBS_END
 ERRORS_START
 [ERROR] Airbyte : Greenhouse API failed: 404
 [ERROR] Allen Control Systems: Greenhouse API failed: 404
 [ERROR] Altera: Ashby API failed - HTTP 404: Not Found
-[ERROR] Amidon Heavy Industries: Ashby API failed - HTTP 404: Not Found
 [ERROR] Ambrook: Lever API failed: https://api.lever.co/v0/postings/ambrook?mode=json - 404
+[ERROR] Amidon Heavy Industries: Ashby API failed - HTTP 404: Not Found
 [ERROR] Annalect : Greenhouse API failed: 404
 [ERROR] Anon: Ashby API failed - HTTP 404: Not Found
 [ERROR] Applied Intuition: Greenhouse API failed: 404
 [ERROR] Ascend Analytics: Greenhouse API failed: 404
+[ERROR] Magna Services of America, Inc: Invalid Workday URL
 [ERROR] 566 DEPARTMENT OF TOURISM AND RECREATION: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Allstate: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Atlas Sand: Greenhouse API failed: 404
-[ERROR] Motorola Solutions, Inc: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Atomicwork Inc: Greenhouse API failed: 404
 [ERROR] Aurora: Greenhouse API failed: 404
-[ERROR] Applied Materials: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Adobe: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Magna Services of America, Inc: Invalid Workday URL
+[ERROR] Motorola Solutions, Inc: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Bread Financial Payments, Inc: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Samsung Electronics America, Inc: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] boomi: Greenhouse API failed: 404
-[ERROR] ASMLEXT1: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Adobe: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Allstate: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] CrowdStrike, Inc: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] boomi: Greenhouse API failed: 404
+[ERROR] Applied Materials: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Breeze Airways: Greenhouse API failed: 404
-[ERROR] athenahealth : Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Autodesk: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Samsung Electronics America, Inc: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] ASMLEXT1: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Becton Dickinson’s Integrated Diagnostics Systems: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Autodesk: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Canonical: Greenhouse API failed: 404
+[ERROR] athenahealth : Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Carbon : Greenhouse API failed: 404
 [ERROR] Cdata: Greenhouse API failed: 404
-[ERROR] Bank of Montreal: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Autodesk: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Chatham Financial: Greenhouse API failed: 404
-[ERROR] BorgWarner: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] cadence: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Centerfield: Lever API failed: https://api.lever.co/v0/postings/centerfield?mode=json - 404
 [ERROR] BAH: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Clever: Could not extract Lever company name
-[ERROR] Brink: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] CloudTrucks : Ashby API failed - HTTP 404: Not Found
+[ERROR] Chatham Financial: Greenhouse API failed: 404
+[ERROR] BorgWarner: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Bank of Montreal: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Broadcom : Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Clever: Could not extract Lever company name
+[ERROR] CloudTrucks : Ashby API failed - HTTP 404: Not Found
+[ERROR] cadence: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Brink: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Codeium: Ashby API failed - HTTP 404: Not Found
 [ERROR] careers: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Ciena: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Calix: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Circle: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Dapper Labs: Lever API failed: https://api.lever.co/v0/postings/axiomzen?mode=json - 404
-[ERROR] Children's Hospital Medical Center: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Demandbase : Greenhouse API failed: 404
-[ERROR] Citi: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Digital.ai: Greenhouse API failed: 404
-[ERROR] Ditto: Greenhouse API failed: 404
-[ERROR] EliseAI : Greenhouse API failed: 404
 [ERROR] Chegg: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Cohesity: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Comcast : Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Demandbase : Greenhouse API failed: 404
+[ERROR] Ciena: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Children's Hospital Medical Center: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Citi: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Circle: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Ditto: Greenhouse API failed: 404
+[ERROR] Digital.ai: Greenhouse API failed: 404
+[ERROR] EliseAI : Greenhouse API failed: 404
 [ERROR] CMU: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Fetch: Greenhouse API failed: 404
+[ERROR] Comcast : Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Fortra : Greenhouse API failed: 404
-[ERROR] Funnel: Breezy API failed: 404
+[ERROR] Cohesity: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Galileo Financial Technologies (Sofi): Greenhouse API failed: 404
+[ERROR] Funnel: Breezy API failed: 404
 [ERROR] Concentrix: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Early  Warning: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Dematic Corp. (ILD-US): Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Elekta: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Grammarly : Greenhouse API failed: 404
+[ERROR] Empower: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Early  Warning: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Expedia : Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Grammarly : Greenhouse API failed: 404
+[ERROR] f5jobs: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Groq: Greenhouse API failed: 404
 [ERROR] Handshake: Greenhouse API failed: 404
-[ERROR] f5jobs: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Empower: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Dematic Corp. (ILD-US): Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Hubspot: Greenhouse API failed: 404
-[ERROR] flir: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Illumio: Greenhouse API failed: 404
 [ERROR] Jerry: Ashby API failed - HTTP 404: Not Found
-[ERROR] GE Healthcare: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Kikoff: Ashby API failed - HTTP 404: Not Found
 [ERROR] Kobie: Greenhouse API failed: 404
-[ERROR] genpt: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Genesys: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Kodiak Robotics: Lever API failed: https://api.lever.co/v0/postings/kodiak?mode=json - 404
-[ERROR] General Motors LLC: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Intel Corporation: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] GE Healthcare: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] homedepot: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Modernizing Medicine: Greenhouse API failed: 404
 [ERROR] JDA: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] LexisNexis Risk Solutions: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] General Motors LLC: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] genpt: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Modernizing Medicine: Greenhouse API failed: 404
+[ERROR] flir: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Intel Corporation: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Genesys: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Notion: Greenhouse API failed: 404
+[ERROR] LexisNexis Risk Solutions: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] KLA: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Morgan Stanley: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Micron: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] MKSCareersUniversity: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Merck & Co.: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] MOOG: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Micron: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Merck & Co.: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Morgan Stanley: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] MKSCareersUniversity: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Perplexity AI: Greenhouse API failed: 404
-[ERROR] netflix: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Nike: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Plaid : Lever API failed: https://api.lever.co/v0/postings/plaid?mode=json - 404
 [ERROR] Play AI: Ashby API failed - HTTP 404: Not Found
 [ERROR] nVent: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] NVIDIA: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] netflix: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Qumulo: Greenhouse API failed: 404
+[ERROR] Nike: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] NVIDIA: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] NVIDIAExternalCareerSite: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Plaid : Lever API failed: https://api.lever.co/v0/postings/plaid?mode=json - 404
-[ERROR] Otis: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Relativity Space: Greenhouse API failed: 404
 [ERROR] Raptor Maps: Lever API failed: https://api.lever.co/v0/postings/RaptorMaps?mode=json - 404
-[ERROR] Penn Mutual: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Relativity Space: Greenhouse API failed: 404
+[ERROR] Otis: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Replicate: Ashby API failed - HTTP 404: Not Found
-[ERROR] Pluralsight: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Prudential Financial: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Penn Mutual: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Rakuten Marketing LLC: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Pluralsight: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] radian_external: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Rakuten : Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Redfin: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Rakuten Marketing LLC: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] radian_external: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Saronic: Lever API failed: https://api.lever.co/v0/postings/saronic?mode=json - 404
 [ERROR] Remitly: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Robert Half : Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] SabreJobs: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Skydio: Greenhouse API failed: 404
 [ERROR] Root: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] SabreJobs: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Salesforce: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] search: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Sentry : Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] PIP Labs: Lever API failed: https://api.lever.co/v0/postings/piplabs?mode=json - 502
-[ERROR] Snap: Invalid Workday URL
-[ERROR] Shipt : Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Simons Foundation: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Stitch Fix : Greenhouse API failed: 404
 [ERROR] searchLFN: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Stitch Fix : Greenhouse API failed: 404
+[ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
 [ERROR] Strong Holdim: Greenhouse API failed: 404
+[ERROR] Simons Foundation: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Shipt : Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Tandem: Ashby API failed - HTTP 404: Not Found
 [ERROR] TCG Capital: Greenhouse API failed: 404
-[ERROR] Story Protocol: Lever API failed: https://api.lever.co/v0/postings/storyprotocol?mode=json - 404
-[ERROR] Sony AI America Inc: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Snap: Invalid Workday URL
 [ERROR] Solera: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] STANDARD & POOR'S FINANCIAL SERVICE: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] State Street: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Sony AI America Inc: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] TigerGraph : Greenhouse API failed: 404
-[ERROR] The Toro: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] SRK Supplylogix LLC: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] STANDARD & POOR'S FINANCIAL SERVICE: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] TRM labs: Greenhouse API failed: 404
+[ERROR] ThredUp Inc: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] terex: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Tinuiti : Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] The Walt Disney Company: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] The standard: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] TRM labs: Greenhouse API failed: 404
-[ERROR] SRK Supplylogix LLC: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] ThredUp Inc: Workday API failed: HTTP 422 - {"errorCode":"HTTP_422","errorCaseId":"04B6F2MWWCHA7O","httpStatus":422,"message":"","messageParams":{}}
-[ERROR] Tinuiti : Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Vimeo: Greenhouse API failed: 404
+[ERROR] The Toro: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Ticketmaster : Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Saronic: Lever API failed: https://api.lever.co/v0/postings/saronic?mode=json - 404
-[ERROR] USAA: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Travellers: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] WeaveGrid: Greenhouse API failed: 404
-[ERROR] WebAI: Greenhouse API failed: 404
 [ERROR] Tricentis : Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] WeaveGrid: Greenhouse API failed: 404
+[ERROR] Travellers: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] WebAI: Greenhouse API failed: 404
 [ERROR] Whatnot: Greenhouse API failed: 404
+[ERROR] USAA: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Wispr AI: Lever API failed: https://api.lever.co/v0/postings/WisprAI?mode=json - 404
-[ERROR] Voya: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Warner Bros: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Verily: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] VSP: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Voya: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Walmart: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] WEX: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Warner Bros: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Wiley Edge/mthree: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] Workday: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Workiva: Workday API failed: HTTP 429 - <!DOCTYPE html>
-[ERROR] yahoo: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] Workday: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Xylem Services USA LLC: Workday API failed: HTTP 429 - <!DOCTYPE html>
 [ERROR] Zoom: Workday API failed: HTTP 429 - <!DOCTYPE html>
+[ERROR] yahoo: Workday API failed: HTTP 429 - <!DOCTYPE html>
 ERRORS_END
