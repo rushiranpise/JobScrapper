@@ -1,4 +1,2 @@
-company,title,location,postedOn,link
-Voya,Financial Reporting Intern,"Atlanta, GA",Posted 2 Days Ago,https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Atlanta-GA/Financial-Reporting-Intern_JR0033476
-Voya,Quantitative Analyst & Programmer,"New York, NY",Posted 3 Days Ago,https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/New-York-NY/Quantitative-Analyst---Programmer_JR0033471
-Workday,Software Development Engineer (US Federal),USA.VA.Reston,Posted Yesterday,https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0111899
+company,title,location,link,postedOn,updatedOn
+SoFi,Data Scientist,"Cottonwood Heights, Utah, United States, Jacksonville - FL",https://sofi.com/careers/job/8197871003?gh_jid=8197871003,2026-11-26T14:27:51-05:00,2026-11-26T14:27:51-05:00

@@ -4,7 +4,38 @@
 
 ## 📑 Batch Index
 
+- [Batch at 2026-11-26 18:21:44](#batch-2026-11-26-18-21-44)
 - [Batch at 2026-11-26 09:08:25](#batch-2026-11-26-09-08-25)
+
+<h3 id='batch-2026-11-26-18-21-44'>🕐 Batch at 2026-11-26 18:21:44</h3>
+
+📊 **Total jobs in this batch: 1**
+
+**Per company:**
+- SoFi: 1 job
+
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>📍 Location</th>
+      <th>💼 Role</th>
+      <th>🔗 Link</th>
+      <th>📅 Posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>SoFi</b></td>
+      <td>Cottonwood Heights, Utah, United States, Jacksonville - FL</td>
+      <td>Data Scientist</td>
+      <td><a href='https://sofi.com/careers/job/8197871003?gh_jid=8197871003'>Apply</a></td>
+      <td>Nov 26, 2026</td>
+    </tr>
+  </tbody>
+<table>
+
+---
 
 <h3 id='batch-2026-11-26-09-08-25'>🕐 Batch at 2026-11-26 09:08:25</h3>
 
@@ -50,4 +81,3 @@
 <table>
 
 ---
-
